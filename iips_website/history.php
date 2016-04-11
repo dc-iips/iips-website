@@ -23,7 +23,7 @@
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>History</b> </li>
         <li role="presentation" id="colm" class="active" ><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Overview</a></li>
-        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Previous Director</a></li>
+        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Previous Directors</a></li>
       </ul>
     </div>
     <div class="col-md-9">
@@ -50,7 +50,7 @@
             </div>
             
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center"> Previous Director </h3> 
+                <h3 class="text-center"> Previous Directors </h3> 
                 <table class="table table-responsive">
                     <tr> 
                       <th>Directors</th> 
@@ -110,11 +110,7 @@
                     </tr>
                     <tr> 
                       <td>Dr. Anand K. Sapre</td> 
-                      <td>23/02/2013 to 14/10/15</td>  
-                    </tr>
-                    <tr> 
-                      <td>Dr. B.K Tripathi</td> 
-                      <td>14/10/15  to Continue</td>   
+                      <td>23/02/2013 to 14/10/2015</td>  
                     </tr>
                 </table>    
             </div>
