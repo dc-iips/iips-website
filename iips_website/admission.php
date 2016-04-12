@@ -41,17 +41,6 @@
             </div>
             <br/>
 
-            <div class="row">
-                <div class="col-md-4">
-                    <img src="images/cet.jpg" class="img-responsive">
-                </div>
-                <div class="col-md-8 overview-text">
-                    <h3><a href="cet.php">Common Entrance Test</a></h3>
-                    <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
-                </div>
-            </div>
-            <br/>
-
             <div class="row">    
                 <div class="col-md-4">
                     <img src="images/fees.jpg" class="img-responsive">
@@ -66,34 +55,17 @@
         </div>
 
         <div class="col-md-6">
-          <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-4 col-sm-6 col-xs-6">
-              <div class="row">
-                <img src="images/placement.png" class="img-responsive" id="centralized"/>
-              </div>
-              <div class="row text-center">
-                <h3></h3>
-              </div>
-            </div>
-            <div class="col-md-2"></div>
-            <div class="col-md-4 col-sm-6 col-xs-6">
-              <div class="row">
-                <img src="images/faculty.png" class="img-responsive" id="centralized"/>
-              </div>
-              <div class="row text-center">
-                <h3>Faculties</h3>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-12">
-                <div class="embed-responsive embed-responsive-16by9">
-                      <img src="" alt="CET Image" class="img-responsive"/>
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="images/cet.jpg" class="img-responsive">
+                </div>
+                <div class="col-md-8 overview-text">
+                    <h3><a href="cet.php">Common Entrance Test</a></h3>
+                    <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
                 </div>
             </div>
-          </div>
-          
+            <br/>
+            
         </div>    
     </div>
     <br/>
