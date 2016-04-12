@@ -43,17 +43,7 @@
             </div>
             <br/>
 
-            <div class="row">
-                <div class="col-md-4">
-                    <img src="images/placements.jpg" class="img-responsive">
-                </div>
-                <div class="col-md-8 overview-text">
-                    <h3><a href="placement.php">Placements</a></h3>
-                    <p>IIPS has enjoyed excellent placement for all the courses of technical and management students who have graduated so far.</p>
-                </div>
-            </div>
-            <br/>
-
+            
             <div class="row">
                 <div class="col-md-4">
                     <img src="images/news.jpg" class="img-responsive">
@@ -61,6 +51,21 @@
                 <div class="col-md-8 overview-text">
                     <h3><a href="video_channel.php">Video Channels</a></h3>
                     <p>Student and Faculty also run their video channel to share their knowledge with the world. </p>
+                </div>
+            </div>
+            <br/>
+
+           
+        </div>
+
+        <div class="col-md-6">
+            <div class="row">
+                <div class="col-md-4">
+                     <img src="images/placements.jpg" class="img-responsive">
+                </div>
+                <div class="col-md-8 overview-text">
+                    <h3><a href="placement.php">Placements</a></h3>
+                    <p>IIPS has enjoyed excellent placement for all the courses of technical and management students who have graduated so far.</p>
                 </div>
             </div>
             <br/>
@@ -76,17 +81,7 @@
             </div>
             <br/>
 
-        </div>
-
-        <div class="col-md-6">
-          <div class="row">
-            <div class="col-md-12">
-                <div class="embed-responsive embed-responsive-16by9">
-                      <iframe class="embed-responsive-item" src="..."></iframe>
-                </div>
-            </div>
-          </div>
-          <br><br>
+          <br>
         </div>    
     </div>
     <br/>
