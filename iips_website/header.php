@@ -143,7 +143,7 @@
                                             <div class="col-md-5 col-sm-5">
                                                 <div class="col-md-6">
                                                     <li id="link-style"><a href="academics.php">Overview</a></li>
-                                                    <li id="link-style"><a href="programs.php">Programs</a></li>
+                                                    <li id="link-style"><a href="syllabus.php">Syllabus</a></li>
                                                     <li id="link-style"><a href="academic_calendar.php">Academic Calendar</a></li>
                                                     <li id="link-style"><a href="results.php">Results</a></li>
                                                 </div>
