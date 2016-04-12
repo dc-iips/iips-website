@@ -40,7 +40,7 @@
                     <h4>Miscelleanous</h4>
                     <li><a href="faculty_profile.php" >Faculty Profile</a></li>
                     <li><a href="staff_profile.php" >Staff Profile</a></li>
-                    <li><a href="student_verification.php" >Student Verification</a></li>
+                    <li><a href="under_construction.php" >Student Verification</a></li>
                     <li><a href="video_channel.php" >Video Channel</a></li>
                   </ul>                
                 </div>
@@ -49,9 +49,9 @@
                   <ul class="nav">
                     <h4>Downloads</h4>
                     <li><a href="academic_calendar.php" >Academic Calendar</a></li>
-                    <li><a href="downloads.php" >Syllabus</a></li>
-                    <li><a href="downloads.php" >Format</a></li>
-                    <li><a href="downloads.php" >Course PPTs</a></li>
+                    <li><a href="under_construction.php" >Syllabus</a></li>
+                    <li><a href="results.php" >Result </a></li>
+                    <li><a href="under_construction.php" >Course PPTs</a></li>
                   </ul>
                 </div>
                 
