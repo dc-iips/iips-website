@@ -58,8 +58,6 @@
         <th>S.No.</th>
         <th>Company Name</th>
         <th>Courses</th>
-        <th>Offers</th>
-        <th>Package in Lakh PA</th>
       </tr>
     </thead>
     <tbody>
@@ -67,173 +65,120 @@
         <td>1</td>
         <td>L&amp;T</td>
         <td>MBA</td>
-        <td>2</td>
-        <td>3.8</td>
       </tr>
       <tr>
         <td>2</td>
         <td>Naukri.com</td>
         <td>MBA</td>
-        <td>2</td>
-        <td>4.2</td>
       </tr>
       <tr>
         <td>3</td>
         <td>Deloitte US India</td>
         <td>MBA</td>
-        <td>5</td>
-        <td>4.75</td>
       </tr>
       <tr>
         <td>4</td>
         <td>Deloitte Taxation</td>
         <td>MBA</td>
-        <td>4</td>
-        <td>4.75</td>
       </tr>
       <tr>
         <td>5</td>
         <td>Shakti Pumps</td>
         <td>MBA</td>
-        <td>4</td>
-        <td>4</td>
       </tr>
       <tr>
         <td>6</td>
         <td>ICICI Securities Mumbai</td>
         <td>MBA</td>
-        <td>5</td>
-        <td>3.5</td>
       </tr>
       <tr>
         <td>7</td>
         <td>AXIS Bank</td>
         <td>MBA</td>
-        <td>8</td>
-        <td>3.2</td>
       </tr>
       <tr>
         <td>8</td>
         <td>Mahindra Finance</td>
         <td>MBA</td>
-        <td>2</td>
-        <td>4.75</td>
       </tr>
       <tr>
         <td>9</td>
         <td>Colgate</td>
         <td>MBA</td>
-        <td>1</td>
-        <td>5.4</td>
       </tr>
       <tr>
         <td>10</td>
         <td>Nestle</td>
         <td>MBA</td>
-        <td>2</td>
-        <td>3.5</td>
       </tr>
       <tr>
         <td>11</td>
         <td>XL Dynamics</td>
         <td>MBA</td>
-        <td>6</td>
-        <td>3.2</td>
       </tr>
       <tr>
         <td>12</td>
         <td>SBI Life Insurance</td>
         <td>MBA</td>
-        <td>1</td>
-        <td>2.5</td>
       </tr>
       <tr>
         <td>13</td>
         <td>ICICI Securities Hyderabad</td>
         <td>MBA</td>
-        <td>1</td>
-        <td>3</td>
       </tr>
       <tr>
         <td>14</td>
         <td>ICICI Securities Bhopal</td>
         <td>MBA</td>
-        <td>2</td>
-        <td>3</td>
       </tr>
       <tr>
         <td>15</td>
         <td>Impetus</td>
         <td>MBA</td>
-        <td>2</td>
-        <td>3</td>
       </tr>
       <tr>
         <td>16</td>
         <td>Zycus</td>
         <td>MBA</td>
-        <td>0</td>
-        <td>5</td>
       </tr>
       <tr>
         <td>17</td>
         <td>Jaro Education</td>
         <td>MBA</td>
-        <td>2</td>
-        <td>5.4</td>
       </tr>
       <tr>
         <td>18</td>
         <td>LAVA Mobile</td>
         <td>MBA</td>
-        <td>0</td>
-        <td>3.5</td>
       </tr>
       <tr>
         <td>19</td>
         <td>S&amp;P Capital IQ</td>
         <td>MBA</td>
-        <td>0</td>
-        <td>5</td>
       </tr>
       <tr>
         <td>20</td>
         <td>Idea Cellular</td>
         <td>MBA</td>
-        <td>0</td>
-        <td>3.5</td>
       </tr>
       <tr>
         <td>21</td>
         <td>Hathway</td>
         <td>MBA</td>
-        <td>In Process</td>
-        <td>4.5</td>
       </tr>
       <tr>
         <td>22</td>
         <td>Yash Technology</td>
         <td>MBA</td>
-        <td>1</td>
-        <td>2.4</td>
       </tr>
       <tr>
         <td>23</td>
         <td>Bharti Airtel</td>
         <td>MBA</td>
-        <td>3</td>
-        <td>3.3</td>
       </tr>
     </tbody>
   </table></p>
-            <a>Total No. of Offers: 53 (MS 2 YEAR=23, MS 5 YEAR=30)</a>
-            <br>
-            <a>Max. Package Offered: 5.4</a>
-            <br>
-            <a>Avg. Package Offered: 3.8</a>
-            <br>
-            <a>Min. Package Offered: 2.4</a>
-     
+            
      <h3 class="text-center">Technical</h3>
             <p class="text-justify">
               <table class="table table-striped">
@@ -242,8 +187,6 @@
         <th>S.No.</th>
         <th>Company Name</th>
         <th>Courses</th>
-        <th>Offers</th>
-        <th>Package in Lakh PA</th>
       </tr>
     </thead>
     <tbody>
@@ -251,116 +194,79 @@
         <td>1</td>
         <td>Infosys</td>
         <td>MCA/M.Tech</td>
-        <td>15+8=23</td>
-        <td>3.5</td>
       </tr>
       <tr>
         <td>2</td>
         <td>Wipro</td>
         <td>MCA/M.Tech</td>
-        <td>21+0=21</td>
-        <td></td>
       </tr>
       <tr>
         <td>3</td>
         <td>Cognizant</td>
         <td>MCA/M.Tech</td>
-        <td>24+11=35</td>
-        <td>3.1</td>
       </tr>
       <tr>
         <td>4</td>
         <td>Capegimini</td>
         <td>MCA/M.Tech</td>
-        <td>1+2=3</td>
-        <td>3.05</td>
       </tr>
       <tr>
         <td>5</td>
         <td>CSC</td>
         <td>MCA/M.Tech</td>
-        <td>1</td>
-        <td>3.4</td>
       </tr>
       <tr>
         <td>6</td>
         <td>Persistent</td>
         <td>MCA/M.Tech</td>
-        <td>0</td>
-        <td>3.58</td>
       </tr>
       <tr>
         <td>7</td>
         <td>Bloomberg</td>
         <td>MCA/M.Tech</td>
-        <td>0</td>
-        <td></td>
       </tr>
       <tr>
         <td>8</td>
         <td>Cognam</td>
         <td>MCA/M.Tech</td>
-        <td>0</td>
-        <td>3.58</td>
       </tr>
       <tr>
         <td>9</td>
         <td>NEC</td>
         <td>MCA/M.Tech</td>
-        <td>0</td>
-        <td></td>
       </tr>
       <tr>
         <td>10</td>
         <td>Hotwax</td>
         <td>MCA/M.Tech</td>
-        <td>0</td>
-        <td></td>
       </tr>
       <tr>
         <td>11</td>
         <td>TekLink</td>
         <td>MCA/M.Tech</td>
-        <td>0</td>
-        <td></td>
       </tr>
       <tr>
         <td>12</td>
         <td>Mahindra Comviva</td>
         <td>MCA</td>
-        <td>1</td>
-        <td>3.5</td>
       </tr>
       <tr>
         <td>13</td>
         <td>Infogain</td>
         <td>MCA/M.Tech</td>
-        <td>1+1=2</td>
-        <td>3.5-4</td>
       </tr>
       <tr>
         <td>14</td>
         <td>Diaspark</td>
         <td>MCA</td>
-        <td>In Process</td>
-        <td>2</td>
       </tr>
       <tr>
         <td>15</td>
         <td>Amdocs</td>
         <td>MCA/M.Tech</td>
-        <td>1</td>
-        <td>3.5</td>
       </tr>
     </tbody>
   </table></p>
-            <a>Total No. of Offers: 86 (M.Tech=23, MCA=64)</a>
-            <br>
-            <a>Max. Package Offered: 3.58</a>
-            <br>
-            <a>Avg. Package Offered: 3.21</a>
-            <br>
-            <a>Min. Package Offered: 2</a>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
