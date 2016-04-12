@@ -45,17 +45,6 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/publication.jpg" class="img-responsive">
-                </div>
-                <div class="col-md-8 overview-text">
-                    <h3><a href="publication.php">Publications</a></h3>
-                    <p>Published reports are a necessary step in the dialogue with other scientists about the approach and significance of research studies. </p>
-                </div>
-            </div>
-            <br/>
-
-            <div class="row">
-                <div class="col-md-4">
                     <img src="images/news.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
@@ -67,14 +56,17 @@
         </div>
 
         <div class="col-md-6">
-          <div class="row">
-            <div class="col-md-12">
-                <div class="embed-responsive embed-responsive-16by9">
-                      <iframe class="embed-responsive-item" src="..."></iframe>
+           <div class="row">
+                <div class="col-md-4">
+                    <img src="images/publication.jpg" class="img-responsive">
+                </div>
+                <div class="col-md-8 overview-text">
+                    <h3><a href="publication.php">Publications</a></h3>
+                    <p>Published reports are a necessary step in the dialogue with other scientists about the approach and significance of research studies. </p>
                 </div>
             </div>
-          </div>
-          <br><br>
+            <br/>
+          <br>
         </div>    
     </div>
     <br/>
