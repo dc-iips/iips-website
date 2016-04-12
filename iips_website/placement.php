@@ -367,7 +367,7 @@
             <h3 class="text-center">Technical Companies</h3>
             <img src="" class="img-responsive"/>
             <img src="images/technical_logo.jpg" class="img-responsive">
-            <h3 class="text-center">Management Companies</h3>
+            <h3 class="text-center">Management Company</h3>
             <img src="images/management_logo.jpg" class="img-responsive">
         </div>
       </div>
