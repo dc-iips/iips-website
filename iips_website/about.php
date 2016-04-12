@@ -42,17 +42,6 @@
             </div>
             <br/>
 
-            <div class="row">    
-                <div class="col-md-4">
-                    <img src="images/university.jpg" class="img-responsive">
-                </div>
-                <div class="col-md-8 overview-text">
-                    <h3><a href="about_university.php">About University</a></h3>
-                    <p>IIPS is famous in DAVV for its awesome infrastructure. The IIPS has Globe, CV and 24*7 wifi campus.</p>
-                </div>
-            </div>
-            <br/>
-
             <div class="row">
                 <div class="col-md-4">
                     <img src="images/image1.jpg" class="img-responsive">
@@ -69,53 +58,37 @@
                   <img src="images/image1.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
-                  <h3><a href="about_iips.php">About IIPS</a></h3>
-                  <p>IIPS is famous in DAVV for its awesome infrastructure. The IIPS has Globe, CV and 24*7 wifi campus.</p>
-                </div>
-            </div>
-            <br/>
-
-            <div class="row">
-                <div class="col-md-4">
-                  <img src="images/image1.jpg" class="img-responsive">
-                </div>
-                <div class="col-md-8 overview-text">
                   <h3><a href="reach_us.php">Reach Us</a></h3>
                   <p>Click on a location on the map to view its details. Or, choose a building, road or point of interest by name from the menus below.</p>
                 </div>
             </div>
         </div>
 
-        <div class="col-md-6">
-          <div class="row">
-            <div class="col-md-12">
-                <div class="embed-responsive embed-responsive-16by9">
-                      <iframe class="embed-responsive-item" src="..."></iframe>
+        <div class="col-md-6"> 
+            <div class="row">    
+                <div class="col-md-4">
+                    <img src="images/university.jpg" class="img-responsive">
+                </div>
+                <div class="col-md-8 overview-text">
+                    <h3><a href="about_university.php">About University</a></h3>
+                    <p>IIPS is famous in DAVV for its awesome infrastructure. The IIPS has Globe, CV and 24*7 wifi campus.</p>
+                </div>
+            </div>  
+            <br/>
+ 
+            <div class="row">
+                <div class="col-md-4">
+                  <img src="images/image1.jpg" class="img-responsive">
+                </div>
+                <div class="col-md-8 overview-text">
+                  <h3><a href="about_iips.php">About IIPS</a></h3>
+                  <p>IIPS is famous in DAVV for its awesome infrastructure. The IIPS has Globe, CV and 24*7 wifi campus.</p>
                 </div>
             </div>
-          </div>
-          <br><br>
-          <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-4 col-sm-6 col-xs-6">
-              <div class="row">
-                <img src="images/students.png" class="img-responsive" id="centralized"/>
-              </div>
-              <div class="row text-center">
-                <h3>Faculties</h3>
-              </div>
-            </div>
-            <div class="col-md-2"></div>
-            <div class="col-md-4 col-sm-6 col-xs-6">
-              <div class="row">
-                <img src="images/student.png" class="img-responsive" id="centralized"/>
-              </div>
-              <div class="row text-center">
-                <h3>Student</h3>
-              </div>
-            </div>
-          </div>
-        </div>    
+            <br/>
+
+        </div>
+
     </div>
     <br/>
     <?php include 'footer.php';?>
