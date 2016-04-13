@@ -2,7 +2,7 @@
       <div class="container" id="i13">
         <div class="row">
           <div class="col-md-6">
-            <a href=""><img src="images/iips_logo2.png" id="logo"></a><br><br><br>
+            <a href="index.php"><img src="images/iips_logo2.png" id="logo"></a><br><br><br>
             <a href=""><span class="fa fa-facebook fa-15x faa-tada animated-hover faa-fast" id="i14"></span></a>
             <a href=""><span class="fa fa-twitter fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
             <a href=""><span class="fa fa-linkedin fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
