@@ -18,7 +18,7 @@
                     <li><a href="fee_structure.php" >Fees Structure</a></li>
                     <li><a href="cet.php">CET</a></li>
                     <li><a href="cet.php" >Eligibility</a></li>
-                    <li><a href="cet.php" >Counseling</a></li>
+                    <li><a href="cet.php" >Counselling</a></li>
                     <li><a href="cet.php" >Apply</a></li>
                   </ul>
                 </div>
@@ -37,7 +37,7 @@
 
                 <div class="col-md-3 col-sm-3 col-xs-6">
                   <ul class="nav">
-                    <h4>Miscelleanous</h4>
+                    <h4>Miscellaneous</h4>
                     <li><a href="faculty_profile.php" >Faculty Profile</a></li>
                     <li><a href="staff_profile.php" >Staff Profile</a></li>
                     <li><a href="under_construction.php" >Student Verification</a></li>
@@ -65,7 +65,7 @@
             </div>
             <div class="col-md-6"></div>
             <div class="col-md-2">
-                <a href="developers.php" style="color:#AEAE91;">About Developers</a>
+                <a href="developers.php" style="color:#AEAEAE;">About Developers</a>
             </div>          
         </div>
       </div>
