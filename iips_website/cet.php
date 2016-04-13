@@ -44,7 +44,7 @@
                   <p> The admission is done as per the state government norms and rules .Admission is done by merit and the admissions are done by keeping the reservation policy in view. </p> <br>
 
                   <h4><u><b> Student profile analysis </b></u></h4>
-                  <p> For the undergraduate courses, minimum requirement is 50% in 12th standard, whereas for the post graduate courses, the student’s eligibility is 50% at graduate level for general category and the SC/St/OBC category gets 10% relaxation. For the undergraduate courses, maximum age limit is 22 years and for the post graduate courses it is 27 years. No age limit is there for the female candidates. Relaxation in age for the SC/ST/OBC/PH candidates is 3 years. </p> <br><br>
+                  <p> For the undergraduate courses, minimum requirement is 50% in 12th standard, whereas for the post graduate courses, the student’s eligibility is 50% at graduate level for general category and the SC/St/OBC category gets 10% relaxation. For the undergraduate courses, maximum age limit is 22 years and for the post graduate courses it is 27 years. No age limit is there for the female candidates. Relaxation in age for the SC/ST/OBC/PH candidates is 3 years. </p> <br>
 
                   <h4><u><b> Strategies adopted to increase/improve access for students belonging to the following categories </b></u></h4>
                   <p> SC/ST, OBC, Women, Persons with varied disabilities, Economically weaker sections, Outstanding achievers in sports and other extracurricular activities. </p> <br>
@@ -106,10 +106,9 @@
                     <li class="text-justify"> If the candidate has no parents or near relatives or taken as a ward by some other nearest relative such candidate may also be considered for admission provided the the guardian has bonafide treated the candidate as a ward and such guardian shall file an affidavit indicating the interest shown in the education affairs of the candidate and also his relationship with the candidate and such person also should be a non-resident Indian and ordinarily residing abroad. </li> <br> 
 
                     The candidate seeking admission against NRI seats shall be eligible for admission without entrance test. Such candidates should fulfill the eligibility requirements of the concerned programme with at least 45% marks in aggregate in the qualifying examination. Such candidate should apply online through www.mponline.nic.in. <br><br>
+                    The candidates seeking admission against NRI seats shall be eligible for admission without the Entrance Test. Such candidates should fulfill the eligibility requirements for the concerned programme with atleast 45% marks in aggregate in the qualifying examination. Such candidates should apply to the "Chairperson Admission Committee, Institute of Management Studies, Takshshila Campus, Khandwa Road, DAVV, Indore", separately along with the following documents :<br>
 
-                    The candidates seeking admission against NRI seats shall be eligible for admission without the Entrance Test. Such candidates should fulfill the eligibility requirements for the concerned programme with atleast 45% marks in aggregate in the qualifying examination. Such candidates should apply to the "Chairperson Admission Committee, Institute of Management Studies, Takshshila Campus, Khandwa Road, DAVV, Indore", separately along with the following documents : <br>
-
-                    <li class="text-justify"> DD of Rs. 5000/- or US$ 100 in favour of Registrar, DAVV, Indore. </li>
+                    <li class="text-justify"> DD of Rs. 5000/- or US $100 in favour of Registrar, DAVV, Indore. </li>
                     <li class="text-justify"> Photocopy of mark sheet of the qualifying examination. </li>
                     <li class="text-justify"> Eligibility certificate from the University. </li>
                     <li class="text-justify"> Certificate issued by Indian Diplomatic Mission or Chancellor or Commission abroad under their seal stating that the father/parent of the applicant is an Indian resident in that country. </li> <br><br>
@@ -162,7 +161,7 @@
                       <li class="text-justify"> English Language Comprehension </li>
                       <li class="text-justify"> General Awareness and Awareness of Socio-economic environment </li>
 
-                     2 .The Test for Group C, shall include total 75 question of which 15 questions will be from English and 20 questions each from Physics, Mathematics/Biology/Bio Technology and Chemistry.
+                     2. The Test for Group C, shall include total 75 question of which 15 questions will be from English and 20 questions each from Physics, Mathematics/Biology/Bio Technology and Chemistry.
                       In the Test for Group C, choice to candidate will be as follows :  <br>
                       
                       <li class="text-justify"> B. Pharm.: English, Physics, Mathematics/Biology/Bio Technology, Chemistry </li>
@@ -233,19 +232,19 @@
               8. Income Certificate for SC/ST/OBC (excluding creamy layer) candidate. Original + 1 Photocopy (Self Attested) <br><br>
               9. J.K. Migrant / J.K. Resident Certificate Original (For Verification) + 1 Photocopy (Self Attested) <br><br>
               10. M.P. Domicile Certificate Original (For Verification) + 1 Photocopy (Self Attested) <br><br>
-              11 Affidavits for Gap in studies (if applicable) Original + 1 Photocopy (Self Attested) <br><br> </p> <br>
+              11. Affidavits for Gap in studies (if applicable) Original + 1 Photocopy (Self Attested) <br><br> </p> <br>
         </div>
         <div role="tabpanel" class="tab-pane" id="tab4">
             <h3 class="text-center"><b>Other Important Points</b></h3>
             <h4><u><b>  Refund of Fee  </b></u></h4>
-              <p> 1.If any candidate leaves the course before the last counseling day the fee will be returned to him/her after deducting 10% of the fees deposited by him/her. Only caution money will be refunded if a candidate leaves any course after the said date. <br>
+              <p> 1.If any candidate leaves the course before the last counselling day the fee will be returned to him/her after deducting 10% of the fees deposited by him/her. Only caution money will be refunded if a candidate leaves any course after the said date. <br>
               2.In cases where candidates have fetched an undertaking to the effect that their admission may be deemed cancelled in case they fail to produce their result of qualifying examination with required eligibility percentages by the date decided by college, there will be no refund of fee deposited. <br>
               3.Where a provisionally admitted student is declared fail, his/her fee deposited will be refunded after deducting 10% of the fees deposited by him/her. </p> <br>
               <h4><u><b> Other Points </b></u></h4>
                 <li class="text-justify"> Any situation, not covered by provisions mentioned in this guideline shall be referred to the Organizing Committee which will work within the ambit of Act, Statutes and Ordinances of Devi Ahilya University, Indore and its decision shall be final. </li> 
-                <li class="text-justify"> he legal disputes, if any, shall be settled in the within the legal jurisdiction of Indore. </li>
+                <li class="text-justify"> He legal disputes, if any, shall be settled in the within the legal jurisdiction of Indore. </li>
                 <li class="text-justify"> Ragging, teasing, torturing or making nuisance in any way inside or outside the campus has been declared as a serious offence and strict action shall be taken against those who will be found involved in such activities. </li>
-                <li class="text-justify"> if any incident of ragging comes to the notice of the University, the concerned student shall be given liberty to explain and if his/her explanation is not found satisfactory, the University would expel him/her from the institution. </li>
+                <li class="text-justify"> If any incident of ragging comes to the notice of the University, the concerned student shall be given liberty to explain and if his/her explanation is not found satisfactory, the University would expel him/her from the institution. </li>
                 <li class="text-justify"> In case it comes to the notice that an applicant was able to secure admission based on forged certificate/s or by furnishing wrong information, willingly concealing adverse facts or due to administrative or official negligence, his/her admission will be cancelled immediately. </li>
                 <li class="text-justify"> If a student, after taking regular admission, fails to maintain 75% of the attendance for each subject in the course will not be eligible to appear in tests/final exam.  </li> <br>
                 <h4><u><b> Hostel Accommodation</b></u></h4>
@@ -253,7 +252,7 @@
                  <h4> NOTE : </h4> <i>
                   1. Fees is subject to change as per University guidelines.  <br>
                   2. If the student reappears in an examination, a fee of Rs.200/- per subject (Maximum Rs.1000/- per semester) shall be payable.  <br>
-                  3. For NRI/ FN/ PIO Candidates, A fee of US$3150 Per Annum shall be payable on yearly basis. They will have to pay a refundable deposit of US$1500 once at the time of admission. </i> <br> <br>
+                  3. For NRI/ FN/ PIO Candidates, A fee of US $3150 Per Annum shall be payable on yearly basis. They will have to pay a refundable deposit of US$1500 once at the time of admission. </i> <br> <br>
         </div>
         </div>
     </div>
