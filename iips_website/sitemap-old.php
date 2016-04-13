@@ -20,11 +20,11 @@
 <!--Header Close-->
 <!-- Sidebar Open-->
 <div class="container">
-  <div class="row ">
+  <div class="row text-center">
     <div class="col-md-12" id="sidebar">
       <h2 class="text-center"><b>Sitemap</b></h2>
         <div class="row">
-      <div class="col-md-3 col-sm-3 text-right">
+      <div class="col-md-4 col-sm-4">
           <h3>About</h3><hr>
           <p><a href="about.php">Overview</a></p>
           <p><a href="about_university.php">About university</a></p>      
@@ -33,16 +33,14 @@
           <p><a href="about_iips.php">About IIPS</a></p>
           <p><a href="reach_us.php">Reach Us</a></p>
       </div>
-      <div class="col-md-1"></div>
-      <div class="col-md-4 col-sm-4 text-center">
+      <div class="col-md-4 col-sm-4">
           <h3>Admission</h3><hr>
           <p><a href="admission.php">Overview</a></p>
           <p><a href="courses.php">Courses</a></p>
           <p><a href="fee_structure.php">Fee Structure</a></p>
           <p><a href="cet.php">Commen Entrance Test</a></p>         
       </div>
-      <div class="col-md-1"></div>
-      <div class="col-md-3 col-sm-3 text-left">
+      <div class="col-md-4 col-sm-4">
           <h3>Academic</h3><hr>
           <p><a href="academics.php">Overview</a></p>
           <p><a href="programs.php">Programs</a></p>
@@ -54,24 +52,21 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-5 col-sm-5 text-right">
-        <span >
+      <div class="col-md-4 col-sm-4">
           <h3>Research</h3><hr>
           <p><a href="research.php">Overview</a></p>
           <p><a href="development_center.php">Development Center</a></p>
           <p><a href="publication.php">Publications</a></p>
-          <p><a href="research_center.php">Research Center</a></p></span>
-    </div>
-         <div class="col-md-2"></div> 
-         <div class="col-md-5 col-sm-5 text-left">
+          <p><a href="research_center.php">Research Center</a></p>
+      </div>
+      <div class="col-md-4 col-sm-4">
           <h3>Campus Life</h3><hr>
           <p><a href="campus_life.php">Overview</a></p>
           <p><a href="event.php">Events and Attractions</a></p>
           <p><a href="placement.php">Placements</a></p>
           <p><a href="video_channel.php">Video Channel</a></p>
-          <p><a href="gallery.php">Gallery</a></p></span>
+          <p><a href="gallery.php">Gallery</a></p>
       </div>
-
     </div>
 
     </div>

@@ -2,7 +2,7 @@
 <footer id="site-footer">
       <div class="container" id="i13">
         <div class="row">
-          <div class="col-md-6">
+          <div class="col-md-5">
             <a href="index.php"><img src="images/iips_logo2.png" id="logo"></a><br><br><br>
             <a href=""><span class="fa fa-facebook fa-15x faa-tada animated-hover faa-fast" id="i14"></span></a>
             <a href=""><span class="fa fa-twitter fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
@@ -11,7 +11,7 @@
             <a href=""><span class="fa fa-instagram fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
             <br><br>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-7">
               <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-6">
                   <ul class="nav">
@@ -26,8 +26,8 @@
                           
                 <div class="col-md-3 col-sm-3 col-xs-6">
                   <ul class="nav">
-                    <!--<h4 class="visible-xs visible-sm hidden-md" id="i17">RTI</h4>-->
-                    <h4 class="text-center">RTI</h4>
+                    <h4 class="visible-xs visible-sm">RTI</h4>
+                    <h4 class="visible-md visible-lg" style="padding-left:10%">RTI</h4>
                     <li><a href="press_release.php" >Press Release</a></li>
                     <li><a href="iqac.php" >IQAC</a></li>
                     <li><a href="press_release.php" >Ordinances</a></li>

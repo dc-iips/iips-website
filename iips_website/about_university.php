@@ -62,29 +62,17 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">Vice Chancellor </h3>
+            <h3 class="text-center">Hon'ble Vice-Chancellor </h3>
+             <center><img src="images/Vice Chancellor.jpg" class="img-rounded" alt="Photo Vice Chancellor" width="15%" height="15%">
+               <a href="" style="text-decoration:none"> <h6>Prof. (Dr.) Ashutosh Mishra</h6>
+                <h6>( Vice-Chancellor) </h6></a>
+             </center>
             <p class="text-justify">
-                "Devi Ahilya Vishwavidyalaya is very proud of the fact that, for the last many years, it has been looked upon as
-                the leader and trend setter in higher education in the state of Madhya Pradesh. This has been possible due to the
-                vision &amp; commitment exhibited by our personnel &amp; students. DAVV's strategies &amp; policies are exquisitely
-                designed to build a platform for the nation's young citizens to enhance their potential &amp; enrich their 
-                capabilities. The university endeavors to adopt new learning methodologies to impart extensive, multidimensional 
-                &amp; specialized knowledge to enable the future professionals to keep abreast with the changing of the industry 
-                globally. "
-            </p>
-            <p class="text-justify">
-                International Institute of Professional Studies (IIPS) is a University Teaching Department (U.T.D) of DAVV. 
-                The institute has completed 16 glorious years of service, during which it has established itself as a brand name.
-                It has been acknowledged as a premium B-School in imparting education in the field of management &amp; computer 
-                science and is well known for its creativity &amp; competence. Further, greater emphasis is being laid on 
-                excellence in research &amp; development in various disciplines. To fulfill these goals, the university has taken 
-                appropriate steps to modernize the existing infrastructure. IIPS aims at providing an enriching ambience &amp; 
-                learning activities to all its students to hone their business acumen, leading to their all round development. 
-                The technical knowledge is made available in a way that students understand the basic principles &amp; apply them 
-                to various real life situations. Students &amp; teachers enter into an interactive session in the class leading to 
-                a mutual understanding &amp; problem solving technique. IIPS culture is centered on the principle of 
-                "DIYO YO NA PRACHODYAT", saying that activity &amp; wisdom in our minds must be directed towards the epitome of 
-                humanity &amp; success. On behalf of the DAVV family, I look forward to welcome you here.
+                Dr. Ashutosh Mishra Professor in Physics and he did his M. Sc. in 1981 and Ph.D. in X-ray spectroscopy in 1987 from Vikram University Ujjain. 
+                Dr. Mishra joined School of Physics, Devi Ahilya Vishwavidyalaya [DAVV], Indore in 1993. He has published more than one hundred fifty research papers in International/National journals and successfully supervised 24 students for their Ph.D. work and also supervised twenty M. Phil. students 
+                He has made many presentations in national and international conferences/symposia. He had already completed four research projects supported by funding agencies like M.P. 
+                Council of Science and Technology, Bhopal and University Grants Commission, Delhi. Dr. Mishra’ research work has been cited in Bibliography in X-ray Spectra and Chemical binding Edited by A. Miesel et al. (Springer-Verlag 1989). Dr. A. Mishra served as Vice Chancellor, Devi Ahilya University, Indore from 29th March 2010 to 29th June 2010 and also as Rector, Devi Ahilya University, Indore from 30th June 2010 to 21st May 2011. Organized two international conference in 2012 & 2014 as Convener namely International Conference on Recent Trends in Physics ‘ICRTP 2012’ 4 – 5 February 2012, ICRTP-2014] 22-23 February 2014 School of Physics, Devi Ahilya University, Indore – 452 001, India. He was one of the Guest Editors from the Journal of Physics: Conference Series 365 (2012, 2014) International Conference on Recent Trends in Physics (ICRTP 2012, ICRTP 2014).
+                 IOP Publishing 011001 doi:10.1088/1742-6596/365/1/011001.
             </p>
         </div>
 
