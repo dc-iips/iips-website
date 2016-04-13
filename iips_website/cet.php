@@ -22,50 +22,39 @@
   <div class="row">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
-        <li class="navbar-brand"> <b>Common Enterance Test</b> </li>
+        <li class="navbar-brand"> <b>Common Entrance Test</b> </li>
         <li role="presentation" id="colm" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;CET(Common Entrance Test)</a></li>
-        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;ELIGIBILITY</a></li>
-        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;COUNSELING </a></li>
-        <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;OTHER IMPORTANT POINTS </a></li>
+        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Eligibility</a></li>
+        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Counselling </a></li>
+        <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Other Important Points</a></li>
       </ul>
     </div>
     <div class="col-md-9">
         <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-                  <h4><u><b> CET(Common Entrance Test) </b></u></h4>
+                  <h3 class="text-center"><b>CET (Common Entrance Test) </b></h3>
                    <p class="text-justify">
                    Copy of advertisements info for ensuring publicity and transparency in the admission process is available on website, A common advertisement is prepared and released by the university, DAVV, Indore for the courses that are covered under Common Entrance Test. Every year common entrance test (CET) is conducted in the month of JUNE for various courses at Graduate and post graduate level. The students from all over India apply to get admission through this exam. In this written exam the student’s general aptitude, language knowledge and mathematical ability is tested. The paper is of two hours. After the written exam, a merit list is prepared on all India basis and then the students are called for the counseling session wherein the course wise seats are filled on the basis of merit. 
                    </p><br>
                   
                   <h4><u><b> List of the criteria for admission </b></u></h4>
-                   (i) merit, (ii) merit with entrance test, (iii) merit, entrance test and interview, (iv) common entrance test conducted by state agencies and national agencies (v) other criteria followed Common entrance test conducted by Devi Ahilya Vishwavidyalaya, Indore for 6 courses except MBA (MS) 2 yrs programme where the admissions are done by MPMET conducted at Bhopal. <br><br>
+                   (i) Merit, (ii) Merit with entrance test, (iii) Merit, entrance test and interview, (iv) Common entrance test conducted by state agencies and national agencies (v) other criteria followed Common entrance test conducted by Devi Ahilya Vishwavidyalaya, Indore for 6 courses except MBA (MS) 2 yrs programme where the admissions are done by MPMET conducted at Bhopal. <br><br>
 
                   <h4><u><b> Details of admission process in the affiliated colleges if department is monitoring the same </b></u></h4>
                   <p> The admission is done as per the state government norms and rules .Admission is done by merit and the admissions are done by keeping the reservation policy in view. </p> <br>
 
                   <h4><u><b> Student profile analysis </b></u></h4>
-                  <p> For the undergraduate courses, minimum requirement is 50% in 12th standard, whereas for the post graduate courses, the student’s eligibility is 50% at graduate level for general category and the SC/St/OBC category gets 10% relaxation. For the undergraduate courses, maximum age limit is 22 years and for the post graduate courses it is 27 years. No age limit is there for the female candidates. Relaxation in age for the SC/ST/OBC/PH candidates is 3 years. </p> <br><br>
+                  <p> For the undergraduate courses, minimum requirement is 50% in 12th standard, whereas for the post graduate courses, the student’s eligibility is 50% at graduate level for general category and the SC/St/OBC category gets 10% relaxation. For the undergraduate courses, maximum age limit is 22 years and for the post graduate courses it is 27 years. No age limit is there for the female candidates. Relaxation in age for the SC/ST/OBC/PH candidates is 3 years. </p> <br>
 
                   <h4><u><b> Strategies adopted to increase/improve access for students belonging to the following categories </b></u></h4>
-                  <p> SC/ST  OBC  Women  Persons with varied disabilities  Economically weaker sections  Outstanding achievers in sports and other extracurricular activities. </p> <br>
+                  <p> SC/ST, OBC, Women, Persons with varied disabilities, Economically weaker sections, Outstanding achievers in sports and other extracurricular activities. </p> <br>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-                  <h4><u><b> List of the criteria for admission </b></u></h4>
-                  (i) merit, (ii) merit with entrance test, (iii) merit, entrance test and interview, (iv) common entrance test conducted by state agencies and national agencies (v) other criteria followed Common entrance test conducted by Devi Ahilya Vishwavidyalaya, Indore for 6 courses except MBA (MS) 2 yrs programme where the admissions are done by MPMET conducted at Bhopal. <br><br>
-
-                  <h4><u><b> Details of admission process in the affiliated colleges if department is monitoring the same </b></u></h4>
-                  <p class="text-justify"> The admission is done as per the state government norms and rules .Admission is done by merit and the admissions are done by keeping the reservation policy in view. </p> <br>
-
-                  <h4><u><b> Student profile analysis </b></u></h4>
-                  <p class="text-justify"> For the undergraduate courses, minimum requirement is 50% in 12th standard, whereas for the post graduate courses, the student’s eligibility is 50% at graduate level for general category and the SC/St/OBC category gets 10% relaxation. For the undergraduate courses, maximum age limit is 22 years and for the post graduate courses it is 27 years. No age limit is there for the female candidates. Relaxation in age for the SC/ST/OBC/PH candidates is 3 years. </p> <br><br>
-
-                  <h4><u><b> Strategies adopted to increase/improve access for students belonging to the following categories </b></u></h4>
-                  <p class="text-justify"> SC/ST  OBC  Women  Persons with varied disabilities  Economically weaker sections  Outstanding achievers in sports and other extracurricular activities. </p> <br>
-
+                  <h3 class="text-center"><b>Eligibility</b></h3>
                   <h4><u><b> Minimum Percentage for Admissions and Eligibility for Appearing in Entrance Test </b></u></h4>
                   <li class="text-justify">
-                    Minimum percentage and admission criteria for admission to courses being offered by the University are mentioned in the table 1 & 2 of this document. A relaxation of 5% in the eligibility criteria shall be admissible to the bonafide SC/ST applicants of Madhya Pradesh only. A relaxation of 5% in eligibility will also be applicable to Physically Challenged (Nishaktjan) as defined by M.P. Government.<br>
+                    Minimum percentage and admission criteria for admission to courses being offered by the University are mentioned in the table 1 &amp; 2 of this document. A relaxation of 5% in the eligibility criteria shall be admissible to the bonafide SC/ST applicants of Madhya Pradesh only. A relaxation of 5% in eligibility will also be applicable to Physically Challenged (Nishaktjan) as defined by M.P. Government.<br>
                   </li>
                   
                   <li class="text-justify">
@@ -80,16 +69,16 @@
                      Fresh admission will be given only in first semester / first year of the course. <br>
                   </li> <br>
 
-                  <h4><u><b> AGE LIMIT </b></u></h4>
+                  <h4><u><b> Age Limit </b></u></h4>
                   <p class="text-justify"> As per the government rules the upper age limit for admission to undergraduate courses is 22 years whereas for postgraduate degree courses it is 27 years as on July 01, of the examination year. And 25 and 30 years respectively for SC / ST / OBC and physically handicapped candidate shall be provided for the applicants of Madhya Pradesh only. For candidate belonging to physically challenged category upper age limit for admission to Graduate and Post Graduate classes will be 30 and 35 years, respectively. There is no upper age limit for female, MBA (HA 2 yrs) and LL.M. candidates. For B.A. LL.B. course, upper age limit is 20 yrs for general category and 22 yrs. For SC/ ST/ OBC. </p> <br>
 
-                  <h4><u><b> NON ELIGIBILITY FOR ADMISSIONNON </b></u></h4>
+                  <h4><u><b> Non Eligibility For Admission </b></u></h4>
                   <li class="text-justify"> If the age is more than the requisite age. </li>
                   <li class="text-justify"> Applicants who are already holding a Master’s degree from a faculty shall not be eligible for the admission to a programme at same level in the same faculty as a regular candidate. Furthermore, a candidate, who has taken admission earlier in any course but left the course in between, due to whatever reason/s, will not be given regular admission in the same course. </li>
                   <li class="text-justify"> An applicant convicted by the court of law in India or outside or one against whom cases are being tried in the court/s or challan has been presented or have verifiable allegations against them concerning misbehavior/beating of students/officers/employees or a person against whom disciplinary action has been taken by Devi Ahilya University or any other University shall not be eligible for admission. </li>
                   <li class="text-justify"> A full time government employee/non-government employee cannot take admission in courses run during working hours. However, they can take admission in courses run after regular working hours. For the same they will have to produce a No Objection Certificate (NOC) from their employer. </li> <br>
 
-                  <h4><u><b> ADMISSION TO N.R.I AND PIO / FOREIGN NATIONALS </b></u></h4>
+                  <h4><u><b> Admission to N.R.I and PIO / Foreign Nationals </b></u></h4>
                   <p class="text-justify"> A. Foreign Nationals / Person of Indian Origin (PIO) : (a) Foreign Nationals : Citizen of all countries other than who are not of India origin as defined under PIO. Foreign student in this context shall be defined as the student who possesses the foreign passport.  <br>
                     (b) “PIO” means Persons of Indian Origin : PIOs are such persons who are citizens of other countries (except Pakistan and Bangladesh) who at any time held an Indian Passport, or who or either of his / her parents or any of his / her grandparents was a citizen of India by virtue of the provisions of the Constitution of India or Sec 2(b) of Citizenship Act, 1955. (Act No. 57 of 1955). <br><br>
 
@@ -117,15 +106,14 @@
                     <li class="text-justify"> If the candidate has no parents or near relatives or taken as a ward by some other nearest relative such candidate may also be considered for admission provided the the guardian has bonafide treated the candidate as a ward and such guardian shall file an affidavit indicating the interest shown in the education affairs of the candidate and also his relationship with the candidate and such person also should be a non-resident Indian and ordinarily residing abroad. </li> <br> 
 
                     The candidate seeking admission against NRI seats shall be eligible for admission without entrance test. Such candidates should fulfill the eligibility requirements of the concerned programme with at least 45% marks in aggregate in the qualifying examination. Such candidate should apply online through www.mponline.nic.in. <br><br>
+                    The candidates seeking admission against NRI seats shall be eligible for admission without the Entrance Test. Such candidates should fulfill the eligibility requirements for the concerned programme with atleast 45% marks in aggregate in the qualifying examination. Such candidates should apply to the "Chairperson Admission Committee, Institute of Management Studies, Takshshila Campus, Khandwa Road, DAVV, Indore", separately along with the following documents :<br>
 
-                    The candidates seeking admission against NRI seats shall be eligible for admission without the Entrance Test. Such candidates should fulfill the eligibility requirements for the concerned programme with atleast 45% marks in aggregate in the qualifying examination. Such candidates should apply to the "Chairperson Admission Committee, Institute of Management Studies, Takshshila Campus, Khandwa Road, DAVV, Indore", separately along with the following documents : <br>
-
-                    <li class="text-justify"> DD of Rs. 5000/- or US$ 100 in favour of Registrar, DAVV, Indore. </li>
+                    <li class="text-justify"> DD of Rs. 5000/- or US $100 in favour of Registrar, DAVV, Indore. </li>
                     <li class="text-justify"> Photocopy of mark sheet of the qualifying examination. </li>
                     <li class="text-justify"> Eligibility certificate from the University. </li>
                     <li class="text-justify"> Certificate issued by Indian Diplomatic Mission or Chancellor or Commission abroad under their seal stating that the father/parent of the applicant is an Indian resident in that country. </li> <br><br>
              
-                  <h4><u><b> RESERVATION POLICY AND CONVERSION OF SEATS </b></u></h4> <br>
+                  <h4><u><b> Reservation Policy and Conversion Of Seats</b></u></h4> <br>
                  
                     <li class="text-justify"> Reservation of seats in courses offered by the University will be in accordance with the policy of Madhya Pradesh Government. The benefit of reservation will be available, only to the domiciles of Madhya Pradesh. </li> 
 
@@ -160,7 +148,7 @@
 
                     <li class="text-justify"> J &amp; K Resident Quota: One seat in each programme shall be reserved on over and above basis for residents of Jammu & Kashmir. The candidates seeking admission against these reserved seats shall be required to appear in Common Entrance Test conducted by University and submit appropriate certificate issued by the competent authority at the time of counseling. This reservation shall be over and above the sanctioned intake. </li> <br>
               
-                  <h4><u><b> ENTRANCE TEST </b></u></h4>
+                  <h4><u><b> Entrance Test </b></u></h4>
 
                      <h4><b>  Courses After 10+2 </b> </h4>
                       <p> The papers will have objective type questions, having choices a, b, c, d and e each. The response sheet should be carefully filled up by the candidate as instructed on the question-paper booklet. The written test papers will be in English. The candidate can opt for all the groups test, if eligible. The test timings will be different. </p> <br>
@@ -173,7 +161,7 @@
                       <li class="text-justify"> English Language Comprehension </li>
                       <li class="text-justify"> General Awareness and Awareness of Socio-economic environment </li>
 
-                     2 .The Test for Group C, shall include total 75 question of which 15 questions will be from English and 20 questions each from Physics, Mathematics/Biology/Bio Technology and Chemistry.
+                     2. The Test for Group C, shall include total 75 question of which 15 questions will be from English and 20 questions each from Physics, Mathematics/Biology/Bio Technology and Chemistry.
                       In the Test for Group C, choice to candidate will be as follows :  <br>
                       
                       <li class="text-justify"> B. Pharm.: English, Physics, Mathematics/Biology/Bio Technology, Chemistry </li>
@@ -228,42 +216,43 @@
                        a) higher percentage of marks in the qualifying examinations will be considered;
                        b) in case where result of qualifying examination is not declared, seniority in age will be considered.  </p>
 
-                    <h4><u><b> Revaluation  </b></u></h4>
-                          There is no provision for revaluation of response sheets.  <br><br>
+                    <h4><u><b> Reevaluation  </b></u></h4>
+                          There is no provision for reevaluation of response sheets.  <br><br>
         </div>
         <div role="tabpanel" class="tab-pane" id="tab3">
-              <h4><u><b> COUNSELING </b></u></h4>
-             <p>  Counseling schedule and guidelines will be declared along with the result of CET2012 on the website of Devi Ahilya University. The Following documents are required at time of admission : <br>
-              1. Photographs 3 Nos.  <br>
-              2. CET Result downloaded from website Original  <br>
-              3. Mark Sheet of Qualifying examination Original +1 Photocopy (Self Attested)   <br>
-              4. Proof of Age Original +1 Photocopy (Self Attested)   <br>
-              5. Transfer Certificate Original +1 Photocopy (Self Attested)   <br>
-              6. Migration Certificate Original +1 Photocopy (Self Attested)   <br>
-              7. Cast Certificate for SC/ST/OBC (excluding creamy layer) candidate. Original (For Verification)+ 1 Photocopy (Self Attested)   <br>
-              8. Income Certificate for SC/ST/OBC (excluding creamy layer) candidate. Original +1 Photocopy (Self Attested)  <br>
-              9. J.K. Migrant / J.K. Resident Certificate Original (For Verification)+ 1 Photocopy (Self Attested)  <br>
-              10. M.P. Domicile Certificate Original (For Verification)+ 1 Photocopy (Self Attested)  <br>
-              11 Affidavits for Gap in studies (if applicable) Original + 1 Photocopy (Self Attested)  <br> </p> <br>
+              <h3 class="text-center"><b>Counselling</b></h3>
+             <p>  Counseling schedule and guidelines will be declared along with the result of CET 2015 on the website of Devi Ahilya University. The Following documents are required at the time of admission : <br><br>
+              1. Photographs 3 <br><br>
+              2. CET Result downloaded from website Original  <br><br>
+              3. Mark Sheet of Qualifying examination Original + 1 Photocopy (Self Attested) <br><br>
+              4. Proof of Age Original + 1 Photocopy (Self Attested)  <br><br>
+              5. Transfer Certificate Original + 1 Photocopy (Self Attested)  <br><br>
+              6. Migration Certificate Original + 1 Photocopy (Self Attested)  <br><br>
+              7. Cast Certificate for SC/ST/OBC (excluding creamy layer) candidate. Original (For Verification) + 1 Photocopy (Self Attested)  <br><br>
+              8. Income Certificate for SC/ST/OBC (excluding creamy layer) candidate. Original + 1 Photocopy (Self Attested) <br><br>
+              9. J.K. Migrant / J.K. Resident Certificate Original (For Verification) + 1 Photocopy (Self Attested) <br><br>
+              10. M.P. Domicile Certificate Original (For Verification) + 1 Photocopy (Self Attested) <br><br>
+              11. Affidavits for Gap in studies (if applicable) Original + 1 Photocopy (Self Attested) <br><br> </p> <br>
         </div>
         <div role="tabpanel" class="tab-pane" id="tab4">
+            <h3 class="text-center"><b>Other Important Points</b></h3>
             <h4><u><b>  Refund of Fee  </b></u></h4>
-              <p> 1.If any candidate leaves the course before the last counseling day the fee will be returned to him/her after deducting 10% of the fees deposited by him/her. Only caution money will be refunded if a candidate leaves any course after the said date. <br>
+              <p> 1.If any candidate leaves the course before the last counselling day the fee will be returned to him/her after deducting 10% of the fees deposited by him/her. Only caution money will be refunded if a candidate leaves any course after the said date. <br>
               2.In cases where candidates have fetched an undertaking to the effect that their admission may be deemed cancelled in case they fail to produce their result of qualifying examination with required eligibility percentages by the date decided by college, there will be no refund of fee deposited. <br>
-              3.Where a provisionally admitted student is declared fail, his/her fee deposited will be refunded after deducting 10% of the fees deposited by him/her. </p> <br><br>
-              <h4><u><b> OTHER POINTS </b></u></h4>
-                <li style="text-align:justify;"> Any situation, not covered by provisions mentioned in this guideline shall be referred to the Organizing Committee which will work within the ambit of Act, Statutes and Ordinances of Devi Ahilya University, Indore and its decision shall be final. </li> 
-                <li style="text-align:justify;"> he legal disputes, if any, shall be settled in the within the legal jurisdiction of Indore. </li>
-                <li style="text-align:justify;"> Ragging, teasing, torturing or making nuisance in any way inside or outside the campus has been declared as a serious offence and strict action shall be taken against those who will be found involved in such activities. </li>
-                <li style="text-align:justify;"> if any incident of ragging comes to the notice of the University, the concerned student shall be given liberty to explain and if his/her explanation is not found satisfactory, the University would expel him/her from the institution. </li>
-                <li style="text-align:justify;"> In case it comes to the notice that an applicant was able to secure admission based on forged certificate/s or by furnishing wrong information, willingly concealing adverse facts or due to administrative or official negligence, his/her admission will be cancelled immediately. </li>
-                <li style="text-align:justify;"> If a student, after taking regular admission, fails to maintain 75% of the attendance for each subject in the course will not be eligible to appear in tests/final exam.  </li> <br>
-                <h4><u><b> HOSTEL ACCOMMODATION </b></u></h4>
-                <p> There are FOUR boys’ hostel and FIVE girls hostels. Accommodation in the hostels is limited. For hostel accommodation selected candidates are required to contact Chief Warden Hostels, DAVV, Indore. Students staying in hostel are not allowed to work outside in part/full time. Hostel fees will be approx. 15000/- PA  </p> <br>
+              3.Where a provisionally admitted student is declared fail, his/her fee deposited will be refunded after deducting 10% of the fees deposited by him/her. </p> <br>
+              <h4><u><b> Other Points </b></u></h4>
+                <li class="text-justify"> Any situation, not covered by provisions mentioned in this guideline shall be referred to the Organizing Committee which will work within the ambit of Act, Statutes and Ordinances of Devi Ahilya University, Indore and its decision shall be final. </li> 
+                <li class="text-justify"> He legal disputes, if any, shall be settled in the within the legal jurisdiction of Indore. </li>
+                <li class="text-justify"> Ragging, teasing, torturing or making nuisance in any way inside or outside the campus has been declared as a serious offence and strict action shall be taken against those who will be found involved in such activities. </li>
+                <li class="text-justify"> If any incident of ragging comes to the notice of the University, the concerned student shall be given liberty to explain and if his/her explanation is not found satisfactory, the University would expel him/her from the institution. </li>
+                <li class="text-justify"> In case it comes to the notice that an applicant was able to secure admission based on forged certificate/s or by furnishing wrong information, willingly concealing adverse facts or due to administrative or official negligence, his/her admission will be cancelled immediately. </li>
+                <li class="text-justify"> If a student, after taking regular admission, fails to maintain 75% of the attendance for each subject in the course will not be eligible to appear in tests/final exam.  </li> <br>
+                <h4><u><b> Hostel Accommodation</b></u></h4>
+                <p> There are FOUR boys hostel and FIVE girls hostels. Accommodation in the hostels is limited. For hostel accommodation selected candidates are required to contact Chief Warden Hostels, DAVV, Indore. Students staying in hostel are not allowed to work outside in part/full time. Hostel fees will be approx. 15000/- PA  </p> <br>
                  <h4> NOTE : </h4> <i>
                   1. Fees is subject to change as per University guidelines.  <br>
                   2. If the student reappears in an examination, a fee of Rs.200/- per subject (Maximum Rs.1000/- per semester) shall be payable.  <br>
-                  3. For NRI/ FN/ PIO Candidates, A fee of US$3150 Per Annum shall be payable on yearly basis. They will have to pay a refundable deposit of US$1500 once at the time of admission. </i> <br> <br>
+                  3. For NRI/ FN/ PIO Candidates, A fee of US $3150 Per Annum shall be payable on yearly basis. They will have to pay a refundable deposit of US$1500 once at the time of admission. </i> <br> <br>
         </div>
         </div>
     </div>

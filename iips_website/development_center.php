@@ -244,75 +244,59 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab5">
-            <h3 class="text-center">Members</h3>
-            <p class="text-justify">Here is the list of our dedicated members.</p>
-            <p class="bg-primary">
-              <span class="stylish-text">&nbsp;Current Mentor(Dec 2015 - till date)</span><br>
-              <a href="">&nbsp;Mr. Imroz Khan</a>
-            </p>
-            <p class="bg-primary">
-              <span class="stylish-text">&nbsp;Previous Mentor(Jun 2012 - Dec 2015)</span><br>
-              <a href="">&nbsp;Mr. Shaligram Prajapat</a>
-            </p>
-            <p class="bg-primary">
-              <span class="stylish-text">&nbsp;Current Members</span><br>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Mimoh Ojha</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Sumit Jain</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Rahul Satal</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Rahul Sinha</a></div>
+            <h3 class="text-center">Mentor</h3>
+                <div class="row">
+                  <div class="col-md-4"></div>
+                  <div class="col-md-4 text-center">
+                    <img class="img-circle img-responsive" id="centralized" src="http://placehold.it/200x200" alt="Mr. Imroz Khan" width="65" height="55">
+                    <a href="">Mr. Imroz Khan</a>
+                  </div>
+                  <div class="col-md-4"></div>
+                </div>
+              <h3 class="text-center">Members</h3><br>
+              <p class="text-justify"><h4>Here is the list of our dedicated members.<h4></p><br>
+              <div class="col-md-12 col-xs-6"><br><br>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="images/mimoh.jpg" alt="Mimoh Ojha"  width="55" height="55">
+                          <a href="www.mimohojha.info">Mimoh Ojha</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="http://placehold.it/200x200" alt="Sumit Jain" width="55" height="55">
+                          <a href="">Sumit Jain</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="images/rajat.jpg" alt="Rajat Garg" width="55" height="55">
+                          <a href="rajat-garg.github.io">Rajat Garg</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="images/rupam.jpg" alt="Rupam Wadia" width="55" height="55">
+                          <a href="rupam-wadia.branded.me">Rupam Wadia</a>
+                      </div>
               </div>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Rahul Sinha</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Rajat Garg</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Rupam Wadia</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Vikas Chouhan</a></div>
-              </div><br>
-            </p><br>
-            <p class="bg-primary">
-              <span class="stylish-text">&nbsp;Past Members</span><br>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Adisha Porwal</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Ajeet Khan</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Akansha Rathore</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Ankit Kulkarni</a></div>
+              <div class="col-md-12 col-xs-6"><br><br>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="images/vikas.jpg" alt="Vikas Chouhan"  width="55" height="55">
+                          <a href="vikas-chouhan.branded.me">Vikas Chouhan</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="images/rahul.jpg" alt="Rahul Sinha"  width="55" height="55">
+                          <a href="rahul-sinha.branded.me">Rahul Sinha</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                         <img class="img-circle" id="centralized" src="http://placehold.it/200x200" alt=""  width="55" height="55">
+                         <a href="">Rahul Satal</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12">
+                      </div>
               </div>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Bedi Singh Yadav</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Chitrank Dixit</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Devendra Malviya</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Gaurav Parmar</a></div>
-              </div>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Komal Rathore</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Nitesh Mishra</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Nitin Sharma</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Prashant Yadav</a></div>
-              </div>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Pulkit Vaishnav</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Rahul Sagore</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Sachin Tanwar</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Shaifali Agrawal</a></div>
-              </div>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Shivshankar Pindoriya</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Sunny Raikwar</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Swati Mahajan</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Swati Jaiswal</a></div>
-              </div>
-              <div class="col-md-12 bg-info">
-                  <div class="col-md-3 col-xs-6"><a href="">Rohini Chaudhary</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Fatema Saifee</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Akshay Verma</a></div>
-                  <div class="col-md-3 col-xs-6"><a href="">Kajol Maheshwari</a></div>
-              </div>
-            </p><br>
+              <br><br>
+        </div>
+            <br><br>
         </div><br>
       </div>
  <!-- Table Ends> -->
   <br><br>
-    </div><!--Fees Structure End> -->
+    </div>
     </div>
   </div>
 </div>
