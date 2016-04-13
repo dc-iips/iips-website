@@ -38,112 +38,103 @@
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <h3 class="text-center">MCA - 6Year Syllabus</h3><br>
             <div class="row">
-            	<div class="col-md-4">Semester - I - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - II - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - III- <a href="">Download</a></div>    	
-            </div> <br>
-            <div class="row">
-            	<div class="col-md-4">Semester - IV - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - V - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - VI - <a href="">Download</a></div>    	
-            </div><br>
-            <div class="row">
-            	<div class="col-md-4">Semester - VII - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - VIII - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - IX - <a href="">Download</a></div>    	
-            </div><br>
-            <div class="row">
-            	<div class="col-md-4">Semester - X - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - XI - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - XII - <a href="">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - II - <a href="pdf_server.php?file=static/pdf/MCA_II.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - III- <a href="pdf_server.php?file=static/pdf/MCA_II.pdf">Download</a></div>    	
+             <span class="hidden-sm hidden-xs"><br><br></span>
+            
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IV - <a href="pdf_server.php?file=static/pdf/MCA_VI.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - V - <a href="pdf_server.php?file=static/pdf/MCA_V.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VI - <a href="pdf_server.php?file=static/pdf/MCA_VI.pdf">Download</a></div>    	
+            <span class="hidden-sm hidden-xs"><br><br></span>
+            
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VII - <a href="pdf_server.php?file=static/pdf/MCA_VII.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VIII - <a href="pdf_server.php?file=static/pdf/MCA_VIII.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IX - <a href="pdf_server.php?file=static/pdf/MCA_XI.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - X - <a href="pdf_server.php?file=static/pdf/MCA_X.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - XI -<a href="pdf_server.php?file=static/pdf/MCA_XI.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - XII - <a href="pdf_server.php?file=static/pdf/MCA_XII.pdf">Download</a></div>    	
             </div>
         </div> <!--tab1 End-->
 
         <div role="tabpanel" class="tab-pane" id="tab2">
             <h3 class="text-center">M.Tech(IT) - Syllabus</h3><br>
             <div class="row">
-            	<div class="col-md-4">Semester - I - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - II - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - III- <a href="">Download</a></div>    	
-            </div> <br>
-            <div class="row">
-            	<div class="col-md-4">Semester - IV - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - V - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - VI - <a href="">Download</a></div>    	
-            </div><br>
-            <div class="row">
-            	<div class="col-md-4">Semester - VII - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - VIII - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - IX - <a href="">Download</a></div>    	
-            </div><br>
-            <div class="row">
-            	<div class="col-md-4 col-md-offset-2">Semester - X - <a href="">Download</a></div>    	
-            	<div class="col-md-5">Semester - XI - <a href="">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - II - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - III- <a href="pdf_server.php?file=iqac_report">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IV - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - V - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VI - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VII - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VIII - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IX - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            	<div class="col-md-4 col-md-offset-2 col-sm-6 col-xs-6">Semester - X - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-5 col-sm-6 col-xs-6">Semester - XI - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
             </div>
         </div> <!--tab2 End-->
 
                 <div role="tabpanel" class="tab-pane " id="tab3">
             <h3 class="text-center">MBA(MS) - Syllabus</h3><br>
             <div class="row">
-            	<div class="col-md-4">Semester - I - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - II - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - III- <a href="">Download</a></div>    	
-            </div> <br>
-            <div class="row">
-            	<div class="col-md-4">Semester - IV - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - V - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - VI - <a href="">Download</a></div>    	
-            </div><br>
-            <div class="row">
-            	<div class="col-md-4">Semester - VII - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - VIII - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - IX - <a href="">Download</a></div>    	
-            </div><br>
-            <div class="row">
-            	<div class="col-md-4 col-md-offset-4">Semester - X - <a href="">Download</a></div>    	  	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - II - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - III- <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IV - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - V - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VI - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VII - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VIII - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IX - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            	<div class="col-md-4 col-md-offset-4 col-sm-6 col-xs-6">Semester - X - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	  	
             </div>
         </div> <!--tab3 End-->
 
         <div role="tabpanel" class="tab-pane " id="tab4">
             <h3 class="text-center">MBA(APR) - Syllabus</h3><br>
             <div class="row">
-            	<div class="col-md-4 col-md-offset-2">Semester - I - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - II - <a href="">Download</a></div>    	
-            </div> <br>
-            <div class="row">
-            	<div class="col-md-4 col-md-offset-2">Semester - III - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - IV - <a href="">Download</a></div>    	
+            	<div class="col-md-4 col-md-offset-2 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - II - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs"><br><br></span>
+            	<div class="col-md-4 col-md-offset-2 col-sm-6 col-xs-6">Semester - III - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IV - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
             </div><br>
         </div> <!--tab4 End-->
 
         <div role="tabpanel" class="tab-pane " id="tab5">
             <h3 class="text-center">MBA(TA) - Syllabus</h3><br>
                         <div class="row">
-            	<div class="col-md-4 col-md-offset-2">Semester - I - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - II - <a href="">Download</a></div>    	
-            </div> <br>
-            <div class="row">
-            	<div class="col-md-4 col-md-offset-2">Semester - III - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - IV - <a href="">Download</a></div>    	
+            	<div class="col-md-4 col-md-offset-2 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - II - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs "><br><br></span>
+            	<div class="col-md-4 col-md-offset-2 col-sm-6 col-xs-6">Semester - III - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6 col-sm-6 col-xs-6">Semester - IV - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
             </div><br>
         </div> <!--tab5 End-->
 
         <div role="tabpanel" class="tab-pane " id="tab6">
             <h3 class="text-center">MBA(FT) - Syllabus</h3><br>
-            <p>To download complete syllabus - <a href="">Click Here</a></p>
+            <p>To download complete syllabus - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Click Here</a></p>
         </div> <!--tab6 End-->
 
          <div role="tabpanel" class="tab-pane " id="tab7">
             <h3 class="text-center">B.Com(Hons.) - Syllabus</h3><br>
             <div class="row">
-            	<div class="col-md-4">Semester - I - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - II - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - III- <a href="">Download</a></div>    	
-            </div> <br>
-            <div class="row">
-            	<div class="col-md-4">Semester - IV - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - V - <a href="">Download</a></div>    	
-            	<div class="col-md-4">Semester - VI - <a href="">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - II - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - III- <a href="pdf_server.php?file=static/pdf/MCA_III.pdf">Download</a></div>    	
+           <span class="hidden-sm hidden-xs "><br><br></span>
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IV - <a href="pdf_server.php?file=static/pdf/MCA_XI.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - V - <a href="pdf_server.php?file=static/pdf/MCA_IX.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VI - <a href="pdf_server.php?file=static/pdf/MCA_III.pdf">Download</a></div>    	
             </div><br>
         </div> <!--tab7 End-->
 
