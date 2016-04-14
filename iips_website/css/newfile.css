@@ -315,3 +315,9 @@ a:hover{
   border: none;
   margin-top:-55px;
 }
+
+/* caurosol right-left errows*/
+.errow:hover{
+  height:10%;
+  width:10%;
+};

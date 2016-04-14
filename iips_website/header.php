@@ -60,10 +60,11 @@
                                             </form> 
                                         </div>
                                         <div class="row">
-                                            <div class="col-xs-6 mybutton">
+                                            <div class="col-xs-5 mybutton">
                                                 <a href="sitemap.php">Sitemap</a>
                                             </div>
-                                            <div class="col-xs-6 mybutton">
+                                            <div class="col-xs-2"></div>
+                                            <div class="col-xs-5 mybutton">
                                                 <a href="under_construction.php">Feedback</a>
                                             </div>
                                         </div>
@@ -80,7 +81,9 @@
                                                     <img src="images/image1.jpg" class="img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
-                                                    The International Institute of Professional Studies, a department of Devi Ahilya Vishwavidyalaya established in the year 1992 is an academic mentor of its kind and an eminently practical institute, recognized by AICTE. With the quality in the content, scope and professionalism of its programs.
+                                                    The International Institute of Professional Studies, 
+                                                    a department of Devi Ahilya Vishwavidyalaya established in the year 1992 is an academic mentor of its kind and an eminently
+                                                     practical institute, recognized by AICTE. With the quality in the content, scope and professionalism of its programs.
                                                 </div>
                                             </div>
                                             <div class="col-md-5 col-sm-5">

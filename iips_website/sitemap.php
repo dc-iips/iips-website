@@ -27,9 +27,9 @@
       <div class="col-md-3 col-sm-3 text-right">
           <h3>About</h3><hr>
           <p><a href="about.php">Overview</a></p>
-          <p><a href="about_university.php">About university</a></p>      
           <p><a href="history.php">History</a></p>
           <p><a href="infrastructure.php">Infrastructure</a></p>
+          <p><a href="about_university.php">About university</a></p>      
           <p><a href="about_iips.php">About IIPS</a></p>
           <p><a href="reach_us.php">Reach Us</a></p>
       </div>
