@@ -34,11 +34,11 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/programs.jpg" class="img-responsive">
+                    <img src="images/events.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="event.php">Events &amp; Attraction</a></h3>
-                    <p>There is always something happening on the IIPS campus. Performances, events and more are open to all.</p>
+                    <p class="text-justify">There is always something happening on the IIPS campus. Performances, events and more are open to all.</p>
                 </div>
             </div>
             <br/>
@@ -46,11 +46,11 @@
             
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/news.jpg" class="img-responsive">
+                    <img src="images/video1.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="video_channel.php">Video Channels</a></h3>
-                    <p>Student and Faculty also run their video channel to share their knowledge with the world. </p>
+                    <p>Students and Faculties also run their video channels to share their knowledge with the world. </p>
                 </div>
             </div>
             <br/>
@@ -72,7 +72,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/profile.jpg" class="img-responsive">
+                    <img src="images/gallrey.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="gallery.php">Gallery</a></h3>
