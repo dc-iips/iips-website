@@ -1,4 +1,3 @@
-<br>
 <footer id="site-footer">
       <div class="container" id="i13">
         <div class="row">
@@ -50,7 +49,7 @@
                   <ul class="nav">
                     <h4>Downloads</h4>
                     <li><a href="academic_calendar.php" >Academic Calendar</a></li>
-                    <li><a href="under_construction.php" >Syllabus</a></li>
+                    <li><a href="syllabus.php" >Syllabus</a></li>
                     <li><a href="results.php" >Result </a></li>
                     <li><a href="under_construction.php" >Course PPTs</a></li>
                   </ul>
