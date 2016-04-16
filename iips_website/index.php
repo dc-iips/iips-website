@@ -40,6 +40,13 @@
       		<div class="carousel-caption">
       		</div>
     	</div>
+
+      <div class="item">
+          <img src="images/campus_life.jpg" alt="...">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
   	</div>
 
   	<!-- Controls -->
