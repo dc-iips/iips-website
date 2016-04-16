@@ -248,7 +248,7 @@
                 <div class="row">
                   <div class="col-md-4"></div>
                   <div class="col-md-4 text-center">
-                    <img class="img-circle img-responsive" id="centralized" src="http://placehold.it/200x200" alt="Mr. Imroz Khan" width="65" height="55">
+                    <img class="img-circle img-responsive" id="centralized" src="images/imroz khan.jpg" alt="Mr. Imroz Khan" width="65" height="55">
                     <a href="">Mr. Imroz Khan</a>
                   </div>
                   <div class="col-md-4"></div>
@@ -261,7 +261,7 @@
                           <a href="www.mimohojha.info">Mimoh Ojha</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="http://placehold.it/200x200" alt="Sumit Jain" width="55" height="55">
+                          <img class="img-circle" id="centralized" src="images/sumit.jpg" alt="Sumit Jain" width="55" height="55">
                           <a href="">Sumit Jain</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
@@ -283,7 +283,7 @@
                           <a href="rahul-sinha.branded.me">Rahul Sinha</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                         <img class="img-circle" id="centralized" src="http://placehold.it/200x200" alt=""  width="55" height="55">
+                         <img class="img-circle" id="centralized" src="images/satal.jpg" alt=""  width="55" height="55">
                          <a href="">Rahul Satal</a>
                       </div>
                       <div class="col-md-3 col-xs-12">
