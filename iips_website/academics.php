@@ -34,7 +34,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/programs.jpg" class="img-responsive">
+                    <img src="images/courses.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="programs.php">Programs</a></h3>
@@ -42,13 +42,12 @@
                 </div>
             </div>
             <br/>
-           >
             <br/>
 
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/news.jpg" class="img-responsive">
+                    <img src="images/news.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="news_and_announcements.php">News &amp; Announcements</a></h3>
@@ -56,11 +55,12 @@
                 </div>
             </div>
             <br/>
+            <br>
            
             <div class="row">
 
                 <div class="col-md-4">
-                    <img src="images/profile.jpg" class="img-responsive">
+                    <img src="images/staff.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="staff_profile.php">Staff Profile</a></h3>
@@ -69,6 +69,7 @@
             </div>
             <br/>
         </div>
+
 
         <div class="col-md-6">
            <div class="row">
@@ -80,15 +81,20 @@
                     <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
                 </div>
             </div>
+            <br/>
+            <br/>
+
+
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/profile.jpg" class="img-responsive">
+                    <img src="images/faculty.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="faculty_profile.php">Faculty Profile</a></h3>
                     <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
                 </div>
             </div>
+            <br/>
             <br/>
 
             <div class="row">    
