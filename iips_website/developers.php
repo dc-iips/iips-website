@@ -47,7 +47,7 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="http://placehold.it/200x200" alt="">
+                <img class="img-circle img-responsive" id="centralized" src="images/sumit.jpg" alt="">
                 <h3>Sumit Jain<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -101,18 +101,8 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="http://placehold.it/200x200" alt="Rahul Satal">
-                <h3>Rahul Satal<br><small>Website Tester</small></h3>
-                <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
-                </p>
-                </div>
-                <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="http://placehold.it/200" alt="">
-                <h3>Shubham Neema<br><small>Website Tester</small></h3>
+                <img class="img-circle img-responsive" id="centralized" src="images/satal.jpg" alt="">
+                <h3>Rahul Satal<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
                   <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
