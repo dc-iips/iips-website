@@ -41,7 +41,7 @@
                 <h3>Mimoh Ojha<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/mimoh.ojha?fref=ts"><i class="fa fa-facebook-square fa-2x"></i></a>
                   <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
                   <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
@@ -60,10 +60,10 @@
                 <img class="img-circle img-responsive" id="centralized" src="images/vikas.jpg" alt="Vikas Chouhan">
                 <h3>Vikas Chouhan<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="https://twitter.com/Iamvikash888"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/vikky8889"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://www.linkedin.com/in/vikas-chouhan-61318599?trk=hp-identity-name"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="https://plus.google.com/u/0/101693934183454119610/posts"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
