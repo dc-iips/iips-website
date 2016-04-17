@@ -60,11 +60,10 @@
                                             </form> 
                                         </div>
                                         <div class="row">
-                                            <div class="col-xs-5 mybutton">
+                                            <div class="col-xs-6 mybutton">
                                                 <a href="sitemap.php">Sitemap</a>
                                             </div>
-                                            <div class="col-xs-2"></div>
-                                            <div class="col-xs-5 mybutton">
+                                            <div class="col-xs-6 mybutton">
                                                 <a href="under_construction.php">Feedback</a>
                                             </div>
                                         </div>
@@ -74,16 +73,14 @@
                                 <!--About-->
                                 <li class="dropdown yamm-fw" id="test_about">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">About<span class="caret"></span></a>
-                                    <ul class="dropdown-menu" id="test1" role="menu">
+                                    <ul class="dropdown-menu" id="yamm-down-about" role="menu">
                                         <div class="row image2">                
                                             <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
                                                     <img src="images/image1.jpg" class="img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
-                                                    The International Institute of Professional Studies, 
-                                                    a department of Devi Ahilya Vishwavidyalaya established in the year 1992 is an academic mentor of its kind and an eminently
-                                                     practical institute, recognized by AICTE. With the quality in the content, scope and professionalism of its programs.
+                                                    The International Institute of Professional Studies, a department of Devi Ahilya Vishwavidyalaya established in the year 1992 is an academic mentor of its kind and an eminently practical institute, recognized by AICTE. With the quality in the content, scope and professionalism of its programs.
                                                 </div>
                                             </div>
                                             <div class="col-md-5 col-sm-5">
@@ -105,7 +102,7 @@
                                 <!--Admission-->
                                 <li class="dropdown yamm-fw" id="test_admission">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline">Admission<span class="caret"></span></a>
-                                    <ul class="dropdown-menu">
+                                    <ul class="dropdown-menu" id="yamm-down-admission">
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -133,7 +130,7 @@
                                 <li class="dropdown yamm-fw" id="test_academics">
                                     <a href="#" class="dropdown-toggle navbar-underline" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Academics<span class="caret"></span>
                                     </a>
-                                    <ul class="dropdown-menu">
+                                    <ul class="dropdown-menu" id="yamm-down-academics">
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -164,7 +161,7 @@
                                 <li class="dropdown yamm-fw" id="test-research">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Research<span class="caret"></span>
                                     </a>
-                                    <ul class="dropdown-menu">
+                                    <ul class="dropdown-menu" id="yamm-down-research">
                                         <div class="row image2">      
                                             <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -192,7 +189,7 @@
                                 <li class="dropdown yamm-fw" id="test2">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Campus Life<span class="caret"></span>
                                     </a>
-            	                     <ul class="dropdown-menu">
+            	                     <ul class="dropdown-menu" id="yamm-down-campus">
                                       <div class="row image2">
                                           <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
                                               <div class="col-md-6 col-sm-6">
