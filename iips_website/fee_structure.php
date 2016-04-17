@@ -36,7 +36,7 @@
     <div class="col-md-9">
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3 class="text-center">MCA</h3>
+                <h3 class="text-center"><b>MCA</b></h3>
                 <table class="table" width="100%">
                     <tbody>
                         <tr>
@@ -128,7 +128,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center">M.TECH</h3>
+                <h3 class="text-center"><b>M.TECH</b></h3>
                 <table class="table table-responsive">
                     <tbody>
                     <tr>
@@ -208,7 +208,7 @@
             </div>
         
             <div role="tabpanel" class="tab-pane" id="tab3">
-          <h3 class="text-center">MBA(Management Science)-5 Yrs Integrated Program: (3 Year BBA + 2 Year MBA)</h3>
+          <h3 class="text-center"><b>MBA(Management Science)-5 Yrs Integrated Program: (3 Year BBA + 2 Year MBA)</b></h3>
           <table class="table table-responsive">
             <tbody>
                 <tr>
@@ -216,7 +216,7 @@
                   <th> Sem. </th>
                   <th> Sem. Fees </th>
                   <th> Extra Misc Fee</th> 
-                  <th> Dev & Misc Fees</th>
+                  <th> Dev &amp; Misc Fees</th>
                   <th> Uni. Fees Boys </th>
                   <th> Uni. Fees Girls</th>
                   <th> Total Fees Boys</th>
@@ -288,7 +288,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab4">
-                <h3 class="text-center">MBA(Management Science) - 2 Years</h3>
+                <h3 class="text-center"><b>MBA(Management Science) - 2 Years</b></h3>
                 <table class="table table-responsive">
                     <tbody>
                         <tr>
@@ -296,7 +296,7 @@
                             <th> Sem. </th>
                             <th> Sem. Fees </th>
                             <th> Extra Misc Fee</th> 
-                            <th> Dev & Misc Fees</th>
+                            <th> Dev &amp; Misc Fees</th>
                             <th> Uni. Fees Boys </th>
                             <th> Uni. Fees Girls</th>
                             <th> Total Fees Boys</th>
@@ -332,7 +332,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab5">
-                <h3 class="text-center">MBA(Tourism Administration)</h3>
+                <h3 class="text-center"><b>MBA(Tourism Administration)</b></h3>
                     <table class="table table-responsive">
                           <tbody>
                               <tr>
@@ -340,7 +340,7 @@
                                   <th> Sem. </th>
                                   <th> Sem. Fees </th>
                                   <th> Extra Misc Fee</th> 
-                                  <th> Dev & Misc Fees</th>
+                                  <th> Dev &amp; Misc Fees</th>
                                   <th> Uni. Fees Boys </th>
                                   <th> Uni. Fees Girls</th>
                                   <th> Total Fees Boys</th>
@@ -376,7 +376,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab6">
-        <h3 class="text-center">MBA(APR)</h3>
+        <h3 class="text-center"><b>MBA(APR)</b></h3>
         <table class="table table-responsive">
           <tbody>
             <tr>
@@ -384,7 +384,7 @@
                   <th> Sem. </th>
                   <th> Sem. Fees </th>
                   <th> Extra Misc Fee</th> 
-                  <th> Dev & Misc Fees</th>
+                  <th> Dev &amp; Misc Fees</th>
                   <th> Uni. Fees Boys </th>
                   <th> Uni. Fees Girls</th>
                   <th> Total Fees Boys</th>
@@ -420,7 +420,7 @@
             </div>
           
             <div role="tabpanel" class="tab-pane" id="tab7">
-            <h3 class="text-center">B.com(Hons) </h3>
+            <h3 class="text-center"><b>B.com(Hons)</b></h3>
             <table class="table table-responsive">
               <tbody>
             <tr>
@@ -428,7 +428,7 @@
                   <th> Sem. </th>
                   <th> Sem. Fees </th>
                   <th> Extra Misc Fee</th> 
-                  <th> Dev & Misc Fees</th>
+                  <th> Dev &amp; Misc Fees</th>
                   <th> Uni. Fees Boys </th>
                   <th> Uni. Fees Girls</th>
                   <th> Total Fees Boys</th>
