@@ -118,8 +118,8 @@ a:hover{
 		border-bottom:2px solid #C0CAD3;
 		border-bottom-color: #C0CAD3;
 		text-decoration:none;
-		
 		}
+
 .navbar-default .navbar-nav>.open>a,
 .navbar-default .navbar-nav>.open>a:focus,
 .navbar-default .navbar-nav>.open>a:hover {
@@ -210,6 +210,11 @@ a:hover{
 /*#sidebar{
   background-color: black;
 }*/
+
+#navbar-main{
+  padding-top: 5%;
+}
+
 #colm
 {
   background-color: #003262;
@@ -230,6 +235,11 @@ a:hover{
       #test{
         width:80%;
       }
+
+      #navbar-main{
+        padding-top: 3%;
+      }
+
       #test > li > a{
         font-size: 1.0em;
         margin-left: 0px;
@@ -262,9 +272,6 @@ a:hover{
   }
 }
 
-#navbar-main{
-  padding-top: 5%;
-}
 #image-effect{
   -webkit-transition: all 5s ease;
      -moz-transition: all 5s ease;
