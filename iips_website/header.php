@@ -75,15 +75,15 @@
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">About<span class="caret"></span></a>
                                     <ul class="dropdown-menu" id="yamm-down-about" role="menu">
                                         <div class="row image2">                
-                                            <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
+                                            <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/image1.jpg" class="img-responsive" alt="Responsive image">
+                                                    <img src="images/image1.png" class="img-responsive" alt="About IIPS image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     The International Institute of Professional Studies, a department of Devi Ahilya Vishwavidyalaya established in the year 1992 is an academic mentor of its kind and an eminently practical institute, recognized by AICTE. With the quality in the content, scope and professionalism of its programs.
                                                 </div>
                                             </div>
-                                            <div class="col-md-5 col-sm-5">
+                                            <div class="col-md-5 col-sm-3">
                                                 <div class="col-md-6">                 
                                                     <li id="link-style"><a href="about.php">Overview</a></li>
                                                     <li id="link-style"><a href="about_university.php">About University</a></li>
@@ -104,15 +104,15 @@
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline">Admission<span class="caret"></span></a>
                                     <ul class="dropdown-menu" id="yamm-down-admission">
                                         <div class="row image2">
-                                            <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
+                                            <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
                                                     <img src="images/auditorium.jpg" class="img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
-                                                    Copy of advertisements info for ensuring publicity and transparency in the admission process is available on website, A common advertisement is prepared &amp; released by the university, DAVV, for the courses that are covered under Common Entrance Test.
+                                                    Every year CET is conducted in the month of JUNE for various courses at Graduate and post graduate level. The students from all over India apply to get admission through this exam. In this written exam the student’s general aptitude, language knowledge and mathematical ability is tested.
                                                 </div>
                                             </div>
-                                            <div class="col-md-5 col-sm-5">
+                                            <div class="col-md-5 col-sm-3">
                                                 <div class="col-md-6">
                                                     <li id="link-style"><a href="admission.php">Overview</a></li>
                                                     <li id="link-style"><a href="courses.php">Courses</a></li>
@@ -132,15 +132,15 @@
                                     </a>
                                     <ul class="dropdown-menu" id="yamm-down-academics">
                                         <div class="row image2">
-                                            <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
+                                            <div class="col-md-7 col-sm-8 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/xyz.jpg" class="img img-responsive" alt="Responsive image">
+                                                    <img src="images/academics.png" class="img img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
-                                                      From a group of academic pioneers in 1868 to the Free Speech Movement in 1964, IIPS is a place where the brightest minds from across the globe come together to explore, ask questions and improve the world.
+                                                    The institute provides ample opportunities to students with a rigorous and challenging curriculum with flexibility to allow students to tailor their education to meet their professional and personal interests and goals.      
                                                 </div>
                                             </div>
-                                            <div class="col-md-5 col-sm-5">
+                                            <div class="col-md-5 col-sm-4">
                                                 <div class="col-md-6">
                                                     <li id="link-style"><a href="academics.php">Overview</a></li>
                                                     <li id="link-style"><a href="syllabus.php">Syllabus</a></li>
@@ -163,15 +163,15 @@
                                     </a>
                                     <ul class="dropdown-menu" id="yamm-down-research">
                                         <div class="row image2">      
-                                            <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
+                                            <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/research.jpg" class="img-responsive" alt="Responsive image">
+                                                    <img src="images/research_.png" class="img img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
-                                                    Envisioned in December 2000 immediate mission (in 2000) -Rendering low cost IT solutions to various government and social organizations, e-Governance and Social Computing Initiative Lead by the innovative instincts of its pro-active Director.
+                                                    Research is a process to discover new knowledge. The development and research center allow students to learn standards that are currently adapted by industry. Mentors also guide students to publish new research papers.
                                                 </div>
                                             </div>
-                                            <div class="col-md-5 col-sm-5">
+                                            <div class="col-md-5 col-sm-3">
                                                 <div class="col-md-6">
                                                     <li id="link-style"><a href="research.php">Overview</a></li>
                                                     <li id="link-style"><a href="development_center.php">Development Center</a></li>
@@ -191,15 +191,14 @@
                                     </a>
             	                     <ul class="dropdown-menu" id="yamm-down-campus">
                                       <div class="row image2">
-                                          <div class="col-md-7 col-sm-7 hidden-xs" id="i6">
+                                          <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                               <div class="col-md-6 col-sm-6">
                                                   <img src="images/campus.jpg" class="img-responsive" alt="Responsive image">
                                               </div>
                                               <div class="col-md-6 col-sm-6">
-                                                  Life at IIPS blends research and reflection, the scientific with the artistic, and the scholarly with the athletic. Our students come from different places and backgrounds, but together they create a diverse and kinetic community that seeks to create a better world.
-                                              </div>
+                                                  Other than studies students also enjoy their college life by participating in different events. Every year top IT and management companies like TCS, Infosys, wipro visit campus and offer very good packages to students.                                        </div>
                                           </div>
-                                          <div class="col-md-5 col-sm-5">
+                                          <div class="col-md-5 col-sm-3">
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="campus_life.php">Overview</a></li>
                                                   <li id="link-style"><a href="event.php">Events &amp; Attractions</a></li>
