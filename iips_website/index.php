@@ -30,7 +30,7 @@
   	<!-- Wrapper for slides -->
   	<div class="carousel-inner" role="listbox">
     	<div class="item active">
-      		<img src="images/iips_new.jpg" height="300" alt="...">
+      		<img src="images/iips_new.jpg" alt="...">
       		<div class="carousel-caption">
       		</div>
     	</div>
@@ -46,7 +46,6 @@
           <div class="carousel-caption">
           </div>
       </div>
-
   	</div>
 
   	<!-- Controls -->
@@ -68,7 +67,7 @@
   		  		<div class="col-md-5">
 	     		      <h4 class="heading-color"><br>At IIPS</h4>
 	      			      <div id="image-effect">
-	          			      <img src="images/3.jpg" class="img-responsive" alt="Responsive image" id="img">
+	          			      <img src="images/atiips.jpg" class="img-responsive" alt="At IIPS" id="img">
 	     			        </div>    
     		  	</div>
     		  	
@@ -76,7 +75,7 @@
             		<h4 class="heading-color"><br>Vision and Mission</h4>
             		<div class="container-fluid">
               			<div class="text-justify"> 
-                			To generate new knowledge and an enhancing ambience in which new ideas and creativity flourish.<hr>
+                      Become a globally recognized institute in management, computer science and commerce through creating an environment of excellence<hr>
                 			To craft best computer science and IT professionals who can Design, Develop and Manage computer applications<hr>
                 			To develop human intellectual capability to its fullest potential.
               			</div>
@@ -137,7 +136,7 @@
       <div class="container">
         <div class="row">
           <span><h1>Events</h1></span>
-          <span class="visible-lg visible-sm"><a class="special-btn" href="#">SEE MORE EVENTS</a></span>
+          <span class="visible-lg visible-sm"><a class="special-btn" href="event.php">SEE MORE EVENTS</a></span>
           <br>
         </div>
 
@@ -146,7 +145,7 @@
               <img src="images/xpression.jpg" class="img-responsive"/>
               <h3>Xpression</h3>
               <hr/>
-              <p>It is the second biggest cultural event of indore. It include more than 70 events and sponsored by many important brands.</p>
+              <p>It is the second biggest cultural event of indore. It include more than 70 events and sponsored by many famous brands.</p>
           </div>
       
           <div class="col-sm-4 col-md-4 col-lg-4 inner-event">
