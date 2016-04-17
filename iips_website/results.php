@@ -35,7 +35,7 @@
     <div class="col-md-9">
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">MCA 6yrs</h3>
+            <h3 class="text-center"><b>MCA 6yrs</b></h3>
             <table align="center" border="1px" class="table" >
                   <tr class="style-row"> <td>Semesters</td> <td>Download Links</td>  </tr>     
                   <tr> <td>Semester - II </td> <td> <a href="downloads/result/JAN-MAY2013/mca 6 yr ii sem.pdf">Download</a> </td> </tr>
@@ -49,7 +49,7 @@
         </div>
 
     <div role="tabpane2" class="tab-pane" id="tab2">
-    <h3 class="text-center">M.Tech 5 <sup>1/2yrs</sup></h3>  
+    <h3 class="text-center"><b>M.Tech 5 <sup>1/2yrs</sup></b></h3>  
         <table align="center" border="1px" class="table" >
                         <tr class="style-row"> <td>Semesters</td> <td>Download Links</td>  </tr>
                           
@@ -85,7 +85,7 @@
     </div>
 
     <div role="tabpane3" class="tab-pane" id="tab3">
-    <h3> MBA MS 5yrs </h3>  
+    <h3 class="text-center"><b>MBA MS 5yrs</b></h3>  
      <div class="row margin-top">
       <table align="center" border="1px" class="table" >
                           <tr style="color:#FFFFFF; background-color:#333333"> <td>Semesters</td> <td>Download Links</td>  </tr>
@@ -158,7 +158,7 @@
     </div>
 
     <div role="tabpane4" class="tab-pane" id="tab4">
-    <h3> B.Com Hons </h3>  
+    <h3 class="text-center"><b>B.Com Hons</b></h3>  
       <table align="center" border="1px" class="table" >
                       <tr style="color:#FFFFFF; background-color:#333333"> <td>Semesters</td> <td>Download Links</td>  </tr>
                         
@@ -184,7 +184,7 @@
     </div>
 
     <div role="tabpane5" class="tab-pane" id="tab5">
-    <h3> MBA TA 2yrs </h3>  
+    <h3 class="text-center"><b>MBA TA 2yrs</b> </h3>  
       <table align="center" border="1px" class="table" >
                       <tr style="color:#FFFFFF; background-color:#333333"> <td>Semesters</td> <td>Download Links</td>  </tr>
                         
@@ -203,7 +203,7 @@
                         </table>
                           
     </div><div role="tabpane6" class="tab-pane" id="tab6">
-    <h3> MBA APR 2yrs </h3>  
+    <h3 class="text-center"> <b>MBA APR 2yrs</b> </h3>  
       <table align="center" border="1px" class="table" >
                         <tr style="color:#FFFFFF; background-color:#333333"> <td>Semesters</td> <td>Download Links</td>  </tr>
                           
@@ -222,7 +222,7 @@
     </div>
 
     <div role="tabpane7" class="tab-pane" id="tab7">
-    <h3> MBA MS 2yrs </h3>  
+    <h3 class="text-center"> <b>MBA MS 2yrs</b> </h3>  
       <table align="center" border="1px" class="table" >
                                   <tr style="color:#FFFFFF; background-color:#333333"> <td>Semesters</td> <td>Download Links</td>  </tr>
                                     
