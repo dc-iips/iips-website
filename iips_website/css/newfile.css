@@ -117,7 +117,7 @@ a:hover{
 .navbar-underline:hover {
 		border-bottom:2px solid #C0CAD3;
 		border-bottom-color: #C0CAD3;
-		text-decoration:none;
+		/*text-decoration:none;*/
 		}
 
 .navbar-default .navbar-nav>.open>a,
@@ -231,7 +231,7 @@ a:hover{
       color:red;
       }
 }
-@media only screen and (max-width: 1199px) and (min-width: 768px){
+@media only screen and (max-width: 1200px) and (min-width: 768px){
       #test{
         width:80%;
       }
@@ -247,7 +247,7 @@ a:hover{
       #test2{
         width:21%;
       }
-      #test1{
+      #yamm-down-about, #yamm-down-admission, #yamm-down-academics, #yamm-down-research, #yamm-down-campus{
         margin-top:-2%;
       }
       #test_about{
