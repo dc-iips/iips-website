@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h3 class="text-justify" style="line-height:1.2;">International Institute Of Professional Studies has currently more than 1800 students and 90+ visiting and permanent faculties, it means there is a ratio of 20 students per faculty. The interactive environment with seniors also helps students to manage and understand the things in a better way.</h3>
+            <h4 class="text-justify" style="line-height:1.2;">International Institute Of Professional Studies has currently more than 1800 students and 90+ visiting and permanent faculties, it means there is a ratio of 20 students per faculty. The interactive environment with seniors also helps students to manage and understand the things in a better way.</h4>
           </div>
         </div>
         <br>
@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="news_and_announcements.php">News &amp; Announcements</a></h3>
-                    <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
+                    <p>All the information about institute is available here. So, always get connected.</p>
                 </div>
             </div>
             <br/>
@@ -64,7 +64,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="staff_profile.php">Staff Profile</a></h3>
-                    <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
+                    <p>Information related to staff members is available here.</p>
                 </div>
             </div>
             <br/>
@@ -78,7 +78,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="academic_calendar.php">Academic Calendar</a></h3>
-                    <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
+                    <p>Academic Calendar is an information source and planning document for student, faculty, staff and departments.</p>
                 </div>
             </div>
             <br/>
@@ -91,7 +91,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="faculty_profile.php">Faculty Profile</a></h3>
-                    <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
+                    <p>Information about faculties are available here. Every faculty has their own sites.</p>
                 </div>
             </div>
             <br/>
@@ -103,7 +103,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="results.php">Results</a></h3>
-                    <p>Get step-by-step guidance through the application process, discover scholarships and grants, and walk through the Cal-culator to estimate your financial aid eligibility.</p>
+                    <p>The final outcome of end-semester examination. It is easily downloadable.</p>
                 </div>
             </div>
             <br/>
