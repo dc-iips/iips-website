@@ -31,7 +31,7 @@
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <h3 class="text-center"><b>Official Activities</b></h3>
-            <div id="cp_widget_c53a34dd-fc40-4478-8226-b1212c90c7bf">...</div>
+            <div id="cp_widget_c53a34dd-fc40-4478-8226-b1212c90c7bf"></div>
               <script type="text/javascript">
                 var cpo = []; cpo["_object"] ="cp_widget_c53a34dd-fc40-4478-8226-b1212c90c7bf"; cpo["_fid"] = "AEDAmYtebTAu";
                 var _cpmp = _cpmp || []; _cpmp.push(cpo);
@@ -41,9 +41,11 @@
                 c.parentNode.insertBefore(cp, c); })();
               </script>
             </div>
-
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center"><b>Fun @ Campus</b></h3>     
+            <h3 class="text-center"><b>Fun @ Campus</b></h3>
+            <div>fun gallery</div>
+              
+            </div>    
         </div>
       </div>
  <!-- Table Ends> -->
