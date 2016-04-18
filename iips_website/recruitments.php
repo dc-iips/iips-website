@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="shortcut icon" href="images/favicon.jpg">
-    <title>Home | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
+    <title>Recruitment | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -31,12 +31,12 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">Faculty</h3>
+            <h3 class="text-center"><b>Faculty</b></h3>
             <p>No Vacancy.</p>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">Staff</h3>
+            <h3 class="text-center"><b>Staff</b></h3>
             <p>No Vacancy.</p>
         </div>
       </div>
