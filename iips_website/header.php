@@ -60,10 +60,11 @@
                                             </form> 
                                         </div>
                                         <div class="row">
-                                            <div class="col-xs-6 mybutton">
+                                            <div class="col-xs-5 mybutton">
                                                 <a href="sitemap.php">Sitemap</a>
                                             </div>
-                                            <div class="col-xs-6 mybutton">
+                                            <div class="col-xs-1" ></div>
+                                            <div class="col-xs-5 mybutton">
                                                 <a href="under_construction.php">Feedback</a>
                                             </div>
                                         </div>

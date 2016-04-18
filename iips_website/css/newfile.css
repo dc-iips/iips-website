@@ -220,6 +220,12 @@ a:hover{
 {
   background-color: #003262;
 }
+ 
+       /* Sitemap page CSS*/
+    .rightAlign{text-align: right;}
+    .leftAlign{text-align: left;}
+    .centerAlign{text-align: center;}
+    
 @media only screen and (max-width: 1200px){
       .iips-logo-css 
       {
@@ -231,6 +237,8 @@ a:hover{
       padding:0px 0px;
       color:red;
       }
+
+
 }
 @media only screen and (max-width: 1200px) and (min-width: 768px){
       #test{
@@ -266,11 +274,19 @@ a:hover{
       .nav > li > a{
         padding: 10px 11px;
       }
+        /* Sitemap page CSS*/
+    .rightAlign{text-align: right;}
+    .leftAlign{text-align: left;}
+    .centerAlign{text-align: center;}
 }
 @media only screen and (max-width:767px){
   #no-underline{
-    margin-left: -25px; 
-  }
+    margin-left: -25px; }
+
+
+  .rightAlign{text-align: left;}
+  .leftAlign{text-align: left;}
+  .centerAlign{text-align: left;}
 }
 
 #image-effect{
@@ -329,4 +345,7 @@ a:hover{
 .errow:hover{
   height:10%;
   width:10%;
-};
+}
+
+
+
