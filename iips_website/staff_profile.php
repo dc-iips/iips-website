@@ -31,10 +31,10 @@
     <div class="col-md-9">
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">Non-Teaching Staff</h3>
+            <h3 class="text-center"><b>Non-Teaching Staff</b></h3>
             <table class="table" width="100%" align="center">
             <tbody>
-              <tr style=" background-color:#333333; color:#dddddd; margin:0px 0px 0px 20px; ">
+              <tr>
                 <td width="25%"><b>Name</b></td>
                 <td width="20%"><b>Designation</b></td>
                 <td width="35%"><b>Qualifications</b></td>
@@ -72,10 +72,10 @@
         
         </div>
         <div role="tabpanel" class="tab-pane" id="tab2">
-    <h3> Class III Employees </h3>  
-                                <table width="100%" align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ; ">
+    <h3 class="text-center"> <b>Class III Employees</b> </h3>  
+                                <table width="100%" align="center" class="table">
   
-  <tbody><tr style=" background-color:#333333; color:#dddddd; margin:0px 0px 0px 20px; ">
+  <tbody><tr>
   
   <td><b>&nbsp;&nbsp;Name</b></td>
   
@@ -442,10 +442,10 @@
     </div>
 
         <div role="tabpane3" class="tab-pane" id="tab3">
-    <h3>Class IV Employees</h3>
-         <table width="100%" align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ; ">
+    <h3 class="text-center"><b>Class IV Employees</b></h3>
+         <table width="100%" align="center" class="table">
   
-  <tbody><tr style=" background-color:#333333; color:#dddddd; margin:0px 0px 0px 20px; ">
+  <tbody><tr>
   
   <td><b>&nbsp;&nbsp;Name</b></td>
   

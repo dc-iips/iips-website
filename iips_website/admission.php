@@ -18,13 +18,13 @@
   <body>
 <?php include 'header.php';?>
     <div>
-        <img src="images/admission.jpg" class="img-responsive" style="width:100%;height:320px;"/>
+        <img src="images/045.jpg" class="img-responsive" style="width:100%;height:320px;"/>
     </div>
 
     <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h3 class="text-justify" style="line-height:1.2;">The Devi Ahilya Vishwavidhalaya, Indore, is A grade accredited by NAAC. Over 15,000 students attend classes in 32 colleges and schools, offering 100 degree programs. International Institute Of Professional Studies is the most popular among these colleges. For admission students have to crack Common Entrance Test (CET) Exam. </h3>
+            <h4 class="text-justify" style="line-height:1.2;">The Devi Ahilya Vishwavidhalaya, Indore, is A grade accredited by NAAC. Over 15,000 students attend classes in 32 colleges and schools, offering 100 degree programs. International Institute Of Professional Studies is the most popular among these colleges. For admission students have to crack Common Entrance Test (CET) Exam. </h4>
           </div>
         </div>
         <br>
@@ -48,7 +48,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="fee_structure.php">Fees Structure</a></h3>
-                    <p>Get step-by-step guidance through the application process, discover scholarships and grants, and walk through the Cal-culator to estimate your financial aid eligibility.</p>
+                    <p>The fee structure is available here. Students also get scholarship according to goverment rules.</p>
                 </div>
             </div>
             <br/>

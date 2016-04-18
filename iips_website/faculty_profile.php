@@ -30,7 +30,7 @@
     <div class="col-md-9">
        <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3>Computer Faculty</h3>
+                <h3 class="text-center"><b>Computer Faculty</b></h3>
                     <table class="table">
                           <tbody>
                               <tr>
@@ -238,9 +238,9 @@
        
         </div>
         <div role="tabpanel" class="tab-pane" id="tab2">
-    <h3> Management Faculty </h3>  
-      <table width="100%" align="center" border="1px" class="table" style = "cell-padding : 10px 10px 10px 10px ;text-align : justify ; ">
-  <tbody><tr style=" background-color:#333333; color:#dddddd; margin:0px 0px 0px 20px; ">
+    <h3 class="text-center"><b> Management Faculty </b></h3>  
+      <table width="100%" align="center" class="table table-responsive">
+  <tbody><tr>
   <td width="25%"><b>Name</b></td>
   <td width="20%"><b>Designation</b></td>
   <td width="35%"><b>Qualifications</b></td>

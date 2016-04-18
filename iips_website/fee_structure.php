@@ -216,7 +216,7 @@
                   <th> Sem. </th>
                   <th> Sem. Fees </th>
                   <th> Extra Misc Fee</th> 
-                  <th> Dev & Misc Fees</th>
+                  <th> Dev &amp; Misc Fees</th>
                   <th> Uni. Fees Boys </th>
                   <th> Uni. Fees Girls</th>
                   <th> Total Fees Boys</th>
@@ -296,7 +296,7 @@
                             <th> Sem. </th>
                             <th> Sem. Fees </th>
                             <th> Extra Misc Fee</th> 
-                            <th> Dev & Misc Fees</th>
+                            <th> Dev &amp; Misc Fees</th>
                             <th> Uni. Fees Boys </th>
                             <th> Uni. Fees Girls</th>
                             <th> Total Fees Boys</th>
@@ -340,7 +340,7 @@
                                   <th> Sem. </th>
                                   <th> Sem. Fees </th>
                                   <th> Extra Misc Fee</th> 
-                                  <th> Dev & Misc Fees</th>
+                                  <th> Dev &amp; Misc Fees</th>
                                   <th> Uni. Fees Boys </th>
                                   <th> Uni. Fees Girls</th>
                                   <th> Total Fees Boys</th>
@@ -384,7 +384,7 @@
                   <th> Sem. </th>
                   <th> Sem. Fees </th>
                   <th> Extra Misc Fee</th> 
-                  <th> Dev & Misc Fees</th>
+                  <th> Dev &amp; Misc Fees</th>
                   <th> Uni. Fees Boys </th>
                   <th> Uni. Fees Girls</th>
                   <th> Total Fees Boys</th>
@@ -428,7 +428,7 @@
                   <th> Sem. </th>
                   <th> Sem. Fees </th>
                   <th> Extra Misc Fee</th> 
-                  <th> Dev & Misc Fees</th>
+                  <th> Dev &amp; Misc Fees</th>
                   <th> Uni. Fees Boys </th>
                   <th> Uni. Fees Girls</th>
                   <th> Total Fees Boys</th>

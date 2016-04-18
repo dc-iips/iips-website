@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h3 class="text-justify" style="line-height:1.2;">At IIPS there are separate research center for the technical and management departments. The aim of these research is to discover new ideas and betterment of society.</h3>
+            <h4 class="text-justify" style="line-height:1.2;">At IIPS there are separate research center for the technical and management departments. The aim of these research is to discover new ideas and betterment of society.</h4>
           </div>
         </div>
         <br>

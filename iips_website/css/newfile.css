@@ -43,7 +43,8 @@
  padding-left:2%;
  padding-top:2px;
  padding-bottom:0%;
- height:250px;
+ height:auto;
+ width: 100%;
 }
 #i9{
    background-color:#F2F1EB;
@@ -277,7 +278,8 @@ a:hover{
      -moz-transition: all 5s ease;
        -o-transition: all 5s ease;
       -ms-transition: all 5s ease;
-          transition: all 5s ease;}
+          transition: all 5s ease;
+}
 #image-effect:hover{  
   -webkit-filter: hue-rotate(333deg);
 }

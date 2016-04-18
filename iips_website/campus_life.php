@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h3 class="text-justify" style="line-height:1.2;">A student should study hard to be successful in competitive examinations. But, he should also play games and sports to enjoy the health and vigor of life.</h3>
+            <h4 class="text-justify" style="line-height:1.2;">A student should study hard to be successful in competitive examinations. But, he should also play games and sports to enjoy the health and vigor of life.</h4>
           </div>
         </div>
         <br>
