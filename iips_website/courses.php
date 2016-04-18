@@ -53,7 +53,7 @@
             </div>
   
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center"><b>M.Tech</b></h3>
+                <h3 class="text-center"><b>M.Tech (5<sup>1/2</sup>-years) </b></h3>
                 <p class="text-justify">
                     Our M-Tech (5<sup>1/2</sup>-years) is the only program of its kind in India. IIPS started this course in the year 2002.The students undergo rigorous training, which moulds them into highly competent and focused professionals. 
                     In a period of five and a half years a student studies a total of 57 subjects. The course structure is designed keeping in mind the overall development of the student.
