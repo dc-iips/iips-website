@@ -32,7 +32,7 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">Internal Quality Assurance Cell (IQAC)</h3>
+            <h3 class="text-center"><b>Internal Quality Assurance Cell (IQAC)</b></h3>
             <p class="text-justify">
               <b>The objectives of the IQAC are</b>
               <li>To ensure continuous improvement in the entire operations of the University and</li>
@@ -52,16 +52,16 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">IQAC Committee</h3>     
+            <h3 class="text-center"><b>IQAC Committee</b></h3>     
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
-            <h3 class="text-center">IQAC Guideliness</h3>
+            <h3 class="text-center"><b>IQAC Guideliness</b></h3>
             For IQAC guideline <a href="iqac_guide.pdf" target="_new">click here</a>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab4">
-            <h3 class="text-center">IQAC Report</h3>
+            <h3 class="text-center"><b>IQAC Report</b></h3>
             For IQAC report <a href="iqac_report.pdf" target="_new">click here</a>
         </div>
       </div>
