@@ -30,7 +30,7 @@
     <div class="col-md-9">
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3 class="text-center">Press Release</h3>
+                <h3 class="text-center"><b>Press Release</b></h3>
                     <a href=""> Press release for the Seminar on HIV AIDS and Blood Donation Awareness</a><br>
                     <a href="">Press release for the Reboot event held on 17-sep-2014</a><br>
                     <a href=""> Press release for the NSS </a><br>
@@ -39,7 +39,7 @@
             </div>
             
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center">Ordinances</h3>     
+                <h3 class="text-center"><b>Ordinances</b></h3>     
                     <a href="">Grading Scheme- Ordinance 31</a><br>
                     <a href=""> Conduct of Examination - Ordinance 5</a><br>
                     <a href="">Examinations -Ordinance 6</a><br>
@@ -47,7 +47,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab3">
-                <h3 class="text-center">Guidelines for Admission</h3>
+                <h3 class="text-center"><b>Guidelines for Admission</b></h3>
                 Guidelines for Admission 2016 <a href="">View &amp; download</a>
             </div>
         </div>
