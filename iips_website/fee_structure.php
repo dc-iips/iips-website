@@ -29,7 +29,7 @@
         <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(MS-2 years)</a></li>
         <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(TA-2 years)</a></li>
         <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(APR-2 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.COM(Hons.)</a></li>
+        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.COM(Hons-2 years)</a></li>
       </ul>
       <br>
     </div>
@@ -420,7 +420,7 @@
             </div>
           
             <div role="tabpanel" class="tab-pane" id="tab7">
-            <h3 class="text-center"><b>B.com(Hons.)</b> </h3>
+            <h3 class="text-center"><b>B.com(Hons-2 years)</b> </h3>
             <table class="table table-responsive">
               <tbody>
             <tr>
