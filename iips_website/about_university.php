@@ -33,7 +33,7 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center"> Devi Ahilya University </h3>
+            <h3 class="text-center"><b> Devi Ahilya University </b></h3>
             <p class="text-justify"> 
                 DAVV Indore (formerly, university of Indore) was established in 1964 by an Act of legislature of Madhya Pradesh. 
                 The University is supported by both the State Government and the University Grants Commission, New Delhi.
@@ -62,11 +62,12 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">Hon'ble Vice-Chancellor </h3>
-             <center><img src="images/Vice Chancellor.jpg" class="img-rounded" alt="Photo Vice Chancellor" width="15%" height="15%">
-               <a href="" style="text-decoration:none"> <h6>Prof. (Dr.) Ashutosh Mishra</h6>
-                <h6>( Vice-Chancellor) </h6></a>
-             </center>
+            <h3 class="text-center"><b>Hon'ble Vice-Chancellor </b></h3>
+             <div  style="float:right;padding-left:5px;"  width="15%" height="15%">
+             <img src="images/Vice Chancellor.jpg" class="img-rounded" alt="Photo Vice Chancellor">
+               <h6>Prof. (Dr.) Ashutosh Mishra</h6>
+                <h6>( Vice-Chancellor) </h6>
+            </div>
             <p class="text-justify">
                 Dr. Ashutosh Mishra Professor in Physics and he did his M. Sc. in 1981 and Ph.D. in X-ray spectroscopy in 1987 from Vikram University Ujjain. 
                 Dr. Mishra joined School of Physics, Devi Ahilya Vishwavidyalaya [DAVV], Indore in 1993. He has published more than one hundred fifty research papers in International/National journals and successfully supervised 24 students for their Ph.D. work and also supervised twenty M. Phil. students 
@@ -77,7 +78,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
-            <h3 class="text-center">Various Departments</h3>  
+            <h3 class="text-center"><b>Various Departments</b></h3>  
             <table class="table table-stripped" >
                 <tbody>
                     <tr>          
@@ -270,7 +271,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab4">
-            <h3 class="text-center">University Auditorium</h3>                   
+            <h3 class="text-center"><b>University Auditorium</b></h3>                   
             <p class="text-justify"> 
               The University has a well-equipped air-conditioned auditorium for different academic activities with 1200 
               seating capacity.This auditorium has been hosting one of the biggest Seminars and Conventions of India. 
@@ -288,7 +289,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab5">
-        <h3 class="text-center">IT Center</h3>
+        <h3 class="text-center"><b>IT Center</b></h3>
         <p class="text-justify"> 
             IT Centre was established in the year 2000 to create a Campus Wide Network by interconnecting various campuses and 
             departments. First phase which was completed in April 2001, networked 18 departments having 524 nodes. Second phase
