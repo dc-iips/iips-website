@@ -22,7 +22,7 @@
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li role="presentation" id="colm" class="active" ><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Academic Calendar</a></li>   
-        <li role="presentation" id="colm" ><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp; Local Holidays </a></li>   
+        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp; Local Holidays </a></li>   
       </ul>
     </div>
 
@@ -38,7 +38,7 @@
                 <div class="col-md-1"></div>
             </div>
         </div>
-        <div role="tabpanel" class="tab-pane active" id="tab2">
+        <div role="tabpanel" class="tab-pane" id="tab2">
             <h3 class="text-center">Local Holidays</h3> <br/> <br/>
             <div class="row">
                 <div class="col-md-1"></div>
@@ -54,6 +54,6 @@
     </div><!--Col-md-9 End> -->
   </div>
 </div>
-</div>
+
 <br>
 <?php include 'footer.php'; ?>
