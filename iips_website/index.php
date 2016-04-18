@@ -124,7 +124,7 @@
             		</div>
         
             		<br>
-            		<div class="text-center"><a href="">MORE NEWS</a></div><br>
+            		<div class="text-center"><a href="news_and_announcements.php">MORE NEWS</a></div><br>
     		  	</div>
     		  	
   		  </div><!--row-->
@@ -152,14 +152,14 @@
                 <img src="images/synergypic.jpg" class="img-responsive"/>
                 <h3>Synergy</h3>
                 <hr/>
-                <p>Intra College sports event of institute.It includes all major sports like crickets, football, chess, volleyball.</p>
+                <p>Intra College sports event of institute.It includes all major sports like crickets, football, chess, volleyball etc.</p>
           </div>
       
           <div class="col-sm-4 col-md-4 col-lg-4 inner-event">
               <img src="images/touristapic.jpg" class="img-responsive"/>
               <h3>Tourista</h3>
               <hr/>
-              <p>Cultural event initiated by MBA-Tourism for world tourism day. It includes various events like dance, treasure hunt, best of waste.</p>
+              <p>Cultural event initiated by MBA-Tourism for world tourism day. It includes various events like dance, treasure hunt, best of waste etc.</p>
           </div>
         </div><!--row-->
       </div><!--Container-->
