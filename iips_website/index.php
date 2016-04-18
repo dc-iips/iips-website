@@ -46,6 +46,13 @@
           <div class="carousel-caption">
           </div>
       </div>
+
+      <div class="item">
+          <img src="images/slider4.jpg" alt="...">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
   	</div>
 
   	<!-- Controls -->
