@@ -45,12 +45,12 @@
       <div class="col-md-3 col-sm-3 text-left">
           <h3>Academic</h3><hr>
           <p><a href="academics.php">Overview</a></p>
-          <p><a href="programs.php">Programs</a></p>
+          <p><a href="syllabus.php">Syllabus</a></p>
           <p><a href="academic_calendar.php">Academic Calendar</a></p>
           <p><a href="news_and_announcements.php">News and Announcement</a></p>
           <p><a href="faculty_profile.php">Faculty Profile</a></p>
           <p><a href="staff_profile.php">Staff Profile</a></p>
-          <p><a href="results.php">Result</a></p>
+          <p><a href="results.php">Results</a></p>
       </div>
     </div>
     <div class="row">
@@ -59,7 +59,7 @@
           <h3>Research</h3><hr>
           <p><a href="research.php">Overview</a></p>
           <p><a href="development_center.php">Development Center</a></p>
-          <p><a href="publication.php">Publications</a></p>
+          <p><a href="publication.php">Publication</a></p>
           <p><a href="research_center.php">Research Center</a></p></span>
     </div>
          <div class="col-md-2"></div> 

@@ -28,8 +28,8 @@
                     <h4 class="visible-xs visible-sm">RTI</h4>
                     <h4 class="visible-md visible-lg" style="padding-left:10%">RTI</h4>
                     <li><a href="press_release.php" >Press Release</a></li>
-                    <li><a href="iqac.php" >IQAC</a></li>
-                    <li><a href="press_release.php" >Ordinances</a></li>
+                    <li><a href="iqac.php" >Ordinances</a></li>
+                    <li><a href="press_release.php" >IQAC</a></li>
                     <li><a href="recruitments.php" >Recruitments</a></li>
                     <li><a href="greviances.php" >Greviances</a></li>
                   </ul>
@@ -50,7 +50,7 @@
                     <h4>Downloads</h4>
                     <li><a href="academic_calendar.php" >Academic Calendar</a></li>
                     <li><a href="syllabus.php" >Syllabus</a></li>
-                    <li><a href="results.php" >Result </a></li>
+                    <li><a href="results.php" >Results </a></li>
                     <li><a href="under_construction.php" >Course PPTs</a></li>
                   </ul>
                 </div>
