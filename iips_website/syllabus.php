@@ -74,7 +74,7 @@
             	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VIII - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
             	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IX - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
            <span class="hidden-sm hidden-xs"><br><br></span>
-            	<div class="col-md-4 col-md-offset-2 col-sm-6 col-xs-6">Semester - X - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - X - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
             	<div class="col-md-5 col-sm-6 col-xs-6">Semester - XI - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
             </div>
         </div> <!--tab2 End-->
@@ -94,7 +94,7 @@
             	<div class="col-md-4 col-sm-6 col-xs-6">Semester - VIII - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
             	<div class="col-md-4 col-sm-6 col-xs-6">Semester - IX - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	
            <span class="hidden-sm hidden-xs"><br><br></span>
-            	<div class="col-md-4 col-md-offset-4 col-sm-6 col-xs-6">Semester - X - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	  	
+            	<div class="col-md-4 col-sm-6 col-xs-6">Semester - X - <a href="pdf_server.php?file=static/pdf/MCA_I.pdf">Download</a></div>    	  	
             </div>
         </div> <!--tab3 End-->
 
