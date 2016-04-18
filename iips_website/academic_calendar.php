@@ -21,15 +21,16 @@
   <div class="row">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
+         <h4> <b> &nbsp; Academic Calendar </b> </h4>
         <li role="presentation" id="colm" class="active" ><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Academic Calendar</a></li>   
         <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp; Local Holidays </a></li>   
       </ul>
     </div>
-
+    
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">Academic Calendar</h3>
+            <h3 class="text-center"><b> Academic Calendar </b></h3>
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
@@ -39,7 +40,7 @@
             </div>
         </div>
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">Local Holidays</h3> <br/> <br/>
+            <h3 class="text-center"><b> Local Holidays </b></h3> <br/> <br/>
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
