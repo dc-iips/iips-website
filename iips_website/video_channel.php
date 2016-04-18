@@ -30,7 +30,7 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">Video Channel</h3>
+            <h3 class="text-center"><b>Faculties Channel</b></h3>
             <p class="text-justify">Some of the featured youtube channel from our faculties are as follows:</p>
             <div class="col-md-12">
               <div class="col-md-6">
@@ -61,7 +61,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">Video Channel</h3>
+            <h3 class="text-center"><b>Students Channel</b></h3>
             <p class="text-justify">Some of the featured youtube channel from our Students are as follows:</p>
             <div class="col-md-12">
               <div class="col-md-6">
