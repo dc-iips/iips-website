@@ -24,19 +24,19 @@
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Fees Structure</b> </li>
         <li role="presentation" id="colm" class="active" ><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MCA(6 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;M.TECH</a></li>
-        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(MS)</a></li>
+        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;M.TECH(5<sup>1/2</sup> years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(MS-5 years)</a></li>
         <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(MS-2 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(TA)</a></li>
-        <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(APR)</a></li>
-        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.COM(Hons)</a></li>
+        <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(TA-2 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(APR-2 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.COM(Hons.)</a></li>
       </ul>
       <br>
     </div>
     <div class="col-md-9">
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3 class="text-center">MCA</h3>
+                <h3 class="text-center"><b>MCA(6 years)</b></h3>
                 <table class="table" width="100%">
                     <tbody>
                         <tr>
@@ -128,7 +128,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center">M.TECH</h3>
+                <h3 class="text-center"><b>M.TECH(5<sup>1/2</sup> years)</b></h3>
                 <table class="table table-responsive">
                     <tbody>
                     <tr>
@@ -208,7 +208,7 @@
             </div>
         
             <div role="tabpanel" class="tab-pane" id="tab3">
-          <h3 class="text-center">MBA(Management Science)-5 Yrs Integrated Program: (3 Year BBA + 2 Year MBA)</h3>
+          <h3 class="text-center"><b>MBA(MS-5 years)</b></h3>
           <table class="table table-responsive">
             <tbody>
                 <tr>
@@ -288,7 +288,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab4">
-                <h3 class="text-center">MBA(Management Science) - 2 Years</h3>
+                <h3 class="text-center"><b>MBA(MS-2 years)</b></h3>
                 <table class="table table-responsive">
                     <tbody>
                         <tr>
@@ -332,7 +332,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab5">
-                <h3 class="text-center">MBA(Tourism Administration)</h3>
+                <h3 class="text-center"><b>MBA(TA-2 years)</b></h3>
                     <table class="table table-responsive">
                           <tbody>
                               <tr>
@@ -376,7 +376,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab6">
-        <h3 class="text-center">MBA(APR)</h3>
+        <h3 class="text-center"><b>MBA(APR-2 years)</b></h3>
         <table class="table table-responsive">
           <tbody>
             <tr>
@@ -420,7 +420,7 @@
             </div>
           
             <div role="tabpanel" class="tab-pane" id="tab7">
-            <h3 class="text-center">B.com(Hons) </h3>
+            <h3 class="text-center"><b>B.com(Hons.)</b> </h3>
             <table class="table table-responsive">
               <tbody>
             <tr>
