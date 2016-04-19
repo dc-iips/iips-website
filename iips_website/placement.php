@@ -41,13 +41,13 @@
             <br><br>
               -- Please feel free to contact us at any point of time for any information or queries.
             <br><br>
-                  Imroz Khan
+                 <a href=""> Imroz Khan </a>
             <br><br>
                   <i class="fa fa-mobile fa-lg"></i>&nbsp;Mob.No.+919425351233
             <br><br>
                   <i class="fa fa-phone fa-lg"></i>&nbsp;Off -91-0731-2468507
             <br><br>
-                  <i class="fa fa-envelope-o fa-fw"></i>&nbsp;Email - imroz@iips.edu.in</p>
+                  <i class="fa fa-envelope-o fa-fw"></i>&nbsp;Email - <a>imroz@iips.edu.in,</a></p>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">

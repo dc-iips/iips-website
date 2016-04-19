@@ -39,7 +39,7 @@
                                   <td><b>Qualifications</b></td>
                                   <td><b>Responsibility</b></td>
                               </tr>
-  
+                          </tbody>
   
    
    <tr>
