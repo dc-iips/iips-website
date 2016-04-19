@@ -40,31 +40,33 @@
                 <td width="35%"><b>Qualifications</b></td>
                 <td width="20%"><b>Discipline</b></td>  
               </tr>
-              <tr>
-                  <td>Mr.&nbsp;Imroz Khan</td>
-                  <td>Software Engineer, Placement Officer</td>
-                  <td>B.E.(Electronics)</td>
-                  <td>TPO</td>
-              </tr> 
-              <tr>
+                    <tr>
   <td>Mr.&nbsp;Yogendra Bawal</td>
   <td>Network Administrator, Admin Officer</td>
   <td>M.Sc.(Electronics. &amp; Communication)
   <br>CCNA,</td>
   <td>AO</td>
   </tr> 
-   <tr>
-  <td>Mr.&nbsp;Almas Nabi</td>
-  <td>Programmer</td>
-  <td>M.Tech.(CS), M.Sc.(CS)</td>
-  <td>Computer Lab</td>
-  </tr> 
+              <tr>
+                  <td>Mr.&nbsp;Imroz Khan</td>
+                  <td>Software Engineer, Placement Officer</td>
+                  <td>B.E.(Electronics)</td>
+                  <td>TPO</td>
+              </tr> 
+              
    <tr>
   <td>Mr.&nbsp;Sanjay Narsinghani</td>
   <td>Programmer</td>
   <td>MCA</td>
   <td>Computer Lab</td>
   
+  </tr> 
+        
+   <tr>
+  <td>Mr.&nbsp;Almas Nabi</td>
+  <td>Programmer</td>
+  <td>M.Tech.(CS), M.Sc.(CS)</td>
+  <td>Computer Lab</td>
   </tr> 
   
   
