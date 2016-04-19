@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="shortcut icon" href="images/favicon.jpg">
-    <title>Development Center | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
+    <title>Academic_calendar | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/newfile.css" rel="stylesheet">

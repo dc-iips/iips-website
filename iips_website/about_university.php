@@ -66,7 +66,7 @@
              <div  style="float:right;padding-left:5px;"  width="15%" height="15%">
              <img src="images/Vice Chancellor.jpg" class="img-rounded" alt="Photo Vice Chancellor">
                <h6>Prof. (Dr.) Ashutosh Mishra</h6>
-                <h6>( Vice-Chancellor) </h6>
+                <h6><center>( Vice-Chancellor) </center></h6>
             </div>
             <p class="text-justify">
                 Dr. Ashutosh Mishra Professor in Physics and he did his M. Sc. in 1981 and Ph.D. in X-ray spectroscopy in 1987 from Vikram University Ujjain. 
@@ -84,7 +84,7 @@
                     <tr>          
                         <tr>
                             <td>
-                                <a href="http://www.pvsysgroup.us/davv/front">School of Biochemistry</a>
+                                <a href="http://www.biochem.dauniv.ac.in/">School of Biochemistry</a>
                             </td>
                         </tr>
                         <tr>
@@ -167,7 +167,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="http://www.dauniv.ac.in/new/sclc/index.php">School of  Languages</a>
+                                <a href="http://www.dauniv.ac.in/new/sclc/index.php">School of Languages</a>
                             </td>
                         </tr>
                         <tr>
@@ -231,7 +231,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="http://www.asc.dauniv.ac.in/">Academic Staff College</a>
+                                <a href="http://ugchrdcdauniv.in/contact">Academic Staff College</a>
                                 <b>(ASC)</b>
                             </td>
                         </tr>
@@ -249,7 +249,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="http://www.cebdavv.ac.in/">Centre for e-Business</a>
+                                <a href="http://www.dauniv.ac.in/UniversityHandBook/15.Center%20of%20Potential%20of%20Excellence%20in%20e-Management%20studies.htm">Centre for e-Business</a>
                                 <b>(CeB)</b>
                             </td>
                         </tr>
@@ -261,7 +261,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="http://www.emrcdavv.edu.in/home.html">Educational Multimedia Research Centre</a>
+                                <a href="http://www.emrcdavv.edu.in/">Educational Multimedia Research Centre</a>
                                 <b>(EMRC)</b>
                             </td>
                         </tr>
