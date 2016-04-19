@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="shortcut icon" href="images/favicon.jpg">
-    <title>Development Center | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
+    <title>News and Announcements | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/newfile.css" rel="stylesheet">
@@ -21,6 +21,7 @@
   <div class="row">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
+        <li class="navbar-brand"> <b>News &amp; Announcements</b> </li>
         <li role="presentation" id="colm" class="active" ><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;News and Announcements</a></li>
       </ul>
     </div>
@@ -28,8 +29,8 @@
     <div class="col-md-9">
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-    <h4 class="heading-color">News and Announcements</h4>
-            <div class="row">
+             <h3 class="text-center"><b>News and Announcements</b></h3><br>
+               <div class="row">
                   <div class="col-md-3 col-xs-3">
                     <li id="list">JAN<br><span id="i10">21</span></li>
                   </div>

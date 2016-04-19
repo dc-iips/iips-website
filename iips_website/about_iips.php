@@ -33,7 +33,7 @@
     <div class="col-md-9">
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3 class="text-center">Overview</h3>
+                <h3 class="text-center"><b>Overview</b></h3>
                 <p class="text-justify">  
                     The International Institute of Professional Studies, a department of Devi Ahilya Vishwavidyalaya established
                     in the year 1992 is an academic mentor of its kind and an eminently practical graduate and postgraduate 
@@ -54,7 +54,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center"> Director </h3>     
+                <h3 class="text-center"><b> Director </b></h3>     
                 <b>Meet the Director</b>
                 <div class="row" >
                     <div class="col-md-9 text-justify">
@@ -94,8 +94,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab3">
-                <h3 class="text-center">Objective &amp; Vision</h3><br><br>
-                <b>What we Think</b><br><br>
+                <h3 class="text-center"><b>Objective &amp; Vision</b></h3><br><br>
                 <div><b>Objectives</b></div>
                 <ul>
                     <li>To develop best scholars in the field of science,technology and management</li>
@@ -107,13 +106,13 @@
                     <li>To provide social and moral values to students and become pride in national heritage.</li>
                 </ul><br>
   
-                <div><b>Vision</b></div><br>
+                <div><b>Vision</b></div>
                 <p class="text-justify">
                     Become a globally recognized institute in management, computer science and commerce through creating an 
                     environment of excellence
                 </p><br>
   
-                <div><b>Mission</b></div><br>
+                <div><b>Mission</b></div>
                     Our mission in the design and conduct of academic programmes is
                     <ul>
                         <li> To generate new knowledge and an enhancing ambience in which new ideas and creativity flourish.</li>
@@ -123,7 +122,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab4">
-                <h3 class="text-center">IIPS @ Wikipedia</h3>
+                <h3 class="text-center"><b>IIPS @ Wikipedia</b></h3>
                 <b><p class="bg-warning">From Wikipedia, the free encyclopedia</p></b>
                 <p class="text-justify">International Institute of Professional Studies, a department of Devi Ahilya University was set up in 1992. With the quality in the content, scope and professionalism of its programs, IIPS has emerged as one of the best centers of technical education in central India and is recognized by AICTE. It has been placed in the 'B+' category and ranked 24th overall in the Business Standard Survey of best B-Schools of India.</p>
                 <b><p class="bg-warning">Campus</p></b>
@@ -152,7 +151,7 @@
             </div>
     
             <div role="tabpanel" class="tab-pane" id="tab5">
-                <h3 class="text-center">Anti-Ragging Committee</h3>
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
                 <ul><br>
                     <li>Dr. B.K. Tripathi, Director 98270-48326</li>
                     <li>Dr. A.K. Sapre, Professor 94250-78013</li>

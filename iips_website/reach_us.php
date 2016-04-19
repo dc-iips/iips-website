@@ -29,12 +29,12 @@
     <div class="col-md-9">
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3 class="text-center">Map</h3>
+                <h3 class="text-center"><b>Map</b></h3>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1684.529012788025!2d75.87563940172096!3d22.688639624682146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fcc29e3c82ef%3A0x39f47fbb92c83277!2sInternational+Institute+of+Professional+Studies!5e0!3m2!1sen!2sin!4v1459927961611" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center">Visit &amp; Contact </h3>  
+                <h3 class="text-center"><b>Visit &amp; Contact</b> </h3>  
                     <address>
                         <i class="fa fa-university"></i>&nbsp;&nbsp;Devi Ahilya University, Takshashila Campus Khandwa Road , Indore - 452001, INDIA<hr>
                         <i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;Phone - 91-731-2461888<hr>

@@ -181,7 +181,7 @@
                                         </tr>
 
                                         <tr> 
-                                          <td> Semester - IV MARKETING- </td>
+                                          <td> Semester - IV MARKETING </td>
                                           <td> <a href="downloads/result/JAN-MAY2013/mba 2 yr 4 sem marketing.pdf">Download</a></td>
                                         </tr>
 

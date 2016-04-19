@@ -121,7 +121,7 @@
         </div> <!--tab5 End-->
 
         <div role="tabpanel" class="tab-pane " id="tab6">
-            <h3 class="text-center"><b>MBA(FT)-Syllabus</b></h3><br>
+            <h3 class="text-center"><b>MBA(MS-2 years)-Syllabus</b></h3><br>
             <p>To download complete syllabus - <a href="pdf_server.php?file=static/pdf/MBA-MS(2 Yrs)/MBA-2yrs-FT-syllabus.pdf">Click Here</a></p>
         </div> <!--tab6 End-->
 

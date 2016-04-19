@@ -28,7 +28,7 @@
         <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(MS-2 years)</a></li>
         <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(TA-2 years)</a></li>
         <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(APR-2 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.COM(Hons.)</a></li>
+        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.COM(Hons-2 years)</a></li>
       </ul>
     </div>
     <div class="col-md-9">
@@ -185,7 +185,7 @@
             </div>  
 
             <div role="tabpanel" class="tab-pane" id="tab7">
-                <h3 class="text-center"><b>B.com(Hons.)</b></h3>
+                <h3 class="text-center"><b>B.com(Hons-2years)</b></h3>
                 <p class="text-justify">The widely coveted B.Com.(Hons.) course aims at providing comprehensive insight into finance, banking, law, accounting, taxation and management, which play an important role in today's dynamic business environment. If you are aiming for professional courses like C.A., I.C.W.A. / A.C.C.A., and C.S., this is the right starting point. Those aspiring to become entrepreneurs will also find the course valuable. The faculty here is a close-knit community of reputed authors and dedicated and experienced teachers.</p>
                 <h3>Objectives:</h3>
                 <p class="text-justify">B. Com.(Hons.) course is unique course of the institute and in this course students are studying subjects from diverse stream and this provides the students an edge over other students of same discipline. This course is a good blend of subjects from Commerce, Management, Computer, Taxation and Business Legislations. The main objective of this course is to impart knowledge of commerce and allied subjects to the students so that they can get prepared for their higher studies.</p>

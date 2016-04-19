@@ -29,7 +29,7 @@
     <div class="col-md-9">
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3 class="text-center">IIPS History</h3>
+                <h3 class="text-center"><b>IIPS History</b></h3>
                 <p class="text-justify">  
                     The International Institute of Professional Studies, a department of Devi Ahilya Vishwavidyalaya established 
                     in the year 1992 is an academic mentor of its kind and an eminently practical graduate and postgraduate 
@@ -50,7 +50,7 @@
             </div>
             
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center"> Previous Directors </h3> 
+                <h3 class="text-center"><b> Previous Directors</b> </h3> 
                 <table class="table table-responsive">
                     <tr> 
                       <th>Directors</th> 
