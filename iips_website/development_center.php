@@ -34,7 +34,7 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">About DC</h3>
+            <h3 class="text-center"><b>About DC</b></h3>
             <p class="text-justify">
 
                 "We learn most , When we want to invent - Jean Piaget "<br><br>
@@ -71,7 +71,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">Current Projects</h3>
+            <h3 class="text-center"><b>Current Projects</b></h3>
             <table class="table">
                 <thead>
                   <tr>
@@ -89,7 +89,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
-            <h3 class="text-center">Past Project - I</h3>
+            <h3 class="text-center"><b>Past Project-I</b></h3>
             <table class="table table-hover">
                 <thead>
                   <tr>
@@ -177,7 +177,7 @@
                 </tbody>
             </table>
 
-            <h3 class="text-center">Past Project - II</h3>
+            <h3 class="text-center"><b>Past Project-II</b></h3>
             <table class="table table-hover">
                 <thead>
                   <tr>
@@ -217,7 +217,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab4">
-            <h3 class="text-center">Open Source Initiatives</h3>
+            <h3 class="text-center"><b>Open Source Initiatives</b></h3>
             <p class="text-justify">Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose.</p>
             <h5>We Recommend Using</h5><br>
             
@@ -244,7 +244,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab5">
-            <h3 class="text-center">Mentor</h3>
+            <h3 class="text-center"><b>Mentor</b></h3>
                 <div class="row">
                   <div class="col-md-4"></div>
                   <div class="col-md-4 text-center">
@@ -253,7 +253,7 @@
                   </div>
                   <div class="col-md-4"></div>
                 </div>
-              <h3 class="text-center">Members</h3><br>
+              <h3 class="text-center"><b>Members</b></h3><br>
               <p class="text-justify"><h4>Here is the list of our dedicated members.<h4></p><br>
               <div class="col-md-12 col-xs-6"><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
@@ -270,7 +270,7 @@
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="images/rupam.jpg" alt="Rupam Wadia" width="55" height="55">
-                          <a href="rupam-wadia.branded.me">Rupam Wadia</a>
+                          <a href="">Rupam Wadia</a>
                       </div>
               </div>
               <div class="col-md-12 col-xs-6"><br><br>
@@ -300,4 +300,5 @@
     </div>
   </div>
 </div>
+<br>
 <?php include 'footer.php'; ?>

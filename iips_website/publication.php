@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="shortcut icon" href="images/favicon.jpg">
-    <title>Development Center | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
+    <title>Publication | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/newfile.css" rel="stylesheet">
@@ -31,7 +31,8 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">Technical</h3>
+            <h3 class="text-center"><b>Technical</b></h3>
+            <center><b>Research, Publication and Academic Contribution</b></center>
             <a>Published Papers in Journals</a>
             <table class="table table-hover">
                 <thead>
@@ -121,7 +122,8 @@
         </div>
 
         <div role="tabpanel" class="tab-pane text-justify" id="tab2">
-            <h3 class="text-center">Research, Publication and Academic Contribution</h3>
+            <h3 class="text-center"><b>Management</b></h3>
+            <center><b>Research, Publication and Academic Contribution</b></center>
             <a>Published Papers in Journals</a>
             <table class="table table-hover">
                 <thead>

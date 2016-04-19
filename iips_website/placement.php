@@ -31,7 +31,7 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center">About Placement Cell</h3>
+            <h3 class="text-center"><b>About Placement Cell</b></h3>
             <p class="text-justify"> <br>I feel honoured to invite you to this world of professionalism and commitment.<br><br>
 
                   The world progresses ahead with new technologies mushrooming almost everyday. In such a scenario someone should take responsibility to train the young generation in the right direction, so that they are at par with the latest technologies. I take pride in announcing that IIPS is one such institution, which has not only taken the above responsibility but is also handling it proficiently. Our latest batch of young professionals is working hard to be an essential part of this dynamic software industry. The intensive training and the encouraging learning environment of our institute has grilled in them not only an extensive subject knowledge but also a sense of commitment, diligence and the value of hard work.
@@ -51,7 +51,7 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center">Management</h3>
+            <h3 class="text-center"><b>Management</b></h3>
             <p class="text-justify"><table class="table table-striped">
     <thead>
       <tr>
@@ -179,7 +179,7 @@
     </tbody>
   </table></p>
             
-     <h3 class="text-center">Technical</h3>
+     <h3 class="text-center"><b>Technical</b></h3>
             <p class="text-justify">
               <table class="table table-striped">
     <thead>
@@ -270,10 +270,11 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
-            <h3 class="text-center">Technical Companies</h3>
-            <img src="images/technical_logo.jpg" class="img-responsive">
-            <h3 class="text-center">Management Companies</h3>
+            <h3 class="text-center"><b>Management Companies</b></h3>
             <img src="images/management_logo.jpg" class="img-responsive">
+            <h3 class="text-center"><b>Technical Companies</b></h3>
+            <img src="images/technical_logo.jpg" class="img-responsive">
+            
         </div>
       </div>
  <!-- Table Ends> -->
