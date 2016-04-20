@@ -70,10 +70,10 @@
                 <img class="img-circle img-responsive" id="centralized" src="images/rajat.jpg" alt="Rajat Garg">
                 <h3>Rajat Garg<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href="" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="https://twitter.com/RajatTheVampire" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/RajatGargOfficial" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://www.linkedin.com/in/rajatgarg94?trk=nav_responsive_tab_profile" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="https://plus.google.com/u/0/+RajatGargOfficial" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
