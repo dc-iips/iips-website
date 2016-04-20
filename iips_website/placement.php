@@ -265,6 +265,36 @@
         <td>Amdocs</td>
         <td>MCA/M.Tech</td>
       </tr>
+      <tr>
+        <td>16</td>
+        <td>Tata Consultancy Services</td>
+        <td>MCA/M.Tech</td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td>Tech-Mahindra</td>
+        <td>MCA/M.Tech</td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td>Impetus</td>
+        <td>MCA/M.Tech</td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td>Accenture</td>
+        <td>MCA/M.Tech</td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td>ATOS</td>
+        <td>MCA/M.Tech</td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td>Adobe</td>
+        <td>MCA/M.Tech</td>
+      </tr>
     </tbody>
   </table></p>
         </div>
