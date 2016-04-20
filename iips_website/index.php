@@ -55,6 +55,11 @@
           </div>
       </div>
 
+      <div class="item">
+          <img src="images/slider5.jpg" alt="...">
+          <div class="carousel-caption">
+      </div>
+
   	</div>
 
   	<!-- Controls -->
