@@ -32,31 +32,31 @@
   	<!-- Wrapper for slides -->
   	<div class="carousel-inner" role="listbox">
     	<div class="item active">
-      		<img src="images/iips_new.jpg" alt="...">
+      		<img src="images/iips_new.jpg" alt="..." width="100%" height="100%">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
     	<div class="item">
-      		<img src="images/iips_img.jpg" alt="...">
+      		<img src="images/iips_img.jpg" alt="..." width="100%" height="100%">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
       <div class="item">
-          <img src="images/campus_life.jpg" alt="...">
+          <img src="images/campus_life.jpg" alt="..." width="100%" height="100%">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider4.jpg" alt="...">
+          <img src="images/slider4.jpg" alt="..." width="100%" height="100%">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider5.jpg" alt="...">
+          <img src="images/slider5.jpg" alt="..." width="100%" height="100%">
           <div class="carousel-caption">
           </div>
       </div>      
