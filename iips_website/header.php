@@ -63,7 +63,7 @@
                                             <div class="col-xs-5 mybutton">
                                                 <a href="sitemap.php">Sitemap</a>
                                             </div>
-                                            <div class="col-xs-1" ></div>
+                                            <div class="col-xs-1"></div>
                                             <div class="col-xs-5 mybutton">
                                                 <a href="under_construction.php">Feedback</a>
                                             </div>
@@ -187,7 +187,7 @@
                                 </li>
 
                                 <!--Campus Life-->
-                                <li class="dropdown yamm-fw" id="test2">
+                                <li class="dropdown yamm-fw" id="campus_life">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Campus Life<span class="caret"></span>
                                     </a>
             	                     <ul class="dropdown-menu" id="yamm-down-campus">
@@ -222,7 +222,7 @@
                                   <li><a href="under_construction.php">Faculty &amp; Staff</a></li>
                                   <li><a href="under_construction.php">Alumni</a></li>
                               </ul>
-                          </div>
+                            </div>
                         </div>
                     </div><!--Visible Content-->
                 </div>
@@ -230,5 +230,4 @@
           </div><!-- container-fluid -->
           </div><!-- col-md-9 Close-->
     </div><!-- row end-->
-    </div><!--Container Close-->
-    <!--Main navbar close-->
+    </div><!--Container Close--><!--Main navbar close-->
