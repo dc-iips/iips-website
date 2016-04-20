@@ -57,12 +57,12 @@
 
         <div role="tabpanel" class="tab-pane" id="tab3">
             <h3 class="text-center"><b>IQAC Guideliness</b></h3>
-            For IQAC guideline <a href="iqac_guide.pdf" target="_new">click here</a>
+            For IQAC guideline <a href="pdf_server.php?file=static/pdf/iqac/GuidlinesEsttAndMonitoring16072011.pdf" target="_new">click here</a>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab4">
             <h3 class="text-center"><b>IQAC Report</b></h3>
-            For IQAC report <a href="iqac_report.pdf" target="_new">click here</a>
+            For IQAC report <a href="pdf_server.php?file=static/pdf/iqac/IIPSAQAR 2012-2013.pdf" target="_new">click here</a>
         </div>
       </div>
  <!-- Table Ends> -->
