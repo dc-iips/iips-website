@@ -31,55 +31,49 @@
     <div class="col-md-9">
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center"><b>Non-Teaching Staff</b></h3>
-            <table class="table" width="100%" align="center">
+          <h3 class="text-center"><b>Non-Teaching Staff</b></h3>
+          <table class="table" width="100%" align="center">
             <tbody>
               <tr>
-                <td width="25%"><b>Name</b></td>
-                <td width="20%"><b>Designation</b></td>
-                <td width="35%"><b>Qualifications</b></td>
-                <td width="20%"><b>Discipline</b></td>  
+                  <td width="25%"><b>Name</b></td>
+                  <td width="20%"><b>Designation</b></td>
+                  <td width="35%"><b>Qualifications</b></td>
+                  <td width="20%"><b>Discipline</b></td>  
               </tr>
-                    <tr>
-  <td>Mr.&nbsp;Yogendra Bawal</td>
-  <td>Network Administrator, Admin Officer</td>
-  <td>M.Sc.(Electronics. &amp; Communication)
-  <br>CCNA,</td>
-  <td>AO</td>
-  </tr> 
+              <tr>
+                  <td>Mr.&nbsp;Yogendra Bawal</td>
+                  <td>Network Administrator, Admin Officer</td>
+                  <td>M.Sc.(Electronics. &amp; Communication)
+                  <br>CCNA,</td>
+                  <td>AO</td>
+                  </tr> 
               <tr>
                   <td>Mr.&nbsp;Imroz Khan</td>
                   <td>Software Engineer, Placement Officer</td>
                   <td>B.E.(Electronics)</td>
                   <td>TPO</td>
-              </tr> 
-              
-   <tr>
-  <td>Mr.&nbsp;Sanjay Narsinghani</td>
-  <td>Programmer</td>
-  <td>MCA</td>
-  <td>Computer Lab</td>
-  
-  </tr> 
-        
-   <tr>
-  <td>Mr.&nbsp;Almas Nabi</td>
-  <td>Programmer</td>
-  <td>M.Tech.(CS), M.Sc.(CS)</td>
-  <td>Computer Lab</td>
-  </tr> 
-  
-  
-  </tbody></table>                
-        
+              </tr>               
+              <tr>
+                  <td>Mr.&nbsp;Sanjay Narsinghani</td>
+                  <td>Programmer</td>
+                  <td>MCA</td>
+                  <td>Computer Lab</td>
+              </tr>         
+              <tr>
+                  <td>Mr.&nbsp;Almas Nabi</td>
+                  <td>Programmer</td>
+                  <td>M.Tech.(CS), M.Sc.(CS)</td>
+                  <td>Computer Lab</td>
+              </tr>   
+            </tbody>
+          </table>                
         </div>
         <div role="tabpanel" class="tab-pane" id="tab2">
     <h3 class="text-center"> <b>Class III Employees</b> </h3>  
-                                <table width="100%" align="center" class="table">
-  
-  <tbody><tr>
-  
-  <td><b>&nbsp;&nbsp;Name</b></td>
+        <table width="100%" align="center" class="table">
+          <tbody>
+            <tr>
+               <td><b>&nbsp;&nbsp;Name</b></td>
   
   <!--<td width="20%"><b>Designation</b></td>-->
   
