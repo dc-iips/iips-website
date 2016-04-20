@@ -40,70 +40,70 @@
                 <img class="img-circle img-responsive" id="centralized" src="images/mimoh.jpg" alt="">
                 <h3>Mimoh Ojha<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href="https://www.facebook.com/mimoh.ojha?fref=ts"><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/mimoh.ojha?fref=ts" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/sumit.jpg" alt="">
                 <h3>Sumit Jain<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/vikas.jpg" alt="Vikas Chouhan">
                 <h3>Vikas Chouhan<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href="https://twitter.com/Iamvikash888"><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href="https://www.facebook.com/vikky8889"><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href="https://www.linkedin.com/in/vikas-chouhan-61318599?trk=hp-identity-name"><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href="https://plus.google.com/u/0/101693934183454119610/posts"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="https://twitter.com/Iamvikash888" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/vikky8889" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://www.linkedin.com/in/vikas-chouhan-61318599?trk=hp-identity-name" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="https://plus.google.com/u/0/101693934183454119610/posts" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/rajat.jpg" alt="Rajat Garg">
                 <h3>Rajat Garg<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/rupam.jpg" alt="Rupam Wadia">
                 <h3>Rupam Wadia<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/rahul.jpg" alt="Rahul Sinha">
                 <h3>Rahul Sinha<br><small>Website Tester</small></h3>
                 <p>
-                  <a href="https://twitter.com/Rahulsi43820863"><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href="https://www.facebook.com/rahul.sinha.7165"><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href="https://www.linkedin.com/in/rahul-sinha-4677987b?trk=nav_responsive_tab_profile_pic"><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href="https://plus.google.com/u/0/+RahulSinha007"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="https://twitter.com/Rahulsi43820863" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/rahul.sinha.7165" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://www.linkedin.com/in/rahul-sinha-4677987b?trk=nav_responsive_tab_profile_pic" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="https://plus.google.com/u/0/+RahulSinha007" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/satal.jpg" alt="">
                 <h3>Rahul Satal<br><small>Front-End Developer</small></h3>
                 <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="https://twitter.com/rahulsatal" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/rahulsatal92"  target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://in.linkedin.com/pub/rahul-satal/a6/b/383" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="https://plus.google.com/u/0/101454474180293880823/posts" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
             </div>    
