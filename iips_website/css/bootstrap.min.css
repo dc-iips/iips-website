@@ -1417,7 +1417,7 @@ a {
 
 a:focus,
 a:hover {
-    color: #23527c;
+    color: #829DC5;/*Nav pill color css*/
     text-decoration: underline
 }
 
