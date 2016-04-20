@@ -288,12 +288,12 @@
           </colgroup>
           <tbody>
                 <tr>
-                                  <td><b>Sr. No.</b></td>
-                                  <td><b>Name</b></td>
-                                  <td><b>Teaching Expertise</b></td>
-                                  <td><b>Area(s) of expertise for consultancy</b></td>
-                                  <td><b>Area(s) of interest for research</b></td>
-                              </tr>
+                    <td><b>Sr. No.</b></td>
+                    <td><b>Name</b></td>
+                    <td><b>Teaching Expertise</b></td>
+                    <td><b>Area(s) of expertise for consultancy</b></td>
+                    <td><b>Area(s) of interest for research</b></td>
+                </tr>
           </tbody>
               <tr>
                 <td>1 </td>
@@ -3530,7 +3530,7 @@
                   </td>
               </tr>
           </tbody>
-      </table
+      </table>
 
 
 
@@ -3540,7 +3540,7 @@
       </div>
  <!-- Table Ends> -->
   <br><br>
-    </div><!--Fees Structure End> -->
+    </div>
     </div>
   </div>
 </div>
