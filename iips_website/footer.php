@@ -51,7 +51,7 @@
                     <li><a href="academic_calendar.php" >Academic Calendar</a></li>
                     <li><a href="syllabus.php" >Syllabus</a></li>
                     <li><a href="results.php" >Results </a></li>
-                    <li><a href="downloads.php" >Course PPTs</a></li>
+                    <li><a href="downloads.php" >Faculty CV</a></li>
                   </ul>
                 </div>
                 
