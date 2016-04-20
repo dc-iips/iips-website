@@ -23,7 +23,7 @@
   <div class="row ">
     <div class="col-md-12" id="sidebar">
       <h2 class="text-center"><b>Sitemap</b></h2>
-        <div class="row">
+      <div class="row">
       <div class="col-md-3 col-sm-3 col-xs-12 rightAlign">
           <h3>About</h3><hr>
           <p><a href="about.php">Overview</a></p>
@@ -40,7 +40,6 @@
           <p><a href="courses.php">Courses</a></p>
           <p><a href="fee_structure.php">Fee Structure</a></p>
           <p><a href="cet.php">Commen Entrance Test</a></p>   
-          <br class="hidden-md hidden-sm hidden-lg"><br class=" hidden-sm hidden-md  hidden-lg" ><br class=" hidden-sm hidden-md hidden-lg">      
       </div>
       <div class="col-md-1 hidden-xs"></div>
       <div class="col-md-3 col-sm-3 col-xs-12 leftAlign">
@@ -53,7 +52,7 @@
           <p><a href="staff_profile.php">Staff Profile</a></p>
           <p><a href="results.php">Results</a></p>
       </div>
-    </div>
+    
     
       <div class="col-md-5 col-sm-5 col-xs-12  rightAlign">
         <span >
@@ -72,6 +71,7 @@
           <p><a href="video_channel.php">Video Channel</a></p>
           <p><a href="gallery.php">Gallery</a></p>
       </div>
+      </div><!-- Row ends -->
 
     </div>
 
