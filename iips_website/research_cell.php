@@ -296,13 +296,126 @@
                               </tr>
           </tbody>
               <tr>
-                  <td>
-                      <p>
-                          1
-                      </p>
+                <td>1 </td>
+                <td> Dr. B.K. Tripathi </td>
+                <td>  Human Resource Subjects    </td>
+                <td>All Human Resource area</td>
+                <td>   Human Resource    </td>
+              </tr>
+              <!--<tr>
+                <td> 2 </td>
+                <td>Dr. Anand K. Sapre </td>
+                <td> <li>All Subjects of Marketing</li>
+
+                    <li>Sales &amp; Distribution</li>
+
+                    <li>Marketing Strategies</li>
+
+                </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 3 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 4 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 5 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 6 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 7 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 8 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 9 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 10 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 11 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 12 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 13 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 14 </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr-->
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              <tr>
+                  <td>   1
                   </td>
                   <td>
-                      <p>
+                      
                           Dr. Anand K. Sapre
                       </p>
                   </td>
