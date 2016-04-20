@@ -25,6 +25,8 @@
     	<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
     	<li data-target="#carousel-example-generic" data-slide-to="1"></li>
     	<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+      <li data-target="#carousel-example-generic" data-slide-to="4"></li>
   	</ol>
 
   	<!-- Wrapper for slides -->
@@ -87,7 +89,7 @@
                 			To develop human intellectual capability to its fullest potential.
               			</div>
             		</div>
-          		</div>
+          	</div>
     
 	    	  	<div class="col-md-4"><br>
       				<h4 class="heading-color">Headlines</h4>
@@ -116,7 +118,7 @@
                     		<li id="list">MAR<br><span id="i10">03</span></li>
                 		</div>
                 		<div class="col-md-9 col-xs-9">
-                    		<li id="i11"><span>Woman's day, world's consumer day , design phase of project for M.C.A/M.Tech</span></li>
+                    		<li id="i11"><span>Woman's day, world's consumer day, design phase of project for M.C.A/M.Tech</span></li>
                 		</div>
             		</div>
             		<br>
@@ -152,14 +154,14 @@
               <img src="images/xpression.jpg" class="img-responsive"/>
               <h3>Xpression</h3>
               <hr/>
-              <p>It is the second biggest cultural event of indore. It include more than 70 events and sponsored by many famous brands.</p>
+              <p>It is the second biggest cultural event of Indore. It include more than 70 events and sponsored by many famous brands.</p>
           </div>
       
           <div class="col-sm-4 col-md-4 col-lg-4 inner-event">
                 <img src="images/synergypic.jpg" class="img-responsive"/>
                 <h3>Synergy</h3>
                 <hr/>
-                <p>Intra College sports event of institute.It includes all major sports like crickets, football, chess, volleyball etc.</p>
+                <p>Intra College sports event of Institute. It includes all major sports like Crickets, Football, Chess, Volleyball etc.</p>
           </div>
       
           <div class="col-sm-4 col-md-4 col-lg-4 inner-event">
