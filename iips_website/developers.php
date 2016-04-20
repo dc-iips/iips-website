@@ -83,7 +83,7 @@
                   <a href="https://twitter.com/RupamWadia" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
                   <a href="https://www.facebook.com/rupam.wadia.3" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
                   <a href="https://www.linkedin.com/in/rupam-wadia-a2303991?trk=nav_responsive_tab_profile_pic" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href="https://www.linkedin.com/in/rupam-wadia-a2303991?trk=nav_responsive_tab_profile_pic" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="https://www.linkedin.com/in/rupam-wadia-a2303991?trk=nav_responsive_tab_profile_picgit " target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
