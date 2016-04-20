@@ -86,18 +86,14 @@
                   <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
-            </div>
-            
-            <div class="row">
-                <h3 class="text-center">Website Testers &amp; Maintainers</h3>
                 <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/rahul.jpg" alt="Rahul Sinha">
                 <h3>Rahul Sinha<br><small>Website Tester</small></h3>
                 <p>
-                  <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-facebook-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-linkedin-square fa-2x"></i></a>
-                  <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  <a href="https://twitter.com/Rahulsi43820863"><i class="fa fa-twitter-square fa-2x"></i></a>
+                  <a href="https://www.facebook.com/rahul.sinha.7165"><i class="fa fa-facebook-square fa-2x"></i></a>
+                  <a href="https://www.linkedin.com/in/rahul-sinha-4677987b?trk=nav_responsive_tab_profile_pic"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                  <a href="https://plus.google.com/u/0/+RahulSinha007"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
