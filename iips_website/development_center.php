@@ -280,7 +280,7 @@
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="images/rahul.jpg" alt="Rahul Sinha"  width="55" height="55">
-                          <a href="rahul-sinha.branded.me">Rahul Sinha</a>
+                          <a href="https://branded.me/r-sinha">Rahul Sinha</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                          <img class="img-circle" id="centralized" src="images/satal.jpg" alt=""  width="55" height="55">

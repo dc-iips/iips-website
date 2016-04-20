@@ -57,6 +57,11 @@
                 <h3 class="text-center"><b> Director </b></h3>     
                 <b>Meet the Director</b>
                 <div class="row" >
+                    <div class="col-md-3">
+                            <center><img src="images/director.jpg" alt="B.K.Tripathi - Director IIPS" width="170" height="170"/>
+                            Feel Free to contact me on <a>director@iips.edu.in</a> <br>  
+                            Dr. B.K Tripathi<center/>
+                    </div>
                     <div class="col-md-9 text-justify">
                             " Welcome to International institute of professional studies- a Premier B-School in Central India 
                             which has been providing exceptional opportunities to the students since past 21 years. They have 
@@ -68,14 +73,8 @@
                             management education, to aspiring potential managers. The purpose of our institute is to induce change 
                             and manage socio-economic development in our country."
                     </div>
-                    <div class="col-md-3">
-                            <img src="" alt="B.K.Tripathi - Director IIPS"/>
-                            Feel Free to contact me on director@iips.edu.in <br>  
-                            Dr. B.K Tripathi <br>
-                            Director
-                    </div>
                 </div>
-                <br><br>
+                <br>
                 <p class="text-justify"> 
                     Our innovative academic programmes incorporate a tradition of academic excellence and experimental learning with
                     an emphasis on team-work. The institutes environment instills the skills needed to succeed in a competitive 
@@ -142,9 +141,9 @@
                     <tr><td>Type</td><td>Autonomous<td></tr>
                     <tr><td>Director</td><td>Dr. B.K Tripathi</td></tr>
                     <tr><td>Academic staff</td><td>55<td></tr>
-                    <tr><td>Location</td><td>Indore, Madhya Pradesh, India</td></tr>
+                    <tr><td>Location</td><td><a href="https://en.wikipedia.org/wiki/Indore">Indore, Madhya Pradesh, India</a></td></tr>
                     <tr><td>Campus</td><td>Urban</td></tr>
-                    <tr><td>Website</td><td>www.iips.edu.in</td></tr>
+                    <tr><td>Website</td><td><a href="www.iips.edu.in">www.iips.edu.in</a></td></tr>
                 </table>
                 <br>
                 Read More @ <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies">IIPS WikiPage</a>
