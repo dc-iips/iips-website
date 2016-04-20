@@ -31,11 +31,16 @@
     </div>
 
     <div class="col-md-9">
-    <div class="tab-content">
+      <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <center><h3><b>Class rooms &amp; Lecture Theatres</b></h3></center>
             <p style="text-align:justify;"> 
-              The lush green campus of IIPS includes an academic complex of classroom, seminar room, an auditorium, a well equipped library, computer center and administrative offices. the institute has two air conditioned, well equipped lecture theatres which are used for seminars and lectures. These lectures have played host to some of the most well known personalities of the corporate world. </p>
+              The lush green campus of IIPS includes an academic complex of classroom, seminar room, an auditorium, a well 
+              equipped library, computer center and administrative offices. the institute has two air conditioned, well 
+              equipped lecture theatres which are used for seminars and lectures. These lectures have played host to some of
+              the most well known personalities of the corporate world. 
+             </p>
+             <center><img src="images/lt1.jpg" width="80%" height="80%"/></center>
         </div>
         
         <div role="tabpanel" class="tab-pane" id="tab2">
@@ -59,67 +64,67 @@
 
         <div role="tabpanel" class="tab-pane" id="tab3">
             <center><h3><b>Libraries</b></h3></center>
-            <p style="text-align:justify;">"The Power of Knowledge..." The best, the latest, the most complete and a vast 
-  collection of Books, Journals, Magazines and subscriptions, giving students the most
-   quiet and concentrating environment to read.</p>
+            <p style="text-align:justify;">
+              "The Power of Knowledge..." The best, the latest, the most complete and a vast 
+              collection of Books, Journals, Magazines and subscriptions, giving students the most
+              quiet and concentrating environment to read.
+            </p>
   
-  <p style="text-align:justify;">IIPS Library has a collection of Books, International Journals, National Journals, 
-  Project Reports, Software and Information including the CD-ROM databases and the 
-  online databases are made available through Institute?s network. Users can access 
-  the online databases and also find out the real-time availability of library materials
-   from their own computer terminal and Magazines. Over 1,10,000 Volumes, 140 International
-   Journals, 250 Indian Journals, 3 libraries.</p><br><br>
+            <p style="text-align:justify;">
+              IIPS Library has a collection of Books, International Journals, National Journals, 
+              Project Reports, Software and Information including the CD-ROM databases and the 
+              online databases are made available through Institute?s network. Users can access 
+              the online databases and also find out the real-time availability of library materials
+              from their own computer terminal and Magazines. Over 1,10,000 Volumes, 140 International
+              Journals, 250 Indian Journals, 3 libraries.
+            </p><br><br>
+              <b>IIPS Digital Library</b><br>
+            <p style="text-align:justify;">
+              IIPS gives access to the state of the art digital library to its students. The library has been developed and is being maintained by the students of the institute themselves. The students also have access to three libraries:
+            </p><br><br>
   
-  <b>IIPS Digital Library</b><br>
-  
-  
-  <p style="text-align:justify;">IIPS gives access to the state of the art digital library to its students. The 
-  library has been developed and is being maintained by the students of the institute
-   themselves. The students also have access to three libraries:</p><br><br>
-  
-     <ul type="disc" style="margin-left:30px;">
-      <li>IIPS Departmental Library</li>
-      <li>The Central Library, Takshashila Campus</li>
-      <li>Student Home Library, Nalanda Campus</li>
-     </ul>  <br>
-  
-  <p style="text-align:justify;">The library system has a collection of more than one lac volumes. It represents a 
-  wide spectra of subjects with a sizeable collection on Computer Science and Management.
-  The IIPS Library with its modern collection of knowledge resources and innovative 
-  information services fills an essential role for students, faculty, and the surrounding
-   community in their intellectual pursuits. It is a hybrid library with the state-of-the-art
-   technological applications. The Library holds knowledge resources predominantly 
-  related to Information Technology management and allied subjects. The Library offers
-   a range of information services set to the highest professional standards. </p> <br><br>
-    </div>
+           <ul type="disc" style="margin-left:30px;">
+              <li>IIPS Departmental Library</li>
+              <li>The Central Library, Takshashila Campus</li>
+              <li>Student Home Library, Nalanda Campus</li>
+           </ul><br>
+           <center><img src="images/lib.jpg" width="80%" height="80%"/></center>
+            <p style="text-align:justify;">
+              The library system has a collection of more than one lac volumes. It represents a 
+              wide spectra of subjects with a sizeable collection on Computer Science and Management.
+              The IIPS Library with its modern collection of knowledge resources and innovative 
+              information services fills an essential role for students, faculty, and the surrounding
+              community in their intellectual pursuits. It is a hybrid library with the state-of-the-art
+              technological applications. The Library holds knowledge resources predominantly 
+              related to Information Technology management and allied subjects. The Library offers
+              a range of information services set to the highest professional standards.
+            </p> <br><br>
+        </div>
 
-    <div role="tabpanel" class="tab-pane" id="tab4">
-        <center><h3><b>Hostels</b></h3></center>
-            
-  <p style="text-align:justify;">The students of IIPS are provided with excellent hostel facilities by the university.
-   There are single and double seater furnished rooms having all necessary amenities.
-   There is a community hall with television and indoor sports facilities like carom,
-   chess etc. The Institute provides comfortable accommodation with security.</p><br>
-  
-  <p style="text-align:justify;">The various university hostels where the IIPS students reside are:</p><br><br>
-  
-  <b>Boys Hostel</b><br>
-  
-  Jawaharlal Lal Nehru Boys Hostel<br>
-  IMS Boys Hostel<br>
-  Rabindra Nath Tagore Boys Hostel<br><br>
-  
-  <b>Girls Hostel</b><br>
-  
-  Kamla Nehru Girls Hostel<br>
-  New Girls Hostel<br>
-  C.V. Raman Girls Hostel<br>  
-    </div>
+        <div role="tabpanel" class="tab-pane" id="tab4">
+        <center><h3><b>Hostels</b></h3></center>    
+        <p style="text-align:justify;">
+          The students of IIPS are provided with excellent hostel facilities by the university.
+          There are single and double seater furnished rooms having all necessary amenities.
+          There is a community hall with television and indoor sports facilities like carom,
+          chess etc. The Institute provides comfortable accommodation with security.
+        </p><br>
+        <p style="text-align:justify;">
+          The various university hostels where the IIPS students reside are:
+        </p><br><br>
+       <b>Boys Hostel</b><br>
+          Jawaharlal Lal Nehru Boys Hostel<br>
+          IMS Boys Hostel<br>
+          Rabindra Nath Tagore Boys Hostel<br><br>
+       <b>Girls Hostel</b><br> 
+          Kamla Nehru Girls Hostel<br>
+          New Girls Hostel<br>
+          C.V. Raman Girls Hostel<br>  
+        </div>
  
-            </div>
- <!-- Table Ends> -->
-  <br><br>
-    </div><!--Fees Structure End> -->
+      </div>
+        <br><br>
+    </div>
     </div>
   </div>
 </div>
