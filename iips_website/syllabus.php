@@ -35,6 +35,7 @@
 
     <div class="col-md-9">
       <div class="tab-content">
+
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <h3 class="text-center"><b>MCA(6 years)-Syllabus</b></h3><br>
             <div class="row">
@@ -79,7 +80,7 @@
             </div>
         </div> <!--tab2 End-->
 
-                <div role="tabpanel" class="tab-pane " id="tab3">
+        <div role="tabpanel" class="tab-pane " id="tab3">
             <h3 class="text-center"><b>MBA(MS-5 years)-Syllabus</b></h3><br>
             <div class="row">
             	<div class="col-md-4 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-I.pdf">Download</a></div>    	
@@ -119,13 +120,13 @@
             	<div class="col-md-4 col-sm-6 col-xs-6 col-sm-6 col-xs-6">Semester - IV - <a href="pdf_server.php?file=static/pdf/MBA-TA/IV-sem-TA-Syllabus.pdf">Download</a></div>    	
             </div><br>
         </div> <!--tab5 End-->
-
+        <!--MBA(ms-2)-->
         <div role="tabpanel" class="tab-pane " id="tab6">
             <h3 class="text-center"><b>MBA(MS-2 years)-Syllabus</b></h3><br>
             <p>To download complete syllabus - <a href="pdf_server.php?file=static/pdf/MBA-MS(2 Yrs)/MBA-2yrs-FT-syllabus.pdf">Click Here</a></p>
         </div> <!--tab6 End-->
-
-         <div role="tabpanel" class="tab-pane " id="tab7">
+        <!--B.com(Hons)-->
+        <div role="tabpanel" class="tab-pane " id="tab7">
             <h3 class="text-center"><b>B.com(Hons-2 years)-Syllabus</b></h3><br>
             <div class="row">
             	<div class="col-md-4 col-sm-6 col-xs-6">Semester - I - <a href="pdf_server.php?file=static/pdf/B.Com/B.Com SEM I.pdf">Download</a></div>    	
@@ -141,9 +142,8 @@
        </div>
     </div>
   </div>
- <!-- Table Ends> -->
   <br><br>
-    </div><!--Fees Structure End> -->
+    </div>
     </div>
   </div>
 </div>
