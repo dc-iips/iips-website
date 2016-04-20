@@ -58,9 +58,9 @@
       <div class="item">
           <img src="images/slider5.jpg" alt="...">
           <div class="carousel-caption">
-      </div>
-
-  	</div>
+          </div>
+      </div>      
+    </div>
 
   	<!-- Controls -->
   	<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
