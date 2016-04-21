@@ -19,7 +19,7 @@
 <?php include 'header.php';?>
     <div>
       <div>
-        <img src="images/campus_life.jpg" class="img-responsive" style="width:100%;height:320px;"/>
+        <img src="images/campuslife/campus_life.jpg" class="img-responsive" style="width:100%;height:320px;"/>
       </div>
     </div>
 
@@ -34,7 +34,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/events.jpg" class="img-responsive">
+                    <img src="images/campuslife/events.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="event.php">Events &amp; Attraction</a></h3>
@@ -46,7 +46,7 @@
             
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/video1.jpg" class="img-responsive">
+                    <img src="images/campuslife/video1.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="video_channel.php">Video Channels</a></h3>
@@ -61,7 +61,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                     <img src="images/placements.jpg" class="img-responsive">
+                     <img src="images/campuslife/placements.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="placement.php">Placements</a></h3>
@@ -72,7 +72,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/gallrey.jpg" class="img-responsive">
+                    <img src="images/campuslife/gallrey.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="gallery.php">Gallery</a></h3>

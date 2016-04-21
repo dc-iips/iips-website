@@ -19,7 +19,7 @@
 
     <?php include 'header.php';?>
     <div>
-        <img src="images/about.jpg" class="img-responsive" style="width:100%;height:320px;"/>
+        <img src="images/about/about.jpg" class="img-responsive" style="width:100%;height:320px;"/>
     </div>
 
     <div class="container">
@@ -33,7 +33,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/infra.jpg" class="img-responsive">
+                    <img src="images/about/infra.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="infrastructure.php">Infrastructure</a></h3>
@@ -44,7 +44,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/history.jpg" class="img-responsive">
+                    <img src="images/about/history.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="history.php">History</a></h3>
@@ -55,7 +55,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                  <img src="images/map.jpg" class="img-responsive">
+                  <img src="images/about/map.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                   <h3><a href="reach_us.php">Reach Us</a></h3>
@@ -67,7 +67,7 @@
         <div class="col-md-6"> 
             <div class="row">    
                 <div class="col-md-4">
-                    <img src="images/university.jpg" class="img-responsive">
+                    <img src="images/about/university.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="about_university.php">About University</a></h3>
@@ -78,7 +78,7 @@
  
             <div class="row">
                 <div class="col-md-4">
-                  <img src="images/image1.png" class="img-responsive">
+                  <img src="images/about/image1.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                   <h3><a href="about_iips.php">About IIPS</a></h3>

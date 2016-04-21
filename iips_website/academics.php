@@ -19,7 +19,7 @@
 <?php include 'header.php';?>
     <div>
       <div>
-        <img src="images/academics.jpg" class="img-responsive" style="width:100%;height:320px;"/>
+        <img src="images/academics/academics.jpg" class="img-responsive" style="width:100%;height:320px;"/>
       </div>
     </div>
 
@@ -34,7 +34,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/courses.jpg" class="img-responsive">
+                    <img src="images/academics/courses.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="programs.php">Programs</a></h3>
@@ -47,7 +47,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/news.png" class="img-responsive">
+                    <img src="images/academics/news.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="news_and_announcements.php">News &amp; Announcements</a></h3>
@@ -60,7 +60,7 @@
             <div class="row">
 
                 <div class="col-md-4">
-                    <img src="images/staff.jpg" class="img-responsive">
+                    <img src="images/academics/staff.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="staff_profile.php">Staff Profile</a></h3>
@@ -74,7 +74,7 @@
         <div class="col-md-6">
            <div class="row">
                 <div class="col-md-4">
-                    <img src="images/calendar.jpg" class="img-responsive">
+                    <img src="images/academics/calendar.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="academic_calendar.php">Academic Calendar</a></h3>
@@ -87,7 +87,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/faculty.png" class="img-responsive">
+                    <img src="images/academics/faculty.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="faculty_profile.php">Faculty Profile</a></h3>
@@ -99,7 +99,7 @@
 
             <div class="row">    
                 <div class="col-md-4">
-                    <img src="images/results.png" class="img-responsive">
+                    <img src="images/academics/results.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="results.php">Results</a></h3>

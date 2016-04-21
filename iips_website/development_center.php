@@ -257,33 +257,33 @@
               <p class="text-justify"><h4>Here is the list of our dedicated members.<h4></p><br>
               <div class="col-md-12 col-xs-6"><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/mimoh.jpg" alt="Mimoh Ojha"  width="55" height="55">
+                          <img class="img-circle" id="centralized" src="images/developers/mimoh.jpg" alt="Mimoh Ojha"  width="55" height="55">
                           <a href="www.mimohojha.info">Mimoh Ojha</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/sumit.jpg" alt="Sumit Jain" width="55" height="55">
+                          <img class="img-circle" id="centralized" src="images/developers/sumit.jpg" alt="Sumit Jain" width="55" height="55">
                           <a href="">Sumit Jain</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/rajat.jpg" alt="Rajat Garg" width="55" height="55">
+                          <img class="img-circle" id="centralized" src="images/developers/rajat.jpg" alt="Rajat Garg" width="55" height="55">
                           <a href="rajat-garg.github.io">Rajat Garg</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/rupam.jpg" alt="Rupam Wadia" width="55" height="55">
+                          <img class="img-circle" id="centralized" src="images/developers/rupam.jpg" alt="Rupam Wadia" width="55" height="55">
                           <a href="https://branded.me/rupam-wadia">Rupam Wadia</a>
                       </div>
               </div>
               <div class="col-md-12 col-xs-6"><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/vikas.jpg" alt="Vikas Chouhan"  width="55" height="55">
+                          <img class="img-circle" id="centralized" src="images/developers/vikas.jpg" alt="Vikas Chouhan"  width="55" height="55">
                           <a href="vikas-chouhan.branded.me">Vikas Chouhan</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/rahul.jpg" alt="Rahul Sinha"  width="55" height="55">
+                          <img class="img-circle" id="centralized" src="images/developers/rahul.jpg" alt="Rahul Sinha"  width="55" height="55">
                           <a href="https://branded.me/r-sinha">Rahul Sinha</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                         <img class="img-circle" id="centralized" src="images/satal.jpg" alt=""  width="55" height="55">
+                         <img class="img-circle" id="centralized" src="images/developers/satal.jpg" alt=""  width="55" height="55">
                          <a href="">Rahul Satal</a>
                       </div>
                       <div class="col-md-3 col-xs-12">

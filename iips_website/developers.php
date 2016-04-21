@@ -37,7 +37,7 @@
             <div class="row">
                 <h2 class="text-center">Core Developers</h2><br>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="images/mimoh.jpg" alt="">
+                <img class="img-circle img-responsive" id="centralized" src="images/developers/mimoh.jpg" alt="">
                 <h3>Mimoh Ojha<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -47,7 +47,7 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="images/sumit.jpg" alt="">
+                <img class="img-circle img-responsive" id="centralized" src="images/developers/sumit.jpg" alt="">
                 <h3>Sumit Jain<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -57,7 +57,7 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="images/vikas.jpg" alt="Vikas Chouhan">
+                <img class="img-circle img-responsive" id="centralized" src="images/developers/vikas.jpg" alt="Vikas Chouhan">
                 <h3>Vikas Chouhan<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href="https://twitter.com/Iamvikash888" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -67,7 +67,7 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="images/rajat.jpg" alt="Rajat Garg">
+                <img class="img-circle img-responsive" id="centralized" src="images/developers/rajat.jpg" alt="Rajat Garg">
                 <h3>Rajat Garg<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href="https://twitter.com/RajatTheVampire" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -77,7 +77,7 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="images/rupam.jpg" alt="Rupam Wadia">
+                <img class="img-circle img-responsive" id="centralized" src="images/developers/rupam.jpg" alt="Rupam Wadia">
                 <h3>Rupam Wadia<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href="https://twitter.com/RupamWadia" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -87,7 +87,7 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="images/rahul.jpg" alt="Rahul Sinha">
+                <img class="img-circle img-responsive" id="centralized" src="images/developers/rahul.jpg" alt="Rahul Sinha">
                 <h3>Rahul Sinha<br><small>Website Tester</small></h3>
                 <p>
                   <a href="https://twitter.com/Rahulsi43820863" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -97,7 +97,7 @@
                 </p>
                 </div>
                 <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive" id="centralized" src="images/satal.jpg" alt="">
+                <img class="img-circle img-responsive" id="centralized" src="images/developers/satal.jpg" alt="">
                 <h3>Rahul Satal<br><small>Front-End Developer</small></h3>
                 <p>
                   <a href="https://twitter.com/rahulsatal" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>

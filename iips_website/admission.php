@@ -18,7 +18,7 @@
   <body>
 <?php include 'header.php';?>
     <div>
-        <img src="images/045.jpg" class="img-responsive" style="width:100%;height:320px;"/>
+        <img src="images/admission/045.jpg" class="img-responsive" style="width:100%;height:320px;"/>
     </div>
 
     <div class="container">
@@ -32,7 +32,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/courses.jpg" class="img-responsive">
+                    <img src="images/admission/courses.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="courses.php">Courses</a></h3>
@@ -44,7 +44,7 @@
 
             <div class="row">    
                 <div class="col-md-4">
-                    <img src="images/fees.jpg" class="img-responsive">
+                    <img src="images/admission/fees.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="fee_structure.php">Fees Structure</a></h3>
@@ -58,7 +58,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/cet.png" class="img-responsive">
+                    <img src="images/admission/cet.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="cet.php">Common Entrance Test</a></h3>

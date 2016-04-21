@@ -19,7 +19,7 @@
 <?php include 'header.php';?>
     <div>
       <div>
-        <img src="images/research1.jpg" class="img-responsive" style="width:100%;height:320px;"/>
+        <img src="images/research/research1.jpg" class="img-responsive" style="width:100%;height:320px;"/>
       </div>
     </div>
 
@@ -34,7 +34,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/dc.png" class="img-responsive">
+                    <img src="images/research/dc.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="development_center.php">Development Center</a></h3>
@@ -45,7 +45,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/research.png" class="img-responsive">
+                    <img src="images/research/research.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="research_center.php">Research Center</a></h3>
@@ -58,7 +58,7 @@
         <div class="col-md-6">
            <div class="row">
                 <div class="col-md-4">
-                    <img src="images/publication.jpg" class="img-responsive">
+                    <img src="images/research/publication.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="publication.php">Publications</a></h3>
