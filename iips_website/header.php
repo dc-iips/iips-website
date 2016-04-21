@@ -78,7 +78,7 @@
                                         <div class="row image2">                
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/image1.png" class="img-responsive" alt="About IIPS image">
+                                                    <img src="images/about/image1.png" class="img-responsive" alt="About IIPS image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     The International Institute of Professional Studies, a department of Devi Ahilya Vishwavidyalaya established in the year 1992 is an academic mentor of its kind and an eminently practical institute, recognized by AICTE. With the quality in the content, scope and professionalism of its programs.
@@ -107,7 +107,7 @@
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/auditorium.jpg" class="img-responsive" alt="Responsive image">
+                                                    <img src="images/admission/auditorium.jpg" class="img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     Every year CET is conducted in the month of JUNE for various courses at Graduate and post graduate level. The students from all over India apply to get admission through this exam. In this written exam the student’s general aptitude, language knowledge and mathematical ability is tested.
@@ -135,7 +135,7 @@
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-8 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/academics.png" class="img img-responsive" alt="Responsive image">
+                                                    <img src="images/academics/academics.png" class="img img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     The institute provides ample opportunities to students with a rigorous and challenging curriculum with flexibility to allow students to tailor their education to meet their professional and personal interests and goals.      
@@ -146,10 +146,10 @@
                                                     <li id="link-style"><a href="academics.php">Overview</a></li>
                                                     <li id="link-style"><a href="syllabus.php">Syllabus</a></li>
                                                     <li id="link-style"><a href="academic_calendar.php">Academic Calendar</a></li>
-                                                    <li id="link-style"><a href="results.php">Results</a></li>
+                                                  <!--  <li id="link-style"><a href="results.php">Results</a></li> -->
                                                 </div>
                                                 <div class="col-md-6">
-                                                    <li id="link-style"><a href="news_and_announcements.php">News &amp; Announcements</a></li>
+                                                    <!-- <li id="link-style"><a href="news_and_announcements.php">News &amp; Announcements</a></li> -->
                                                     <li id="link-style"><a href="faculty_profile.php">Faculty Profile</a></li>
                                                     <li id="link-style"><a href="staff_profile.php">Staff Profile</a></li>
                                                 </div>
@@ -166,7 +166,7 @@
                                         <div class="row image2">      
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/research_.png" class="img img-responsive" alt="Responsive image">
+                                                    <img src="images/research/research_.png" class="img img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     Research is a process to discover new knowledge. The development and research center allow students to learn standards that are currently adapted by industry. Mentors also guide students to publish new research papers.
@@ -194,7 +194,7 @@
                                       <div class="row image2">
                                           <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                               <div class="col-md-6 col-sm-6">
-                                                  <img src="images/campus.jpg" class="img-responsive" alt="Responsive image">
+                                                  <img src="images/campuslife/campus.jpg" class="img-responsive" alt="Responsive image">
                                               </div>
                                               <div class="col-md-6 col-sm-6">
                                                   Other than studies students also enjoy their college life by participating in different events. Every year top IT and management companies like TCS, Infosys, wipro visit campus and offer very good packages to students.                                        </div>

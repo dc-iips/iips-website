@@ -30,33 +30,33 @@
   	</ol>
 
   	<!-- Wrapper for slides -->
-  	<div class="carousel-inner" role="listbox">
+  	<div class="carousel-inner" role="listbox" >
     	<div class="item active">
-      		<img src="images/iips_new.jpg" alt="..." width="5000" height="2200">
+      		<img src="images/slider/slider1.jpg" alt="..." style="width:100em ;height:30em">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
     	<div class="item">
-      		<img src="images/iips_img.jpg" alt="..." width="5000" height="2200">
+      		<img src="images/slider/slider2.jpg" alt="..." style="width:100em ;height:30em">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
       <div class="item">
-          <img src="images/campus_life.jpg" alt="..." width="5000" height="2200">
+          <img src="images/slider/slider3.jpg" alt="..." style="width:100em ;height:30em">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider4.jpg" alt="..." width="5000" height="2200">
+          <img src="images/slider/slider4.jpg" alt="..." style="width:100em ;height:30em">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider5.jpg" alt="..." width="5000" height="2200">
+          <img src="images/slider/slider5.jpg" alt="..." style="width:100em ;height:30em">
           <div class="carousel-caption">
           </div>
       </div>      
