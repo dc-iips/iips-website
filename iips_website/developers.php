@@ -36,7 +36,7 @@
             </div>
             <div class="row">
                 <h2 class="text-center">Core Developers</h2><br>
-                <div class="col-lg-4 col-sm-6 text-center">
+                <div class="col-lg-4 col-sm-4 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/developers/mimoh.jpg" alt="">
                 <h3>Mimoh Ojha<br><small>Front-End Developer</small></h3>
                 <p>
@@ -46,7 +46,7 @@
                   <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
-                <div class="col-lg-4 col-sm-6 text-center">
+                <div class="col-lg-4 col-sm-4 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/developers/sumit.jpg" alt="">
                 <h3>Sumit Jain<br><small>Front-End Developer</small></h3>
                 <p>
@@ -56,7 +56,7 @@
                   <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
-                <div class="col-lg-4 col-sm-6 text-center">
+                <div class="col-lg-4 col-sm-4 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/developers/vikas.jpg" alt="Vikas Chouhan">
                 <h3>Vikas Chouhan<br><small>Front-End Developer</small></h3>
                 <p>
@@ -66,7 +66,7 @@
                   <a href="https://plus.google.com/u/0/101693934183454119610/posts" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
-                <div class="col-lg-4 col-sm-6 text-center">
+                <div class="col-lg-4 col-sm-4 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/developers/rajat.jpg" alt="Rajat Garg">
                 <h3>Rajat Garg<br><small>Front-End Developer</small></h3>
                 <p>
@@ -76,7 +76,7 @@
                   <a href="https://plus.google.com/u/0/+RajatGargOfficial" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
-                <div class="col-lg-4 col-sm-6 text-center">
+                <div class="col-lg-4 col-sm-4 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/developers/rupam.jpg" alt="Rupam Wadia">
                 <h3>Rupam Wadia<br><small>Front-End Developer</small></h3>
                 <p>
@@ -86,7 +86,7 @@
                   <a href="https://plus.google.com/u/0/107030735647725965978/posts" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
-                <div class="col-lg-4 col-sm-6 text-center">
+                <div class="col-lg-4 col-sm-4 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/developers/rahul.jpg" alt="Rahul Sinha">
                 <h3>Rahul Sinha<br><small>Website Tester</small></h3>
                 <p>
@@ -96,7 +96,7 @@
                   <a href="https://plus.google.com/u/0/+RahulSinha007" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
                 </p>
                 </div>
-                <div class="col-lg-4 col-sm-6 text-center">
+                <div class="col-lg-4 col-sm-4 text-center">
                 <img class="img-circle img-responsive" id="centralized" src="images/developers/satal.jpg" alt="">
                 <h3>Rahul Satal<br><small>Front-End Developer</small></h3>
                 <p>
