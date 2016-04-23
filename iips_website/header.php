@@ -202,7 +202,7 @@
                                           <div class="col-md-5 col-sm-3">
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="campus_life.php">Overview</a></li>
-                                                  <li id="link-style"><a href="event.php">Events&amp;Attractions</a></li>
+                                                  <li id="link-style"><a href="event.php">Events </a></li>
                                                   <li id="link-style"><a href="placement.php">Placements</a></li>
                                               </div>
                                               <div class="col-md-6">
