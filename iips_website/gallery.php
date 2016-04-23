@@ -31,7 +31,7 @@
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <h3 class="text-center"><b>Official Activities</b></h3>
-            <div id="cp_widget_c53a34dd-fc40-4478-8226-b1212c90c7bf">
+            <div id="cp_widget_c53a34dd-fc40-4478-8226-b1212c90c7bf">Loading....
             </div>
             <script type="text/javascript">
                 var cpo = []; cpo["_object"] ="cp_widget_c53a34dd-fc40-4478-8226-b1212c90c7bf"; cpo["_fid"] = "AEDAmYtebTAu";
@@ -44,7 +44,7 @@
           
         <div role="tabpanel" class="tab-pane" id="tab2">
                 <h3 class="text-center"><b>Fun @ Campus</b></h3>  
-                <div id="cp_widget_a52e2436-2612-4ce4-8c5a-171d3a7cbe63">...</div><script type="text/javascript">
+                <div id="cp_widget_a52e2436-2612-4ce4-8c5a-171d3a7cbe63">loading....</div><script type="text/javascript">
                 var cpo = []; cpo["_object"] ="cp_widget_a52e2436-2612-4ce4-8c5a-171d3a7cbe63"; cpo["_fid"] = "AwFADaNYeX9A";
                 var _cpmp = _cpmp || []; _cpmp.push(cpo);
                 (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
