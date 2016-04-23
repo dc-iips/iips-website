@@ -34,10 +34,10 @@
                     <table class="table">
                           <tbody>
                               <tr>
-                                  <td><b>Name</b></td>
-                                  <td><b>Designation</b></td>
-                                  <td><b>Qualifications</b></td>
-                                  <td><b>Responsibility</b></td>
+                                  <th>Name</b></th>
+                                  <th>Designation</b></th>
+                                  <th>Qualifications</b></th>
+                                  <th>Responsibility</b></th>
                               </tr>
                           </tbody>
   
