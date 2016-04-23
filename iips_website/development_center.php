@@ -266,11 +266,11 @@
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="images/developers/rajat.jpg" alt="Rajat Garg" width="55" height="55">
-                          <a href="rajat-garg.github.io">Rajat Garg</a>
+                          <a href="http://rajat-garg.github.io">Rajat Garg</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="images/developers/rupam.jpg" alt="Rupam Wadia" width="55" height="55">
-                          <a href="https://branded.me/rupam-wadia">Rupam Wadia</a>
+                          <a href="http://rupamwadia.github.io/">Rupam Wadia</a>
                       </div>
               </div>
               <div class="col-md-12 col-xs-6"><br><br>
