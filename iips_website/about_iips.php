@@ -58,12 +58,12 @@
                 <b>Meet the Director</b>
                 <div class="row" >
                     <div class="col-md-3">
-                            <center><img src="images/director.jpg" alt="B.K.Tripathi - Director IIPS" width="170" height="170"/>
+                            <center><img src="images/about/director.jpg" alt="B.K.Tripathi - Director IIPS" width="170" height="170"/>
                             Feel Free to contact me on <a>director@iips.edu.in</a> <br>  
                             <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/">Dr. B.K Tripathi</a><center/>
                     </div>
                     <div class="col-md-9 text-justify">
-                            " Welcome to International institute of professional studies- a Premier B-School in Central India 
+                            "Welcome to International institute of professional studies- a Premier B-School in Central India 
                             which has been providing exceptional opportunities to the students since past 21 years. They have 
                             left an indelible mark that will guide subsequent developments, not only at the institution, but 
                             hopefully also in management education in our country. The new age consumer, industry and trade have 
