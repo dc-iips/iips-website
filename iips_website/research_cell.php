@@ -279,22 +279,14 @@
             <h3 class="text-center"><b>Faculty List</b></h3>
 
       <table class="table">
-          <colgroup>
-              <col width="36"/>
-              <col width="85"/>
-              <col width="162"/>
-              <col width="191"/>
-              <col width="171"/>
-          </colgroup>
-          <tbody>
-                <tr>
-                    <td><b>Sr. No.</b></td>
-                    <td><b>Name</b></td>
-                    <td><b>Teaching Expertise</b></td>
-                    <td><b>Area(s) of expertise for consultancy</b></td>
-                    <td><b>Area(s) of interest for research</b></td>
-                </tr>
-          </tbody>
+          <tr>
+                    <th>S.No.</th>
+                    <th>Name</th>
+                    <th>Teaching Expertise</th>
+                    <th>Area(s) of expertise for consultancy</th>
+                    <th>Area(s) of interest for research</th>
+          </tr>
+          
               <tr>
                 <td>1 </td>
                 <td> Dr. B.K. Tripathi </td>
@@ -302,3234 +294,3122 @@
                 <td>All Human Resource area</td>
                 <td>   Human Resource    </td>
               </tr>
-              <!--<tr>
-                <td> 2 </td>
-                <td>Dr. Anand K. Sapre </td>
-                <td> <li>All Subjects of Marketing</li>
-
-                    <li>Sales &amp; Distribution</li>
-
-                    <li>Marketing Strategies</li>
-
-                </td>
-                <td> </td>
-                <td> </td>
+              <tr>
+                  <td>   2 </td>
+                  <td>Dr. Anand K. Sapre
+                      
+                  </td>
+                  <td>
+                      <ul>
+                          <li>
+                              
+                                  All Subjects of Marketing
+                              
+                          </li>
+                          <li>
+                              
+                                  Sales &amp; Distribution
+                              
+                          </li>
+                          <li>
+                              
+                                  Marketing Strategies
+                              
+                          </li>
+                      </ul>
+                      <br/>
+                  </td>
+                  <td>
+                      <ul>
+                          <li>
+                              
+                                  Brand Loyalty
+                              
+                          </li>
+                          <li>
+                              
+                                  Advertisement
+                              
+                          </li>
+                          <li>
+                              
+                                  Business Strategies
+                              
+                          </li>
+                      </ul>
+                  </td>
+                  <td>
+                      <li>
+                          
+                              Brand Loyalty
+                          
+                      </li>
+                      <li>
+                          
+                              Advertisement
+                          
+                      </li>
+                      <li>
+                          
+                              Business Strategies
+                          
+                      </li>
+                  </td>
               </tr>
               <tr>
-                <td> 3 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 4 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 5 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 6 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 7 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 8 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 9 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 10 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 11 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 12 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 13 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr>
-              <tr>
-                <td> 14 </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-                <td> </td>
-              </tr-->
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              <tr>
-                  <td>   1
+                  <td>
+                      
+                          3
+                      
                   </td>
                   <td>
                       
-                          Dr. Anand K. Sapre
-                      </p>
-                  </td>
-                  <td>
-                      <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
-                                  All Subjects of Marketing
-                              </p>
-                          </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
-                                  Sales &amp; Distribution
-                              </p>
-                          </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
-                                  Marketing Strategies
-                              </p>
-                          </li>
-                      </ul>
-                      <br/>
-                  </td>
-                  <td>
-                      <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
-                                  Brand Loyalty
-                              </p>
-                          </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
-                                  Advertisement
-                              </p>
-                          </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
-                                  Business Strategies
-                              </p>
-                          </li>
-                      </ul>
-                  </td>
-                  <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
-                              Brand Loyalty
-                          </p>
-                      </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
-                              Advertisement
-                          </p>
-                      </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
-                              Business Strategies
-                          </p>
-                      </li>
-                  </td>
-              </tr>
-              <tr>
-                  <td>
-                      <p dir="ltr">
-                          3
-                      </p>
-                  </td>
-                  <td>
-                      <p dir="ltr">
                           Dr. R.K.Vyas
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Banking
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Strategic Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Strategic financial Management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Banking
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Strategic Management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Banking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Strategic Management
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           4
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Yamini Karmarkar
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Security analysis of portfolio management,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   International Finance,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Research Method,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Financial Research.
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Strategic management,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Entrepreneurship,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Business plan development
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Asset Pricing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Stock Market
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Forex &amp; Market efficiency
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           5
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Kirti Mathur
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Software Engineering
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   OOAD
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Data bases
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software Engineering
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               OOAD
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Data bases
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software Engineering
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               OOAD
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Data bases
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           6
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Geeta Sharma
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Bank Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Insurance &amp; Banking
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Financial Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Research Methodology
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
+                          <li>
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Banking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Performance Evaluation in finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               HR areas
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Banking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Performance Evaluation in finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               HR areas
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           7
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Geeta Nema
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Branding,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Service marketing,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Consumer Behaviour,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Sales &amp; Distribution
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Branding,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Service marketing,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               CONSUMER BEHAVIOUR,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               SALES &amp; DISTRIBUTION
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Branding,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Service marketing,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               CONSUMER BEHAVIOUR,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               SALES &amp; DISTRIBUTION
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           8
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Jyoti Sharma
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Human Resources management,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Organization Behaviour,
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Emotional Intelligence
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               HUMAN RESOURCE,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Training &amp; Development
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               OB,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Emotional Intelligence
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Personality Development
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               HUMAN RESOURCE,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Training &amp; Development
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               OB,
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Emotional Intelligence
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Personality Development
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           9
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Ramesh Thakur
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Object Oriented Analysis
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   DBMS
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Data structure
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Component Technology
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   System Programming
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software development life cycle
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Information retrieval &amp; extraction
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           10
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Jugendra Dongre
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Artificial Intelligence
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Soft Computing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Multimedia
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Soft Computing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Multimedia
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Data Mining
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Multimedia
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           11
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Manju Suchdeo
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Operating System
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   OOAD
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Parallel Processing
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software Development
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Programming
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Mobile Computing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Cloud Computing
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           12
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Shaligram Prajapat
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Algorithms
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Numaricla Analysis and Design
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Data Mining
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Cryptography
-                              </p>
+                              
                           </li>
                       </ul>
                       <br/>
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Academic and Research Projects
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Graphics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Symmetric Key Algorithms
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               AVK based Mining Algorithms
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Recommender System
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           13
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Manish Sitlani
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Corporate Finance
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Personal Finance
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Accounting
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Corporate Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Secretarial Practice
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Banking &amp; Insurance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Corporate Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Personal Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Accounting
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           14
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Preeti Singh
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   MIS
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   E-business
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   E-Commerce
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   SAP
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   IT
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   DBMS
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Fundamental
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   RDBMS
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Operating System
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-governance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               DBMS
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               MIS
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-business
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-Commerce
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Mobile computing &amp; Marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-governance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           15
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. S.C. Patidar
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Business Law
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Taxation
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Business Law
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Taxation
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               AAI &amp; rural tax
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           16
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Ravindra Yadav
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   HUMAN RESOURCE
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   OB
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   TQM
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Operations management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Kaizen
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Benchmarking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               HUMAN RESOURCE
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Operations management
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               OB
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Kaizen
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Benchmarking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               HUMAN RESOURCE
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Operations management
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               OB
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           17
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Anshu Bhati
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   PR
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Advertising
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Branding
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Service Marketing
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               NGO
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               PR
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               NGO Sector
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               PR
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Advertising
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Branding
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Service Marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               PR
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           18
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Pooja Jain
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Consumer Behaviour
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Advertising Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Marketing Research
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Int. Marketing
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Consumer Behaviour
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Advertising Management
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Research
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Int. Marketing
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Consumer Behaviour
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Advertising Management
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Research
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Int. Marketing
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           19
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Sujata Parwani
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Macro Economics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Micro Economics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Managerial Economics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Treasury
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Insurance &amp; Banking
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
+                          <li>
                           </li>
-                          <li dir="ltr">
+                          <li>
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Economics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Insurance &amp; Banking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Public Finance
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Economics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Insurance &amp; Banking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Public Finance
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           20
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Gaurav Purohit
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Tourism
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   HUMAN RESOURCE
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   OB
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   PPM
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Tourism
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Tourism
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               HUMAN RESOURCE
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           21
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Anil S. Goray
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Marketing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Rural &amp; Retail Advertisement
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Brand Management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Campaigning
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Planning
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Advt.
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Campaigning
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Planning
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           22
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Muskan Karamchandani
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Financial Marketing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Financial Service
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Project Management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Project Management
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Stock Market
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           24
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Surendra Malviya
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   E-Commerce
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   E-business
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   E-Marketing
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Banking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-Marketing
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Banking
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-Marketing
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           25
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ku. Yasmin Shaikh
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Theory of Computation
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Formal Languages
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Natural Languages
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Data Mining &amp; Statistical Analysis
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Aspect Mining &amp; Data mining
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           26
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Kapil Jain
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Accounting &amp; Finance
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Research Methodology
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Personal Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Office automation
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Personal Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Consumer Behaviour
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Corporate finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Stock Market
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-Commerce
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Behavioural Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Etc.
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           27
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Manminder Singh Saluja
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Economics &amp; Econometrics
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Monetary Economics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Fiscal Economics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Financial Economics
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Economics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Applied Finance
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           28
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Poonam Mangwani
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Comp. Network
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Databases
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Microprocessor
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Software testing
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software Testing
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software engineering &amp; Databases
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           29
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Rajesh Verma
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Electronics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Electronics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Science
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Micro processor
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Micro Controller
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Digital Electronics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           30
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Shilpa Bagdare
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   CONSUMER BEHAVIOUR
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Service Marketing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Retailing
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Customer Experience Management
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Customer Experience Management
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Service Marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Retailing
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           31
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Nirmala Sawan
-                      </p>
+                      
                       <br/>
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Statistics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Operation Research
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Statistics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Operation Research
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Applied Statistics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Applied Statistics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           32
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Basant Namdeo
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
+                          <li>
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software Development
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Web Designing
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Database Programming
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Application Development
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           33
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Navneet Kaur Bhatia
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Financial Markets
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Financial Services
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   International Business
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Cost Accounting
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Investment Management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Financial Markets
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Corporate Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Financial Markets
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Corporate Finance
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           34
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Nitin Nagar
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Discrete Structure
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Adoption Issues in Cloud Computing
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Security &amp; Economy in Cloud Computing Services
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           35
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Rahul Singhai
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Operating System
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   DBMS
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   SAD
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   System Programming
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   C/C++
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Oracle
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Data mining
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Operating System
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Networks
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Data mining
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Operating System
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           36
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Dr. Prerna Kumar
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Service Marketing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Direct Marketing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Product &amp; brand International Marketing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Marketing Strategies
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Relationship marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Experimental marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Service marketing
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Financial Services
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Relationship marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Experimental marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Service marketing
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           37
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Rupesh Sendre
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Numerical Analysis &amp; Design
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Network
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Discrete Structure
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   System Analysis &amp; Design
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Numerical Analysis &amp; Design
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Network
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Discrete Structure
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               System Analysis &amp; Design
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Data Mining
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Web Mining
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Operating Systems
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Networks
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           38
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Naresh Dembla
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               DBMS
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Stats
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               QUANTITATIVE TECHNIQUES
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               OR
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software Engineering
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-Commerce
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           39
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Shraddha Soni
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Java
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Bioinformatics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Databases
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   System Programming
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Java
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Bioinformatics
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Databases
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               System Programming
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Databases
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           40
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Kirti Vijayvargiya
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Data Bases
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Networks
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Data Structures
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software development
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Programming Languages
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Databases
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Networks
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           41
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Vivek Shrivastava
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Architecture
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Leasing Algorithms in Cloud Computing
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Resource Management Algorithms in Cloud Computing
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           42
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Pradeep K. Jatav
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   PC- Software
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computers
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Networks
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           43
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Arpit Nema
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   C/ C++
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   PC-Software
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Science
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               C/ C++
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               PC-Software
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer Science
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Management Sciences
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           44
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Vibha Gupta
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Markets
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Advertisements
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Multimedia
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   PPM
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Science
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Markets
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Advertisements
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Multimedia
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Management
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           45
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Shikha Chaturvedi
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Marketing Strategies
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Marketing Mgmt.
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Tourism &amp; DTS of India
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Human Resource Mgmt
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Strategies
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Mgmt.
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Tourism &amp; DTS of India
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Human Resource Mgmt
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Strategies
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Mgmt.
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Tourism &amp; DTS of India
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Human Resource Mgmt
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           46
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Shristi Choudhary
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Comp. Sc. &amp; IT
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Data Structure
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Fundamental
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Comp. Sc. &amp; IT
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
+                      <li>
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Software Engineering
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           47
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Ravi Bunkar
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Business Mathematics
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Insurance &amp; Banking
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Software
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   PC-Software
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Computer
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Management
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Business Communication
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Online Shopping
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Advertising
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Branding Management
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           48
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Monalisa Khatre
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Marketing Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Advertising
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Branding
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Management
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Branding
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           49
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Chetna Sawant
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Integrated Marketing
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Communication
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   PPM
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Computer Applications
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               E-Commerce
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Web Site Design
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Management
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Internet Marketing
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Online shopping
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Advertising
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Branding
-                          </p>
+                          
                       </li>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Public relations
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           50
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Ms. Neha Chouhan
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Management for workers
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   HUMAN RESOURCE Major
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Hindi
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Business Communication
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Personality Management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Management
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Management
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
               <tr>
                   <td>
-                      <p dir="ltr">
+                      
                           51
-                      </p>
+                      
                   </td>
                   <td>
-                      <p dir="ltr">
+                      
                           Mr. Chetan Raikwar
-                      </p>
+                      
                   </td>
                   <td>
                       <ul>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Business Maths
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   QUANTITATIVE TECHNIQUES
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Operation Research
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Operation Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Financial Management
-                              </p>
+                              
                           </li>
-                          <li dir="ltr">
-                              <p dir="ltr">
+                          <li>
+                              
                                   Project Management
-                              </p>
+                              
                           </li>
                       </ul>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing Management
-                          </p>
+                          
                       </li>
                   </td>
                   <td>
-                      <li dir="ltr">
-                          <p dir="ltr">
+                      <li>
+                          
                               Marketing brand loyalty
-                          </p>
+                          
                       </li>
                   </td>
               </tr>
-          </tbody>
+          
       </table>
 
 

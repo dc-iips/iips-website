@@ -34,10 +34,10 @@
                     <table class="table">
                           <tbody>
                               <tr>
-                                  <td><b>Name</b></td>
-                                  <td><b>Designation</b></td>
-                                  <td><b>Qualifications</b></td>
-                                  <td><b>Responsibility</b></td>
+                                  <th>Name</b></th>
+                                  <th>Designation</b></th>
+                                  <th>Qualifications</b></th>
+                                  <th>Responsibility</b></th>
                               </tr>
                           </tbody>
   
@@ -513,51 +513,8 @@
   
   </tr>  
   
-   <tr>
-  <td style=" padding-left:20px;"><a href="" target="_blank">Mr.&nbsp;Ravi Bunkar</a></td>
-  <td>-</td>
-  <td>-</td>
-  <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
-  <td>-</td>
-  
-  </tr>  
-  
-  <tr>
-  <td style=" padding-left:20px;"><a href="" target="_blank">Ms.&nbsp;Monalisa Khatre</a></td>
-  <td>-</td>
-  <td>-</td>
-  <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
-  <td>-</td>
-  
-  </tr>  
-  
-  <tr>
-  <td style=" padding-left:20px;"><a href="" target="_blank">Ms.&nbsp;Chetna Sawant</a></td>
-  <td>-</td>
-  <td>-</td>
-  <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
-  <td>-</td>
-  
-  </tr>  
-  
-  <tr>
-  <td style=" padding-left:20px;"><a href="" target="_blank">Ms.&nbsp;Neha Chouhan</a></td>
-  <td>-</td>
-  <td>-</td>
-  <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
-  <td>-</td>
-  
-  </tr>  
-  
-  <tr>
-  <td style=" padding-left:20px;"><a href="" target="_blank">Mr.&nbsp;Chetan Raikwar</a></td>
-  <td>-</td>
-  <td>-</td>
-  <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
-  <td>-</td>
-  
-  </tr>  
-  
+   
+ 
   </tbody></table>
     </div>
       </div>

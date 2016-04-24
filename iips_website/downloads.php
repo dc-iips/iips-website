@@ -89,10 +89,12 @@
     </div>
     <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
       <div class="panel-body">
-        <b>Format</b>
-            <a href=""> Indent Form <br>
+            <a href="pdf_server.php?file=static/pdf/format/indent_form.pdf"> Indent Form <br>
             <a href=""> Casual Leave Application <br>
-            <a href=""> Student Appraisal Form 
+            <a href="pdf_server.php?file=static/pdf/format/Student_Appraisal_form.pdf"> Student Appraisal Form <br>
+            <a href=""> Project Viva Format <br> 
+            <a href=""> Student Feedback <br>
+            <a href=""> CV Board Feedback 
       </div>
     </div>
   </div>
@@ -106,7 +108,7 @@
     </div>
     <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
       <div class="panel-body">
-        <a href="">Download all Faculties CV's Here</a>
+        <a href="pdf_server.php?file=static/pdf/format/CV.zip">Download all Faculties CV's Here</a>
       </div>
     </div>
   </div>

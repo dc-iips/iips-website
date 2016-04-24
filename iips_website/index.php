@@ -14,8 +14,20 @@
     <link href="yamm/yamm.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <script language="javascript">
+document.onmousedown=disableclick;
+status="Right Click Disabled";
+function disableclick(event)
+{
+  if(event.button==2)
+   {
+     alert(status);
+     return false;    
+   }
+}
+</script>
   </head>
-  <body>
+<body oncontextmenu="return false">
     <?php include 'header.php';?>
     <!--Slider Start -->
     <div class="container">

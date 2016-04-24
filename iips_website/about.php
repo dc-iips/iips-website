@@ -71,7 +71,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="about_university.php">About University</a></h3>
-                    <p>IIPS is famous in DAVV for its awesome infrastructure. The IIPS has Globe, CV and 24*7 wifi campus.</p>
+                    <p>Established in 1964, DAVV is among the prominent Universities of the central India located in Indore.</p>
                 </div>
             </div>  
             <br/>
@@ -83,7 +83,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                   <h3><a href="about_iips.php">About IIPS</a></h3>
-                  <p>IIPS is famous in DAVV for its awesome infrastructure. The IIPS has Globe, CV and 24*7 wifi campus.</p>
+                  <p>The IIPS established in the year 1992 is an academic mentor of its kind and an eminently practical graduate and postgraduate institute, recognized by AICTE.</p>
                 </div>
             </div>
             <br/>
