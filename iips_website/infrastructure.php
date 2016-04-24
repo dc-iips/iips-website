@@ -40,7 +40,7 @@
               equipped lecture theatres which are used for seminars and lectures. These lectures have played host to some of
               the most well known personalities of the corporate world. 
              </p>
-             <center><img src="images/lt1.jpg" width="80%" height="80%"/></center>
+             <center><img src="images/about/lt1.jpg" width="80%" height="80%"/></center>
         </div>
         
         <div role="tabpanel" class="tab-pane" id="tab2">
@@ -88,7 +88,7 @@
               <li>The Central Library, Takshashila Campus</li>
               <li>Student Home Library, Nalanda Campus</li>
            </ul><br>
-           <center><img src="images/lib.jpg" width="80%" height="80%"/></center>
+           <center><img src="images/about/lib.jpg" width="80%" height="80%"/></center>
             <p style="text-align:justify;">
               The library system has a collection of more than one lac volumes. It represents a 
               wide spectra of subjects with a sizeable collection on Computer Science and Management.
