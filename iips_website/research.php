@@ -34,7 +34,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/research/dc.png" class="img-responsive">
+                    <img src="images/research/dc_logo.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="development_center.php">Development Center</a></h3>
@@ -45,7 +45,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/research/research.png" class="img-responsive">
+                    <img src="images/research/research_logo.png" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="research_center.php">Research Center</a></h3>
@@ -56,7 +56,7 @@
         </div>
 
         <div class="col-md-6">
-           <div class="row">
+            <div class="row">
                 <div class="col-md-4">
                     <img src="images/research/publication.jpg" class="img-responsive">
                 </div>
@@ -65,9 +65,8 @@
                     <p>Published reports are a necessary step in the dialogue with other scientists about the approach and significance of research studies. </p>
                 </div>
             </div>
-            <br/>
-          <br>
+            <br><br>
         </div>    
     </div>
     <br/>
-<?php include 'footer.php'; ?>
+<?php include 'footer.php';?>
