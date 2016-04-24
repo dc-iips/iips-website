@@ -18,7 +18,7 @@
   <body>
 <?php include 'header.php';?>
     <div>
-        <img src="images/admission/045.jpg" class="img-responsive" style="width:100%;height:320px;"/>
+        <img src="images/admission/davv_gate.jpg" class="img-responsive" style="width:100%;height:320px;"/>
     </div>
 
     <div class="container">
