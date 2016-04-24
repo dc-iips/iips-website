@@ -52,264 +52,264 @@
 
         <div role="tabpanel" class="tab-pane" id="tab2">
             <h3 class="text-center"><b>Management</b></h3>
-            <p class="text-justify"><table class="table table-striped">
-    <thead>
-      <tr>
-        <th>S.No.</th>
-        <th>Company Name</th>
-        <th>Courses</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td>L&amp;T</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>Naukri.com</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>Deloitte US India</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>Deloitte Taxation</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>Shakti Pumps</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>ICICI Securities Mumbai</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>AXIS Bank</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>Mahindra Finance</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>9</td>
-        <td>Colgate</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>Nestle</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>11</td>
-        <td>XL Dynamics</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>12</td>
-        <td>SBI Life Insurance</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>13</td>
-        <td>ICICI Securities Hyderabad</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>14</td>
-        <td>ICICI Securities Bhopal</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>15</td>
-        <td>Impetus</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>16</td>
-        <td>Zycus</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>17</td>
-        <td>Jaro Education</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>18</td>
-        <td>LAVA Mobile</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>19</td>
-        <td>S&amp;P Capital IQ</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>20</td>
-        <td>Idea Cellular</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>21</td>
-        <td>Hathway</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>22</td>
-        <td>Yash Technology</td>
-        <td>MBA</td>
-      </tr>
-      <tr>
-        <td>23</td>
-        <td>Bharti Airtel</td>
-        <td>MBA</td>
-      </tr>
-    </tbody>
-  </table></p>
-            
-     <h3 class="text-center"><b>Technical</b></h3>
             <p class="text-justify">
               <table class="table table-striped">
-    <thead>
-      <tr>
-        <th>S.No.</th>
-        <th>Company Name</th>
-        <th>Courses</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td>Infosys</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>Wipro</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>Cognizant</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>Capegimini</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>CSC</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>Persistent</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>Bloomberg</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>Cognam</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>9</td>
-        <td>NEC</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>Hotwax</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>11</td>
-        <td>TekLink</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>12</td>
-        <td>Mahindra Comviva</td>
-        <td>MCA</td>
-      </tr>
-      <tr>
-        <td>13</td>
-        <td>Infogain</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>14</td>
-        <td>Diaspark</td>
-        <td>MCA</td>
-      </tr>
-      <tr>
-        <td>15</td>
-        <td>Amdocs</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>16</td>
-        <td>Tata Consultancy Services</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>17</td>
-        <td>Tech-Mahindra</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>18</td>
-        <td>Impetus</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>19</td>
-        <td>Accenture</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>20</td>
-        <td>ATOS</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-      <tr>
-        <td>21</td>
-        <td>Adobe</td>
-        <td>MCA/M.Tech</td>
-      </tr>
-    </tbody>
-  </table></p>
+                <thead>
+                  <tr>
+                  <th>S.No.</th>
+                  <th>Company Name</th>
+                  <th>Courses</th>
+                  </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>L&amp;T</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>Naukri.com</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Deloitte US India</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>Deloitte Taxation</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>Shakti Pumps</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>ICICI Securities Mumbai</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td>AXIS Bank</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td>Mahindra Finance</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td>Colgate</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td>Nestle</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>11</td>
+                  <td>XL Dynamics</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>12</td>
+                  <td>SBI Life Insurance</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>13</td>
+                  <td>ICICI Securities Hyderabad</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>14</td>
+                  <td>ICICI Securities Bhopal</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>15</td>
+                  <td>Impetus</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>16</td>
+                  <td>Zycus</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>17</td>
+                  <td>Jaro Education</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>18</td>
+                  <td>LAVA Mobile</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>19</td>
+                  <td>S&amp;P Capital IQ</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>20</td>
+                  <td>Idea Cellular</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>21</td>
+                  <td>Hathway</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>22</td>
+                  <td>Yash Technology</td>
+                  <td>MBA</td>
+                </tr>
+                <tr>
+                  <td>23</td>
+                  <td>Bharti Airtel</td>
+                  <td>MBA</td>
+                </tr>
+                </tbody>
+              </table>
+            </p>
+            <h3 class="text-center"><b>Technical</b></h3>
+            <p class="text-justify">
+           <table class="table table-striped">
+              <thead>
+                  <tr>
+                    <th>S.No.</th>
+                    <th>Company Name</th>
+                    <th>Courses</th>
+                  </tr>
+              </thead>
+              <tbody>
+                  <tr>
+                    <td>1</td>
+                    <td>Infosys</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>Wipro</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>Cognizant</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>4</td>
+                    <td>Capegimini</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>5</td>
+                    <td>CSC</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>6</td>
+                    <td>Persistent</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>7</td>
+                    <td>Bloomberg</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>8</td>
+                    <td>Cognam</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>9</td>
+                    <td>NEC</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>10</td>
+                    <td>Hotwax</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>11</td>
+                    <td>TekLink</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>12</td>
+                    <td>Mahindra Comviva</td>
+                    <td>MCA</td>
+                  </tr>
+                  <tr>
+                    <td>13</td>
+                    <td>Infogain</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>14</td>
+                    <td>Diaspark</td>
+                    <td>MCA</td>
+                  </tr>
+                  <tr>
+                    <td>15</td>
+                    <td>Amdocs</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>16</td>
+                    <td>Tata Consultancy Services</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>17</td>
+                    <td>Tech-Mahindra</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>18</td>
+                    <td>Impetus</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>19</td>
+                    <td>Accenture</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>20</td>
+                    <td>ATOS</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+                  <tr>
+                    <td>21</td>
+                    <td>Adobe</td>
+                    <td>MCA/M.Tech</td>
+                  </tr>
+              </tbody>
+           </table>
+            </p>
         </div>
-
+        
         <div role="tabpanel" class="tab-pane" id="tab3">
             <h3 class="text-center"><b>Management Companies</b></h3>
-            <img src="images/management_logo.jpg" class="img-responsive">
+            <img src="images/campuslife/management_logo.jpg" class="img-responsive">
             <h3 class="text-center"><b>Technical Companies</b></h3>
-            <img src="images/technical_logo.jpg" class="img-responsive">
-            
+            <img src="images/campuslife/technical_logo.jpg" class="img-responsive">
         </div>
       </div>
- <!-- Table Ends> -->
-  <br><br>
-    </div><!--Fees Structure End> -->
+      <br><br>
+    </div>
     </div>
   </div>
 </div>
