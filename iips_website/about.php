@@ -17,7 +17,7 @@
   </head>
   <body>
 
-    <?php include 'header.php';?>
+<?php include 'header.php';?>
     <div>
         <img src="images/about/about.jpg" class="img-responsive" style="width:100%;height:320px;"/>
     </div>
@@ -75,6 +75,7 @@
                 </div>
             </div>  
             <br/>
+            <br>
  
             <div class="row">
                 <div class="col-md-4">
@@ -89,4 +90,4 @@
         </div>
     </div>
     <br/>
-    <?php include 'footer.php';?>
+<?php include 'footer.php';?>
