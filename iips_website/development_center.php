@@ -284,7 +284,7 @@
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                          <img class="img-circle" id="centralized" src="images/developers/satal.jpg" alt=""  width="55" height="55">
-                         <a href="">Rahul Satal</a>
+                         <a href="https://sites.google.com/site/rahulsatal92/">Rahul Satal</a>
                       </div>
                       <div class="col-md-3 col-xs-12">
                       </div>
