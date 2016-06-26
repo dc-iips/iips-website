@@ -39,15 +39,15 @@
             <p>
                   I am confident that after having an inside glimpse of IIPS through this brochure you would definitely be interested in testing our students by coming for the On-Campus recruitment. Furthermore I would like to express my gratitude towards those companies which have shown confidence in our students and have come in the past years for the On-Campus placements. They have become an eternal part of the lIPS family and have always received much more than their expectations from us.
             <br><br>
-              -- Please feel free to contact us at any point of time for any information or queries.
+              - Please feel free to contact us at any point of time for any information or queries.
             <br><br>
-                 <a href=""> Imroz Khan </a>
+                 <a> Imroz Khan </a>
             <br><br>
                   <i class="fa fa-mobile fa-lg"></i>&nbsp;Mob.No.+919425351233
             <br><br>
                   <i class="fa fa-phone fa-lg"></i>&nbsp;Off -91-0731-2468507
             <br><br>
-                  <i class="fa fa-envelope-o fa-fw"></i>&nbsp;Email - <a>imroz@iips.edu.in,</a></p>
+                  <i class="fa fa-envelope-o fa-fw"></i>&nbsp;Email - <a>imroz@iips.edu.in</a></p>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
