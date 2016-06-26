@@ -22,7 +22,7 @@
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Events</b> </li>
-        <li role="presentation" id="colm" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Xpression</a></li>
+        <li role="presentation" id="colm" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Xpressions</a></li>
         <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Synergy</a></li>
         <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Reboot</a></li>
         <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Tourista</a></li>
@@ -34,11 +34,11 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center"><b>Xpression</b></h3>
+            <h3 class="text-center"><b>Xpressions</b></h3>
             <p class="text-justify">Xpressions is an annual event to incorporate the finer aspects of team building, co-ordination, Time management, effectiveness and efficiency. It aims to stimulate minds in pursuit of knowledge by exposing them to recent advancements in technological and managerial world. The two-day event is filled with fun and frolic in almost all the fields of professional world.We 'The IIPS Family' make it an occasion in which every nook and corner of the Management and Technical field are covered. It is an effort to fuse the practical aspects with a lot of knowledge generation. We can say that this Xpressions is the best way to expose the young minds to the world of business and technology so that they get prepared in the best way possible.
 
             Various aspects of practical skills are being emphasized like decision making, presentation, creative, technical, people oriented, organizational, team-oriented skills etc. It's an arena where every element of this world are required to be showcased which will ensure that participants, organizers and the whole IIPS will be in a win-win situation. The event contain games from different fields.</p>
-            <a href="http://www.iips.edu.in/xpressions/index.html">Visit Xpression Website</a>
+            <a href="http://www.iips.edu.in/xpressions/index.html">Visit Xpressions Website</a>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
@@ -49,19 +49,19 @@
 
         <div role="tabpanel" class="tab-pane" id="tab3">
             <h3 class="text-center"><b>Reboot</b></h3>
-            <p class="text-justify">"Reboot" is a foundation being laid by M.Tech family with the aim of providing a stage of opportunities for the students to explore themselves, interact with each other and work in a healthy environment. "Reboot" basically aims at creating awareness about the importance of inter-personal skills ,technical skills and creativity.</p>
+            <p class="text-justify">Reboot is a foundation being laid by M.Tech family with the aim of providing a stage of opportunities for the students to explore themselves, interact with each other and work in a healthy environment. "Reboot" basically aims at creating awareness about the importance of inter-personal skills ,technical skills and creativity.</p>
             <a href="">Visit Reboot Website</a>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab4">
             <h3 class="text-center"><b>Tourista</b></h3>
-            <p class="text-justify">TOURISTA is a privileged event of IIPS Tourism batch which provides a platform for various academic and cultural activities. This event has been an identity of the Tourism batch for the past five years. Our alumni, working in leading travelling companies like: Thomas Cook, Make My Trip, Cox &amp; Kings etc actively participate in TOURISTA. In this youth oriented event, students from various departments of DAVV campus participate.</p>
+            <p class="text-justify">Tourista is a privileged event of IIPS Tourism batch which provides a platform for various academic and cultural activities. This event has been an identity of the Tourism batch for the past five years. Our alumni, working in leading travelling companies like: Thomas Cook, Make My Trip, Cox &amp; Kings etc actively participate in TOURISTA. In this youth oriented event, students from various departments of DAVV campus participate.</p>
             <a href="">Visit Tourista Website</a>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab5">
             <h3 class="text-center"><b>Gabfest</b></h3>
-            <p class="text-justify">Maya is an Event of Advertising and Public Relations(APR) department of 'International Institute of Professional studies' (IIPS), DAVV, Indore.</p>
+            <p class="text-justify">Student initiated event in which seniors share their interview experience with their juniors. </p>
             <a href="">Visit Gabfest Website</a>
         </div>
 
