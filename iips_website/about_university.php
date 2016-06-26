@@ -58,23 +58,20 @@
                 Every effort is made to provide accommodation to girl students. However the boys students are provided hostel facilities based
                 on availability.
             </p>
-                For more details visit : <a href="http://www.dauniv.ac.in" >Devi Ahilya University</a>
+                For more details visit : <a href="http://www.dauniv.ac.in" target="_blank">Devi Ahilya University</a>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
             <h3 class="text-center"><b>Hon'ble Vice-Chancellor </b></h3>
-             <div  style="float:right;padding-left:5px;"  width="15%" height="15%">
-             <img src="images/Vice Chancellor.jpg" class="img-rounded" alt="Photo Vice Chancellor">
-               <h6>Prof. (Dr.) Ashutosh Mishra</h6>
-                <h6><center>( Vice-Chancellor) </center></h6>
+             <div class="row">
+             	<div class="col-md-4"></div>
+             	<div class="col-md-4 text-center">
+             		<img src="images/vice_chancellor.png" class="img-rounded" alt="Photo Vice Chancellor">
+               		<h6><b>Dr. Narendra Kumar Dhakad</b></h6>
+                	<h6><b>(Vice Chancellor)</b></h6>
+             	</div>
+             	<div class="col-md-4"></div>
             </div>
-            <p class="text-justify">
-                Dr. Ashutosh Mishra Professor in Physics and he did his M. Sc. in 1981 and Ph.D. in X-ray spectroscopy in 1987 from Vikram University Ujjain. 
-                Dr. Mishra joined School of Physics, Devi Ahilya Vishwavidyalaya [DAVV], Indore in 1993. He has published more than one hundred fifty research papers in International/National journals and successfully supervised 24 students for their Ph.D. work and also supervised twenty M. Phil. students 
-                He has made many presentations in national and international conferences/symposia. He had already completed four research projects supported by funding agencies like M.P. 
-                Council of Science and Technology, Bhopal and University Grants Commission, Delhi. Dr. Mishra’ research work has been cited in Bibliography in X-ray Spectra and Chemical binding Edited by A. Miesel et al. (Springer-Verlag 1989). Dr. A. Mishra served as Vice Chancellor, Devi Ahilya University, Indore from 29th March 2010 to 29th June 2010 and also as Rector, Devi Ahilya University, Indore from 30th June 2010 to 21st May 2011. Organized two international conference in 2012 & 2014 as Convener namely International Conference on Recent Trends in Physics ‘ICRTP 2012’ 4 – 5 February 2012, ICRTP-2014] 22-23 February 2014 School of Physics, Devi Ahilya University, Indore – 452 001, India. He was one of the Guest Editors from the Journal of Physics: Conference Series 365 (2012, 2014) International Conference on Recent Trends in Physics (ICRTP 2012, ICRTP 2014).
-                 IOP Publishing 011001 doi:10.1088/1742-6596/365/1/011001.
-            </p>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
@@ -277,7 +274,7 @@
               seating capacity.This auditorium has been hosting one of the biggest Seminars and Conventions of India. 
               Its equipped with high bandwidth Wi-Fi that can be accessed by anybody inside auditorium. Through this one
               can have access to internet while attending. 
-            </p><br><br>
+            </p>
             <p class="text-justify"> The auditorium has 
               <ul>
                   <li>LCD - Multimedia Projector</li>
@@ -291,24 +288,24 @@
         <div role="tabpanel" class="tab-pane" id="tab5">
         <h3 class="text-center"><b>IT Center</b></h3>
         <p class="text-justify"> 
-            IT Centre was established in the year 2000 to create a Campus Wide Network by interconnecting various campuses and 
+            IT Center was established in the year 2000 to create a Campus Wide Network by interconnecting various campuses and 
             departments. First phase which was completed in April 2001, networked 18 departments having 524 nodes. Second phase
             was completed in Oct 2002, which connected ten more departments and installed 331 additional nodes. During third 
-            phase we have connected IET and Nalanda Campus to our central server located at IT Centre, Khandwa Road Campus. 
+            phase we have connected IET and Nalanda Campus to our central server located at IT Center, Khandwa Road Campus. 
             IET has been connected by laying 2.1 kilometer fibre optic cable where as Nalanda Campus which is six kilometer 
             away from Khandwa Road Campus has been connected using 2 Mbps leased line. During third phase expansion additional 
             150 nodes have been added to Nalanda Campus, RNT Marg Network and 128 nodes to IET network. After completion of 
             third phase i.e. from Feb, 2004 all the departments of the University are now on Campus LAN having access to the 
             Internet.
         </p>
-        <p class="text=justify">
+        <p class="text-justify">
             Under UGC-INFONET scheme, from Jan 2004, UGC has provided our University free subscription to the various e-Journals
             along with 512 kbps bandwidth through ERNET.
         </p>
         <p class="text-justify"> 
-            Internet access is provided to all departments using fibre optic backbone &amp; 1.5 Mbps lease line. The centre is 
+            Internet access is provided to all departments using fibre optic backbone &amp; 1.5 Mbps lease line. The Center is 
             equipped with an array of high-end servers using 10 hours battery backup. Internet access is available to departments
-            round the clock (24 x 7). There are more than 125 computers (thin client) in the IT Centre Lab providing Internet access to students from 9:00 AM to 9:30 PM. 
+            round the clock (24 x 7). There are more than 125 computers (thin client) in the IT Center Lab providing Internet access to students from 9:00 AM to 9:30 PM. 
         </p>  
         </div>
         <br><br>
