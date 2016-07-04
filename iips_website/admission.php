@@ -58,7 +58,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/admission/cet.png" class="img-responsive">
+                    <img src="images/admission/cet.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="cet.php">Common Entrance Test</a></h3>
