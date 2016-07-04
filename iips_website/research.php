@@ -34,7 +34,7 @@
         <div class="col-md-6">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/research/dc_logo.png" class="img-responsive">
+                    <img src="images/research/dc_logo.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="development_center.php">Development Center</a></h3>
@@ -45,7 +45,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/research/research_logo.png" class="img-responsive">
+                    <img src="images/research/research_logo.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="research_center.php">Research Center</a></h3>
