@@ -135,7 +135,7 @@
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-8 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/academics/academics.png" class="img img-responsive" alt="Responsive image">
+                                                    <img src="images/academics/academic.jpg" class="img img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     The institute provides ample opportunities to students with a rigorous and challenging curriculum with flexibility to allow students to tailor their education to meet their professional and personal interests and goals.      
