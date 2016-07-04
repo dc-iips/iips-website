@@ -47,7 +47,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/academics/news.png" class="img-responsive">
+                    <img src="images/academics/news.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="news_and_announcements.php">News &amp; Announcements</a></h3>
@@ -87,7 +87,7 @@
 
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/academics/faculty.png" class="img-responsive">
+                    <img src="images/academics/faculty.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="faculty_profile.php">Faculty Profile</a></h3>
@@ -99,7 +99,7 @@
 
             <div class="row">    
                 <div class="col-md-4">
-                    <img src="images/academics/results.png" class="img-responsive">
+                    <img src="images/academics/results.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="results.php">Results</a></h3>
