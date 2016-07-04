@@ -37,7 +37,7 @@
             <div class="row">
               <h2 class="text-center">Core Developers</h2><br>
                 <div class="col-lg-4 col-sm-4 text-center">
-                  <img class="img-circle img-responsive" id="centralized" src="images/developers/rajat.pg" alt="Rajat Garg">
+                  <img class="img-circle img-responsive" id="centralized" src="https://secure.gravatar.com/avatar/7507da32436d6e738c54ebc993624157?s=160" alt="Rajat Garg">
                   <h3>Rajat Garg<br><small>Front-End Developer</small></h3>
                   <p>
                     <a href="https://twitter.com/RajatTheVampire" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
