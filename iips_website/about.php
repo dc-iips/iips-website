@@ -79,7 +79,7 @@
  
             <div class="row">
                 <div class="col-md-4">
-                  <img src="images/about/image1.png" class="img-responsive">
+                  <img src="images/about/image1.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
                   <h3><a href="about_iips.php">About IIPS</a></h3>
