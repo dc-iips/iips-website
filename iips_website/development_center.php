@@ -257,36 +257,38 @@
               <p class="text-justify"><h4>Here is the list of our dedicated members.<h4></p><br>
               <div class="col-md-12 col-xs-6"><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/7507da32436d6e738c54ebc993624157?s=60" alt="Rajat Garg" width="55" height="55">
+                          <a href="http://rajat-garg.github.io">Rajat Garg</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/a52bef18ff34ccbd98476c5df542ae53?s=60" alt="Rupam Wadia">
+                          <a href="http://rupamwadia.github.io/">Rupam Wadia</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                         <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/6dd92ea4edf5caedf8a3086b7402e673?s=60" alt="Rahul Satal">
+                         <a href="https://sites.google.com/site/rahulsatal92/">Rahul Satal</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/userimage/107215469/0e6c1e698c2cf8d302e29866efc32f5f?size=60" alt="Vikas Chouhan">
+                          <a href="https://branded.me/vikaschouhan">Vikas Chouhan</a>
+                      </div>
+              </div>
+              <div class="col-md-12 col-xs-6"><br><br>
+                      <div class="col-md-3 col-xs-12 text-center">
+                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/06658461e0d7573c093dd6acbc482fbf?s=60" alt="Rahul Sinha">
+                          <a href="https://branded.me/r-sinha">Rahul Sinha</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
+                         <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/e123362cba2da6834f5a6aa141389bd8?s=60" alt="Shubham Neema">
+                         <a href="">Shubham Neema</a>  
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="images/developers/mimoh.jpg" alt="Mimoh Ojha"  width="55" height="55">
                           <a href="www.mimohojha.info">Mimoh Ojha</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="images/developers/sumit.jpg" alt="Sumit Jain" width="55" height="55">
                           <a href="">Sumit Jain</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/developers/rajat.jpg" alt="Rajat Garg" width="55" height="55">
-                          <a href="http://rajat-garg.github.io">Rajat Garg</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/developers/rupam.jpg" alt="Rupam Wadia" width="55" height="55">
-                          <a href="http://rupamwadia.github.io/">Rupam Wadia</a>
-                      </div>
-              </div>
-              <div class="col-md-12 col-xs-6"><br><br>
-                      <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/developers/vikas.jpg" alt="Vikas Chouhan"  width="55" height="55">
-                          <a href="vikas-chouhan.branded.me">Vikas Chouhan</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/developers/rahul.jpg" alt="Rahul Sinha"  width="55" height="55">
-                          <a href="https://branded.me/r-sinha">Rahul Sinha</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                         <img class="img-circle" id="centralized" src="images/developers/satal.jpg" alt=""  width="55" height="55">
-                         <a href="https://sites.google.com/site/rahulsatal92/">Rahul Satal</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12">
                       </div>
               </div>
               <br><br>
