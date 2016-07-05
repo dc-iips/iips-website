@@ -1,3 +1,16 @@
+/*Font CSS*/
+.heading-font{
+ font-family: 'Neuton', Arial, serif ;color: #0B3262; font-weight: 700 ; 
+}
+.subheading-font{
+  font-family: 'Open Sans',sans-serif ; font-weight:600; font-size :14px; color: #0B3262 ;  
+}
+ .content-font{
+  font-family: 'Neuton', serif; font-weight: 400;  font-size :18px;
+
+}
+
+
 #header-style{
     background-color: #003262;
     border-color: transparent;
@@ -73,7 +86,7 @@
 }
 #logo{
    width:200; 
-   height:200;
+   height:79;
 }
 #i14{
   color:#CCCCCC;  

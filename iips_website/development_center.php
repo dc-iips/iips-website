@@ -1,4 +1,6 @@
+
 <!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -17,7 +19,7 @@
   </head>
   <body>
 <?php include 'header.php';?>
-<div class="container">
+<div class="container" >
   <div class="row">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
@@ -31,12 +33,12 @@
       </ul>
     </div>
 
-    <div class="col-md-9">
+    <div class="col-md-9" style="margin-bottom:-70px;" >
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center"><b>About DC</b></h3>
-            <p class="text-justify">
-
+            <h3 class="text-center heading-font" ><b>About DC</b></h3>
+            <p class="text-justify class = "content-font"">
+            <span class="content-font">
                 "We learn most , When we want to invent - Jean Piaget "<br><br>
 
                 Here's a quick look on one of the innovations done by a student , to explain "What We Are"<br><br>
@@ -48,25 +50,26 @@
                 <li>Training for Professional Development and future demand of Industries.</li>
                 <li>R &amp; D Projects.</li>
                 <li>Technical Support for IIPS development.</li><br>
-                <b>Patron:</b><br> Director International Institute of Professional Studies ,Devi Ahilya University Indore, INDIA.
+                </span>
+                <span class="subheading-font" >Patron:</span><br> Director International Institute of Professional Studies ,Devi Ahilya University Indore, India.
                 At Present, IIPS-DC is working to meet following objectives.
                 <li>To provide benefits to the society with lowcost IT products</li>
                 <li>To expose the students with live projects, imparting workplace professionalism and invaluable experience.</li>
                 <br>
-                <b>History</b>
-                <p class="text-justify">
+                <span class="subheading-font" >History:</span>
+                <p class="text-justify  content-font">
                       Envisioned in December 2000 immediate mission (in 2000) -Rendering low cost IT solutions to various government and social organizations, e-Governance and Social Computing Initiative Lead by the innovative instincts of its pro-active Director, nurtured with the acumen and resourcefulness of its pragmatic project managers of that time. IIPS-DC is driven passionate student teams working 24 X 7 with enthusiastic, committed and experts from Industries and Academia of its industrious team and Alumni.
                 </p>
-                <b>Scope</b>
-                <p class="text-justify">
+                <span class="subheading-font" >Scope:</span>
+                <p class="text-justify content-font">
                       The scope of IIPS-DC is not only about product-development but also up to the implementation and deployment,This includes the training of the various end-users and maintenance of the products thereby offering a complete package of IT solutions cum services.
                 </p>
 
-                <b>e-SCI</b>
-                <p class="text-justify">
+                <span class="subheading-font" >e-SCI:</span>
+                <p class="text-justify content-font">
                       Envisioned in 2001. Started with strong team of six members. The aim of e-SCI lab is to work for social institutions and ergo, computerizing the tasks which are accomplished with tremendous efforts manually. The project was automation of Regional Transport Office . this Center has served many organizations including Madhya Pradesh Police, Indore Municipal Corporation, The Apollo Hospital - Indore etc. It assists in saving time and by innovative open source technology and software, makes the work user-friendly as well. The e-SCI has undergone a continuous evolution since inception. It is now established as a unique center of excellence in e-governance and low cost computing and is at the vanguard of 'Software for Society' in Malwa region of Central India. Mission of e-SCI Lab at IIPS D.C. : The aim of e-SCI lab is to work for social institutions and ergo, computerizing the tasks which are accomplished with tremendous efforts manually. It thereby, assists in saving time and by innovative technology and software, makes the work user-friendly as well.
                 </p>
-                      Visit professional linked in profile of IIPS Development Center ,Devi Ahilya University Indore ,INDIA.
+                      Visit professional linked in profile of IIPS Development Center ,Devi Ahilya University Indore, India.
             </p>
         </div>
 
@@ -253,43 +256,37 @@
                   </div>
                   <div class="col-md-4"></div>
                 </div>
-              <h3 class="text-center"><b>Members</b></h3><br>
-              <p class="text-justify"><h4>Here is the list of our dedicated members.<h4></p><br>
-              <div class="col-md-12 col-xs-6"><br><br>
+              <h3 class="text-center"><b>Members</b></h3><br><br><br>
+              <p class="text-justify"><h4>Here is the list of our dedicated members...<h4></p><br>
+              <div class="col-md-12 col-xs-6" style="margin-bottom:40px" ><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/7507da32436d6e738c54ebc993624157?s=60" alt="Rajat Garg" width="55" height="55">
-                          <a href="http://rajat-garg.github.io">Rajat Garg</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/a52bef18ff34ccbd98476c5df542ae53?s=60" alt="Rupam Wadia">
-                          <a href="http://rupamwadia.github.io/">Rupam Wadia</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                         <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/6dd92ea4edf5caedf8a3086b7402e673?s=60" alt="Rahul Satal">
+                         <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/6dd92ea4edf5caedf8a3086b7402e673?s=140" alt="rahul satal"  >
                          <a href="https://sites.google.com/site/rahulsatal92/">Rahul Satal</a>
                       </div>
+                      <div class="col-md-3 col-xs-12 text-center" style="margin: 0px 50px 0px;">
+                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/06658461e0d7573c093dd6acbc482fbf?s=140" alt="Rahul Sinha"  >
+                          <a href="https://branded.me/r-sinha">Rahul Sinha</a>
+                      </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/userimage/107215469/0e6c1e698c2cf8d302e29866efc32f5f?size=60" alt="Vikas Chouhan">
-                          <a href="https://branded.me/vikaschouhan">Vikas Chouhan</a>
+                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/7507da32436d6e738c54ebc993624157?s=140" alt="Rajat Garg" >
+                          <a href="http://rajat-garg.github.io">Rajat Garg</a>
                       </div>
               </div>
               <div class="col-md-12 col-xs-6"><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/06658461e0d7573c093dd6acbc482fbf?s=60" alt="Rahul Sinha">
-                          <a href="https://branded.me/r-sinha">Rahul Sinha</a>
+                          <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/a52bef18ff34ccbd98476c5df542ae53?s=140" alt="Rupam Wadia" >
+                          <a href="http://rupamwadia.github.io/">Rupam Wadia</a>
+                      </div>
+                      <div class="col-md-3 col-xs-12 text-center" style="margin: 0px 50px 0px;">
+                         <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/e123362cba2da6834f5a6aa141389bd8?s=140" alt=""  >
+                         <a href="https://sites.google.com/site/rahulsatal92/">Shubham Neema</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
-                         <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/e123362cba2da6834f5a6aa141389bd8?s=60" alt="Shubham Neema">
-                         <a href="">Shubham Neema</a>  
+                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/userimage/107215469/0e6c1e698c2cf8d302e29866efc32f5f?size=140" alt  >
+                          <a href="vikas-chouhan.branded.me">Vikas Chouhan</a>
                       </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/developers/mimoh.jpg" alt="Mimoh Ojha"  width="55" height="55">
-                          <a href="www.mimohojha.info">Mimoh Ojha</a>
-                      </div>
-                      <div class="col-md-3 col-xs-12 text-center">
-                          <img class="img-circle" id="centralized" src="images/developers/sumit.jpg" alt="Sumit Jain" width="55" height="55">
-                          <a href="">Sumit Jain</a>
-                      </div>
+                      <div class="col-md-3 col-xs-12">
+                      </div>    
               </div>
               <br><br>
         </div>
@@ -302,5 +299,5 @@
     </div>
   </div>
 </div>
-<br>
+<br><br><br>
 <?php include 'footer.php'; ?>
