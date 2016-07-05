@@ -120,7 +120,7 @@
                                                 </div>
                                                 <div class="col-md-6">
                                                     <li id="link-style"><a href="fee_structure.php">Fees Structure</a></li>
-                                                    <li id="link-style"><a href="cet.php">Common Entrance Test</a></li>
+                                                    <li id="link-style"><a href="http://www.davvcet.in/" target="_blank">Common Entrance Test</a></li>
                                                 </div>
                                             </div>
                                         </div><!--container-->        
