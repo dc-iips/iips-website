@@ -36,31 +36,31 @@
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <h3 class="text-center"><b>IIPS - Departmental Research Committee</b></h3>
-            <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/">Dr. B.K. Tripathi - Director</a><br><br>
-            <a href="https://sites.google.com/site/draksapre/">Dr. A.K. Sapre</a><br><br>
-            <a href="https://sites.google.com/site/drramkrishnavyas/">Dr. R.K. Vyas - Professor</a><br><br>
-            <a href="https://sites.google.com/site/kirtimathuriipsdavv/home">Dr. Kirti Mathur - Incharge Computer</a><br><br>
-            <a href="https://sites.google.com/site/drmanmindersinghsaluja/">Dr. Manminder Singh Saluja -(Incharge Research Cell, Coordinator &amp; Convener)</a>
+            <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/" target="_blank">Dr. B.K. Tripathi - Director</a><br><br>
+            <a href="https://sites.google.com/site/draksapre/" target="_blank">Dr. A.K. Sapre</a><br><br>
+            <a href="https://sites.google.com/site/drramkrishnavyas/" target="_blank">Dr. R.K. Vyas - Professor</a><br><br>
+            <a href="https://sites.google.com/site/kirtimathuriipsdavv/home" target="_blank">Dr. Kirti Mathur - Incharge Computer</a><br><br>
+            <a href="https://sites.google.com/site/drmanmindersinghsaluja/" target="_blank">Dr. Manminder Singh Saluja -(Incharge Research Cell, Coordinator &amp; Convener)</a>
         </div>
 
         <div role="tabpanel" class="tab-pane text-justify" id="tab2">
             <h3 class="text-center"><b>Ph.D. Supervisors List</b></h3>
             <div class="col-md-3"></div>
             <div class="col-md-3 col-sm-6">
-                <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/">Dr. B.K. Tripathi</a><br><br>
-                <a href="https://sites.google.com/site/draksapre/">Dr. A.K. Sapre</a><br><br>
-                <a href="https://sites.google.com/site/drramkrishnavyas/">Dr. R.K. Vyas</a><br><br>
-                <a href="https://sites.google.com/site/kirtimathuriipsdavv/home">Dr. Kirti Mathur</a><br><br>
-                <a href="https://sites.google.com/site/drpoojajainiipsdavv/">Dr. Pooja Jain</a><br><br>
+                <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/" target="_blank">Dr. B.K. Tripathi</a><br><br>
+                <a href="https://sites.google.com/site/draksapre/" target="_blank">Dr. A.K. Sapre</a><br><br>
+                <a href="https://sites.google.com/site/drramkrishnavyas/" target="_blank">Dr. R.K. Vyas</a><br><br>
+                <a href="https://sites.google.com/site/kirtimathuriipsdavv/home" target="_blank">Dr. Kirti Mathur</a><br><br>
+                <a href="https://sites.google.com/site/drpoojajainiipsdavv/" target="_blank">Dr. Pooja Jain</a><br><br>
             </div>
             <div class="col-md-3"></div>
             <div class="col-md-3 col-sm-6">
-                <a href="https://sites.google.com/site/drjyotisharmaiips/">Dr. Jyoti Sharma</a><br><br>
-                <a href="https://sites.google.com/site/drgeetaneemaiipsdavvindore/">Dr. Geeta Neema</a><br><br>
-                <a href="https://sites.google.com/site/geetasharmaiipsdavvindore/">Dr. Geeta Sharma</a><br><br>
-                <a href="https://sites.google.com/site/drmanishsitlaniiipsdavv/home">Dr. Manish Sitlani</a><br><br>
-                <a href="https://sites.google.com/site/drsureshpatidariipsdavvindore/">Dr. S. Patidar</a><br><br>
-                <a href="https://sites.google.com/site/dryaminikarmarkar/home">Dr. Yamini Karmarkar</a>
+                <a href="https://sites.google.com/site/drjyotisharmaiips/" target="_blank">Dr. Jyoti Sharma</a><br><br>
+                <a href="https://sites.google.com/site/drgeetaneemaiipsdavvindore/" target="_blank">Dr. Geeta Neema</a><br><br>
+                <a href="https://sites.google.com/site/geetasharmaiipsdavvindore/" target="_blank">Dr. Geeta Sharma</a><br><br>
+                <a href="https://sites.google.com/site/drmanishsitlaniiipsdavv/home" target="_blank">Dr. Manish Sitlani</a><br><br>
+                <a href="https://sites.google.com/site/drsureshpatidariipsdavvindore/" target="_blank">Dr. S. Patidar</a><br><br>
+                <a href="https://sites.google.com/site/dryaminikarmarkar/home" target="_blank">Dr. Yamini Karmarkar</a>
             </div>
         </div>
 
@@ -71,16 +71,16 @@
 
         <div role="tabpanel" class="tab-pane" id="tab4">
             <h3 class="text-center"><b>Technical Project Mentors</b></h3>
-            <a href="https://sites.google.com/site/kirtimathuriipsdavv/home">Dr. Kirti Mathur</a><br><br>
-            <a href="https://sites.google.com/site/drrameshthakursites/">Mr. Ramesh Thakur</a><br><br>
-            <a href="https://sites.google.com/site/jugendradongreiipsdavv/">Mr. Jugendra Dongre</a><br><br>
-            <a href="https://sites.google.com/a/iips.edu.in/manju-suchdeo/home">Ms. Manju Sachdeo</a><br><br>
-            <a href="https://sites.google.com/site/shaligramiipsdavvindore/">Mr. Shaligram Prajapat</a><br><br>
+            <a href="https://sites.google.com/site/kirtimathuriipsdavv/home" target="_blank">Dr. Kirti Mathur</a><br><br>
+            <a href="https://sites.google.com/site/drrameshthakursites/" target="_blank">Mr. Ramesh Thakur</a><br><br>
+            <a href="https://sites.google.com/site/jugendradongreiipsdavv/" target="_blank">Mr. Jugendra Dongre</a><br><br>
+            <a href="https://sites.google.com/a/iips.edu.in/manju-suchdeo/home" target="_blank">Ms. Manju Sachdeo</a><br><br>
+            <a href="https://sites.google.com/site/shaligramiipsdavvindore/" target="_blank">Mr. Shaligram Prajapat</a><br><br>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab5">
             <h3 class="text-center"><b>Details of Research Scholars 2011-12</b></h3>
-            <a href="https://sites.google.com/site/drsureshpatidariipsdavvindore/">Under Dr. Suresh Patidar</a>
+            <a href="https://sites.google.com/site/drsureshpatidariipsdavvindore/" target="_blank">Under Dr. Suresh Patidar</a>
             <table class="table table-hover">
                 <thead>
                   <tr>
@@ -108,7 +108,7 @@
                 </tbody>
             </table>
 
-            <a href="https://sites.google.com/site/drmanishsitlaniiipsdavv/home">Under Dr. Manish Sitlani</a>
+            <a href="https://sites.google.com/site/drmanishsitlaniiipsdavv/home" target="_blank">Under Dr. Manish Sitlani</a>
             <table class="table table-hover">
                 <thead>
                   <tr>
@@ -151,7 +151,7 @@
                 </tbody>
             </table>
   
-            <a href="https://sites.google.com/site/drjyotisharmaiips/">Under Dr. Jyoti Sharma</a>
+            <a href="https://sites.google.com/site/drjyotisharmaiips/" target="_blank">Under Dr. Jyoti Sharma</a>
             <table class="table table-hover">
                 <thead>
                   <tr>
@@ -194,7 +194,7 @@
                 </tbody>
             </table>
 
-            <a href="https://sites.google.com/site/dryaminikarmarkar/home">Under Dr.Yamin Karmarkar</a>
+            <a href="https://sites.google.com/site/dryaminikarmarkar/home" target="_blank">Under Dr.Yamin Karmarkar</a>
             <table class="table table-hover">
                 <thead>
                   <tr>
@@ -237,7 +237,7 @@
                 </tbody>
             </table>
 
-            <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/">Under Dr. B.K. Tripathi</a>
+            <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/" target="_blank">Under Dr. B.K. Tripathi</a>
             <table class="table table-hover">
                 <thead>
                   <tr>
