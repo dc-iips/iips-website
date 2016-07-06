@@ -16,10 +16,10 @@
                   <ul class="nav">
                     <h4>Admission</h4>
                     <li><a href="fee_structure.php" >Fees Structure</a></li>
-                    <li><a href="cet.php">CET</a></li>
-                    <li><a href="cet.php" >Eligibility</a></li>
-                    <li><a href="cet.php" >Counselling</a></li>
-                    <li><a href="cet.php" >Apply</a></li>
+                    <li><a href="http://www.davvcet.in/" target="_blank">CET</a></li>
+                    <li><a href="http://www.davvcet.in/AdmissionGuidelines.html" target="_blank">Eligibility</a></li>
+                    <li><a href="http://www.davvcet.in/Counselling.html" target="_blank" >Counselling</a></li>
+                    <li><a href="http://www.davvcet.in/HowToApply.html" target="_blank">Apply</a></li>
                   </ul>
                 </div>
                           
