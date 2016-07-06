@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <link rel="shortcut icon" href="images/favicon.jpg">
+    <link rel="shortcut icon" href="images/favicon.ico">
     <title>Home | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -14,20 +14,8 @@
     <link href="yamm/yamm.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <script language="javascript">
-document.onmousedown=disableclick;
-status="Right Click Disabled";
-function disableclick(event)
-{
-  if(event.button==2)
-   {
-     alert(status);
-     return false;    
-   }
-}
-</script>
   </head>
-<body oncontextmenu="return false">
+<body>
     <?php include 'header.php';?>
     <!--Slider Start -->
     <div class="container">
@@ -44,31 +32,31 @@ function disableclick(event)
   	<!-- Wrapper for slides -->
   	<div class="carousel-inner" role="listbox" >
     	<div class="item active">
-      		<img src="images/slider/slider1.jpg" alt="..." style="width:100em ;height:30em">
+      		<img src="images/slider/slider1.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
     	<div class="item">
-      		<img src="images/slider/slider2.jpg" alt="..." style="width:100em ;height:30em">
+      		<img src="images/slider/slider2.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
       <div class="item">
-          <img src="images/slider/slider3.jpg" alt="..." style="width:100em ;height:30em">
+          <img src="images/slider/slider3.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider/slider4.jpg" alt="..." style="width:100em ;height:30em">
+          <img src="images/slider/slider4.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider/slider5.jpg" alt="..." style="width:100em ;height:30em">
+          <img src="images/slider/slider5.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
           <div class="carousel-caption">
           </div>
       </div>      
@@ -109,7 +97,7 @@ function disableclick(event)
           	</div>
     
 	    	  	<div class="col-md-4"><br>
-      				<h4 class="heading-color">Headlines</h4>
+      				<h4 class="heading-color">News and Announcements</h4>
             		<div class="row">
       			    	<div class="col-md-3 col-xs-3">
         			     	<li id="list">JAN<br><span id="i10">21</span></li>
