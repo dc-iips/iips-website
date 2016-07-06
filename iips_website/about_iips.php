@@ -122,6 +122,7 @@
 
             <div role="tabpanel" class="tab-pane" id="tab4">
                 <h3 class="text-center"><b>IIPS @ Wikipedia</b></h3>
+                <br>
                 <b><p class="bg-warning">From Wikipedia, the free encyclopedia</p></b>
                 <p class="text-justify">International Institute of Professional Studies, a department of Devi Ahilya University was set up in 1992. With the quality in the content, scope and professionalism of its programs, IIPS has emerged as one of the best centers of technical education in central India and is recognized by AICTE. It has been placed in the 'B+' category and ranked 24th overall in the Business Standard Survey of best B-Schools of India.</p>
                 <b><p class="bg-warning">Campus</p></b>
@@ -143,10 +144,10 @@
                     <tr><td>Academic staff</td><td>55<td></tr>
                     <tr><td>Location</td><td><a href="https://en.wikipedia.org/wiki/Indore">Indore, Madhya Pradesh, India</a></td></tr>
                     <tr><td>Campus</td><td>Urban</td></tr>
-                    <tr><td>Website</td><td><a href="www.iips.edu.in">www.iips.edu.in</a></td></tr>
+                    <tr><td>Website</td><td><a href="http://iips.edu.in/" target="_blank">www.iips.edu.in</a></td></tr>
                 </table>
                 <br>
-                Read More @ <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies">IIPS WikiPage</a>
+                Read More @ <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies" target="_blank">IIPS WikiPage</a>
             </div>
     
             <div role="tabpanel" class="tab-pane" id="tab5">
@@ -159,10 +160,1552 @@
                     <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
                     <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
                     <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
-                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5? Yrs. 93032-30568</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
                     <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
                 </ul> 
             </div>
+
+            <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>
+                       <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>           <div role="tabpanel" class="tab-pane" id="tab7">
+                <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
+                <ul><br>
+                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
+                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
+                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
+                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
+                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
+                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
+                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
+                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5 Yrs. 93032-30568</li>
+                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
+                </ul> 
+            </div>
+
+
+            
+
+
         </div>
         <br><br>
     </div>

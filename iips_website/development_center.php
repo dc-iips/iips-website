@@ -33,7 +33,7 @@
       </ul>
     </div>
 
-    <div class="col-md-9" style="margin-bottom:-70px;" >
+    <div class="col-md-9" style="margin-bottom:-70px;">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <h3 class="text-center heading-font" ><b>About DC</b></h3>
@@ -72,6 +72,9 @@
                       Visit professional linked in profile of IIPS Development Center ,Devi Ahilya University Indore, India.
             </p>
         </div>
+
+
+        
 
         <div role="tabpanel" class="tab-pane" id="tab2">
             <h3 class="text-center"><b>Current Projects</b></h3>
