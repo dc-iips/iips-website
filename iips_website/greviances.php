@@ -32,15 +32,15 @@
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
-            <h3 class="text-center"><b>Ragging Complaint</b></h3>
+            <h3 class="text-center"><b>Ragging Complaint</b></h3>No Data Available
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab2">
-            <h3 class="text-center"><b>Sexual Harrasment</b></h3>     
+            <h3 class="text-center"><b>Sexual Harrasment</b></h3>No Data Available     
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
-            <h3 class="text-center"><b>Student Complaint</b></h3>
+            <h3 class="text-center"><b>Student Complaint</b></h3>No Data Available
         </div>
       </div>
   <br><br>
