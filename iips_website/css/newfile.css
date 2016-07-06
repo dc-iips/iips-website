@@ -371,3 +371,9 @@ a:hover{
 {
   min-height:470px;
 }
+
+/* Used in video channel page to give margin */
+
+.magin{
+  margin-bottom:30px;
+}
