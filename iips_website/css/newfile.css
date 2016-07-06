@@ -42,6 +42,9 @@
 #i6{
    border-right:1px solid #CCCCCC;
 }
+#i38{
+    font-family: 'Noto Serif', serif;
+}
 #link-style{
    padding-top:10px;
 }
@@ -298,7 +301,12 @@ a:hover{
   .leftAlign{text-align: left;}
   .centerAlign{text-align: left;}
 }
-
+@media only screen and (max-width:768px){
+  .slider-size{
+    height:10em;
+    width:100em;
+  }
+}
 #image-effect{
   -webkit-transition: all 5s ease;
      -moz-transition: all 5s ease;
