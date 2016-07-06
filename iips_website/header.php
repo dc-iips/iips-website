@@ -216,7 +216,7 @@
                             </ul>
 
                             <div class="wrapper visible-xs">
-                              <h3>Information for...</h3>
+                              <h3 id="i38">Information for...</h3>
                               <ul class="nav navbar-nav">
                                   <li><a href="under_construction.php">Students</a></li>
                                   <li><a href="under_construction.php">Faculty &amp; Staff</a></li>
