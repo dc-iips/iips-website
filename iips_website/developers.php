@@ -22,10 +22,10 @@
         <!-- Introduction Row -->
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h1>Our Team
+                <h1>Our Team<br>
                     <small>It's Nice to Meet You!</small>
                 </h1>
-                <p>This is our development team, who have contributed to the developement of the IIPS website and made this possible to deploy this website within the time.</p>
+                <p id="i51">This is our development team, who have contributed to the developement of the IIPS website and made this possible to deploy this website within the time.</p>
             </div>
         </div>
 
@@ -99,6 +99,5 @@
             </div>    
             
         </div>
-        <hr>
     </div>
 <?php include 'footer.php'; ?>
