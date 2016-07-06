@@ -364,3 +364,10 @@ a:hover{
   height:10%;
   width:10%;
 }
+
+/* Sets Minimum length of Container,
+ So that pages having less content does not show footer at first glance itself*/
+.minlength
+{
+  min-height:470px;
+}

@@ -18,7 +18,7 @@
   <body>
 <?php include 'header.php';?>
 <div class="container">
-  <div class="row">
+  <div class="row , minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Gallery</b> </li>
@@ -31,7 +31,7 @@
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
             <h3 class="text-center"><b>Official Activities</b></h3>
-            <div id="cp_widget_f918838f-28fd-4358-9642-9d8d5a5016bd">...</div><script type="text/javascript">
+            <div id="cp_widget_f918838f-28fd-4358-9642-9d8d5a5016bd">Loading...</div><script type="text/javascript">
                 var cpo = []; cpo["_object"] ="cp_widget_f918838f-28fd-4358-9642-9d8d5a5016bd"; cpo["_fid"] = "AEDAmYtebTAu";
                 var _cpmp = _cpmp || []; _cpmp.push(cpo);
                 (function() { var cp = document.createElement("script"); cp.type = "text/javascript";

@@ -20,7 +20,7 @@
   <body>
 <?php include 'header.php';?>
 <div class="container" >
-  <div class="row">
+  <div class="row , minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Development Center</b> </li>
@@ -72,10 +72,6 @@
                       Visit professional linked in profile of IIPS Development Center ,Devi Ahilya University Indore, India.
             </p>
         </div>
-
-
-        
-
         <div role="tabpanel" class="tab-pane" id="tab2">
             <h3 class="text-center"><b>Current Projects</b></h3>
             <table class="table">

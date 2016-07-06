@@ -43,7 +43,7 @@
             </div>
             <br/>
 
-            <div class="row">
+            <div class="row , minlength">
                 <div class="col-md-4">
                     <img src="images/research/research_logo.jpg" class="img-responsive">
                 </div>
