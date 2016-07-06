@@ -32,31 +32,31 @@
   	<!-- Wrapper for slides -->
   	<div class="carousel-inner" role="listbox" >
     	<div class="item active">
-      		<img src="images/slider/slider1.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
+      		<img src="images/slider/slider1.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
     	<div class="item">
-      		<img src="images/slider/slider2.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
+      		<img src="images/slider/slider2.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
       <div class="item">
-          <img src="images/slider/slider3.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
+          <img src="images/slider/slider3.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider/slider4.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
+          <img src="images/slider/slider4.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider/slider5.jpg" alt="..." class="slider-size" style="width:100em ;height:30em">
+          <img src="images/slider/slider5.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
           <div class="carousel-caption">
           </div>
       </div>      
