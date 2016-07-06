@@ -64,9 +64,12 @@
                 &copy; 2016 International Institute of Professional Studies
             </div>
             <div class="col-md-6"></div>
-            <div class="col-md-2">
+            <div class="col-md-2 col-xs-6">
                 <a href="developers.php" style="color:#AEAEAE;">About Developers</a>
             </div>          
+            <div class="col-xs-6 visible-xs">
+              <a class="back-to-top" href=" "><i class="glyphicon glyphicon-menu-up" style="color:white;font-size:160%;float:right;"></i> </a>
+            </div>
         </div>
       </div>
     </footer>
