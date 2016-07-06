@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-md-8 overview-text">
                     <h3><a href="development_center.php">Development Center</a></h3>
-                    <p>Development Center is driven by the enthusiastic, committed .strongly motivated IIPS students and expertise of its industrious team and Mentor.</p>
+                    <p>Development Center is driven by the enthusiastic, committed and strongly motivated IIPS students and expertise of its industrious team and Mentor.</p>
                 </div>
             </div>
             <br/>

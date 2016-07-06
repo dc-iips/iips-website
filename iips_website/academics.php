@@ -44,7 +44,6 @@
             <br/>
             <br/>
 
-
             <div class="row">
                 <div class="col-md-4">
                     <img src="images/academics/news.jpg" class="img-responsive">
@@ -58,7 +57,6 @@
             <br>
            
             <div class="row">
-
                 <div class="col-md-4">
                     <img src="images/academics/staff.jpg" class="img-responsive">
                 </div>
@@ -69,7 +67,6 @@
             </div>
             <br/>
         </div>
-
 
         <div class="col-md-6">
            <div class="row">
@@ -83,7 +80,6 @@
             </div>
             <br/>
             <br/>
-
 
             <div class="row">
                 <div class="col-md-4">
