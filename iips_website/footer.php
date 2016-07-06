@@ -23,7 +23,7 @@
                   </ul>
                 </div>
                           
-                <div class="col-md-3 col-sm-3 col-xs-6">
+                <div class="col-md-3 col-sm-3 col-xs-6"> 
                   <ul class="nav">
                     <h4 class="visible-xs visible-sm">RTI</h4>
                     <h4 class="visible-md visible-lg" style="padding-left:10%">RTI</h4>
