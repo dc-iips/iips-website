@@ -3,11 +3,11 @@
         <div class="row">
           <div class="col-md-5">
             <a href="index.php"><img src="images/iips_logo2.png" id="logo"></a><br><br><br>
-            <a href=""><span class="fa fa-facebook fa-15x faa-tada animated-hover faa-fast" id="i14"></span></a>
-            <a href=""><span class="fa fa-twitter fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
-            <a href=""><span class="fa fa-linkedin fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
-            <a href=""><span class="fa fa-google-plus fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
-            <a href=""><span class="fa fa-instagram fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
+            <a href="https://www.facebook.com/expressions12/?ref=br_rs" target="_blank"><span class="fa fa-facebook fa-15x faa-tada animated-hover faa-fast" id="i14"></span></a>
+            <a href="https://twitter.com/iipsdavv" target="_blank"><span class="fa fa-twitter fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
+            <a href="https://www.linkedin.com/vsearch/f?type=all&keywords=iips+davv&orig=GLHD&rsid=&pageKey=oz-winner&trkInfo=tarId%3A1467819142685&search=Search" target="_blank"><span class="fa fa-linkedin fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
+            <a href="https://plus.google.com/u/0/110977532784004536112/videos" target="_blank"><span class="fa fa-google-plus fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
+            <a href="https://www.instagram.com/explore/locations/275894915/" target="_blank"><span class="fa fa-instagram fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
             <br><br>
           </div>
           <div class="col-md-7">
