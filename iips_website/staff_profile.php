@@ -124,17 +124,7 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Account Section</td>
-  
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Yogesh Shukla</td>
@@ -146,19 +136,8 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Examination</td>
-  
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
-  
   <td style=" padding-left:20px;">Mr.&nbsp;Sachin Pradhan</td>
   
   <!--<td>Class III Employee</td>-->
@@ -168,17 +147,8 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Result Section</td>
-  
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Nilesh Thakur</td>
@@ -190,17 +160,9 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Result Section</td>
-  
-  
-  
+ 
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+ 
    <tr>
   
   <td style=" padding-left:20px;">Ms.&nbsp;Purnima Yadav</td>
@@ -213,17 +175,9 @@
   
   <td>Student Section</td>
   
-  
-  
   </tr> 
   
-  
-  
-  
-  
-  
-  
-   <tr>
+ <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Gajendra Parmar</td>
   
@@ -236,13 +190,7 @@
   <td>Post Metric Scholarship</td>
   
   
-  
   </tr> 
-  
-  
-  
-  
-  
   
   
    <tr>
@@ -257,16 +205,8 @@
   
   <td>Purchase</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+ 
    <tr>
   
   <td style=" padding-left:20px;">Mrs.&nbsp;Aruna Verma</td>
@@ -278,17 +218,8 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Student Certificates</td>
-  
-  
-  
+
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Pankaj Tripathi</td>
@@ -300,17 +231,9 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Dispatch</td>
-  
-  
-  
+
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Abhishek Nema</td>
@@ -322,17 +245,7 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Library Section</td>
-  
-  
-  
-  </tr> 
-  
-  
-  
-  
-  
-  
-  
+  </tr>
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp; Abhya Mishra</td>
@@ -344,17 +257,9 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Library Section</td>
-  
-  
-  
+ 
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Naim Khan</td>
@@ -366,17 +271,9 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Library Section</td>
-  
-  
-  
+ 
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+ 
    <tr>
   
   <td style=" padding-left:20px;">Mrs.&nbsp; Alka Lad</td>
@@ -389,16 +286,8 @@
   
   <td>Library Section</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+
    <tr>
   
   <td style=" padding-left:20px;">Mrs.&nbsp;S.L. Pandey</td>
@@ -411,16 +300,7 @@
   
   <td>Library Section</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mrs.&nbsp;Damyanti Kusumakar</td>
@@ -453,14 +333,7 @@
   
   <td><b>Responsibility</b></td>
   
-  
-  
   </tr>
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp; Bhagwati Prasad</td>
@@ -473,16 +346,7 @@
   
   <td>Room No. 101</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Rajendra Singh</td>
@@ -495,16 +359,8 @@
   
   <td>LT-3</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Narayan Shandilya</td>
@@ -516,16 +372,7 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Room No. 102</td>
-  
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -538,17 +385,8 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Room No. 212</td>
-  
-  
-  
+    
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Om Prakash</td>
@@ -561,15 +399,7 @@
   
   <td>Room No.103</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -582,17 +412,8 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Room No. 104</td>
-  
-  
-  
+
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Devi Chand</td>
@@ -605,16 +426,7 @@
   
   <td>Room No. 105,LH-9</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Manoj Mishra</td>
@@ -625,18 +437,9 @@
   
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
-  <td>LT-1</td>
-  
-  
+  <td>LT-1</td> 
   
   </tr> 
-  
-  
-  
-  
-  
-  
-  
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Lokesh Kumar</td>
@@ -649,15 +452,7 @@
   
   <td>Room No. 106</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -671,15 +466,7 @@
   
   <td>Room No. 107</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -692,16 +479,8 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Room No. 109</td>
-  
-  
-  
+
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -715,15 +494,7 @@
   
   <td>LT-2</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -737,15 +508,7 @@
   
   <td>LT-4</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -758,16 +521,8 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Room No. 202</td>
-  
-  
-  
+
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -781,15 +536,7 @@
   
   <td>Room No. 108,201</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -802,17 +549,9 @@
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   
   <td>Room No. 208</td>
-  
-  
-  
+
   </tr> 
-  
-  
-  
-  
-  
-  
-  
+
    <tr>
   
   <td style=" padding-left:20px;">Mr.&nbsp;Ashwin Vishnar</td>
@@ -825,15 +564,7 @@
   
   <td>Room No. 203,206,211</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -847,15 +578,7 @@
   
   <td>Room No. 204</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -869,15 +592,7 @@
   
   <td>Room No. 205</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -891,15 +606,7 @@
   
   <td>Room No. 209</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
-  
-  
   
    <tr>
   
@@ -913,26 +620,18 @@
   
   <td>Room No. 207,210</td>
   
-  
-  
   </tr> 
-  
-  
-  
-  
   
   </tbody></table>     
         
         </div>
       </div>
  <!-- Table Ends> -->
-  <br><br>
+  <br>
     </div><!--Col-md-9 End> -->
 
     </div>
 
   </div>
 </div>
-<br>
-<br>
 <?php include 'footer.php'; ?>
