@@ -77,18 +77,18 @@
               the online databases and also find out the real-time availability of library materials
               from their own computer terminal and Magazines. Over 1,10,000 Volumes, 140 International
               Journals, 250 Indian Journals, 3 libraries.
-            </p><br><br>
+            </p><br>
               <b>IIPS Digital Library</b><br>
             <p style="text-align:justify;">
               IIPS gives access to the state of the art digital library to its students. The library has been developed and is being maintained by the students of the institute themselves. The students also have access to three libraries:
-            </p><br><br>
+            </p><br>
   
            <ul type="disc" style="margin-left:30px;">
               <li>IIPS Departmental Library</li>
               <li>The Central Library, Takshashila Campus</li>
               <li>Student Home Library, Nalanda Campus</li>
            </ul><br>
-           <center><img src="images/about/lib.jpg" width="80%" height="80%"/></center>
+           <center><img src="images/about/lib.jpg" width="80%" height="80%"/></center><br>
             <p style="text-align:justify;">
               The library system has a collection of more than one lac volumes. It represents a 
               wide spectra of subjects with a sizeable collection on Computer Science and Management.
@@ -98,30 +98,29 @@
               technological applications. The Library holds knowledge resources predominantly 
               related to Information Technology management and allied subjects. The Library offers
               a range of information services set to the highest professional standards.
-            </p> <br><br>
+            </p>
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab4">
         <center><h3><b>Hostels</b></h3></center>    
-        <p style="text-align:justify;">
-          The students of IIPS are provided with excellent hostel facilities by the university.
-          There are single and double seater furnished rooms having all necessary amenities.
-          There is a community hall with television and indoor sports facilities like carom,
-          chess etc. The Institute provides comfortable accommodation with security.
-        </p><br>
-        <p style="text-align:justify;">
-          The various university hostels where the IIPS students reside are:
-        </p><br><br>
-       <b>Boys Hostel</b><br>
-          Jawaharlal Lal Nehru Boys Hostel<br>
-          IMS Boys Hostel<br>
-          Rabindra Nath Tagore Boys Hostel<br><br>
-       <b>Girls Hostel</b><br> 
-          Kamla Nehru Girls Hostel<br>
-          New Girls Hostel<br>
-          C.V. Raman Girls Hostel<br>  
+            <p style="text-align:justify;">
+              The students of IIPS are provided with excellent hostel facilities by the university.
+              There are single and double seater furnished rooms having all necessary amenities.
+              There is a community hall with television and indoor sports facilities like carom,
+              chess etc. The Institute provides comfortable accommodation with security.
+            </p>
+            <p style="text-align:justify;">
+              The various university hostels where the IIPS students reside are:
+            </p>
+           <b>Boys Hostel</b><br>
+              Jawaharlal Lal Nehru Boys Hostel<br>
+              IMS Boys Hostel<br>
+              Rabindra Nath Tagore Boys Hostel<br><br>
+           <b>Girls Hostel</b><br> 
+              Kamla Nehru Girls Hostel<br>
+              New Girls Hostel<br>
+              C.V. Raman Girls Hostel<br>  
         </div>
- 
       </div>
         <br><br>
     </div>
