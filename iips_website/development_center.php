@@ -260,43 +260,42 @@
               <div class="col-md-12 col-xs-6" style="margin-bottom:40px" ><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
                          <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/6dd92ea4edf5caedf8a3086b7402e673?s=140" alt="rahul satal"  >
-                         <a href="https://sites.google.com/site/rahulsatal92/">Rahul Satal</a>
+                         <a href="https://sites.google.com/site/rahulsatal92/" target="_blank">Rahul Satal</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center" style="margin: 0px 50px 0px;">
                           <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/06658461e0d7573c093dd6acbc482fbf?s=140" alt="Rahul Sinha"  >
-                          <a href="https://branded.me/r-sinha">Rahul Sinha</a>
+                          <a href="https://branded.me/r-sinha" target="_blank">Rahul Sinha</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/7507da32436d6e738c54ebc993624157?s=140" alt="Rajat Garg" >
-                          <a href="http://rajat-garg.github.io">Rajat Garg</a>
+                          <a href="http://rajat-garg.github.io" target="_blank">Rajat Garg</a>
                       </div>
               </div>
               <div class="col-md-12 col-xs-6"><br><br>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="http://www.gravatar.com/avatar/a52bef18ff34ccbd98476c5df542ae53?s=140" alt="Rupam Wadia" >
-                          <a href="http://rupamwadia.github.io/">Rupam Wadia</a>
+                          <a href="http://rupamwadia.github.io/" target="_blank">Rupam Wadia</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center" style="margin: 0px 50px 0px;">
                          <img class="img-circle" id="centralized" src="https://secure.gravatar.com/avatar/e123362cba2da6834f5a6aa141389bd8?s=140" alt=""  >
-                         <a href="https://sites.google.com/site/rahulsatal92/">Shubham Neema</a>
+                         <a href="https://sites.google.com/site/rahulsatal92/" target="_blank">Shubham Neema</a>
                       </div>
                       <div class="col-md-3 col-xs-12 text-center">
                           <img class="img-circle" id="centralized" src="https://secure.gravatar.com/userimage/107215469/0e6c1e698c2cf8d302e29866efc32f5f?size=140" alt  >
-                          <a href="vikas-chouhan.branded.me">Vikas Chouhan</a>
+                          <a href="https://branded.me/vikaschouhan" target="_blank">Vikas Chouhan</a>
                       </div>
                       <div class="col-md-3 col-xs-12">
                       </div>    
               </div>
               <br><br>
         </div>
-            <br><br>
+        <br><br>
         </div><br>
       </div>
- <!-- Table Ends> -->
-  <br><br>
+      <br><br>
     </div>
     </div>
   </div>
 </div>
-<br><br><br>
+<br><br><br><br><br>
 <?php include 'footer.php'; ?>
