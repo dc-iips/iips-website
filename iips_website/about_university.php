@@ -286,7 +286,8 @@
                   <li>Audio-Video recording facility</li>
                   <li>Sound-Proof environment</li>
               </ul>
-            </p> 
+            </p>
+                <br><center><img src="images/about/auditorium.jpg" width="80%" height="80%"/></center><br> 
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab5">
@@ -301,7 +302,8 @@
             150 nodes have been added to Nalanda Campus, RNT Marg Network and 128 nodes to IET network. After completion of 
             third phase i.e. from Feb, 2004 all the departments of the University are now on Campus LAN having access to the 
             Internet.
-        </p>
+        </p><br>
+        <center><img src="images/about/itcenter.jpg"></center><br>
         <p class="text-justify">
             Under UGC-INFONET scheme, from Jan 2004, UGC has provided our University free subscription to the various e-Journals
             along with 512 kbps bandwidth through ERNET.
