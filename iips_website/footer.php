@@ -9,6 +9,7 @@
             <a href="https://plus.google.com/u/0/110977532784004536112/videos" target="_blank"><span class="fa fa-google-plus fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
             <a href="https://www.instagram.com/explore/locations/275894915/" target="_blank"><span class="fa fa-instagram fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
             <br><br>
+            <p>This is the Beta Version of IIPS Website</p>
           </div>
           <div class="col-md-7">
               <div class="row">
