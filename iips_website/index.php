@@ -32,31 +32,32 @@
   	<!-- Wrapper for slides -->
   	<div class="carousel-inner" role="listbox" >
     	<div class="item active">
-      		<img src="images/slider/slider1.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
+      		<img src="images/slider/slider1.jpg" alt="Image" class="slider_size">
       		<div class="carousel-caption">
       		</div>
-    	</div>
+    	</div>   
 
     	<div class="item">
-      		<img src="images/slider/slider2.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
+      		<img src="images/slider/slider2.jpg" alt="Image" class="slider_size">
       		<div class="carousel-caption">
       		</div>
     	</div>
 
       <div class="item">
-          <img src="images/slider/slider3.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
+          <img src="images/slider/slider3.jpg" alt="Image" class="slider_size">
           <div class="carousel-caption">
           </div>
       </div>
 
       <div class="item">
-          <img src="images/slider/slider4.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
+          <img src="images/slider/slider4.jpg" alt="Image" class="slider_size">
           <div class="carousel-caption">
           </div>
-      </div>
+      </div>   
+
 
       <div class="item">
-          <img src="images/slider/slider5.jpg" alt="..." style="width:100em ;height:30em" class="slider-size">
+          <img src="images/slider/slider5.jpg" alt="Image" class="slider_size">
           <div class="carousel-caption">
           </div>
       </div>      
@@ -78,14 +79,14 @@
     <div class="container-fluid">
       <div class="container">
   		  <div class="row">
-  		  		<div class="col-md-5">
+  		  		<div class="col-md-5 col-sm-6">
 	     		      <h4 class="heading-color"><br>At IIPS</h4>
 	      			      <div id="image-effect">
 	          			      <img src="images/atiips.jpg" class="img-responsive" alt="At IIPS" id="img">
 	     			        </div>    
     		  	</div>
     		  	
-  		  		<div class="col-md-3">
+  		  		<div class="col-md-3 col-sm-6">
             		<h4 class="heading-color"><br>Vision and Mission</h4>
             		<div class="container-fluid">
               			<div class="text-justify"> 

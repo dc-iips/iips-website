@@ -15,7 +15,8 @@ html {
 
 body {
     margin: 0;
-    font-family: 'Neuton', serif; font-weight: 400;  font-size :18px;}
+    font-family: 'Open Sans',sans-serif;
+}
 
 article,
 aside,
@@ -1441,8 +1442,7 @@ img {
 .thumbnail>img {
     display: block;
     max-width: 100%;
-    height: auto
-}
+    }
 
 .img-rounded {
     border-radius: 6px

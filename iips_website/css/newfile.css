@@ -218,6 +218,9 @@ a:hover{
   color: #fff;
   text-decoration: none;
 }
+
+
+/* Media Queries for 0px to 400px */
 @media only screen and (max-width: 400px) {
   .image2{
     padding-left: 65px;
@@ -238,7 +241,9 @@ a:hover{
     .rightAlign{text-align: right;}
     .leftAlign{text-align: left;}
     .centerAlign{text-align: center;}
+
     
+/* Media Queries for 0px to 1200px */
 @media only screen and (max-width: 1200px){
       .iips-logo-css 
       {
@@ -250,9 +255,10 @@ a:hover{
       padding:0px 0px;
       color:red;
       }
-
-
 }
+
+
+/* Media Queries for 768px to 1200px */
 @media only screen and (max-width: 1200px) and (min-width: 768px){
       #test{
         width:80%;
@@ -291,22 +297,20 @@ a:hover{
     .rightAlign{text-align: right;}
     .leftAlign{text-align: left;}
     .centerAlign{text-align: center;}
+
 }
+
+                     /* Media Queries for 0px to 767px */
 @media only screen and (max-width:767px){
-  #no-underline{
+   #no-underline{
     margin-left: -25px; }
-
-
+     /* For sitemap */
   .rightAlign{text-align: left;}
   .leftAlign{text-align: left;}
   .centerAlign{text-align: left;}
 }
-@media only screen and (max-width:768px){
-  .slider-size{
-    height:10em;
-    width:100em;
-  }
-}
+
+
 #image-effect{
   -webkit-transition: all 5s ease;
      -moz-transition: all 5s ease;
@@ -367,13 +371,18 @@ a:hover{
 
 /* Sets Minimum length of Container,
  So that pages having less content does not show footer at first glance itself*/
-.minlength
-{
-  min-height:470px;
-}
+.minlength{min-height:470px;}
 
-/* Used in video channel page to give margin */
+  /* Used in video channel page to give margin */
+.magin{margin-bottom:30px;}
 
-.magin{
-  margin-bottom:30px;
-}
+
+                        /* Used To give heigth and width to Slider */
+
+/* Greater than 968px*/                        
+@media only screen and (min-width: 968px){    
+      .slider_size{width:100em ;height:29em;}}
+
+ /* Less than 968px */
+@media only screen and (max-width: 968px){   
+      .slider_size{width:100em ;height:18em;}}
