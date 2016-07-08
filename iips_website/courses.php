@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="shortcut icon" href="images/favicon.jpg">
-    <title>Courses | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
+    <title>Courses | International Institute of Professional Studies, Devi Ahilya Vishwavidyalaya</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/newfile.css" rel="stylesheet">
@@ -22,13 +22,13 @@
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Courses</b> </li>
-        <li role="presentation" id="colm" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MCA(6 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;M.TECH (5<sup>1/2</sup>-years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(MS-5 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(MS-2 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(TA-2 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA(APR-2 years)</a></li>
-        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.COM(Hons-2 years)</a></li>
+        <li role="presentation" id="colm" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MCA (6 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;M.Tech (5 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA (MS-5 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA (MS-2 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA (TA-2 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;MBA (APR-2 years)</a></li>
+        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;B.Com (Hons-2 years)</a></li>
       </ul>
     </div>
     <div class="col-md-9">
@@ -53,9 +53,9 @@
             </div>
   
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center"><b>M.Tech (5<sup>1/2</sup>-years) </b></h3>
+                <h3 class="text-center"><b>M.Tech (5 years) </b></h3>
                 <p class="text-justify">
-                    Our M-Tech (5<sup>1/2</sup>-years) is the only program of its kind in India. IIPS started this course in the year 2002.The students undergo rigorous training, which moulds them into highly competent and focused professionals. 
+                    Our M-Tech (5-years) is the only program of its kind in India. IIPS started this course in the year 2002.The students undergo rigorous training, which moulds them into highly competent and focused professionals. 
                     In a period of five and a half years a student studies a total of 57 subjects. The course structure is designed keeping in mind the overall development of the student.
                 </p>
                 <p class="text-justify">
@@ -80,7 +80,7 @@
             </div>
    
             <div role="tabpanel" class="tab-pane" id="tab3">
-                <h3 class="text-center"><b> MBA(MS-5 years) </b></h3>
+                <h3 class="text-center"><b> MBA (MS-5 years) </b></h3>
                 <p class="text-justify">
                   The Programme is an integrated full time course of 3 years BBA(MS) and 2 years MBA(MS). The course provides adequate time to the students for assimilating the concepts and diving deeper into their areas of interest. 
                   Students for this course are selected on the basis of merit through an all India level entrance examination conducted by University. The concept behind designing the Programme is 'Catch them Young'. 
@@ -110,7 +110,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab4">
-                <h3 class="text-center"><b> MBA(MS-2 years) </b></h3>
+                <h3 class="text-center"><b> MBA (MS-2 years) </b></h3>
                 <p class="text-justify">The Programme is an integrated full time course of 2 years MBA(MS). The course provides adequate time to the students for assimilating the concepts and diving deeper into their areas of interest. Students for this course are selected on the basis of merit through an all India level entrance examination conducted by University. The concept behind designing the Programme is 'Catch them Young'. The reason is to expose these young minds with the experience and dynamism of management and to inculcate the managerial qualities and understanding of business environment. It aims to impart management education with a scientific approach having a diverse coverage and an emphasis on numeric techniques. The Programme is committed to provide value education and global experience required to succeed in the corporate.</p>
                 <p class="text-justify">The program aims at identifying the young talented minds which are abundant with ideas and ambitions ; channelize their unbuild energy and provide them with the right stimulus so that they are transformed into true professionals. The post graduate course ensures that the students develop a sharp focus and get exposure to all aspects of management over a two year period.</p>
                 <p class="text-justify">The program offers four specialization electives, namely Marketing, Human Resource and Finance as (majors) and Systems (Minor).</p>
@@ -141,7 +141,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab5">
-                <h3 class="text-center"><b>MBA(TA-2 years) </b></h3>
+                <h3 class="text-center"><b>MBA (TA-2 years) </b></h3>
                 <p class="text-justify">Devi Ahilya Vishwavidyalya, Indore, bravely chartered a new course by bootstrapping the first full time two-year Master of Tourism (MTA) programme, in 1992. It immediately hit pay-dirt. The programme distinguished itself by one of its kind to be recognized by WTO, MADRID.</p>
                 <p class="text-justify">Additionally, the Programme has been recognized by the All India Council for Technical Education (AICTE) and accorded the status of allied member by Travel Agents of India (TAAI) and Indian association of Tour Operators (ITAO).The target of the Programme was the burgeoning Travel and cargo industry. The swirling industry has assumed many penumbral operation of others. Para banking and Money Changing, Logistic, Air and Shipping Cargo Management, Time Sharing , Leisure and Event Management .These are in addition to the backbone basis. The primary objective of the course is to prepare a cadre of well informed, Pro-active and high caliber professionals to be unleashed on the mushrooming , multidimensional Travel, Tourism and Cargo industry.</p>
                 <p class="text-justify">The programme comprises 24 core areas with emphasis on Management, Marketing, Travel Agency Operation ,Airline and Cargo Management, Hotel Operations, Forex Management and e-commerce besides other functional. The academic performance of a student is continuously evaluated through a set of formal methods involving cumulative tests, case discussions and class presentations. The Travel Agency and Tour Operation papers are based upon IATA-UFTAA standard and advanced course curriculum.</p>
@@ -161,7 +161,7 @@
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab6">
-                <h3 class="text-center"><b> MBA(APR-2 years) </b></h3>
+                <h3 class="text-center"><b> MBA (APR-2 years) </b></h3>
                 <p class="text-justify">The course was established in the year 1994 keeping in mind the than Advertising industry requirement of trained personnel. The aim was a completely job-oriented option for he student in specialized fields. It was a unique course, no other educational institute was conducting such program in Advertising and communication field in India at that time. The course curriculum was designed with inputs from industry experts from national and local levels. Workshops, seminars, and guest lectures by the eminent personalities from advertising and corporate world support the classroom teaching.Keeping in view the increasing manpower requirements of the advertising industry, D.A. University started 2 Yrs Master's Programme in Advertising and Public Relations Management in 1994. The Programme is only one of its kind providing a Master's degree in this field. We aspire to prepare a cadre of outstanding 'communication' professionals with broad based knowledge and critical interpersonal skills necessary to meet the challenges of the corporate society.</p>
                 <p><b>How it is beneficial for a student who is going to opt for the course?</b></p>
                 <p class="text-justify">The course is unique blend of academic and practical know-how. It is designed to accelerate learning amongst students and provide valuable experiences for the challenges of managing strategic changes in today?s dynamic environment. The student is transformed into real professional. The main motto is to inculcate entrepreneurship in diversified areas like Advertising, Public Relations, Media, Direct Marketing, Event Management etc. with creativity, imagination and perseverance.</p>
@@ -185,10 +185,10 @@
             </div>  
 
             <div role="tabpanel" class="tab-pane" id="tab7">
-                <h3 class="text-center"><b>B.com(Hons-2years)</b></h3>
+                <h3 class="text-center"><b>B.Com (Hons-2years)</b></h3>
                 <p class="text-justify">The widely coveted B.Com.(Hons.) course aims at providing comprehensive insight into finance, banking, law, accounting, taxation and management, which play an important role in today's dynamic business environment. If you are aiming for professional courses like C.A., I.C.W.A. / A.C.C.A., and C.S., this is the right starting point. Those aspiring to become entrepreneurs will also find the course valuable. The faculty here is a close-knit community of reputed authors and dedicated and experienced teachers.</p>
                 <h3>Objectives:</h3>
-                <p class="text-justify">B. Com.(Hons.) course is unique course of the institute and in this course students are studying subjects from diverse stream and this provides the students an edge over other students of same discipline. This course is a good blend of subjects from Commerce, Management, Computer, Taxation and Business Legislations. The main objective of this course is to impart knowledge of commerce and allied subjects to the students so that they can get prepared for their higher studies.</p>
+                <p class="text-justify">B. Com(Hons) course is unique course of the institute and in this course students are studying subjects from diverse stream and this provides the students an edge over other students of same discipline. This course is a good blend of subjects from Commerce, Management, Computer, Taxation and Business Legislations. The main objective of this course is to impart knowledge of commerce and allied subjects to the students so that they can get prepared for their higher studies.</p>
                 <h3>Learning Outcomes:</h3>
                 <a>Fundamental knowledge in :</a><br>
                 Management, Computer and Business related Laws.<br><br>
