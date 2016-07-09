@@ -65,8 +65,6 @@
                     <p>Published reports are a necessary step in the dialogue with other scientists about the approach and significance of research studies. </p>
                 </div>
             </div>
-            <br><br>
         </div>    
     </div>
-    <br/>
 <?php include 'footer.php';?>
