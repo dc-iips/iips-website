@@ -21,7 +21,7 @@
                                             </div>
                                     </div>
                                 </form>
-                            </ul>
+                            </ul> -->
           </div><!-- container-->
       </div><!--header-style-->
     </div>
@@ -37,7 +37,7 @@
                         <div class="navbar-header">
                             <h6>
                               <a href="index.php">
-                                  <img src="images/iips_logo.png" class="img img-responsive iips-logo-css">
+                                  <img src="images/iips_logo.png" class="img img-responsive iips-logo-css col-lg-6 col-sm-6">
                               </a>
                             </h6>
                             <button type="button" class="navbar-toggle collapsed" id="no-border" data-toggle="collapse" data-target="#navbar-main" aria-expanded="false">
@@ -208,6 +208,7 @@
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="video_channel.php">Video Channels</a></li>
                                                   <li id="link-style"><a href="gallery.php">Gallery</a></li>
+                                                  <li id="link-style"><a href="nss.php">NSS</a></li>
                                               </div>
                                           </div>
                                       </div>        

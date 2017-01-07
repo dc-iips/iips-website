@@ -40,33 +40,33 @@
             <h3 class="text-center"><b>MCA (6 years)-Syllabus</b></h3><br>
             <div class="row">
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - I </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_I.pdf"> Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XQUtodjlYYnNza3M/view?usp=sharing"> Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - II </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_II.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XeVowdy1fTW1rWDA/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - III </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_II.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XbTFjOUpzR3JXRGs/view?usp=sharing">Download</a></div>    	
                 <span class="hidden-sm hidden-xs"><br><br></span>
             
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IV </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_VI.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XT1F0ajhhWUVGMVE/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - V </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_V.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XUndwLW1HbGFZVUU/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VI </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_VI.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3Xb3lMUWFSTFp1RGc/view?usp=sharing">Download</a></div>    	
                 <span class="hidden-sm hidden-xs"><br><br></span>
             
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VII </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_VII.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XcmxvdkJjbVBYa3c/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VIII </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_VIII.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XN2ZtV1BfOERxVTg/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IX </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_XI.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XWkRYMDI2a2p1Zmc/view?usp=sharing">Download</a></div>    	
                 <span class="hidden-sm hidden-xs"><br><br></span>
 
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - X </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_X.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XelBvSmtpdlU1MUk/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - XI </div>
-                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MCA (6 yrs)/MCA_XI.pdf">Download</a></div>    	
+                    <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XUU11RVVDX3FRUUE/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - XII </div>
                     <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="#">Download</a></div>    	
             </div>
@@ -76,31 +76,31 @@
             <h3 class="text-center"><b>M.Tech (5 years)-Syllabus </b></h3><br>
             <div class="row">
                 <div class="col-md-2 col-sm-6 col-xs-6">Semester - I </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_I.pdf">Download</a></div>
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XYXZ3Ti14Zk1ZV0U/view?usp=sharing">Download</a></div>
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - II </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_II.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XSzJaaXJ3WEl4M1E/view?usp=sharing">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - III </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_III.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XaTZUZDBjcDRTQzQ">Download</a></div>    	
                 <span class="hidden-sm hidden-xs"><br><br></span>
 
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IV </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_IV.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XUGh3NTBEZmkycms">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - V </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_V.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XSDdxSjBPWlU4UE0">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VI </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_VI.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XbVp5V1k1U0hReTg">Download</a></div>    	
                 <span class="hidden-sm hidden-xs"><br><br></span>
 
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VII </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_VII.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XNTh1dkJiY3ptLUE">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VIII </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_VIII.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XRENWbU8tLXRZU0E">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IX </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_XI.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3Xa3RZS3BkamhCLVU">Download</a></div>    	
                 <span class="hidden-sm hidden-xs"><br><br></span>
 
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - X </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MTech/M.Tech_X.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XYlVqRElBX21sclk">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - XI </div>
                   <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="#">Download</a></div>    	
             </div>
@@ -110,25 +110,25 @@
             <h3 class="text-center"><b>MBA (MS-5 years)-Syllabus</b></h3><br>
             <div class="row">
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - I </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-I.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XdDgtVkZlbEgtVjA">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - II </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-II.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XeG5sWWFQTVJLZkk">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - III </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-III.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XQ1hSWlE5TlhMXzA">Download</a></div>    	
            <span class="hidden-sm hidden-xs"><br><br></span>
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IV </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-IV.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XUzJRN0NQTDdla3M">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - V </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-V.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3Xc0UyMGJDbWF6SDA">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VI </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-VI.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XNk9zdGpnTGYtRjA">Download</a></div>    	
            <span class="hidden-sm hidden-xs"><br><br></span>
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VII </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-VII.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XY0JCTnI3cmVGbjg">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VIII </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-VIII.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XLTRSQjQ2M3N1VzQ">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IX </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-MS(5 Yrs)/MBA-MS-XI.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XdV9WS0VxaUE1NFE">Download</a></div>    	
            <span class="hidden-sm hidden-xs"><br><br></span>
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - X </div>
                   <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="#">Download</a></div>    	  	
@@ -139,14 +139,14 @@
             <h3 class="text-center"><b>MBA (APR-2 years)-Syllabus</b></h3><br>
             <div class="row">
             	<div class="col-md-2 col-md-offset-2 col-sm-6 col-xs-6">Semester - I </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA(APR)/MBA-APR-I.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XWWJsZHNWRWFOVFU">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - II </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA(APR)/MBA-APR-II.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XOExlcEs4Vl8yNnc">Download</a></div>    	
            <span class="hidden-sm hidden-xs"><br><br></span>
             	<div class="col-md-2 col-md-offset-2 col-sm-6 col-xs-6">Semester - III </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA(APR)/MBA-APR-III.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3Xc0hVenJObzZvRTg">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IV </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA(APR)/MBA-APR-IV.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XdUllSFA2NjdKOTA">Download</a></div>    	
             </div><br>
         </div> <!--tab4 End-->
 
@@ -154,29 +154,29 @@
             <h3 class="text-center"><b>MBA (TA-2 years)-Syllabus</b></h3><br>
                 <div class="row">
             	<div class="col-md-2 col-md-offset-2 col-sm-6 col-xs-6">Semester - I </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-TA/I-sem-TA-Syllabus.pdf">Download</a></div>    	
+                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XcDVqbkNMNnN6bE0">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - II </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-TA/II-sem-TA-Syllabus.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XMXRUZWRsV2xOODg">Download</a></div>    	
            <span class="hidden-sm hidden-xs "><br><br></span>
             	<div class="col-md-2 col-md-offset-2 col-sm-6 col-xs-6">Semester - III </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-TA/III-sem-TA-Syllabus.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XR1EzZlVtYW45Q2M">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6 col-sm-6 col-xs-6">Semester - IV </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/MBA-TA/IV-sem-TA-Syllabus.pdf">Download</a></div>    	
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XQnJaakF6OVhtQjQ">Download</a></div>    	
             </div><br>
         </div> <!--tab5 End-->
         <!--MBA(ms-2)-->
         <div role="tabpanel" class="tab-pane " id="tab6">
             <h3 class="text-center"><b>MBA (MS-2 years)-Syllabus</b></h3><br>
                <div class="row">
-                <div class="col-md-2 col-md-offset-2 col-sm-6 col-xs-6">Semester - I </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="#">Download</a></div>      
+                <div class="col-md-2 col-md-offset-2 col-sm-6 col-xs-6">Semester - I</div>
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XelBrdzRiclFtWDA">Download</a></div>      
                 <div class="col-md-2 col-sm-6 col-xs-6">Semester - II </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="#">Download</a></div>        
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XelBrdzRiclFtWDA">Download</a></div>        
            <span class="hidden-sm hidden-xs "><br><br></span>
                 <div class="col-md-2 col-md-offset-2 col-sm-6 col-xs-6">Semester - III </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="#">Download</a></div>       
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XelBrdzRiclFtWDA">Download</a></div>       
                 <div class="col-md-2 col-sm-6 col-xs-6 col-sm-6 col-xs-6">Semester - IV </div>
-                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="#">Download</a></div>        
+                  <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XelBrdzRiclFtWDA">Download</a></div>        
             </div><br>
             </div> <!--tab6 End-->
         <!--B.com(Hons)-->
@@ -184,18 +184,18 @@
             <h3 class="text-center"><b>B.com (Hons-3 years)-Syllabus</b></h3><br>
             <div class="row">
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - I </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/B.Com/B.Com SEM I.pdf">Download</a></div>    	
+                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XclJ6cThBckFVX00">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - II </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/B.Com/B.Com SEM II.pdf">Download</a></div>    	
+                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XSHlxQ21xMVJyXzA">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - III </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/B.Com/B.Com SEM III.pdf">Download</a></div>    	
+                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XdVlHamNUWHplczA">Download</a></div>    	
            <span class="hidden-sm hidden-xs "><br><br></span>
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - IV </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/B.Com/B.Com SEM IV.pdf">Download</a></div>    	
+                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XakFKVk56cWJYY0U">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - V </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/B.Com/B.Com SEM V.pdf">Download</a></div>    	
+                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XMXhMaE5DZU5MQlU">Download</a></div>    	
             	<div class="col-md-2 col-sm-6 col-xs-6">Semester - VI </div>
-                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="pdf_server.php?file=static/pdf/B.Com/B.Com SEM VI.pdf">Download</a></div>    	
+                 <div class="col-md-2 col-sm-6 col-xs-6"><span class="fa fa-hand-o-right"></span> <a href="https://drive.google.com/open?id=0B7MWn6sZED3XSU9nQmJrLUZsdkU">Download</a></div>    	
             </div><br>
         </div> <!--tab7 End-->
 

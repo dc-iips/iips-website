@@ -57,7 +57,7 @@
                   </p>
                 </div>
                 <div class="col-lg-4 col-sm-4 text-center">
-                  <img class="img-circle img-responsive" id="centralized" src="https://secure.gravatar.com/userimage/107215469/0e6c1e698c2cf8d302e29866efc32f5f?size=160" alt="Vikas Chouhan">
+                  <img class="img-circle img-responsive" id="centralized" src="http://en.gravatar.com/userimage/107215469/cc7727763344df4abc8750cf41c9e00f.jpg?size=160" alt="Vikas Chouhan">
                   <h3>Vikas Chouhan<br><small>Front-End Developer</small></h3>
                   <p>
                     <a href="https://twitter.com/Iamvikash888" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>

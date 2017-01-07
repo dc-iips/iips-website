@@ -43,6 +43,7 @@
                     <li><a href="staff_profile.php" >Staff Profile</a></li>
                     <li><a href="under_construction.php" >Student Verification</a></li>
                     <li><a href="video_channel.php" >Video Channel</a></li>
+                    <li><a href="nss.php" >NSS</a></li>
                   </ul>                
                 </div>
                             

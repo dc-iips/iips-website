@@ -31,24 +31,24 @@
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
                 <h3 class="testatic/pdf/xt-center"><b>Press Release</b></h3>
-                    <a href="static/pdf/Press-release/Seminar on HIV AIDS and Blood Donation Awareness at IIPS-DAVV.pdf" target="_blank"> Press release for the Seminar on HIV AIDS and Blood Donation Awareness</a><br>
-                    <a href="static/pdf/Press-release/press release reboot.jpg" target="_blank">Press release for the Reboot event held on 17-sep-2014</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3Xa3kyQnF0LVpjUzA/view?usp=sharing" target="_blank"> Press release for the Seminar on HIV AIDS and Blood Donation Awareness</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XQ3RPVU5kb25yZDA/view?usp=sharing" target="_blank">Press release for the Reboot event held on 17-sep-2014</a><br>
                     <a> Press release for the NSS </a><br>
-                    <a href="static/pdf/Press-release/Press Release Free of cost Eye Check-up Camp at IIPS-DAVV.pdf" target="_blank"> Press release for the Free Eyecheckup camp</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XOHVwMGhoSVZQVVk/view?usp=sharing" target="_blank"> Press release for the Free Eyecheckup camp</a><br>
                     <a> Press release for the Alumni meet</a><br>
             </div>
             
             <div role="tabpanel" class="tab-pane" id="tab2">
                 <h3 class="text-center"><b>Ordinances</b></h3>     
-                    <a href="static/pdf/Press-release/ordinance31.pdf" target="_blank">Grading Scheme- Ordinance 31</a><br>
-                    <a href="static/pdf/Press-release/conduct_of_examination_ordinance5.pdf" target="_blank"> Conduct of Examination - Ordinance 5</a><br>
-                    <a href="static/pdf/Press-release/examinations_ordinance6.pdf" target="_blank">Examinations -Ordinance 6</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3Xd3FiOVRIa29pZ00/view?usp=sharing" target="_blank">Grading Scheme- Ordinance 31</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XU2FNMXM3REJyMDg/view?usp=sharing" target="_blank"> Conduct of Examination - Ordinance 5</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XTlEyVzJ2c3llREE/view?usp=sharing" target="_blank">Examinations -Ordinance 6</a><br>
                     For full ordinance list visit <a href="http://www.dauniv.ac.in/Ordinance.php" target="_blank">this page</a>
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab3">
                 <h3 class="text-center"><b>Guidelines for Admission</b></h3>
-                Guidelines for Admission 2016 <a href="static/pdf/Press-release/guidelines_for_admissions.pdf">View &amp; download</a>
+                Guidelines for Admission 2016 <a href="https://drive.google.com/file/d/0B7MWn6sZED3XM09HVmhOaUlBdnc/view?usp=sharing">View &amp; download</a>
             </div>
         </div>
         <br><br>
