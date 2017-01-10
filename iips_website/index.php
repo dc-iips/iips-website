@@ -17,6 +17,7 @@
   </head>
 <body>
     <?php include 'header.php';?>
+    <br>
     <!--Slider Start -->
     <div class="container">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">

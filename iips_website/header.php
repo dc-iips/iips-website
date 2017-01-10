@@ -1,5 +1,6 @@
     <!--Header Open-->
     <!--Hide Navbar Open-->
+   
     <div class="wrapper hidden-xs">
       <div id="header-style">
           <div class="container">
@@ -37,7 +38,7 @@
                         <div class="navbar-header">
                             <h6>
                               <a href="index.php">
-                                  <img src="images/iips_logo.png" class="img img-responsive iips-logo-css col-lg-6 col-sm-6">
+                                  <img src="images/iips_logo.png" class="img img-responsive iips-logo-css col-lg-6 col-sm-6" style="width:250px;lenght:150px">
                               </a>
                             </h6>
                             <button type="button" class="navbar-toggle collapsed" id="no-border" data-toggle="collapse" data-target="#navbar-main" aria-expanded="false">
@@ -74,7 +75,7 @@
                                 <!--About-->
                                 <li class="dropdown yamm-fw" id="test_about">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">About<span class="caret"></span></a>
-                                    <ul class="dropdown-menu" id="yamm-down-about" role="menu">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-about" role="menu" style="margin:12px">
                                         <div class="row image2">                
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -103,7 +104,7 @@
                                 <!--Admission-->
                                 <li class="dropdown yamm-fw" id="test_admission">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline">Admission<span class="caret"></span></a>
-                                    <ul class="dropdown-menu" id="yamm-down-admission">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-admission" style="margin:12px">
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -131,7 +132,7 @@
                                 <li class="dropdown yamm-fw" id="test_academics">
                                     <a href="#" class="dropdown-toggle navbar-underline" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Academics<span class="caret"></span>
                                     </a>
-                                    <ul class="dropdown-menu" id="yamm-down-academics">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-academics" style="margin:12px">
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-8 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -162,7 +163,7 @@
                                 <li class="dropdown yamm-fw" id="test-research">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Research<span class="caret"></span>
                                     </a>
-                                    <ul class="dropdown-menu" id="yamm-down-research">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-research" style="margin:12px">
                                         <div class="row image2">      
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -190,7 +191,7 @@
                                 <li class="dropdown yamm-fw" id="campus_life">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Campus Life<span class="caret"></span>
                                     </a>
-            	                     <ul class="dropdown-menu" id="yamm-down-campus">
+            	                     <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
                                       <div class="row image2">
                                           <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                               <div class="col-md-6 col-sm-6">
