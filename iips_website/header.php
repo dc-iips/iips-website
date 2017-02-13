@@ -6,7 +6,7 @@
           <div class="container">
                             <ul class="nav navbar-nav">
                                 <li><a href="under_construction.php">Student</a></li>
-                                <li><a href="under_construction.php">Faculty &amp; Staff</a></li>
+                                <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
                                 <li><a href="under_construction.php">Alumni</a></li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right">     
@@ -215,13 +215,42 @@
                                       </div>        
                                     </ul>
                                 </li>
+                                <!-- Faculty  Profile-->
+                                <!-- Condition for sesseion  -->
+                                <li class="dropdown yamm-fw" id="faculty">
+                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Faculty Profile<span class="caret"></span>
+                                    </a>
+                                     <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
+                                      <div class="row image2">
+                                          <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
+                                              <div class="col-md-6 col-sm-6">
+                                                  <img src="images/campuslife/campus.jpg" class="img-responsive" alt="Responsive image">
+                                              </div>
+                                              <div class="col-md-6 col-sm-6">
+                                                  Other than studies students also enjoy their college life by participating in different events. Every year top IT and management companies like TCS, Infosys, wipro visit campus and offer very good packages to students.                                        </div>
+                                          </div>
+                                          <div class="col-md-5 col-sm-3">
+                                              <div class="col-md-6">
+                                                  <li id="link-style"><a href="">Overview</a></li>
+                                                  <li id="link-style"><a href=""></a></li>
+                                                  <li id="link-style"><a href=""></a></li>
+                                              </div>
+                                              <div class="col-md-6">
+                                                  <li id="link-style"><a href=""></a></li>
+                                                  <li id="link-style"><a href=""></a></li>
+                                                  <li id="link-style"><a href=""></a></li>
+                                              </div>
+                                          </div>
+                                      </div>        
+                                    </ul>
+                                </li>
                             </ul>
 
                             <div class="wrapper visible-xs">
                               <h3 id="i38">Information for...</h3>
                               <ul class="nav navbar-nav">
                                   <li><a href="under_construction.php">Students</a></li>
-                                  <li><a href="under_construction.php">Faculty &amp; Staff</a></li>
+                                  <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
                                   <li><a href="under_construction.php">Alumni</a></li>
                               </ul>
                             </div>
@@ -233,3 +262,38 @@
           </div><!-- col-md-9 Close-->
     </div><!-- row end-->
     </div><!--Container Close--><!--Main navbar close-->
+
+
+                <div class="modal fade" id="FacultyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                 <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header text-center">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                             <h4 class="modal-title">Sign-In</h4>
+                        </div>
+                        <div class="modal-body ">
+                            <form class="form-horizontal" role="form" action="<?php echo htmlentities($_SERVER['PHP_SELF']) ?>" method="post" id="signUp">
+                                <div class="form-group">
+                                    <label for="inputEmail1" class="col-lg-3 control-label">User ID</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" required="required" class="form-control" placeholder="User ID" name="userID" >
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputPassword1" class="col-lg-3 control-label">Password</label>
+                                    <div class="col-lg-8">
+                                        <input type="password" class="form-control" required="required" name="regPass" placeholder="Password" id="password">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                     <div class="col-lg-offset-4 col-lg-8">
+                                        <button type="submit" name="signIn" class="btn btn-large btn-primary">Ok</button>
+                                        <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">Close</button>
+                                        <a href="#"><button type="submitt" name="signUp" class="btn btn-primary">Sign-Up</button></a>
+                                    </div>
+                                </div>
+                            </form>
+                      </div>
+                   </div><!-- /.modal-content -->
+               </div><!-- /.modal-dialog -->
+            </div><!-- /.modal -->
