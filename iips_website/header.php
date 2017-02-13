@@ -232,13 +232,13 @@
                                           <div class="col-md-5 col-sm-3">
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="">Overview</a></li>
-                                                  <li id="link-style"><a href=""></a></li>
-                                                  <li id="link-style"><a href=""></a></li>
+                                                  <li id="link-style"><a href="">Profile</a></li>
+                                                  <li id="link-style"><a href="">Co-curricular</a></li>
                                               </div>
                                               <div class="col-md-6">
-                                                  <li id="link-style"><a href=""></a></li>
-                                                  <li id="link-style"><a href=""></a></li>
-                                                  <li id="link-style"><a href=""></a></li>
+                                                  <li id="link-style"><a href="">Research Publication and Academic Contribution</a></li>
+                                                  <li id="link-style"><a href="">Pdf Report</a></li>
+                                                  <li id="link-style"><a href="">Logout</a></li>
                                               </div>
                                           </div>
                                       </div>        
