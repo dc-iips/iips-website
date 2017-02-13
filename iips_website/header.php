@@ -287,10 +287,9 @@
                                 </div>
                                 <div class="form-group">
                                      <div class="col-lg-offset-4 col-lg-8">
-                                        <button type="submit" name="signIn" class="btn btn-large btn-primary">Ok</button>
+                                        <button type="submit" name="signIn" class="btn btn-large btn-primary">OK</button>
                                         <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">Close</button>
-                                        <a href="#"><button type="submitt" name="signUp" class="btn btn-primary">Sign-Up</button></a>
-                                    </div>
+                                     </div>
                                 </div>
                             </form>
                       </div>

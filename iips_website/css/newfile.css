@@ -37,7 +37,8 @@
     text-decoration:none;
     margin-left: 26px;
     margin-right: 0px;
-    font-size: 1.4em;
+    font-size: 1.2em;
+    padding: 5px;
 }
 #i6{
    border-right:1px solid #CCCCCC;
