@@ -18,7 +18,7 @@
   <body>
 <?php include 'header.php'; ?>
 <div class="container">
-  <div class="row">
+  <div class="row minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Press Release</b> </li>
@@ -30,25 +30,25 @@
     <div class="col-md-9">
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
-                <h3 class="text-center"><b>Press Release</b></h3>
-                    <a href=""> Press release for the Seminar on HIV AIDS and Blood Donation Awareness</a><br>
-                    <a href="">Press release for the Reboot event held on 17-sep-2014</a><br>
-                    <a href=""> Press release for the NSS </a><br>
-                    <a href=""> Press release for the Free Eyecheckup camp</a><br>
-                    <a href=""> Press release for the Alumni meet</a><br>
+                <h3 class="testatic/pdf/xt-center"><b>Press Release</b></h3>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3Xa3kyQnF0LVpjUzA/view?usp=sharing" target="_blank"> Press release for the Seminar on HIV AIDS and Blood Donation Awareness</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XQ3RPVU5kb25yZDA/view?usp=sharing" target="_blank">Press release for the Reboot event held on 17-sep-2014</a><br>
+                    <a> Press release for the NSS </a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XOHVwMGhoSVZQVVk/view?usp=sharing" target="_blank"> Press release for the Free Eyecheckup camp</a><br>
+                    <a> Press release for the Alumni meet</a><br>
             </div>
             
             <div role="tabpanel" class="tab-pane" id="tab2">
                 <h3 class="text-center"><b>Ordinances</b></h3>     
-                    <a href="">Grading Scheme- Ordinance 31</a><br>
-                    <a href=""> Conduct of Examination - Ordinance 5</a><br>
-                    <a href="">Examinations -Ordinance 6</a><br>
-                    For full ordinance list visit <a href="">this page</a>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3Xd3FiOVRIa29pZ00/view?usp=sharing" target="_blank">Grading Scheme- Ordinance 31</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XU2FNMXM3REJyMDg/view?usp=sharing" target="_blank"> Conduct of Examination - Ordinance 5</a><br>
+                    <a href="https://drive.google.com/file/d/0B7MWn6sZED3XTlEyVzJ2c3llREE/view?usp=sharing" target="_blank">Examinations -Ordinance 6</a><br>
+                    For full ordinance list visit <a href="http://www.dauniv.ac.in/Ordinance.php" target="_blank">this page</a>
             </div>
 
             <div role="tabpanel" class="tab-pane" id="tab3">
                 <h3 class="text-center"><b>Guidelines for Admission</b></h3>
-                Guidelines for Admission 2016 <a href="">View &amp; download</a>
+                Guidelines for Admission 2016 <a href="https://drive.google.com/file/d/0B7MWn6sZED3XM09HVmhOaUlBdnc/view?usp=sharing">View &amp; download</a>
             </div>
         </div>
         <br><br>

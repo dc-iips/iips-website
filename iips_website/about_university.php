@@ -18,7 +18,7 @@
   <body>
 <?php include 'header.php'; ?>
 <div class="container">
-  <div class="row">
+  <div class="row , minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>About University</b> </li>
@@ -64,12 +64,16 @@
         <div role="tabpanel" class="tab-pane" id="tab2">
             <h3 class="text-center"><b>Hon'ble Vice-Chancellor </b></h3>
              <div class="row">
-             	<div class="col-md-4"></div>
+             	
              	<div class="col-md-4 text-center">
              		<img src="images/vice_chancellor.png" class="img-rounded" alt="Photo Vice Chancellor">
                		<h6><b>Dr. Narendra Kumar Dhakad</b></h6>
                 	<h6><b>(Vice Chancellor)</b></h6>
              	</div>
+                <div><p>Dear Student,<br>
+                            Welcome to Devi Ahilya Vishwavidyalaya (DAVV) for admission in professional courses. It is the first state University in Madhya Pradesh accredited with 'A' grade by NAAC. With a glorious history of fifty years, the University provides an avenue for unleashing your potential to realize your dreams.Devi Ahilya Vishwavidyalaya has emerged as a premier institution of higher learning in Central India by creating, advancing and disseminating knowledge. Through its 27 University Teaching Departments and 270 affiliated colleges the University serves around 1,80,000 students every year, with diversified course structure, multi disciplinary research and value based education, thereby, contributing towards educational, economic and social development of humanity at large. Academic excellence is highest priority in this University. The University Teaching Departments offer undergraduate, post-graduate and research programs in sixteen faculties. It is amongst the first few Universities in the country to introduce innovative and integrated courses in the area of science, engineering, technology, management, law and media. The University adopts latest techniques, innovative pedagogy and teaching methods to create an effective and conducive learning environment. Student centric methods are an integral part of the pedagogy adopted by the faculty that includes experiential learning, participative learning, and problem solving methodologies. With committed faculty resources, ICT enabled learning resources, rich central library, excellent teaching and research infrastructure and required support facilities, the University prepares young minds to take up challenges of the future. Holistic development of its students is at the core of this University. University has excellent support services such as, Sports Centre, Play Grounds, Gymnasium, Cultural Centre and Student Welfare Department to encourage student participation in sports, cultural and extra-curricular activities. Career guidance, counselling and placement related needs are catered through Career Counselling and Opportunities Guidance cell, Equal Opportunity Cell, Placement Cells, and Alumni Cell. It is one of the most sought after institution for the students aspiring for excellence in all areas of performance. I look forward to welcome you at Devi Ahilya University (DAVV), Indore for rich learning experience and rewarding career.
+                            </p>
+                </div>
              	<div class="col-md-4"></div>
             </div>
         </div>
@@ -282,7 +286,8 @@
                   <li>Audio-Video recording facility</li>
                   <li>Sound-Proof environment</li>
               </ul>
-            </p> 
+            </p>
+                <br><center><img src="images/about/auditorium.jpg" width="80%" height="80%"/></center><br> 
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab5">
@@ -297,7 +302,8 @@
             150 nodes have been added to Nalanda Campus, RNT Marg Network and 128 nodes to IET network. After completion of 
             third phase i.e. from Feb, 2004 all the departments of the University are now on Campus LAN having access to the 
             Internet.
-        </p>
+        </p><br>
+        <center><img src="images/about/itcenter.jpg"></center><br>
         <p class="text-justify">
             Under UGC-INFONET scheme, from Jan 2004, UGC has provided our University free subscription to the various e-Journals
             along with 512 kbps bandwidth through ERNET.

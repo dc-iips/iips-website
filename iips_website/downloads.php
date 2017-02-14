@@ -89,9 +89,9 @@
     </div>
     <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
       <div class="panel-body">
-            <a href="pdf_server.php?file=static/pdf/format/indent_form.pdf"> Indent Form <br>
+            <a href="https://drive.google.com/open?id=0B7MWn6sZED3XSnpLRFdZNzdLWVE"> Indent Form <br>
             <a href=""> Casual Leave Application <br>
-            <a href="pdf_server.php?file=static/pdf/format/Student_Appraisal_form.pdf"> Student Appraisal Form <br>
+            <a href="https://drive.google.com/open?id=0B7MWn6sZED3XQUNabWV4YUJHbUU"> Student Appraisal Form <br>
             <a href=""> Project Viva Format <br> 
             <a href=""> Student Feedback <br>
             <a href=""> CV Board Feedback 
@@ -108,7 +108,7 @@
     </div>
     <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
       <div class="panel-body">
-        <a href="pdf_server.php?file=static/pdf/format/CV.zip">Download all Faculties CV's Here</a>
+        <a href="https://drive.google.com/file/d/0B7MWn6sZED3XQnFCVjJxZjlkNlE/view?usp=sharing">Download all Faculties CV's Here</a>
       </div>
     </div>
   </div>

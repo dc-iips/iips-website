@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="shortcut icon" href="images/favicon.jpg">
-    <title>About International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
+    <title>About International Institute of Professional Studies, Devi Ahilya Vishwavidyalaya</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/newfile.css" rel="stylesheet">
@@ -18,7 +18,7 @@
   <body>
 <?php include 'header.php'; ?>
 <div class="container">
-  <div class="row">
+  <div class="row , minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>About IIPS</b> </li>
@@ -55,15 +55,18 @@
 
             <div role="tabpanel" class="tab-pane" id="tab2">
                 <h3 class="text-center"><b> Director </b></h3>     
-                <b>Meet the Director</b>
                 <div class="row" >
-                    <div class="col-md-3">
-                            <center><img src="images/about/director.jpg" alt="B.K.Tripathi - Director IIPS" width="170" height="170"/>
-                            Feel Free to contact me on <a>director@iips.edu.in</a> <br>  
-                            <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/">Dr. B.K Tripathi</a><center/>
+                    <div class="col-md-3 text-center">
+                            <span class="col-md-12">    
+                                <img src="images/about/director.jpg" alt="B.K.Tripathi - Director IIPS" width="170" height="170"/>
+                            </span>
+                            <span class="col-xs-12 col-sm-12">
+                                Feel Free to contact me<br><a>director@iips.edu.in</a> <br>  
+                                <a href="https://sites.google.com/site/drbktripathiiipsdavvindore/" target="_blank">Dr. B.K Tripathi</a>
+                            </span>
                     </div>
                     <div class="col-md-9 text-justify">
-                            "Welcome to International institute of professional studies- a Premier B-School in Central India 
+                            "Welcome to International Institute of Professional Studies- a Premier B-School in Central India 
                             which has been providing exceptional opportunities to the students since past 21 years. They have 
                             left an indelible mark that will guide subsequent developments, not only at the institution, but 
                             hopefully also in management education in our country. The new age consumer, industry and trade have 
@@ -86,8 +89,8 @@
                     manage this environmental change and business organization in an ethical manner. I hope you will find the 
                     qualities of ethical leadership and management in our students.
                     You have always supported IIPS in a very big way. Without your support it would not have been possible for us to achieve the current growth. I am confident that the institute will continue to get your support in all its activities. 
-                    We look forward to receiving each one of you during this year?s placement season.
-                    I look forward to welcome you here..... 
+                    We look forward to receiving each one of you during this year's placement season.
+                    I look forward to welcome you here. 
                 </p>
                 <br><br> 
             </div>
@@ -122,6 +125,7 @@
 
             <div role="tabpanel" class="tab-pane" id="tab4">
                 <h3 class="text-center"><b>IIPS @ Wikipedia</b></h3>
+                <br>
                 <b><p class="bg-warning">From Wikipedia, the free encyclopedia</p></b>
                 <p class="text-justify">International Institute of Professional Studies, a department of Devi Ahilya University was set up in 1992. With the quality in the content, scope and professionalism of its programs, IIPS has emerged as one of the best centers of technical education in central India and is recognized by AICTE. It has been placed in the 'B+' category and ranked 24th overall in the Business Standard Survey of best B-Schools of India.</p>
                 <b><p class="bg-warning">Campus</p></b>
@@ -141,27 +145,68 @@
                     <tr><td>Type</td><td>Autonomous<td></tr>
                     <tr><td>Director</td><td>Dr. B.K Tripathi</td></tr>
                     <tr><td>Academic staff</td><td>55<td></tr>
-                    <tr><td>Location</td><td><a href="https://en.wikipedia.org/wiki/Indore">Indore, Madhya Pradesh, India</a></td></tr>
+                    <tr><td>Location</td><td><a href="https://en.wikipedia.org/wiki/Indore" target="_blank">Indore, Madhya Pradesh, India</a></td></tr>
                     <tr><td>Campus</td><td>Urban</td></tr>
-                    <tr><td>Website</td><td><a href="www.iips.edu.in">www.iips.edu.in</a></td></tr>
+                    <tr><td>Website</td><td><a href="http://iips.edu.in/" target="_blank">www.iips.edu.in</a></td></tr>
                 </table>
                 <br>
-                Read More @ <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies">IIPS WikiPage</a>
+                Read More @ <a href="http://en.wikipedia.org/wiki/International_Institute_of_Professional_Studies" target="_blank">IIPS WikiPage</a>
             </div>
     
             <div role="tabpanel" class="tab-pane" id="tab5">
                 <h3 class="text-center"><b>Anti-Ragging Committee</b></h3>
-                <ul><br>
-                    <li>Dr. B.K. Tripathi, Director 98270-48326</li>
-                    <li>Dr. A.K. Sapre, Professor 94250-78013</li>
-                    <li>Dr. Yamini Karmarkar, Program In-charge, MBA (MS) 2 Yrs. 98260-22674</li>
-                    <li>Dr. Manish Sitlani, Reader 93016-16888</li>
-                    <li>Dr. Geeta Nema, Program In-charge, MBA (MS) 5 Yrs. 98268-52490</li>
-                    <li>Dr. Geeta Sharma, Program In-charge, MBA (APR) 2 Yrs. 98932-69919</li>
-                    <li>Dr. Ramesh Thakur, Program In-charge, MCA 6 Yrs. 94259-63711</li>
-                    <li>Ms. Kirti Mathur, Program In-charge, M.Tech. (IT) 5? Yrs. 93032-30568</li>
-                    <li>Dr. S.C. Patidar, Program In-charge, B.Com. (Hons.) 3 Yrs. 98260-85209</li>       
-                </ul> 
+                <table class="table table-responsive">
+                    <tr>
+                        <td><b>Name</b></td>
+                        <td><b>Designation</b></td>
+                        <td><b>Mobile No.</b></td>
+                    </tr>
+                    <tr>
+                       <td>Dr. B.K. Tripathi</td>
+                       <td>Director</td>
+                       <td>98270-48326</td>
+                    </tr>
+                    <tr>
+                       <td>Dr. A.K. Sapre</td>
+                       <td>Professor</td>
+                       <td>94250-78013</td>
+                    </tr>
+                    <tr>
+                       <td>Dr. Yamini Karmarkar</td>
+                       <td>Program In-charge, MBA (MS) 2 Yrs.</td>
+                       <td>98260-22674</td>
+                    </tr>
+                    <tr>
+                       <td>Dr. Manish Sitlani</td>
+                       <td>Reader</td>
+                       <td>93016-16888</td>
+                    </tr>
+                    <tr>
+                       <td>Dr. Geeta Nema</td>
+                       <td>Program In-charge, MBA (MS) 5 Yrs.</td>
+                       <td>98268-52490</td>
+                    </tr>
+                    <tr>
+                       <td>Dr. Geeta Sharma</td>
+                       <td>Program In-charge, MBA (APR) 2 Yrs.</td>
+                       <td>98932-69919</td>
+                    </tr>
+                    <tr>
+                       <td>Dr. Ramesh Thakur</td>
+                       <td>Program In-charge, MCA 6 Yrs.</td>
+                       <td>94259-63711</td>
+                    </tr>
+                    <tr>
+                       <td>Ms. Kirti Mathur</td>
+                       <td>Program In-charge, M.Tech. (IT) 5 Yrs.</td>
+                       <td>93032-30568</td>
+                    </tr>
+                    <tr>
+                       <td>Dr. S.C. Patidar</td>
+                       <td>Program In-charge, B.Com. (Hons) 3 Yrs.</td>
+                       <td>98260-85209</td>
+                    </tr>
+                </table> 
             </div>
         </div>
         <br><br>

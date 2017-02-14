@@ -69,7 +69,7 @@
           <p><a href="event.php">Events and Attractions</a></p>
           <p><a href="placement.php">Placements</a></p>
           <p><a href="video_channel.php">Video Channel</a></p>
-          <p><a href="gallery.php">Gallery</a></p>
+          <p><a href="gallery.php">Gal</a></p>
       </div>
       </div><!-- Row ends -->
 

@@ -31,17 +31,15 @@
        <div class="tab-content">
             <div role="tabpanel" class="tab-pane active" id="tab1">
                 <h3 class="text-center"><b>Computer Faculty</b></h3>
-                    <table class="table">
+                    <table width= "100%" align="center" class="table table-responsive">
                           <tbody>
                               <tr>
-                                  <th>Name</b></th>
-                                  <th>Designation</b></th>
-                                  <th>Qualifications</b></th>
-                                  <th>Responsibility</b></th>
+                                  <td width="25%"><b> Name </b></th>
+                                  <td width="20%"><b> Designation </b></th>
+                                  <td width="30%"><b> Qualifications </b></th>
+                                  <td width="20%"><b> Responsibility </b></th>
                               </tr>
-                          </tbody>
-  
-   
+                          
    <tr>
   <td style=" padding-left:20px;"><a href="https://sites.google.com/site/drrameshthakursites/" target="_blank">Dr.&nbsp;Ramesh Thakur</a></td>
   <td>Reader</td>
@@ -519,13 +517,11 @@
     </div>
       </div>
  <!-- Table Ends> -->
-  <br><br>
+  <br>
     </div><!--Col-md-9 End> -->
 
     </div>
 
   </div>
 </div>
-<br>
-<br>
 <?php include 'footer.php';?>

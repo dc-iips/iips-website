@@ -1,3 +1,16 @@
+      /*Font CSS*/
+.heading-font{
+ font-family: 'Neuton', Arial, serif ;color: #0B3262; font-weight: 700 ; 
+}
+.subheading-font{
+  font-family: 'Open Sans',sans-serif ; font-weight:600; font-size :14px; color: #0B3262 ;  
+}
+ .content-font{
+  font-family: 'Neuton', serif; font-weight: 400;  font-size :18px;
+
+}
+
+
 #header-style{
     background-color: #003262;
     border-color: transparent;
@@ -24,10 +37,14 @@
     text-decoration:none;
     margin-left: 26px;
     margin-right: 0px;
-    font-size: 1.4em;
+    font-size: 1.2em;
+    padding: 5px;
 }
 #i6{
    border-right:1px solid #CCCCCC;
+}
+#i38{
+    font-family: 'Noto Serif', serif;
 }
 #link-style{
    padding-top:10px;
@@ -73,7 +90,7 @@
 }
 #logo{
    width:200; 
-   height:200;
+   height:79;
 }
 #i14{
   color:#CCCCCC;  
@@ -202,6 +219,9 @@ a:hover{
   color: #fff;
   text-decoration: none;
 }
+
+
+/* Media Queries for 0px to 400px */
 @media only screen and (max-width: 400px) {
   .image2{
     padding-left: 65px;
@@ -222,7 +242,9 @@ a:hover{
     .rightAlign{text-align: right;}
     .leftAlign{text-align: left;}
     .centerAlign{text-align: center;}
+
     
+/* Media Queries for 0px to 1200px */
 @media only screen and (max-width: 1200px){
       .iips-logo-css 
       {
@@ -234,9 +256,10 @@ a:hover{
       padding:0px 0px;
       color:red;
       }
-
-
 }
+
+
+/* Media Queries for 768px to 1200px */
 @media only screen and (max-width: 1200px) and (min-width: 768px){
       #test{
         width:80%;
@@ -275,16 +298,19 @@ a:hover{
     .rightAlign{text-align: right;}
     .leftAlign{text-align: left;}
     .centerAlign{text-align: center;}
+
 }
+
+                     /* Media Queries for 0px to 767px */
 @media only screen and (max-width:767px){
-  #no-underline{
+   #no-underline{
     margin-left: -25px; }
-
-
+     /* For sitemap */
   .rightAlign{text-align: left;}
   .leftAlign{text-align: left;}
   .centerAlign{text-align: left;}
 }
+
 
 #image-effect{
   -webkit-transition: all 5s ease;
@@ -343,3 +369,21 @@ a:hover{
   height:10%;
   width:10%;
 }
+
+/* Sets Minimum length of Container,
+ So that pages having less content does not show footer at first glance itself*/
+.minlength{min-height:470px;}
+
+  /* Used in video channel page to give margin */
+.magin{margin-bottom:30px;}
+
+
+                        /* Used To give heigth and width to Slider */
+
+/* Greater than 968px*/                        
+@media only screen and (min-width: 968px){    
+      .slider_size{width:100em ;height:29em;}}
+
+ /* Less than 968px */
+@media only screen and (max-width: 968px){   
+      .slider_size{width:100em ;height:18em;}}

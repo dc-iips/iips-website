@@ -18,7 +18,7 @@
   <body>
 <?php include 'header.php';?>
 <div class="container">
-  <div class="row">
+  <div class="row , minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
          <h4> <b> &nbsp; Academic Calendar </b> </h4>
@@ -44,7 +44,8 @@
             <div class="row">
                 <div class="col-md-1"></div>
                 <div class="col-md-10">
-                 <div class="col-md-4 col-sm-6 col-xs-6"> <a href="pdf_server.php?file=static/pdf/LocalHolidayNotice2016.pdf"> Click here </a> to download
+                 <div class="col-md-4 col-sm-6 col-xs-6"> <a href="https://drive.google.com/file/d/0B7MWn6sZED3XcmtVaWw2d2FZWDQ/view?usp=sharing"> <span class="fa fa-hand-o-right"></span>
+                  Click here </a> to download
                  </div>
                 </div>
                 <div class="col-md-1"></div>

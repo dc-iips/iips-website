@@ -19,7 +19,7 @@
   <body>
   <?php include'header.php'; ?>
 <div class="container">
-  <div class="row">
+  <div class="row minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"><b>Recruitment</b></li>

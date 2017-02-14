@@ -22,10 +22,10 @@
         <!-- Introduction Row -->
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h1>Our Team
+                <h1>Our Team<br>
                     <small>It's Nice to Meet You!</small>
                 </h1>
-                <p>This is our development team, who have contributed to the developement of the IIPS website and made this possible to deploy this website within the time.</p>
+                <p id="i51">This is our development team, who have contributed to the developement of the IIPS website and made this possible to deploy this website within the time.</p>
             </div>
         </div>
 
@@ -57,7 +57,7 @@
                   </p>
                 </div>
                 <div class="col-lg-4 col-sm-4 text-center">
-                  <img class="img-circle img-responsive" id="centralized" src="https://secure.gravatar.com/userimage/107215469/0e6c1e698c2cf8d302e29866efc32f5f?size=160" alt="Vikas Chouhan">
+                  <img class="img-circle img-responsive" id="centralized" src="http://en.gravatar.com/userimage/107215469/cc7727763344df4abc8750cf41c9e00f.jpg?size=160" alt="Vikas Chouhan">
                   <h3>Vikas Chouhan<br><small>Front-End Developer</small></h3>
                   <p>
                     <a href="https://twitter.com/Iamvikash888" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
@@ -99,6 +99,5 @@
             </div>    
             
         </div>
-        <hr>
     </div>
 <?php include 'footer.php'; ?>

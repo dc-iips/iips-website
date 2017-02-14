@@ -18,16 +18,17 @@
   <body>
 <?php include 'header.php';?>
 <div class="container">
-  <div class="row">
+  <div class="row , minlength">
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Events</b> </li>
         <li role="presentation" id="colm" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Xpressions</a></li>
         <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Synergy</a></li>
-        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Reboot</a></li>
-        <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Tourista</a></li>
-        <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Gabfest</a></li>
-        <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Maya</a></li><br>
+        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Technophilia</a></li>
+        <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Reboot</a></li>
+        <li role="presentation" id="colm"><a href="#tab5" aria-controls="tab5" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Tourista</a></li>
+        <li role="presentation" id="colm"><a href="#tab6" aria-controls="tab6" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Gabfest</a></li>
+        <li role="presentation" id="colm"><a href="#tab7" aria-controls="tab7" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Maya</a></li><br>
       </ul>
     </div>
 
@@ -48,24 +49,30 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
+            <h3 class="text-center"><b>Technophilia</b></h3>
+            <p class="text-justify">Technophilia is University's Only and the biggest Tecgnical Event, Organised by IIPS and will be going to help all the students to take a step ahead by witnessing themselves all the major activities which will keep in trend for two days. Following are the major activities list: Coding Compete Tech Debate IoT Team Debugging Challenges Ethical Hacking LAN Gaming eTreasure Hunt Still counting. Technophilia not only going to introduce science activities but also large amount of social, fitness, entertainment, cultural etc. activating. Below is the quick list of such fun fairs:</p>
+            <a href="http://www.technophilia.netne.net/">Visit Technopfilia Website</a>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="tab4">
             <h3 class="text-center"><b>Reboot</b></h3>
             <p class="text-justify">Reboot is a foundation being laid by M.Tech family with the aim of providing a stage of opportunities for the students to explore themselves, interact with each other and work in a healthy environment. "Reboot" basically aims at creating awareness about the importance of inter-personal skills ,technical skills and creativity.</p>
             <a href="">Visit Reboot Website</a>
         </div>
 
-        <div role="tabpanel" class="tab-pane" id="tab4">
+        <div role="tabpanel" class="tab-pane" id="tab5">
             <h3 class="text-center"><b>Tourista</b></h3>
             <p class="text-justify">Tourista is a privileged event of IIPS Tourism batch which provides a platform for various academic and cultural activities. This event has been an identity of the Tourism batch for the past five years. Our alumni, working in leading travelling companies like: Thomas Cook, Make My Trip, Cox &amp; Kings etc actively participate in TOURISTA. In this youth oriented event, students from various departments of DAVV campus participate.</p>
             <a href="">Visit Tourista Website</a>
         </div>
 
-        <div role="tabpanel" class="tab-pane" id="tab5">
+        <div role="tabpanel" class="tab-pane" id="tab6">
             <h3 class="text-center"><b>Gabfest</b></h3>
             <p class="text-justify">Student initiated event in which seniors share their interview experience with their juniors. </p>
             <a href="">Visit Gabfest Website</a>
         </div>
 
-        <div role="tabpanel" class="tab-pane" id="tab6">
+        <div role="tabpanel" class="tab-pane" id="tab7">
             <h3 class="text-center"><b>Maya</b></h3>
             <p class="text-justify">Maya is an Event of Advertising and Public Relations(APR) department of 'International Institute of Professional studies' (IIPS), DAVV, Indore.</p>
             <a href="">Visit Maya Website</a>

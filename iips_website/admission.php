@@ -52,7 +52,6 @@
                 </div>
             </div>
             <br/>
-
         </div>
 
         <div class="col-md-6">
@@ -61,12 +60,11 @@
                     <img src="images/admission/cet.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-8 overview-text">
-                    <h3><a href="cet.php">Common Entrance Test</a></h3>
+                    <h3><a href="http://www.davvcet.in/" target="_blank">Common Entrance Test</a></h3>
                     <p>For admission in IIPS you have to crack the CET Exam which always held in the summer. </p>
                 </div>
             </div>
             <br/>
-            
         </div>    
     </div>
     <br/>

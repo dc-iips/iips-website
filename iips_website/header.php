@@ -1,11 +1,12 @@
     <!--Header Open-->
     <!--Hide Navbar Open-->
+   
     <div class="wrapper hidden-xs">
       <div id="header-style">
           <div class="container">
                             <ul class="nav navbar-nav">
                                 <li><a href="under_construction.php">Student</a></li>
-                                <li><a href="under_construction.php">Faculty &amp; Staff</a></li>
+                                <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
                                 <li><a href="under_construction.php">Alumni</a></li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right">     
@@ -21,7 +22,7 @@
                                             </div>
                                     </div>
                                 </form>
-                            </ul>
+                            </ul> -->
           </div><!-- container-->
       </div><!--header-style-->
     </div>
@@ -37,7 +38,7 @@
                         <div class="navbar-header">
                             <h6>
                               <a href="index.php">
-                                  <img src="images/iips_logo.png" class="img img-responsive iips-logo-css">
+                                  <img src="images/iips_logo.png" class="img img-responsive iips-logo-css col-lg-6 col-sm-6" style="width:250px;lenght:150px">
                               </a>
                             </h6>
                             <button type="button" class="navbar-toggle collapsed" id="no-border" data-toggle="collapse" data-target="#navbar-main" aria-expanded="false">
@@ -74,7 +75,7 @@
                                 <!--About-->
                                 <li class="dropdown yamm-fw" id="test_about">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">About<span class="caret"></span></a>
-                                    <ul class="dropdown-menu" id="yamm-down-about" role="menu">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-about" role="menu" style="margin:12px">
                                         <div class="row image2">                
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -103,7 +104,7 @@
                                 <!--Admission-->
                                 <li class="dropdown yamm-fw" id="test_admission">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline">Admission<span class="caret"></span></a>
-                                    <ul class="dropdown-menu" id="yamm-down-admission">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-admission" style="margin:12px">
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -120,7 +121,7 @@
                                                 </div>
                                                 <div class="col-md-6">
                                                     <li id="link-style"><a href="fee_structure.php">Fees Structure</a></li>
-                                                    <li id="link-style"><a href="cet.php">Common Entrance Test</a></li>
+                                                    <li id="link-style"><a href="http://www.davvcet.in/" target="_blank">Common Entrance Test</a></li>
                                                 </div>
                                             </div>
                                         </div><!--container-->        
@@ -131,11 +132,11 @@
                                 <li class="dropdown yamm-fw" id="test_academics">
                                     <a href="#" class="dropdown-toggle navbar-underline" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Academics<span class="caret"></span>
                                     </a>
-                                    <ul class="dropdown-menu" id="yamm-down-academics">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-academics" style="margin:12px">
                                         <div class="row image2">
                                             <div class="col-md-7 col-sm-8 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/academics/academic.jpg" class="img img-responsive" alt="Responsive image">
+                                                    <img src="images/academics/012.jpg" class="img img-responsive" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     The institute provides ample opportunities to students with a rigorous and challenging curriculum with flexibility to allow students to tailor their education to meet their professional and personal interests and goals.      
@@ -162,7 +163,7 @@
                                 <li class="dropdown yamm-fw" id="test-research">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Research<span class="caret"></span>
                                     </a>
-                                    <ul class="dropdown-menu" id="yamm-down-research">
+                                    <ul class="dropdown-menu nav-margin" id="yamm-down-research" style="margin:12px">
                                         <div class="row image2">      
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
@@ -190,7 +191,7 @@
                                 <li class="dropdown yamm-fw" id="campus_life">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Campus Life<span class="caret"></span>
                                     </a>
-            	                     <ul class="dropdown-menu" id="yamm-down-campus">
+            	                     <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
                                       <div class="row image2">
                                           <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                               <div class="col-md-6 col-sm-6">
@@ -208,6 +209,36 @@
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="video_channel.php">Video Channels</a></li>
                                                   <li id="link-style"><a href="gallery.php">Gallery</a></li>
+                                                  <li id="link-style"><a href="nss.php">NSS</a></li>
+                                              </div>
+                                          </div>
+                                      </div>        
+                                    </ul>
+                                </li>
+                                <!-- Faculty  Profile-->
+                                <!-- Condition for sesseion  -->
+                                <li class="dropdown yamm-fw" id="faculty">
+                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Faculty Profile<span class="caret"></span>
+                                    </a>
+                                     <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
+                                      <div class="row image2">
+                                          <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
+                                              <div class="col-md-6 col-sm-6">
+                                                  <img src="images/campuslife/campus.jpg" class="img-responsive" alt="Responsive image">
+                                              </div>
+                                              <div class="col-md-6 col-sm-6">
+                                                  Other than studies students also enjoy their college life by participating in different events. Every year top IT and management companies like TCS, Infosys, wipro visit campus and offer very good packages to students.                                        </div>
+                                          </div>
+                                          <div class="col-md-5 col-sm-3">
+                                              <div class="col-md-6">
+                                                  <li id="link-style"><a href="">Overview</a></li>
+                                                  <li id="link-style"><a href="">Profile</a></li>
+                                                  <li id="link-style"><a href="">Co-curricular Extension, Professional Development</a></li>
+                                              </div>
+                                              <div class="col-md-6">
+                                                  <li id="link-style"><a href="">Research Publication and Academic Contribution</a></li>
+                                                  <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
+                                                  <li id="link-style"><a href="">Logout</a></li>
                                               </div>
                                           </div>
                                       </div>        
@@ -216,10 +247,10 @@
                             </ul>
 
                             <div class="wrapper visible-xs">
-                              <h3>Information for...</h3>
+                              <h3 id="i38">Information for...</h3>
                               <ul class="nav navbar-nav">
                                   <li><a href="under_construction.php">Students</a></li>
-                                  <li><a href="under_construction.php">Faculty &amp; Staff</a></li>
+                                  <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
                                   <li><a href="under_construction.php">Alumni</a></li>
                               </ul>
                             </div>
@@ -231,3 +262,37 @@
           </div><!-- col-md-9 Close-->
     </div><!-- row end-->
     </div><!--Container Close--><!--Main navbar close-->
+
+    <!-- modal -->
+    <div class="modal fade" id="FacultyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header text-center">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                             <h4 class="modal-title">Sign-In</h4>
+                        </div>
+                        <div class="modal-body ">
+                            <form class="form-horizontal" role="form" action="<?php echo htmlentities($_SERVER['PHP_SELF']) ?>" method="post" id="signUp">
+                                <div class="form-group">
+                                    <label for="inputEmail1" class="col-lg-3 control-label">User ID</label>
+                                    <div class="col-lg-8">
+                                        <input type="text" required="required" class="form-control" placeholder="User ID" name="userID" >
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputPassword1" class="col-lg-3 control-label">Password</label>
+                                    <div class="col-lg-8">
+                                        <input type="password" class="form-control" required="required" name="regPass" placeholder="Password" id="password">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                     <div class="col-lg-offset-4 col-lg-8">
+                                        <button type="submit" name="signIn" class="btn btn-large btn-primary">OK</button>
+                                        <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">Close</button>
+                                     </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
