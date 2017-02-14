@@ -233,11 +233,11 @@
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="">Overview</a></li>
                                                   <li id="link-style"><a href="">Profile</a></li>
-                                                  <li id="link-style"><a href="">Co-curricular</a></li>
+                                                  <li id="link-style"><a href="">Co-curricular Extension, Professional Development</a></li>
                                               </div>
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="">Research Publication and Academic Contribution</a></li>
-                                                  <li id="link-style"><a href="">Pdf Report</a></li>
+                                                  <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
                                                   <li id="link-style"><a href="">Logout</a></li>
                                               </div>
                                           </div>
@@ -263,9 +263,9 @@
     </div><!-- row end-->
     </div><!--Container Close--><!--Main navbar close-->
 
-
-                <div class="modal fade" id="FacultyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                 <div class="modal-dialog">
+    <!-- modal -->
+    <div class="modal fade" id="FacultyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header text-center">
                             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
@@ -292,7 +292,7 @@
                                      </div>
                                 </div>
                             </form>
-                      </div>
-                   </div><!-- /.modal-content -->
-               </div><!-- /.modal-dialog -->
-            </div><!-- /.modal -->
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
