@@ -233,10 +233,10 @@
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="">Overview</a></li>
                                                   <li id="link-style"><a href="">Profile</a></li>
-                                                  <li id="link-style"><a href="">Co-curricular Extension, Professional Development</a></li>
+                                                  <li id="link-style"><a href="cocurricular.php">Co-curricular Extension, Professional Development</a></li>
                                               </div>
                                               <div class="col-md-6">
-                                                  <li id="link-style"><a href="">Research Publication and Academic Contribution</a></li>
+                                                  <li id="link-style"><a href="research_pub.php">Research Publication and Academic Contribution</a></li>
                                                   <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
                                                   <li id="link-style"><a href="">Logout</a></li>
                                               </div>
