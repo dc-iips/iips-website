@@ -237,7 +237,7 @@
                                                   <li id="link-style"><a href="cocurricular.php">Co-curricular Extension, Professional Development</a></li>
                                               </div>
                                               <div class="col-md-6">
-                                                  <li id="link-style"><a href="">Research Publication and Academic Contribution</a></li>
+                                                  <li id="link-style"><a href="research_pub.php">Research Publication and Academic Contribution</a></li>
                                                   <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
                                                   <li id="link-style"><a href="#LogoutModal" data-toggle="modal">Logout</a></li>
                                               </div>
