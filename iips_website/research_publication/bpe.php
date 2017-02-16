@@ -1,13 +1,8 @@
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Student Master</title>
-        <script src="jquery-1.3.1.js"></script>
-    </head>
-    <body>
-        <div id="mainContainer">
-            <div>
-          <div class="col-md-8">
+
+	<center><h4><b>Research Publication And Academic Contribution</b></h4></center>
+	</div><!--end of box-shadow-->
+    <div class="row-fluid">        
+        <div class="col-md-11">
 			<!--"Books Published" Panel started -->		
 				<div class="panel panel-primary" style="padding:3px 3px 3px 3px;">
 				<div class="panel-heading">
@@ -41,8 +36,7 @@
 						  <input class="form-control" type="text" name="BPE_NOC" /> <br/>
 					   <label>Whether you are the main Author</label>
 						 <input type="radio" name="BPE_YN" />Yes <input type="radio" name="BPE_YN"/>No<br /> <br/>
-					   <label>API Score</label>  <input class="form-control" type="text" name="BPE_API" id="bpetooltip" /> 
-					 </div><br />
+					  </div>
 						<input class="btn btn-md btn-primary" type="submit" value="Save" name="bpe_save" />
 						<select name="bp" onChange="showUser(this.value, this.name)">
 							<option>--Title--</option>
@@ -58,42 +52,9 @@
 						<input type="reset" class="btn btn-primary" value="Reset" name="reset" />
 				  </form>
 				</div><!--end of panel-->
-        </div><!--End Of col-md-6 --> 	
-            </div>
-        </div>
-        <script>
-            /*Populating Table on Page Load*/
-            $("#tableContainer").html("Loading Data.......");
-            $.ajax({
-                            type: "POST",
-                            url: "showData.php",
-                            success: function(msg){
-							
-                                  $("#tableContainer").html(msg).show(10000);
-                            }
-                        }); 
-                        
-            $("#insertStudent").submit(function(event){
-                /* stop form from submitting normally */
-                event.preventDefault();
-                var values = $(this).serialize();
-                $.ajax({
-                  url: "addStudent.php",
-                  type: "post",
-                  data: values,
-                  success: function(){
-                      alert("Student Added Successfully.");
-                      $("#tableContainer").html("Loading Data.......");
-                       $.ajax({
-                            type: "POST",
-                            url: "showData.php",
-                            success: function(msg){
-                                  $("#tableContainer").html(msg).show();
-                            }
-                        }); // end of inner .ajax
-                  }
-                }); //End of .ajax
-        });
-        </script>
-    </body>
-</html> 
+        </div><!--End Of col-md-6 --> 
+		
+		
+			
+    </div><!--End Of row-fluid Class --> 
+</div>                       		
