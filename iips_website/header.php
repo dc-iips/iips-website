@@ -233,7 +233,7 @@
                                           <div class="col-md-5 col-sm-3">
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="">Overview</a></li>
-                                                  <li id="link-style"><a href="">Profile</a></li>
+                                                  <li id="link-style"><a href="Profiles.php">Profile</a></li>
                                                   <li id="link-style"><a href="cocurricular.php">Co-curricular Extension, Professional Development</a></li>
                                               </div>
                                               <div class="col-md-6">
