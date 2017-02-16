@@ -39,22 +39,23 @@
         </div>
         <div class="col-sm-12">
             <div class="well">
-         <br>
+         <!-- <br> -->
             <div id="userTabContent" class="tab-content">
-            <div class="tab-pane fade active in" id="overview"><br>
+            <div class="tab-pane fade active in">
                 <form action="" method="post" enctype="multipart/form-data">
                  <div class="col-md-4 text-center">
-                      <img src="profilepic.png" class="img-rounded" alt="Faculty images" style="width:150px;height:150px;">
+                     <br> <img src="images/faculty_pic/profilepic.png" class="img-rounded" alt="Faculty images" style="width:150px;height:150px;">
                       <h6><b>Faculty</b></h6>
                  </div>
 
                 </form>
+
                 <div class="col-md-8">
-                <br><br> 
+                <!-- <br><br>  -->
                 <div class="row">
                   <div class="col-lg-12 col-md-12">
-                        <h4 class="page-header"><strong>Personal Details:<strong></h4>
-                    <div class="col-md-12">
+                        <!-- <h4 class="page-header"><strong>Personal Details:<strong></h4> -->
+                    <!-- <div class="col-md-12"> -->
                     <form role="form" name="myForm" action="" method="POST"> 
                     <!-- <div class="form-group"> -->
                     <br><label>Name<i style="color:red">*</i> </label>
@@ -62,45 +63,50 @@
                     <div class="form-group">
                       <div class="row">
                         <div class="col-md-6">
-                           <input type="text" name="fname"  maxlength="15" required="required" class="form-control" placeholder="Father Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                           <input type="text" name="name"  maxlength="15" required="required" class="form-control" placeholder="Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:200%"> 
                         </div> 
                       </div>
-                      <br><label>Father Name<i style="color:red">*</i> </label>
-                    </div>
-                    <div class="form-group">
-                        <div class="row">
-                          <div class="col-md-6">
-                             <input type="text" name="fname"  maxlength="15" required="required" class="form-control" placeholder="Father Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                     </div> 
+                      
+                    <br><label>Father Name<i style="color:red">*</i> </label>
+                        <div class="form-group">
+                          <div class="row">
+                             <div class="col-md-6">
+            
+                             <input type="text" name="fname"  maxlength="15" required="required" class="form-control" placeholder="Father Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"style="width:200%"> 
+                            </div>
                           </div>
-                        </div>
+                        </div> 
                         <br><label>Mother Name<i style="color:red">*</i> </label>
-                    </div>
+                  
                     <div class="form-group">
                         <div class="row">
                             <div class="col-md-6">
-                              <input type="text" name="mname"  maxlength="20" required="required" class="form-control" placeholder="Mother Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                              <input type="text" name="mname"  maxlength="20" required="required" class="form-control" placeholder="Mother Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:200%"> 
                             </div>
                         </div>
+                    </div> 
                         <br> <label>Date of Birth</label>
-                    </div>
+                    
                   <div class="row">
                       <div class="col-md-6">
-                       <input type="date" name="dob" class="form-control">
+                       <input type="date" name="dob" class="form-control" style="width:200%">
                       </div>
                   </div>
                     <br><label>Adhar Card Number<i style="color:red">*</i> </label>
                   <div class="form-group">
                         <div class="row">
                           <div class="col-md-6">
-                              <input type="text" name="adhar"  maxlength="20" required="required" class="form-control" placeholder="AdharCard Number" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                              <input type="text" name="adhar"  maxlength="20" required="required" class="form-control" placeholder="AdharCard Number" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:200%"> 
                           </div> 
                         </div>
+                       </div> 
                         <br><label>PAN <i style="color:red">*</i> </label>
-                  </div>
+                  
                   <div class="form-group">
                       <div class="row">
                        <div class="col-md-6">
-                         <input type="text" name="PAN "  maxlength="20" required="required" class="form-control" placeholder="PAN Card Number" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                         <input type="text" name="PAN "  maxlength="20" required="required" class="form-control" placeholder="PAN Card Number" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:200%"> 
                        </div> 
                       </div>
                   </div> 
@@ -109,7 +115,7 @@
                     <div class="form-group">
                       <div class="row">
                        <div class="col-md-8">
-                         <input type="text" name="Qualification"  maxlength="20" required="required" class="form-control" placeholder="Highest Qualification" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                         <input type="text" name="Qualification"  maxlength="20" required="required" class="form-control" placeholder="Highest Qualification" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:150%"> 
                        </div> 
                       </div>
                      </div>
@@ -118,7 +124,7 @@
                      <div class="form-group">                        
                         <div class="row">
                           <div class="col-md-8">
-                             <input type="text" name="Padd"  maxlength="20" required="required" class="form-control" placeholder="Address" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                             <input type="text" name="Padd"  maxlength="20" required="required" class="form-control" placeholder="Address" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:150%"> 
                           </div>
                         </div>
                      </div>                  
@@ -126,7 +132,7 @@
                      <div class="form-group">
                        <div class="row">
                          <div class="col-md-8">
-                         <input type="text" name="Contact"  maxlength="20" required="required" class="form-control" placeholder="Contact Nunber" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                         <input type="text" name="Contact"  maxlength="20" required="required" class="form-control" placeholder="Contact Nunber" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:150%"> 
                          </div> 
                        </div> 
                      </div>    
@@ -134,7 +140,7 @@
                      <div class="form-group">
                         <div class="row">
                           <div class="col-md-8">
-                          <input type="text" name="email"  maxlength="20" required="required" class="form-control" placeholder="Email" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"> 
+                          <input type="text" name="email"  maxlength="20" required="required" class="form-control" placeholder="Email" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:150%"> 
                           </div>
                         </div>          
                 </div>
@@ -147,6 +153,6 @@
       </div>
     </div>
   </div>
-</div>
+
 </div>
 <?php include("footer.php");?>
