@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <link rel="shortcut icon" href="images/favicon.jpg">
     <title>Research publication | International Institute of Professional Studies, Devi Ahilya Vishwavidhalay</title>
     <!-- Bootstrap -->
@@ -97,7 +96,7 @@
             </div>
         </div>
         <br><br>
-    </div><!--Col-md-9 End> -->
+    </div><!--End Col-md-9> -->
   </div>
 </div>
 <?php include 'footer.php'; ?>
