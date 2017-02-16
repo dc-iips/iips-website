@@ -191,7 +191,7 @@
                                 <li class="dropdown yamm-fw" id="campus_life">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Campus Life<span class="caret"></span>
                                     </a>
-            	                     <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
+                                     <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
                                       <div class="row image2">
                                           <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                               <div class="col-md-6 col-sm-6">
@@ -215,7 +215,6 @@
                                       </div>        
                                     </ul>
                                 </li>
-
                                 <!-- Faculty  Profile-->
                                 <!-- Condition for sesseion  -->
                                 <li class="dropdown yamm-fw" id="faculty">
@@ -232,14 +231,14 @@
                                           </div>
                                           <div class="col-md-5 col-sm-3">
                                               <div class="col-md-6">
-                                                  <li id="link-style"><a href="">Overview</a></li>
+                                                  <li id="link-style"><a href="over.php">Overview</a></li>
                                                   <li id="link-style"><a href="Profiles.php">Profile</a></li>
                                                   <li id="link-style"><a href="cocurricular.php">Co-curricular Extension, Professional Development</a></li>
                                               </div>
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="research_pub.php">Research Publication and Academic Contribution</a></li>
                                                   <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
-                                                  <li id="link-style"><a href="#LogoutModal" data-toggle="modal">Logout</a></li>
+                                                  <li id="link-style"><a href="">Logout</a></li>
                                               </div>
                                           </div>
                                       </div>        
@@ -297,26 +296,3 @@
                     </div><!-- /.modal-content -->
                 </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
-
-    <!-- logout modal -->
-    <div class="modal fade" id="LogoutModal" tabindex="-1" role="dialog" aria-labelledby="LogoutLabel" aria-hidden="true">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header text-center">
-                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                             <h4 class="modal-title">Log Out</h4>
-                        </div>
-                        <div class="modal-body ">
-                            <p class="text-center">Are you sure you want to log out!!!</p>
-                            <form class="form-horizontal" role="form" action="<?php echo htmlentities($_SERVER['PHP_SELF']) ?>" method="post" id="signUp">
-                               <div class="form-group">
-                                     <div class="col-lg-offset-3 col-lg-8">
-                                        <button type="submit" name="signOut" class="btn btn-large btn-primary">Logout</button>
-                                        <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">No right now</button>
-                                     </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div><!-- /.modal-content -->
-                </div><!-- /.modal-dialog -->
-    </div><!-- end logout modal -->
