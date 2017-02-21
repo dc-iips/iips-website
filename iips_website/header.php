@@ -1,6 +1,5 @@
     <!--Header Open-->
-    <!--Hide Navbar Open-->
-   
+    <!--Hide Navbar Open-->   
     <div class="wrapper hidden-xs">
       <div id="header-style">
           <div class="container">
@@ -22,12 +21,12 @@
                                             </div>
                                     </div>
                                 </form>
+                                <li><a href="#">Logout</a></li>
                             </ul> -->
           </div><!-- container-->
       </div><!--header-style-->
     </div>
     <!--Hide Navbar Close-->
-
     <!--Main navbar starts-->
     <div class="container">
         <div class="row">
@@ -238,7 +237,7 @@
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="research_pub.php">Research Publication and Academic Contribution</a></li>
                                                   <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
-                                                  <li id="link-style"><a href="">Logout</a></li>
+                                                  <li id="link-style"><a href="logOutModal" data-toggle="modal">Logout</a></li>
                                               </div>
                                           </div>
                                       </div>        
@@ -252,6 +251,7 @@
                                   <li><a href="under_construction.php">Students</a></li>
                                   <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
                                   <li><a href="under_construction.php">Alumni</a></li>
+                                  <li><a href="under_construction.php">Logout</a></li>
                               </ul>
                             </div>
                         </div>
@@ -288,6 +288,27 @@
                                 <div class="form-group">
                                      <div class="col-lg-offset-4 col-lg-8">
                                         <button type="submit" name="signIn" class="btn btn-large btn-primary">OK</button>
+                                        <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">Close</button>
+                                     </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div class="modal fade" id="logOutModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header text-center">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                             <h4 class="modal-title">Sign-Out</h4>
+                        </div>
+                        <div class="modal-body ">
+                            <form class="form-horizontal" role="form" action="<?php echo htmlentities($_SERVER['PHP_SELF']) ?>" method="post" id="signUp">
+                                <div class="form-group">
+                                     <div class="col-lg-offset-4 col-lg-8">
+                                        <button type="submit" name="signIn" class="btn btn-large btn-primary">Logout</button>
                                         <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">Close</button>
                                      </div>
                                 </div>

@@ -14,7 +14,6 @@
     <link href="yamm/yamm.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-
   </head>
   <body>
 <?php include("header.php"); ?>
@@ -26,11 +25,8 @@
         <li role="presentation" id="colm" class="active" ><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Academic Activity</a></li>
         <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Co-curricular, Extension ,Professional Development & related Activity</a></li>
         <li role="presentation" id="colm"><a href="#tab4" aria-controls="tab4" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Research ,Publication & Academic </a></li>
-        
       </ul>
     </div>
-
-    
     <div class="col-md-9">
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab1">
@@ -47,38 +43,29 @@
                      <br> <img src="images/faculty_pic/profilepic.png" class="img-rounded" alt="Faculty images" style="width:150px;height:150px;">
                       <h6><b>Faculty</b></h6>
                  </div>
-
                 </form>
-
                 <div class="col-md-8">
                 <!-- <br><br>  -->
                 <div class="row">
                   <div class="col-lg-12 col-md-12">
-                        <!-- <h4 class="page-header"><strong>Personal Details:<strong></h4> -->
-                    <!-- <div class="col-md-12"> -->
                     <form role="form" name="myForm" action="" method="POST"> 
-                    <!-- <div class="form-group"> -->
                     <br><label>Name<i style="color:red">*</i> </label>
-                    <!-- </div> -->
                     <div class="form-group">
                       <div class="row">
                         <div class="col-md-6">
                            <input type="text" name="name"  maxlength="15" required="required" class="form-control" placeholder="Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)" style="width:200%"> 
                         </div> 
                       </div>
-                     </div> 
-                      
+                     </div>
                     <br><label>Father Name<i style="color:red">*</i> </label>
                         <div class="form-group">
                           <div class="row">
                              <div class="col-md-6">
-            
                              <input type="text" name="fname"  maxlength="15" required="required" class="form-control" placeholder="Father Name" onkeypress="return onlyChars(event)" onfocus="color(this)" onblur="color1(this)"style="width:200%"> 
                             </div>
                           </div>
                         </div> 
                         <br><label>Mother Name<i style="color:red">*</i> </label>
-                  
                     <div class="form-group">
                         <div class="row">
                             <div class="col-md-6">
@@ -87,7 +74,6 @@
                         </div>
                     </div> 
                         <br> <label>Date of Birth</label>
-                    
                   <div class="row">
                       <div class="col-md-6">
                        <input type="date" name="dob" class="form-control" style="width:200%">

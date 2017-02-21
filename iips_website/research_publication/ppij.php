@@ -14,7 +14,7 @@
 						<select name="pp" onChange="showUser(this.value, this.name)">
 							<option>--Title--</option>
 							<?php 
-								include('DBConnect.php');
+								include('../DBConnect.php');
 								$uname=$_SESSION['username'];
 								$year=$_SESSION['pbasYear'];
 								$query = mysqli_query($con,"SELECT * from teach_ppij where User_Id='$uname' and year='$year'");
@@ -44,7 +44,7 @@
 						<select name="pp" onChange="showUser(this.value, this.name)">
 							<option>--Title--</option>
 							<?php 
-								include('DBConnect.php');
+								include('../DBConnect.php');
 								$uname=$_SESSION['username'];
 								$year=$_SESSION['pbasYear'];
 								$query = mysqli_query($con,"SELECT * from teach_ppij where user_id='$uname' and year='$year'");
