@@ -7,7 +7,7 @@
   #Query for grabbing user's general informations in the varables.
   
   $sql="SELECT * FROM gen_info WHERE User_Id = '".$_SESSION['username']."'";
-    $result = mysqli_query($con,$sql) or die('Error'.mysqli_error($con));
+    $result = mysqli_query($conn,$sql) or die('Error'.mysqli_error($conn));
     $row = mysqli_fetch_array($result);
     $uname = $row['Gen_Info_Name'];
     $fatherName = $row['Gen_Info_Fname'];
