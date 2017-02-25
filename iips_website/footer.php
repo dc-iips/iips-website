@@ -41,7 +41,7 @@
                     <h4>Miscellaneous</h4>
                     <li><a href="faculty_profile.php" >Faculty Profile</a></li>
                     <li><a href="staff_profile.php" >Staff Profile</a></li>
-                    <li><a href="under_construction.php" >Student Verification</a></li>
+                    <li><a href="results.php" >Results </a></li>
                     <li><a href="video_channel.php" >Video Channel</a></li>
                     <li><a href="nss.php" >NSS</a></li>
                   </ul>                
@@ -52,7 +52,7 @@
                     <h4>Downloads</h4>
                     <li><a href="academic_calendar.php" >Academic Calendar</a></li>
                     <li><a href="syllabus.php" >Syllabus</a></li>
-                    <li><a href="results.php" >Results </a></li>
+                    <li><a href="under_construction.php" >Student Verification</a></li>
                     <li><a href="downloads.php" >Faculty CV</a></li>
                   </ul>
                 </div>
@@ -63,7 +63,7 @@
         <hr>
         <div class="row">
             <div class="col-md-4">
-                &copy; 2016 International Institute of Professional Studies
+                &copy; 2017 International Institute of Professional Studies
             </div>
             <div class="col-md-6"></div>
             <div class="col-md-2 col-xs-6">

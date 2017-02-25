@@ -22,7 +22,7 @@
                                             </div>
                                     </div>
                                 </form>
-                            </ul> -->
+                            </ul>
           </div><!-- container-->
       </div><!--header-style-->
     </div>
@@ -38,7 +38,7 @@
                         <div class="navbar-header">
                             <h6>
                               <a href="index.php">
-                                  <img src="images/iips_logo.png" class="img img-responsive iips-logo-css col-lg-6 col-sm-6" style="width:250px;lenght:150px">
+                                  <img src="images/iips_logo2.png" class="img img-responsive iips-logo-css col-lg-6 col-sm-6" style="width:150px;lenght:150px">
                               </a>
                             </h6>
                             <button type="button" class="navbar-toggle collapsed" id="no-border" data-toggle="collapse" data-target="#navbar-main" aria-expanded="false">
@@ -48,6 +48,15 @@
                           <span class="icon-bar"></span>
                             </button>
                         </div>
+                         <!-- 50 year's image -->
+                            <div class="navbar-header hidden-xs">
+                                <h6>
+                                  <a href="index.php">
+                                      <img src="images/davv50year.png" class="img img-responsive " style="width:150px;lenght:50px">
+                                  </a>
+                                </h6>
+                            </div>
+                            <!-- end 50 year's image -->
                           <!-- Collect the nav links, forms, and other content for toggling -->
                           <!--Visible Content-->
                         <div class="collapse navbar-collapse" id="navbar-main">
@@ -234,19 +243,18 @@
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="over.php">Overview</a></li>
                                                   <li id="link-style"><a href="Profiles1.php">Profile</a></li>
-                                                  <li id="link-style"><a href="cocurricular.php">Co-curricular Extension, Professional Development</a></li>
+                                                  <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
+                                                  <li id="link-style"><a href="logout.php">Logout</a></li>
                                               </div>
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="research_pub.php">Research Publication and Academic Contribution</a></li>
-                                                  <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
-                                                  <li id="link-style"><a href="logout.php">Logout</a></li>
+                                                  <li id="link-style"><a href="cocurricular.php">Co-curricular Extension, Professional Development</a></li>
                                               </div>
                                           </div>
                                       </div>        
                                     </ul>
                                 </li>
                             </ul>
-
                             <div class="wrapper visible-xs">
                               <h3 id="i38">Information for...</h3>
                               <ul class="nav navbar-nav">

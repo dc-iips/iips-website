@@ -1,8 +1,7 @@
-
 <?php
 require_once("dompdf_config.inc.php");
 include('../DBConnect.php');
-session_start();
+session_start(); 
 $year=$_SESSION['pbasYear'];
 $user = $_SESSION['username'];
 
@@ -13,7 +12,7 @@ $sqlgen="SELECT * from gen_info where user_id='$user'";
                 $name=$genrow['Gen_Info_Name'];
                 $fname=$genrow['Gen_Info_Fname'];
                 $mname=$genrow['Gen_Info_Mname'];
-               $dept=$genrow['Gen_Info_Department'];
+                $dept=$genrow['Gen_Info_Department'];
                 $cd=$genrow['Gen_Info_CD'];
                 $gp=$genrow['Gen_Info_GP'];
                 $dlp=$genrow['Gen_Info_DLP'];

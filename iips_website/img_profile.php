@@ -56,103 +56,29 @@
 <div class="large-5 columns extra-padding">
   <div class="winbox-white ">
       <!-- <h3 class="text-right">Profile Picture</h3> -->
-    <div class="row">
+   <!--  <div class="row">
       <div class="large-3 columns">
-      <img src="img/<?php echo $info->u_imgurl; ?>" />
+      <img src="img/<?php //echo $info->u_imgurl; ?>" />
       </div> 
-    
+     -->
       <div class="large-9 columns">
+           <!-- upload image part -->
+
         <form action="" method="post" enctype="multipart/form-data">
           <div class="large-12 columns">
                <span style="color:red;">Maximun Image Size 100KB</span><br/><br/>
-               <input type="file" name="myfile"  required/>
+               <input type="hidden" name="p"  value="1">
+               <input type="file" name="image" />
           </div> 
       
           <div class="large-12 columns">
                <button type="submit" name="upload" class="tiny button radius success">Upload</button>
           </div> 
-        </form>
+        </form> 
       </div>
     </div>
   </div>
 </div>
- <?php
-          $output_dir = "img/";
-          $allowedExts = array("jpg", "jpeg", "gif", "png","JPG");
-          $extension = @end(explode(".", $_FILES["myfile"]["name"]));
-        if(isset($_POST['upload']))
-        {
-          //Filter the file types , if you want.
-          if ((($_FILES["myfile"]["type"] == "image/gif")
-            || ($_FILES["myfile"]["type"] == "image/jpeg")
-            || ($_FILES["myfile"]["type"] == "image/JPG")
-            || ($_FILES["myfile"]["type"] == "image/png")
-            || ($_FILES["myfile"]["type"] == "image/pjpeg"))
-            && ($_FILES["myfile"]["size"] < 504800)
-            && in_array($extension, $allowedExts)) 
-          {
-              if ($_FILES["myfile"]["error"] > 0)
-              {
-              echo "Return Code: " . $_FILES["myfile"]["error"] . "<br>";
-              }
-            if (file_exists($output_dir. $_FILES["myfile"]["name"]))
-              {
-              unlink($output_dir. $_FILES["myfile"]["name"]);
-              } 
-              else
-              {
-              $pic=$_FILES["myfile"]["name"];
-              $conv=explode(".",$pic);
-              $ext=$conv['1'];  
-                
-              //move the uploaded file to uploads folder;
-                  move_uploaded_file($_FILES["myfile"]["tmp_name"],$output_dir.$User_Id.".".$ext);
-              
-              $pics=$output_dir.$User_Id.".".$ext;
-            
-                
-              $url=$User_Id.".".$ext;
-              
-              
-              $update="update gen_info set u_imgurl='$url' where User_Id='$uname'";
-              
-              if($sp->query($update)){
-               echo '<div data-alert class="alert-box success radius">';
-                  echo  '<b>Success !</b>  Image Updated' ;
-                  echo  '<a href="#" class="close">&times;</a>';
-                echo '</div>';
-               header('refresh:3;url=dashboard.php'); 
-              }
-              else{
-                echo '<div data-alert class="alert-box alert radius">';
-                  echo  '<b>Error !</b> ' .$sp->error ;
-                  echo  '<a href="#" class="close">&times;</a>';
-                echo '</div>';
-              }
-              
-              
-              
-              }
-              
-          } 
-          else{
-          
-             echo '<div data-alert class="alert-box warning radius">';
-              echo  '<b>Warning !</b>  File not Uploaded, Check image' ;
-              echo  '<a href="#" class="close">&times;</a>';
-        echo '</div>';
-     
-          }
-
-        }     
-           ?>
-
-
-    <!-- End php code for profile picture upload from pc and save in the database plus set in the profile -->
-
-
-      <!-- </div> -->
-
 
     </div>
     
