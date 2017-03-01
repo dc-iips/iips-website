@@ -11,7 +11,7 @@
                                 include('DBConnect.php');
                                 $userId = $_SESSION['username'];
                                 $year=$_SESSION['pbasYear'];
-                                $query = mysqli_query($con,"SELECT * from Teach_PDA WHERE User_Id = '$userId' and year='$year'");
+                                $query = mysqli_query($conn,"SELECT * from Teach_PDA WHERE User_Id = '$userId' and year='$year'");
                                 while($row = mysqli_fetch_assoc($query)){
                             ?>      <option><?php echo $row['Teach_PDA_TOA']; ?></option>
                             <?php } ?>

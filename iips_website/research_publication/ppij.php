@@ -1,4 +1,29 @@
-	<center><h4><b>Research Publication And Academic Contribution</b></h4></center>
+<?php
+    session_start();
+    if(!isset($_SESSION['username']))
+    {
+        header("location:header.php/#FacultyModal");
+    }
+    else
+    {
+ ?>
+    <script language="javascript">    
+              function getDataTable(fileName,contentPan))
+              {              	
+                $("#"+contentPan).html("loading table......");
+              	$.ajax({
+              		url: fileName,
+              		method:"post",
+              		data:urlencode(),
+
+              		success: function(msg){
+                      $("#"+contentPan).html(msg).show(500);
+                    }
+
+                });
+              }
+    </script>
+    <center><h4><b>Research Publication And Academic Contribution</b></h4></center>
      <div class="row-fluid">
        
         <div class="col-md-11">
@@ -8,20 +33,10 @@
 				  <h3  id="papers" class="panel-title" align="center">Published Papers in Journals</h3>
 				</div><!--end of panel heading-->
 				
-					  <form role="form" name="ppij"  action="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>" method="post">
+					  <form role="form" name="ppij"  id="ppij_submit" action="research_publication/ppij_insert_db.php" method="post">
 						<br>
 						<input class="btn btn-primary" type="submit" value="Save" name="ppij_save" />
-						<select name="pp" onChange="showUser(this.value, this.name)">
-							<option>--Title--</option>
-							<?php 
-								include('../DBConnect.php');
-								$uname=$_SESSION['username'];
-								$year=$_SESSION['pbasYear'];
-								$query = mysqli_query($con,"SELECT * from teach_ppij where User_Id='$uname' and year='$year'");
-								while($row = mysqli_fetch_assoc($query)){
-							?><option><?php echo $row['Teach_PPIJ_TNO']; ?></option>
-							<?php } ?>
-						</select>
+					
 						<input type="submit" class="btn btn-primary"  value="Delete" name="ppij_delete" />
 						<input type="reset" class="btn btn-primary" value="Reset" name="reset" /> <br/><br/>
 						<div class="form-group">
@@ -40,24 +55,29 @@
 								  <input type="radio" value="Yes" name="PPIJ_YN" required="required">Yes <input type="radio" value="No" name="PPIJ_YN">NO<br />
 								</div>
 								<br>						
-						<input class="btn btn-primary" type="submit" value="Save" name="ppij_save" />
-						<select name="pp" onChange="showUser(this.value, this.name)">
-							<option>--Title--</option>
-							<?php 
-								include('../DBConnect.php');
-								$uname=$_SESSION['username'];
-								$year=$_SESSION['pbasYear'];
-								$query = mysqli_query($con,"SELECT * from teach_ppij where user_id='$uname' and year='$year'");
-								while($row = mysqli_fetch_assoc($query)){
-							?><option><?php echo $row['Teach_PPIJ_TNO']; ?></option>
-							<?php } ?>
-						</select>
+						<input class="btn btn-primary" type="submit" value="Save" name="ppij_save" />						
 						<input type="submit" class="btn btn-primary"  value="Delete" name="ppij_delete" />
-						<input type="reset" class="btn btn-primary" value="Reset" name="reset" />
+						<input type="reset" class="btn btn-primary" value="Reset" name="reset"  onClick="getDataTable('ppij_select_db.php','tab1')" />
 					   </div>
 					</form>
+
 				</div><!--end of panel div-->		
 		
     </div><!--End Of row-fluid Class --> 
+
+<!-- Table -->
+<!-- 
+<div class="padding">
+  <div class="full col-sm-11" id="tab1">
+
+  </div>
+</div> -->
+<!-- Table End -->
+
+<?php 
+	include 'ppij_select_db.php';
+ ?>
 </div>
-</div>                         		
+</div>  
+
+<?php } ?>

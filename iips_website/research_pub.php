@@ -13,6 +13,17 @@
     <link href="yamm/yamm.css" rel="stylesheet">
     <link href="css/footer.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+
+<!-- Include Required Prerequisites -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap/3/css/bootstrap.css" />
+ 
+    <!-- Include Date Range Picker -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
+
     <script language="javascript">    
             function getData(fileName, contentPan){
                 $("#"+contentPan).html("loading data......");
@@ -38,7 +49,7 @@
         <li role="presentation" id="colm" onClick="getData('research_publication/apb.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Articles / Chapters published in Books</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/fcp.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Full Papers in Conference Proceedings</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/bpe.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Books Published as Single Author or as a Editor</a></li>
-        <li role="presentation" id="colm" onClick="getData('research_publication/opc.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Ongoing Projects / Consultancies</a></li>
+        <li role="presentation" id="colm" onClick="getData('r1esearch_publication/opc.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Ongoing Projects / Consultancies</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/cpc.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Completed Projects / Consultancies</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/rg.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Research Guidance</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/fdp.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Training Courses , Teaching-Learning-Evaluation Technology, Faculty Development Programmes</a></li>

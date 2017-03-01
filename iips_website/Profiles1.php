@@ -12,11 +12,11 @@
     $uname = $row['Gen_Info_Name'];
     $fatherName = $row['Gen_Info_Fname'];
     $motherName = $row['Gen_Info_Mname'];
-    $department = $row['Gen_Info_Department'];
-    $designation = $row['Gen_Info_CD'];
-    $gradePay = $row['Gen_Info_GP'];
-    $promotionDate = $row['Gen_Info_DLP'];
-    $correspAddress = $row['Gen_Info_AFC'];
+    $AdharCard = $row['Gen_Info_Department'];
+    $PANcard = $row['Gen_Info_CD'];
+    // $gradePay = $row['Gen_Info_GP'];
+    $Designation = $row['Gen_Info_DLP'];
+    // $correspAddress = $row['Gen_Info_AFC'];
     $permnantAddress = $row['Gen_Info_PA'];
     $telephone = $row['Gen_Info_TNO'];
     $email = $row['Gen_Info_Email'];
@@ -191,21 +191,14 @@
                 <td><?php echo $motherName;?></td>
               </tr>
               <tr>
-                <td>Department</td>
+                <td>AdharCard Number</td>
                 <td><?php echo $department;?></td>
               </tr>
               <tr>
                 <td>Current Designation</td>
                 <td><?php echo $designation;?></td>
               </tr>
-              <tr>
-                <td>Date Of Last Promotion</td>
-                <td><?php echo $promotionDate;?></td>
-              </tr>
-              <tr>
-                <td>Address For Correspondence</td>
-                <td><?php echo $correspAddress;?></td>
-              </tr>
+              
               <tr>
                 <td>Permanent Address</td>
                 <td><?php echo $permnantAddress;?></td>
