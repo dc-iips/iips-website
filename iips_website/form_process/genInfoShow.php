@@ -11,16 +11,18 @@
 		$result = mysqli_query($conn,$sql) or die('Error'.mysqli_error($conn));
 		$row = mysqli_fetch_array($result);
  		$uname = $row['Gen_Info_Name'];
-	    $fatherName = $row['Gen_Info_Fname'];
+	  $fatherName = $row['Gen_Info_Fname'];
 		$motherName = $row['Gen_Info_Mname'];
+		$dob = $row['Gen_Info_DOB'];
+		$adharcard = $row['Gen_Info_Adhar'];
+		$pancard = $row['Gen_Info_PAN'];
 		$department = $row['Gen_Info_Department'];
-		$designation = $row['Gen_Info_CD'];
-		$gradePay = $row['Gen_Info_GP'];
-		$promotionDate = $row['Gen_Info_DLP'];
-		$correspAddress = $row['Gen_Info_AFC'];
-		$permnantAddress = $row['Gen_Info_PA'];
-		$telephone = $row['Gen_Info_TNO'];
+		$qualification = $row['Gen_Info_Qualification'];
+		$address = $row['Gen_Info_Address'];
+		$mobile = $row['Gen_Info_Contact'];
 		$email = $row['Gen_Info_Email'];
+		//$email = $row['Gen_Info_Email'];
+
 ?>				                <h3 class="text-primary"><center>Edit your profile.</center></h3>								                
 								<label>Name(in Block Letters)</label> 
 						    		<input type="text" class="form-control required" name="name"  value="<?php echo $uname; ?>" required="required">
@@ -28,20 +30,20 @@
 						    		<input type="text" class="form-control required" name="fatherName" title="Please Enter Your Father's Name " value="<?php echo $fatherName; ?>" required="required"/>
 				          		<br><label>Mother's Name</label>
 						   		   <input type="text" class="form-control required" name="motherName" title="Please Enter Your Mother's Name" value="<?php echo $motherName; ?>" required="required"/>
-				   		  		<br><label>Department</label>
-						    		<input type="text" class="form-control required" name="department" title="Please Enter Department's Name" value="<?php echo $department; ?>" required="required"/>
-				      	  		<br><label>Current Designation</label>
-						    		<input type="text" class="form-control required" name="designation" title="Please Enter Your Current Designation" value="<?php echo $designation; ?>" required="required"/>
-								<br><label>Grade Pay</label>
-						    	    <input type="text" class="form-control required" name="gradePay" title="Please Enter You Grade Pay<br>" value="<?php echo $gradePay; ?>" required="required"/>
-				          		<br><label>Date Of Last Promotion</label>
-						    	    <input type="text" class="form-control required" name="lastPromotion" title="Please Enter the Date in the - yyyy-mm-dd format" value="<?php echo $promotionDate; ?>" required="required"/>
-								<br><label>Address For Correspondence</label> 
-						    		<input type="text" class="form-control required" name="addressCorrespondece" title="Please Enter Your Address" value="<?php echo $correspAddress; ?>" required="required">
+				   		  		<br><label>Date Of Birth</label>
+						    		<input type="text" class="form-control required" name="dob" title="Please Enter DOB " value="<?php echo $dob; ?>" required="required"/>
+				      	  		<br><label>Adhar Card Number</label>
+						    		<input type="text" class="form-control required" name="adharcard" title="Please Enter Your Adharcard Number" value="<?php echo $adharcard; ?>" required="required"/>
+								<br><label>PAN Card Number </label>
+						    	    <input type="text" class="form-control required" name="pancard" title="Please Enter Your PAN  Card Number<br>" value="<?php echo $pancard; ?>" required="required"/>
+				          		<br><label>Department Name</label>
+						    	    <input type="text" class="form-control required" name="department" title="Please Enter Your Department Name" value="<?php echo $department; ?>" required="required"/>
+								<br><label>Highest Qualification</label> 
+						    		<input type="text" class="form-control required" name="qualification" title="Please Enter Your Qualification" value="<?php echo $qualification; ?>" required="required">
 		                  		<br><label>Permanent Address</label>
-						    		<input type="text" class="form-control required" name="addressPermanant" title="Please Enter Your Permanant Address" value="<?php echo $permnantAddress; ?>" required="required"/>
-				          		<br><label>Telephone No.</label>
-						   		   <input type="text" class="form-control required" name="telePhone" title="Please Enter Your Telephone No." value="<?php echo $telephone; ?>" required="required"/>
+						    		<input type="text" class="form-control required" name="addressPermanant" title="Please Enter Your Address" value="<?php echo $address; ?>" required="required"/>
+				          		<br><label>Contact No.</label>
+						   		   <input type="text" class="form-control required" name="contact" title="Please Enter Your Contact No." value="<?php echo $mobile; ?>" required="required"/>
 				   		  		<br><label>Email</label>
 						    		<input type="email" class="form-control required" name="email" title="Please Enter Your Email" value="<?php echo $email; ?>" required="required"/><br>
 						    		<button class="btn btn-md btn-primary" type="submit" name="infoSave">Save</button>

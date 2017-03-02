@@ -16,19 +16,19 @@
 		$Name = $_POST['name'];
 		$fatherName = $_POST['fatherName'];
 		$motherName = $_POST['motherName'];
+		$dob = $_POST['dob'];
+		$adharcard = $_POST['adharcard'];
+		$pancard = $_POST['pancard'];
 		$department = $_POST['department'];
-		$designation = $_POST['designation'];
-		$gradePay = $_POST['gradePay'];
-		$lastPromotion = $_POST['lastPromotion'];
-		$addressCorrespondece = $_POST['addressCorrespondece'];
-		$addressPermanant = $_POST['addressPermanant'];
-		$telePhone = $_POST['telePhone'];
+		$qualification = $_POST['qualification'];
+		$address = $_POST['address'];
+		$mobile = $_POST['mobile'];
 		$email = $_POST['email'];
 		//Query for Updating general inforamtion
 		if(!empty($row['User_Id']) and !empty($row['Gen_Info_Name']))
 		{
 
-		$updateQuery = $sql = "UPDATE Gen_Info SET Gen_Info_Name='$Name', Gen_Info_Fname='$fatherName' , Gen_Info_Mname='$motherName', Gen_Info_Department='$department', Gen_Info_CD='$designation', Gen_Info_GP='$gradePay', Gen_Info_DLP='$lastPromotion', Gen_Info_AFC='$addressCorrespondece', Gen_Info_PA='$addressPermanant', Gen_Info_TNO='$telePhone', Gen_Info_Email='$email' WHERE User_Id='$user_id' " ;
+		$updateQuery = $sql = "UPDATE Gen_Info SET Gen_Info_Name='$Name', Gen_Info_Fname='$fatherName' , Gen_Info_Mname='$motherName', Gen_Info_DOB='$dob', Gen_Info_Adhar='$adharcard', Gen_Info_PAN='$pancard', Gen_Info_Department='$department', Gen_Info_Qualification='$qualification', Gen_Info_Address='$address', Gen_Info_Mobile='$mobile', Gen_Info_Email='$email' WHERE User_Id='$user_id' " ;
 		$result1 = mysqli_query($conn,$updateQuery) or die("erro  : ".mysqli_error($conn)); 
 		if($result1){
 			unset($_POST['info_save']);

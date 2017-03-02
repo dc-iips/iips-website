@@ -12,13 +12,14 @@
     $uname = $row['Gen_Info_Name'];
     $fatherName = $row['Gen_Info_Fname'];
     $motherName = $row['Gen_Info_Mname'];
-    $AdharCard = $row['Gen_Info_Department'];
-    $PANcard = $row['Gen_Info_CD'];
-    // $gradePay = $row['Gen_Info_GP'];
-    $Designation = $row['Gen_Info_DLP'];
+    $dob = $row['Gen_Info_DOB'];
+    $adharcard = $row['Gen_Info_Adhar'];
+    $pancard = $row['Gen_Info_PAN'];
+    $qualification= $row['Gen_Info_Qualification'];
+    $department = $row['Gen_Info_Department'];
     // $correspAddress = $row['Gen_Info_AFC'];
-    $permnantAddress = $row['Gen_Info_PA'];
-    $telephone = $row['Gen_Info_TNO'];
+    $address = $row['Gen_Info_Address'];
+    $mobile = $row['Gen_Info_Mobile'];
     $email = $row['Gen_Info_Email'];
     $u_imgurl=$row['u_imgurl'];
     $u_ondate=$row['u_ondate'];
@@ -190,22 +191,35 @@
                 <td>Mother's Name</td>
                 <td><?php echo $motherName;?></td>
               </tr>
+               <tr>
+                <td>Date Of Birth</td>
+                <td><?php echo $dob;?></td>
+              </tr>
+
               <tr>
                 <td>AdharCard Number</td>
+                <td><?php echo $adharcard;?></td>
+              </tr>
+              <tr>
+                <td>PAN Card</td>
+                <td><?php echo $pancard;?></td>
+              </tr>
+              <tr>
+                <td>Department</td>
                 <td><?php echo $department;?></td>
               </tr>
               <tr>
-                <td>Current Designation</td>
-                <td><?php echo $designation;?></td>
+                <td>Highest Qualification</td>
+                <td><?php echo $qualification;?></td>
               </tr>
               
               <tr>
-                <td>Permanent Address</td>
-                <td><?php echo $permnantAddress;?></td>
+                <td>Address</td>
+                <td><?php echo $address;?></td>
               </tr>
               <tr>
-                <td>Telephone No.</td>
-                <td><?php echo $telephone;?></td>
+                <td>Contact No.</td>
+                <td><?php echo $mobile;?></td>
               </tr>
               <tr>
                 <td>Email</td>
