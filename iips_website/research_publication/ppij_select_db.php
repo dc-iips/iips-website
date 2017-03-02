@@ -13,7 +13,7 @@
   <div class="full col-sm-11" id="tab1">
 
       <center><h1>Your Inserted Data</h1></center>
-      <table class ="table table-striped"  width="1200px" style="border-color:#337ab7;" align="center" border="0px" >
+      <table class ="table table-striped"   style="border-color:#337ab7;" align="center" border="1px" >
       <tr>
         <th>Serial No.</th>
         <th>Title</th>
@@ -22,6 +22,7 @@
         <th>Peer Reviews</th>
         <th>Co-authors</th>
         <th>Main author</th>
+        <th>Option</th>
       </tr> 
 
      <?php
@@ -29,7 +30,7 @@
      mysql_select_db('pbas_db');
 
       $username = $_SESSION['username'];
-      $query= "SELECT * FROM teach_ppij WHERE User_Id = '".$_SESSION['username']."' ";
+      $query= "SELECT * FROM teach_ppij WHERE User_Id = '".$_SESSION['username']."' and data_set='valid' ";
 
       $run= mysql_query($query);
       if (!$run) { // add this check.
@@ -39,6 +40,7 @@
       while($row=mysql_fetch_array($run)) {
         
         $user_id= $row['User_Id'];
+        $ppij_id= $row['PPIJ_ID'];
         $TNO= $row['Teach_PPIJ_TNO'];
         $Journal= $row['Teach_PPIJ_Journal'];
         $ISBN= $row['Teach_PPIJ_ISBN'];
@@ -49,7 +51,7 @@
     ?>
 
     <font size="5" color="red">
-      <!-- <?php //echo @$_GET['deleted']; ?> -->
+       <?php echo @$_GET['deleted']; ?> 
     </font>
     <tr align="center">
     <td><?php echo $user_id; ?></td>
@@ -59,7 +61,7 @@
     <td><?php echo $PR; ?></td>
     <td><?php echo $NCA; ?></td>
     <td><?php echo $MA; ?></td>
-    <!-- <td><a href='Delete.php?del=<?php //echo $user_id; ?>'>Delete</a></td>  -->
+    <td><a href='research_publication\delete.php?del_ppij_id=<?php echo $ppij_id; ?> '>Delete</a></td> 
     </tr>
     <?php 
     }  //while end

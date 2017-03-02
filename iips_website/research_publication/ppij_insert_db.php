@@ -22,7 +22,8 @@
           
         if(mysqli_query($conn ,$var)){
               echo "<script>alert('Record Submitted') </script>";
-               exit();
+               // exit();
+              echo "<script>window.open('../research_pub.php','_self')</script>";
         }else{
            	echo "<script>alert('Record not Submitted') </script>";
         }              		
