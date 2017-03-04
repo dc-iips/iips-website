@@ -10,11 +10,10 @@
 
 }
 
-
 #header-style{
     background-color: #003262;
     border-color: transparent;
-    height: 40px;
+    height: 120px;
     font-weight: bold;
 }
 #i2{
@@ -230,7 +229,7 @@ a:hover{
 }
 
 #navbar-main{
-  padding-top: 5%;
+  padding-top: none;
 }
 
 #colm
@@ -244,20 +243,6 @@ a:hover{
     .centerAlign{text-align: center;}
 
     
-/* Media Queries for 0px to 1200px */
-@media only screen and (max-width: 1200px){
-      .iips-logo-css 
-      {
-        width:150px;
-        margin-left: 7px;
-      }
-      .navbar-two 
-      {
-      padding:0px 0px;
-      color:red;
-      }
-}
-
 
 /* Media Queries for 768px to 1200px */
 @media only screen and (max-width: 1200px) and (min-width: 768px){
@@ -266,17 +251,17 @@ a:hover{
       }
 
       #navbar-main{
-        padding-top: 3%;
+        padding-top: 10%;
       }
 
       #test > li > a{
         font-size: 1.0em;
-        margin-left: 0px;
+        margin-left: 5px;
       }
       #campus_life{
         width:21%;
       }
-      #yamm-down-about, #yamm-down-admission, #yamm-down-academics, #yamm-down-research, #yamm-down-campus{
+      #yamm-down-about, #yamm-down-admission, #yamm-down-academics, #yamm-down-research, #yamm-down-campus, #yamm-down-faculty{
         margin-top:-2%;
       }
       #test_about{
@@ -289,6 +274,9 @@ a:hover{
         width:22%;
       }
       #test-research{
+        width:19%;
+      }
+      #test-faculty{
         width:19%;
       }
       .nav > li > a{

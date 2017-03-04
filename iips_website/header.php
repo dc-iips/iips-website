@@ -1,18 +1,18 @@
     <!--Header Open-->
     <!--Hide Navbar Open-->
-   
-    <div class="wrapper hidden-xs">
+    <div>
       <div id="header-style">
-          <div class="container">
+          <div class="container">     
                             <ul class="nav navbar-nav">
-                                <li><a href="under_construction.php">Student</a></li>
-                                <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
-                                <li><a href="under_construction.php">Alumni</a></li>
-                            </ul>
-                            <ul class="nav navbar-nav navbar-right">     
-                                <li><a href="sitemap.php">Sitemap</a></li>
-                                <li><a href="under_construction.php">Feedback</a></li>
-                                <form class="navbar-form navbar-left" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">
+                                <a href="index.php">
+                                    <img src="images/logo_new.jpg" class="img img-responsive iips-logo-css col-lg-7">
+                                </a>
+                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
+                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
+                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="under_construction.php">Alumni</a></li>     
+                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="sitemap.php">Sitemap</a></li>
+                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="under_construction.php">Feedback</a></li>
+                                <form class="wrapper hidden-xs navbar-form navbar-right" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">
                                     <div class="input-group input-group-sm">
                                         <input type="text" class="form-control" placeholder="Search IIPS Web">
                                             <div class="input-group-btn">
@@ -32,33 +32,17 @@
     <div class="container">
         <div class="row">
           <div>
-              <nav class="navbar navbar-default yamm">
+              <nav class="navbar navbar-default yamm" style="background-color:#fff">
                 <div class="container-fluid">
-                    <div class="row"> 
-                        <div class="navbar-header">
-                            <h6>
-                              <a href="index.php">
-                                  <img src="images/iips_logo2.png" class="img img-responsive iips-logo-css col-lg-6 col-sm-6" style="width:150px;lenght:150px">
-                              </a>
-                            </h6>
+                    <div class="row">
+                        <div class="navbar-header" style="background-color:#414141">
                             <button type="button" class="navbar-toggle collapsed" id="no-border" data-toggle="collapse" data-target="#navbar-main" aria-expanded="false">
-                          <span class="sr-only">Toggle navigation</span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
-                          <span class="icon-bar"></span>
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
                             </button>
                         </div>
-                         <!-- 50 year's image -->
-                            <div class="navbar-header hidden-xs">
-                                <h6>
-                                  <a href="index.php">
-                                      <img src="images/davv50year.png" class="img img-responsive " style="width:150px;lenght:50px">
-                                  </a>
-                                </h6>
-                            </div>
-                            <!-- end 50 year's image -->
-                          <!-- Collect the nav links, forms, and other content for toggling -->
-                          <!--Visible Content-->
                         <div class="collapse navbar-collapse" id="navbar-main">
                                 <div class="wrapper visible-xs">
                                     <div class="container">
@@ -67,7 +51,7 @@
                                                 <div class="form-group">
                                                     <input type="text" class="form-control" placeholder="Search">
                                                 </div>
-                                            </form> 
+                                            </form>
                                         </div>
                                         <div class="row">
                                             <div class="col-xs-5 mybutton">
@@ -75,7 +59,7 @@
                                             </div>
                                             <div class="col-xs-1"></div>
                                             <div class="col-xs-5 mybutton">
-                                                <a href="under_construction.php">Feedback</a>
+                                                <a href="#FacultyModal" data-toggle="modal">Login</a>
                                             </div>
                                         </div>
                                     </div>    
@@ -225,11 +209,10 @@
                                     </ul>
                                 </li>
                                 <!-- Faculty  Profile-->
-                                <!-- Condition for sesseion  -->
-                                <li class="dropdown yamm-fw" id="faculty">
+                                <li class="dropdown yamm-fw" id="test-faculty">
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Faculty Profile<span class="caret"></span>
                                     </a>
-                                     <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
+                                     <ul class="dropdown-menu nav-margin" id="yamm-down-faculty" style="margin:12px">
                                       <div class="row image2">
                                           <div class="col-md-6 col-sm-9 hidden-xs" id="i6">
                                             <!-- <div class="col-md-2"> -->
@@ -255,6 +238,7 @@
                                     </ul>
                                 </li>
                             </ul>
+
                             <div class="wrapper visible-xs">
                               <h3 id="i38">Information for...</h3>
                               <ul class="nav navbar-nav">
