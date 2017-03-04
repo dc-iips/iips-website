@@ -21,8 +21,8 @@
     $address = $row['Gen_Info_Address'];
     $mobile = $row['Gen_Info_Mobile'];
     $email = $row['Gen_Info_Email'];
-    $u_imgurl=$row['u_imgurl'];
-    $u_ondate=$row['u_ondate'];
+    // $u_imgurl=$row['u_imgurl'];
+    // $u_ondate=$row['u_ondate'];
 ?>
 <!DOCTYPE html>
 <html lang="en">
