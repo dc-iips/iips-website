@@ -2,9 +2,11 @@
     <!--Hide Navbar Open-->
     <div>
       <div id="header-style">
-          <div class="container">     
+          <div class="container"><a class='wrapper hidden-lg wrapper hidden-md wrapper hidden-sm ' href="index.php"><br>
+                                    <img src="images/logo_new.jpg" class="img img-responsive iips-logo-css">
+                                </a>    
                             <ul class="nav navbar-nav">
-                                <a href="index.php">
+                                <a class='wrapper hidden-xs' href="index.php">
                                     <img src="images/logo_new.jpg" class="img img-responsive iips-logo-css col-lg-7">
                                 </a>
                                 <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
@@ -29,10 +31,10 @@
     <!--Hide Navbar Close-->
 
     <!--Main navbar starts-->
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
           <div>
-              <nav class="navbar navbar-default yamm" style="background-color:#fff">
+              <nav class="navbar navbar-default yamm" style="background-color:gray">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="navbar-header" style="background-color:#414141">
@@ -66,7 +68,7 @@
                                 </div>
                             <ul class="nav navbar-nav" id="test">
                                 <!--About-->
-                                <li class="dropdown yamm-fw" id="test_about">
+                                <li class="dropdown yamm-fw" id="test_about" style='margin-right:50px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">About<span class="caret"></span></a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-about" role="menu" style="margin:12px">
                                         <div class="row image2">                
@@ -95,7 +97,7 @@
                                 </li>
 
                                 <!--Admission-->
-                                <li class="dropdown yamm-fw" id="test_admission">
+                                <li class="dropdown yamm-fw" id="test_admission" style='margin-right:50px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline">Admission<span class="caret"></span></a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-admission" style="margin:12px">
                                         <div class="row image2">
@@ -122,7 +124,7 @@
                                 </li>
 
                                 <!--Academics-->
-                                <li class="dropdown yamm-fw" id="test_academics">
+                                <li class="dropdown yamm-fw" id="test_academics" style='margin-right:50px'>
                                     <a href="#" class="dropdown-toggle navbar-underline" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Academics<span class="caret"></span>
                                     </a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-academics" style="margin:12px">
@@ -153,7 +155,7 @@
                                 </li>
 
                                 <!--Research -->
-                                <li class="dropdown yamm-fw" id="test-research">
+                                <li class="dropdown yamm-fw" id="test-research" style='margin-right:50px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Research<span class="caret"></span>
                                     </a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-research" style="margin:12px">
@@ -181,7 +183,7 @@
                                 </li>
 
                                 <!--Campus Life-->
-                                <li class="dropdown yamm-fw" id="campus_life">
+                                <li class="dropdown yamm-fw" id="campus_life" style='margin-right:50px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Campus Life<span class="caret"></span>
                                     </a>
                                      <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
@@ -209,7 +211,7 @@
                                     </ul>
                                 </li>
                                 <!-- Faculty  Profile-->
-                                <li class="dropdown yamm-fw" id="test-faculty">
+                                <li class="dropdown yamm-fw" id="test-faculty" style='margin-right:50px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline">Faculty Profile<span class="caret"></span>
                                     </a>
                                      <ul class="dropdown-menu nav-margin" id="yamm-down-faculty" style="margin:12px">
