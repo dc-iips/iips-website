@@ -3,11 +3,11 @@
     <div>
       <div id="header-style">
           <div class="container"><a class='wrapper hidden-lg wrapper hidden-md wrapper hidden-sm ' href="index.php"><br>
-                                    <img src="images/logo_new.jpg" class="img img-responsive iips-logo-css">
+                                    <img src="images/logo_new.png" class="img img-responsive iips-logo-css">
                                 </a>    
                             <ul class="nav navbar-nav">
                                 <a class='wrapper hidden-xs' href="index.php">
-                                    <img src="images/logo_new.jpg" class="img img-responsive iips-logo-css col-lg-7">
+                                    <img src="images/logo_new.png" class="img img-responsive iips-logo-css col-lg-7">
                                 </a>
                                 <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
                                 <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>

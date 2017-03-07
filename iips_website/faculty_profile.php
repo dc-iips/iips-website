@@ -137,8 +137,9 @@
   
    <tr>
   <td style=" padding-left:20px;"><a href="https://sites.google.com/site/drrahulsinghaiiips/home" target="_blank">Dr.&nbsp;Rahul Singhai</a></td>
-  <td>Lecturer</td>
+  <td>Senior Lecturer</td>
   <td>B.Sc,MCA,M.phil(CS),PhD(CS)</td>
+  <!-- singhai_rahul@hotmail.com  -->
   <!--  Disipline to Responsibility Changed by Komal Rathore on 16 aug 2013-->
   <td>Batch Facilitator</td>
   
