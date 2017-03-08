@@ -30,8 +30,42 @@
         </div>
 
         <!-- Team Members Row -->
-         
+        <div class="row">
+          <div class="col-lg-6 text-center">
+            <img class "img-circle img-responsive" style="" height="190" width="190" id="centralized" src="https://pbs.twimg.com/profile_images/1241925633/mimrozkhan.jpg" alt="Basant Namdev">
+             <h3>Prof.Imroz Khan<br><small>Project Manager</small></h3>
+             <p>
+                    <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    <a href="" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  </p>       
+                <br>
+                </div>
+
+                <div class="col-lg-6 text-center">
+            <img class "img-circle img-responsive" style="" height="200" width="200" id="centralized" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ0pOpLhAw2HGsjSV4Ari50onaYrLb32-eBJcrbyRkPBrJBpvH" alt="Basant Namdev">
+             <h3>Prof. Basant Namdev<br><small>Project Manager</small></h3>
+             <p>
+                    <a href="" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    <a href="" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  </p>       
+                <br>
+                </div>
+              </div>
+
+            
+
+
+            <h4> <u>Full Stack Developers <u></h4>
+            <br>
+
+
+  
   <div class="row">
+    <br>
        <div class="col-lg-3 col-sm-12 text-center ">
                   <img class="img-circle img-responsive" id="centralized" src="https://en.gravatar.com/userimage/117251770/3f1f98bde9187a59c04a648028026025.jpg?size=160" alt="Ritika Barethia">
                   <h3>Ritika Barethia<br><small>Full stack developer And Tester</small></h3>
@@ -70,8 +104,55 @@
                     <a href="" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
                     <a href="" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
                     <a href="" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
-                  </p>                   
+                  </p> <br>                  
                 </div>
+                 <br>
+                 <h4><u>Front End Developers</u></h4><br><br>
+                 
+                 <div class="col-lg-3 col-sm-12 text-center">
+                  <img class="img-circle img-responsive" id="centralized" src="https://secure.gravatar.com/avatar/7507da32436d6e738c54ebc993624157?s=160" alt="Rajat Garg">
+                  <h3>Rajat Garg<br><small>Front-End Developer</small></h3>
+                  <p>
+                    <a href="https://twitter.com/RajatTheVampire" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    <a href="https://www.facebook.com/RajatGargOfficial" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/in/rajatgarg94?trk=nav_responsive_tab_profile" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="https://plus.google.com/u/0/+RajatGargOfficial" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  </p>
+                </div>
+
+                <div class="col-lg-3 col-sm-12 text-center">
+                  <img class="img-circle img-responsive" id="centralized" src="http://www.gravatar.com/avatar/a52bef18ff34ccbd98476c5df542ae53?s=160" alt="Rupam Wadia">
+                  <h3>Rupam Wadia<br><small>Front-End Developer</small></h3>
+                  <p>
+                    <a href="https://twitter.com/RupamWadia" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    <a href="https://www.facebook.com/rupam.wadia.3" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/in/rupam-wadia-a2303991?trk=nav_responsive_tab_profile_pic" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="https://plus.google.com/u/0/107030735647725965978/posts" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  </p>
+                </div>
+
+                <div class="col-lg-3 col-sm-12 text-center">
+                  <img class="img-circle img-responsive" id="centralized" src="http://www.gravatar.com/avatar/6dd92ea4edf5caedf8a3086b7402e673?s=160" alt="">
+                  <h3>Rahul Satal<br><small>Front-End Developer</small></h3>
+                  <p>
+                    <a href="https://twitter.com/rahulsatal" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    <a href="https://www.facebook.com/rahulsatal92"  target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    <a href="https://in.linkedin.com/pub/rahul-satal/a6/b/383" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="https://plus.google.com/u/0/101454474180293880823/posts" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  </p>
+                </div>
+                 
+                 <div class="col-lg-3 col-sm-12 text-center">
+                  <img class="img-circle img-responsive" id="centralized" src="https://secure.gravatar.com/avatar/06658461e0d7573c093dd6acbc482fbf?s=160" alt="Rahul Sinha">
+                  <h3>Rahul Sinha<br><small>Front-End Developer</small></h3>
+                  <p>
+                    <a href="https://twitter.com/Rahulsi43820863" target="__blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+                    <a href="https://www.facebook.com/rahul.sinha.7165" target="__blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                    <a href="https://www.linkedin.com/in/rahul-sinha-4677987b?trk=nav_responsive_tab_profile_pic" target="__blank"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                    <a href="https://plus.google.com/u/0/+RahulSinha007" target="__blank"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                  </p>
+                </div>
+
 
     </div>
     </div>

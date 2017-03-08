@@ -32,9 +32,15 @@
                             <label>Type of Activity</label> 
                                 <input type="text" class="form-control required" name="typeOfActivity" title="Please Enter Type of Activity" required="required"/>
                             <br><label>Yearly/Semester wise responsibility</label>
-                                <input type="text" class="form-control required" name="responsibility" title="Please Enter The Responsibility" required="required"/>
+                                <select name="dev" onChange="showUser(this.value, this.name)"> 
+                                    
+                            <option>--Yearly--</option> 
+                            <option>--semester--</option>
+                        </select>
+
                             </div><!--End dev Id for Ajax -->
                         </div>
+                        
                        <input class="btn btn-primary" type="submit" value="Save" name="developmentSave" />
                         <select name="dev" onChange="showUser(this.value, this.name)">
                             <option>--Activity--</option>

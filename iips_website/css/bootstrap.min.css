@@ -1433,6 +1433,7 @@ figure {
 
 img {
     vertical-align: middle
+    img-circle:50%;
 }
 
 .carousel-inner>.item>a>img,
@@ -1511,9 +1512,10 @@ h4,
 h5,
 h6 {
     font-family: inherit;
-    font-weight: 500;
+    font-weight: bold;
     line-height: 1.1;
-    color: inherit
+    color: #428bca;
+    margin:30 px;
 }
 
 .h1 .small,
@@ -1577,7 +1579,9 @@ h4,
 h5,
 h6 {
     margin-top: 10px;
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    margin-left:60px;
+    font-weight: bold;
 }
 
 .h4 .small,
@@ -1612,7 +1616,8 @@ h3 {
 
 .h4,
 h4 {
-    font-size: 18px
+    font-size: 18px;
+    font-weight:bold;
 }
 
 .h5,

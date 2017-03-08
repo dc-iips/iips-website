@@ -20,13 +20,26 @@
                         <input type="submit" class="btn btn-primary"  value="Delete" name="developmentDelete" />
                         <input type="reset" class="btn btn-primary" value="Reset" name="reset" onClick="clear()" />
                         <div class="form-group">
-                          <div id="dev"><br/>
+                          <div id="dev">
+                            <br>
                             <label>Type of Activity</label> 
                                 <input type="text" class="form-control required" name="typeOfActivity" title="Please Enter Type of Activity" required="required"/>
-                            <br><label>Yearly/Semester wise responsibility</label>
-                                <input type="text" class="form-control required" name="responsibility" title="Please Enter The Responsibility" required="required"/>
-                            </div><!--End dev Id for Ajax -->
+                                <br>
+                            <label>Yearly/Semester wise responsibility</label>&nbsp &nbsp
+                                 <select name="dev" onChange="showUser(this.value, this.name)"> 
+                                    
+                            <option>--Yearly--</option> 
+                            <option>--semester--</option>
+                        </select>
+
+                            
+                            <br>
+                            </div>
+                            
+
+                            <!--End dev Id for Ajax -->
                         </div>
+                        
                        <input class="btn btn-primary" type="submit" value="Save" name="developmentSave" />
                         <select name="dev" onChange="showUser(this.value, this.name)">
                             <option>--Activity--</option>

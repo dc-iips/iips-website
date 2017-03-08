@@ -58,6 +58,18 @@
         <div role="tabpanel" class="tab-pane" id="tab3">
                <h3 class="text-center"><b>Xpressions
                </b></h3>  
+
+               <!-- cincopa code -->
+
+               <div id="cp_widget_d7d0c986-3f75-4e04-85d1-454923668505">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_d7d0c986-3f75-4e04-85d1-454923668505"; cpo["_fid"] = "AcCAX49YImfv";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa Slideshow HTML for Business solution.<span>New Gallery 2017/3/6</span><span>cameramake</span><span> OPPO</span><span>focallength</span><span> 2.94</span><span>height</span><span> 3264</span><span>fnumber</span><span> 2</span><span>exposuretime</span><span> 0.04</span><span>flash</span><span> 32</span><span>originaldate</span><span> 10/6/2016 7:38:33 PM</span><span>width</span><span> 1840</span><span>cameramodel</span><span> F1f</span><span>cameramake</span><span> OPPO</span><span>focallength</span><span> 2.94</span><span>height</span><span> 3264</span><span>fnumber</span><span> 2</span><span>exposuretime</span><span> 0.04</span><span>flash</span><span> 32</span><span>originaldate</span><span> 10/6/2016 7:38:37 PM</span><span>width</span><span> 1840</span><span>cameramodel</span><span> F1f</span></noscript>
+
+
         </div>                            
         <br><br>
       </div>

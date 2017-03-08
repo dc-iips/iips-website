@@ -25,8 +25,68 @@
 						   <input class="form-control" type="text" name="CPC_Title" required="required"/> 
 						 <label>Agency</label>
 						   <input class="form-control" type="text" name="CPC_Agency" required="required"/> 
-						 <label>Period</label>
-						  <input class="form-control" type="text" name="CPC_Period" required="required"/> 
+						   
+						 
+						 <label>Duration</label>
+						   
+						  <br>
+	 <select name="DOBMonth"  name="FDP_Duration">
+	<option> - Month - </option>
+	<option value="January">0 month</option>
+	<option value="Febuary">1 month</option>
+	<option value="March">2 months</option>
+	<option value="April">3 months</option>
+	<option value="May">4 months</option>
+	<option value="June">5 months</option>
+	<option value="July">6 months</option>
+	<option value="August">7 months</option>
+	<option value="September">8 months</option>
+	<option value="October">9 months</option>
+	<option value="November">10 months</option>
+	<option value="December">11 months</option>
+</select>
+ &nbsp
+ <select name="DOBdays"  name="FDP_Duration">
+	<option> - Days - </option>
+	<option value="one">1 day</option>
+	<option value="two">2 days</option>
+	<option value="three">3 days</option>
+	<option value="four">4 days</option>
+	<option value="five">5 days</option>
+	<option value="six">6 days</option>
+	<option value="seven">7 days</option>
+	<option value="eight">8 days</option>
+	<option value="nine">9 days</option>
+	<option value="ten">10 days</option>
+	<option value="eleven">11 days</option>
+	<option value="twelve">12 days</option>
+     <option value="Jan">13 day</option>
+	<option value="Feb">14 days</option>
+	<option value="Mar">15 days</option>
+	<option value="Apr">16 days</option>
+	<option value="Ma">17 days</option>
+	<option value="Jun">18 days</option>
+	<option value="Jul">19 days</option>
+	<option value="Aug">20 days</option>
+	<option value="Sept">21 days</option>
+	<option value="Oct">22 days</option>
+	<option value="Nov">23 days</option>
+	<option value="Dec">24 days</option>
+    <option value="t25">25 days</option>
+    <option value="t26">26 days</option>
+    <option value="t27">27 days</option>
+    <option value="t28">28 days</option>
+    <option value="t29">29 days</option>
+    <option value="t30">30 days</option>
+
+     </select>
+
+
+
+
+
+<br>
+		<br>				 
 						 <label>Grant / Amount Mobilized (Rs. Lakh)</label>
 						   <input class="form-control" type="text" name="CPC_GAM" required="required"/> 
 						 <label>Whether policy document / Patent as outcome</label>
