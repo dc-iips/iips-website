@@ -34,7 +34,7 @@
 }
 #no-underline{
     text-decoration:none;
-    margin-left: 26px;
+    margin-left: 32px;
     margin-right: 0px;
     font-size: 1.2em;
     padding: 5px;
@@ -230,7 +230,7 @@ a:hover{
 
 #navbar-main{
   padding-top: none;
-  padding-left: 40px;
+  padding-left: 90px;
 }
 
 #colm
@@ -376,3 +376,7 @@ a:hover{
  /* Less than 968px */
 @media only screen and (max-width: 968px){   
       .slider_size{width:100em ;height:18em;}}
+
+.navbartwo{
+  color:#FFF;
+}
