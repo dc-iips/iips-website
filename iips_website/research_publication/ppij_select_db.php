@@ -1,9 +1,12 @@
  
 <!-- <div class="padding">
   <div class="full col-sm-11" id="tab1">
- -->
+ -->  <script type="text/javascript">
+function iips(){
+ $("#temp").html("iips davv");}
+ </script>
       <center><h1>Your Inserted Data</h1></center>
-      <table class ="table table-striped"   style="border-color:#337ab7;" align="center" border="1px" >
+      <table class ="table table-striped" id="table_div"  style="border-color:#337ab7;" align="center" border="1px" >
       <tr>
         <th>Session Year</th>
         <th>Serial No.</th>
@@ -59,7 +62,7 @@
     <!-- <td><a href='research_publication\delete.php?del_ppij_id=<?php //echo $ppij_id; ?> '>Delete</a></td>  -->
 
     <td><a href='research_publication/delete.php?de=<?php echo $ppij_id; ?>'>Delete</a></td>
-    <td><button name="infoEdit" onClick="showInfo(this.name)">Update</a></button></td>
+    <td><button name="infoEdit" onClick="iips();">Update</a></button></td>
     
     </tr>
     <?php 

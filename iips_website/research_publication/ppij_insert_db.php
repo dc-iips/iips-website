@@ -5,8 +5,8 @@
 
      $User_Id = $_REQUEST['user'];
 
-     if(isset($_POST['ppij_submit']) )
-     {
+      
+     
         
         $title = $_POST['PPIJ_TNO'];
      	  $journal = $_POST['PPIJ_Journal'];
@@ -17,16 +17,16 @@
      	  
           
         $var = "INSERT INTO `teach_ppij` (User_Id , Teach_PPIJ_TNO, Teach_PPIJ_Journal, Teach_PPIJ_ISBN, Teach_PPIJ_PR,Teach_PPIJ_NCA, Teach_PPIJ_MA) VALUES ('$User_Id', '$title','$journal','$issn','$review','$coauthor','$mainauthor')";         
-        //echo $User_Id;
+        echo "Record Submitted";
         if(mysqli_query($conn ,$var)){
                // exit();
-              echo "<script>window.open('../research_pub.php','_self')</script>";
               
-              echo "<script>alert('Record Submitted') </script>";
+              
+              echo "Record Submitted";
         }else{
            	echo "<script>alert('Record not Submitted') </script>";
         }              		
-      }
+      
 
   } else  {
      echo "not conncted";
