@@ -141,7 +141,7 @@ a:hover{
 .navbar-default .navbar-nav>.open>a:focus,
 .navbar-default .navbar-nav>.open>a:hover {
     color: #829DB5;
-    background-color: #FFFFFF;		
+    background-color: rgb(100, 210, 203);		
 }
 /*====================Event Section=========================*/
 .special-btn{
