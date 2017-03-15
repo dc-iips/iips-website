@@ -1,9 +1,60 @@
  
 <!-- <div class="padding">
   <div class="full col-sm-11" id="tab1">
- -->  <script type="text/javascript">
-function iips(){
- $("#temp").html("iips davv");}
+
+ -->   
+ <style>
+    .edit_data{
+
+      }
+  </style>
+  <script type="text/javascript">
+  $(document).on('click', '.edit_data', function(){  
+                  var ppij_id = $(this).attr("id");  
+                  
+                  $.ajax({  
+                            url:"research_publication/fetch.php",  
+                            method:"POST",  
+                            data:{ppij_id:ppij_id},  
+                            
+                            success: function(msg)
+                            {  
+                              
+                                 var $getarray = jQuery.parseJSON(msg);
+                                 
+                                 
+                            
+                                  $('#session').val($getarray.session);  
+                                  $('#twno').val($getarray.Teach_PPIJ_TNO);  
+                                  $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
+                                  $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);  
+                                  $('#PPIJ_PR').val($getarray.Teach_PPIJ_PR);  
+                                  $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);  
+                                  alert($getarray.Teach_PPIJ_MA);
+                                  if($getarray.Teach_PPIJ_MA=="Yes")
+                                   $("#PPIJ_Y").prop('checked', true);
+                                  else
+                                   $("#PPIJ_N").prop('checked', true);
+
+                                 $('#ppij_submit').val("Update");
+                              }  
+                              ,error: function (xhr, status) {
+                                   alert(status);
+                               }
+
+                        });
+                        //alert(ppij_id);  
+                    } ); //End ofClick and function
+          //);//end of ready
+   
+
+    
+
+
+
+
+
+    
  </script>
       <center><h1>Your Inserted Data</h1></center>
       <table class ="table table-striped" id="table_div"  style="border-color:#337ab7;" align="center" border="1px" >
@@ -34,7 +85,7 @@ function iips(){
 
       while($row=mysql_fetch_array($run)) {
         
-        $session= $row['session'];
+        $session= $row['Session'];
         $user_id= $row['User_Id'];
         $ppij_id= $row['PPIJ_ID'];
         $TNO= $row['Teach_PPIJ_TNO'];
@@ -61,8 +112,9 @@ function iips(){
     <td><?php echo $MA; ?></td>
     <!-- <td><a href='research_publication\delete.php?del_ppij_id=<?php //echo $ppij_id; ?> '>Delete</a></td>  -->
 
-    <td><a href='research_publication/delete.php?de=<?php echo $ppij_id; ?>'>Delete</a></td>
-    <td><button name="infoEdit" onClick="iips();">Update</a></button></td>
+    <td><button type="submit" id="row_delete" name="infodelete" >Delete</button></td>
+    <td><button name="edit" value="Edit" id="<?php echo $row["PPIJ_ID"]; ?>" class="btn btn-info btn-xs edit_data ">Update</button></td>
+    <!-- <td><button name="edit" value="Edit" id="<?php //echo $row["PPIJ_ID"]; ?>" onClick="fetchdata(<?//php echo $row["PPIJ_ID"]; ?>)" class="btn btn-info btn-xs ">Update</a></button></td> -->
     
     </tr>
     <?php 
@@ -70,53 +122,3 @@ function iips(){
     ?>
   </table>
 <!-- 
-  </div>
- </div> -->
- <script>
-    $(document).ready(function() {
-      $('#genInfo').validate();
-    }); // end ready()
-  </script>
-  <!-- Knockout Script for  -->
-  <script>
-    var viewModel = {
-      year: ko.observable(),
-      reportEnabled : ko.observable(false),
-      yearEnabled : ko.observable(true),
-      isClicked : function(){
-        self = this;
-        self.yearEnabled(false);
-        self.reportEnabled(true);
-      },
-      changeYear : function(){
-        self = this;
-        self.yearEnabled(true);
-        self.reportEnabled(false);
-      }
-      
-    }
-    ko.applyBindings(viewModel);
-  </script>
-
-  <script><!--Ajax script for showing information on the basis of combobox value -->
-    function showInfo(name)
-    {
-      if (window.XMLHttpRequest)
-        {// code for IE7+, Firefox, Chrome, Opera, Safari
-          xmlhttp=new XMLHttpRequest();
-        }
-      else
-        {// code for IE6, IE5
-          xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-        }
-      xmlhttp.onreadystatechange=function()
-        {
-         if (xmlhttp.readyState==4 && xmlhttp.status==200)
-          {  
-              document.getElementById("userInfo").innerHTML=xmlhttp.responseText; 
-          }
-        }
-      xmlhttp.open("GET","updateInfoShow.php?name="+name,true);
-      xmlhttp.send();
-    }
-  </script>

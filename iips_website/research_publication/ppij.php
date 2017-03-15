@@ -12,7 +12,7 @@
 
        $(document).ready(function()
        {
-                $("#table_div").html("https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif");
+                $("#table_div").html("loading data");
 
                 $.ajax({
                   url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
@@ -25,32 +25,67 @@
                 });//end of ajax
         });// end of ready
 
-                $("#ppij_save").submit(function(event){
-                /* stop form from submitting normally */
-                event.preventDefault();
-                var values = $(this).serialize();
-                 alert(values);
-                $.ajax({
-                  url: "research_publication/ppij_insert_db.php?user=<?php echo $username ;?>",
-                  type: "post",
-                  data: values,
-                  success: function(){
-                      alert("data Added Successfully.");
-                      $("#table_div").html("Loading Data.......");
-                    $.ajax({
-                    url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
+        $("#ppij_save").submit(function(event){
+              /* stop form from submitting normally */
+               event.preventDefault();
+               var values = $(this).serialize();
+              // alert(values);
+              
+              if($("#ppij_submit").val()=="Save"){
+               
+               $.ajax({
+                    url: "research_publication/ppij_insert_db.php?user=<?php echo $username ;?>",
                     type: "post",
-                    data: {},
-                    success: function(msg)
+                    data: values,
+                    success: function()
                     {
-                      $("#table_div").html(msg).show(500);    
-                    }
-                         });//
-                                    }
-                     }); //End of .ajax
+                    alert("data Added Successfully.");
+                    $("#table_div").html("Loading Data.......");
+                    $.ajax({
+                          url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
+                          type: "post",
+                          data: {},
+                          success: function(msg)
+                          {
+                              $("#table_div").html(msg).show(500);    
+                          }
+                    });//
+                    }//end of function
+                }); //End of .ajax
+             }//end of if
+        else
+        {
+           $.ajax({
+                    url: "research_publication/fetch.php?user=<?php echo $username ;?>",
+                    type: "post",
+                    data: values,
+                    success: function()
+                    {
+                    alert("data Added Successfully.");
+                    $("#table_div").html("Loading Data.......");
+                    $.ajax({
+                          url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
+                          type: "post",
+                          data: {},
+                          success: function(msg)
+                          {
+                              $("#table_div").html(msg).show(500);    
+                          }
+                    });//
+                    }//end of function
+                }); //End of .ajax
+          
+        
+
+
+
+
+
+
+
+
+        }
         });
-        </script>
-vikas • 1 min
 
      </script>
 
@@ -71,7 +106,7 @@ vikas • 1 min
 
               <label>Session</label>
               
-                <select  style="width: 220px">          
+                <select id="session" style="width: 220px">          
                   
                   <?php 
                     include('../DBConnect.php');
@@ -81,7 +116,7 @@ vikas • 1 min
 
                   ?>
                   
-                  <option><?php echo $row['session_description']; ?></option>
+                  <option name="session"><?php echo $row['session_description']; ?></option>
                   <?php } ?>
                 </select>
                 </br>
@@ -90,25 +125,25 @@ vikas • 1 min
                   <div id="ppij">
 
                        <label>Title With Page Numbers</label> 
-                         <input type="text" class="form-control required" name="PPIJ_TNO" autofocus required="required"/>
+                         <input type="text" class="form-control required" name="PPIJ_TNO" id="twno" autofocus required="required"/>
                
                        <label>Journal</label>
-                         <input type="text" class="form-control required" name="PPIJ_Journal" required="required"/>
+                         <input type="text" class="form-control required" id="PPIJ_Journal" name="PPIJ_Journal" required="required"/>
                 
                        <label>ISSN / ISBN No. </label>
-                         <input type="text" class="form-control required" name="PPIJ_ISBN" required="required"/>
+                         <input type="text" class="form-control required" id="PPIJ_ISBN" name="PPIJ_ISBN" required="required"/>
                 
                        <label> Whether peer reviewed? Impact factor, if any</label>
-                         <input type="text" class="form-control required" name="PPIJ_PR" required="required"/>
+                         <input type="text" class="form-control required" name="PPIJ_PR" id="PPIJ_PR" required="required"/>
                 
                         <label>No. of Co-authors</label>
-                          <input type="text" class="form-control required" name="PPIJ_NCA" required="required"/>
+                          <input type="text" class="form-control required" name="PPIJ_NCA" id="PPIJ_NCA" required="required"/>
                        <br/>
 
                        <label>Whether you are the main Author</label>
-                         <input type="radio" value="Yes" name="PPIJ_YN" required="required">Yes <input type="radio" value="No" name="PPIJ_YN">NO<br />
+                         <input type="radio" value="Yes" name="PPIJ_YN" id="PPIJ_Y" required="required">Yes <input type="radio" value="No" id="ppij_N" name="PPIJ_YN">NO<br />
                   </div> <br>            
-                  <input class="btn btn-primary" type="submit" value="Save" name="ppij_submit"/>           
+                  <input class="btn btn-primary" type="submit" value="Save" id="ppij_submit" name="ppij_submit"/>           
                   <!--  <input type="submit" class="btn btn-primary"  value="Delete" name="ppij_delete" /> -->
                   <input type="reset" class="btn btn-primary" value="Reset" name="reset"  onClick="getDataTable('ppij_select_db.php','tab1')" />
                 
@@ -126,10 +161,11 @@ vikas • 1 min
 
   </div>
 </div> 
-<!-- Table End -->
+<!-- Tabssle End -->
 <div id="temp">
   shubham
 </div>
+<!--  -->
 
 <?php 
    }  //else
