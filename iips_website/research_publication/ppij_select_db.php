@@ -1,4 +1,14 @@
-<style>
+<?php
+    session_start();
+    if(!isset($_SESSION['username']))
+    {
+       echo "<script>window.open('index.php','_self')</script>";     
+    }
+    else
+    {
+      $username= $_SESSION['username'];
+ ?>
+ <style>
     .edit_data{
 
       }
@@ -146,4 +156,9 @@
     }  //while end
     ?>
   </table>
-<!-- 
+
+<?php
+
+} //else
+
+?>
