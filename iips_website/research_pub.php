@@ -39,7 +39,9 @@
     </script>
   </head>
   <body>
-<?php include 'header.php'; ?>
+<?php include 'header.php'; 
+
+?>
 <div class="container">
   <div class="row , minlength">
     <div class="col-md-3" id="sidebar">
