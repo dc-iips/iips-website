@@ -2,7 +2,7 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-       echo "<script>window.open('index.php','_self')</script>";     
+       echo "<script>window.open('../index.php','_self')</script>";     
     }
     else
     {
@@ -15,7 +15,7 @@
                 $("#table_div").html("loading data");
 
                 $.ajax({
-                  url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
+                  url: "research_publication/ppij_select_db.php",
                   type: "post",
                   data: { },
                     success: function(msg)
@@ -29,20 +29,21 @@
               /* stop form from submitting normally */
                event.preventDefault();
                var values = $(this).serialize();
-              // alert(values);
+               // alert(values);
               
               if($("#ppij_submit").val()=="Save"){
                
                $.ajax({
-                    url: "research_publication/ppij_insert_db.php?user=<?php echo $username ;?>",
+                    url: "research_publication/ppij_insert_db.php",
                     type: "post",
                     data: values,
                     success: function()
                     {
-                    alert("data Added Successfully.");
+                    alert("Data Added Successfully.");
+                    //$("#ppij_save")[0].reset();
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
-                          url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
+                          url: "research_publication/ppij_select_db.php",
                           type: "post",
                           data: {},
                           success: function(msg)
@@ -53,18 +54,19 @@
                     }//end of function
                 }); //End of .ajax
              }//end of if
-        else
+        else if($("#ppij_submit").val()=="Update")
         {
            $.ajax({
-                    url: "research_publication/fetch.php?user=<?php echo $username ;?>",
+                    url: "research_publication/update.php",
                     type: "post",
                     data: values,
                     success: function()
                     {
-                    alert("data Added Successfully.");
+                    alert("Data Updated Successfully.");                    
+                    //$("#ppij_save")[0].reset();
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
-                          url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
+                          url: "research_publication/ppij_select_db.php",
                           type: "post",
                           data: {},
                           success: function(msg)
@@ -98,7 +100,7 @@
 
               <label>Session</label>
               
-                <select id="session" style="width: 220px">          
+                <select id="" style="width: 220px">          
                   
                   <?php 
                     include('../DBConnect.php');
@@ -108,7 +110,7 @@
 
                   ?>
                   
-                  <option name="session"><?php echo $row['session_description']; ?></option>
+                  <option name="session" id="session" value="<?php echo $row['session_description']; ?>" ><?php echo $row['session_description']; ?></option>
                   <?php } ?>
                 </select>
                 </br>
@@ -155,7 +157,7 @@
 </div> 
 <!-- Tabssle End -->
 <div id="temp">
-  shubham
+
 </div>
 <!--  -->
 

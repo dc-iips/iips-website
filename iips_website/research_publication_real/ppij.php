@@ -7,7 +7,6 @@
     else
     {
       $username= $_SESSION['username'];
-    
  ?>
      <script language="javascript">    
 
@@ -40,7 +39,7 @@
                     data: values,
                     success: function()
                     {
-                    alert("Data Added Successfully.");
+                    alert("data Added Successfully.");
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
                           url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
@@ -62,7 +61,7 @@
                     data: values,
                     success: function()
                     {
-                    alert("Data Updated Successfully.");
+                    alert("data Added Successfully.");
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
                           url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
@@ -75,7 +74,8 @@
                     });//
                     }//end of function
                 }); //End of .ajax
-
+          
+      
         }
         });
 
@@ -133,11 +133,11 @@
                        <br/>
 
                        <label>Whether you are the main Author</label>
-                         <input type="radio" value="Yes" name="PPIJ_YN" id="PPIJ_Y" required="required">Yes <input type="radio" value="No" id="PPIJ_N" name="PPIJ_YN">NO<br />
+                         <input type="radio" value="Yes" name="PPIJ_YN" id="PPIJ_Y" required="required">Yes <input type="radio" value="No" id="ppij_N" name="PPIJ_YN">NO<br />
                   </div> <br>            
                   <input class="btn btn-primary" type="submit" value="Save" id="ppij_submit" name="ppij_submit"/>           
                   <!--  <input type="submit" class="btn btn-primary"  value="Delete" name="ppij_delete" /> -->
-                  <input type="reset" class="btn btn-primary" value="Reset" name="reset" />
+                  <input type="reset" class="btn btn-primary" value="Reset" name="reset"  onClick="getDataTable('ppij_select_db.php','tab1')" />
                 
                 </div>
             </form>

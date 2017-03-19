@@ -2,7 +2,7 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-       echo "<script>window.open('index.php','_self')</script>";     
+       echo "<script>window.open('../index.php','_self')</script>";     
     }
     else
     {
@@ -22,13 +22,13 @@
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
-                                  $('#session').val($getarray.session);  
+                                  $('#session_description').val($getarray.Session);  
                                   $('#twno').val($getarray.Teach_PPIJ_TNO);  
                                   $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
                                   $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);  
                                   $('#PPIJ_PR').val($getarray.Teach_PPIJ_PR);  
                                   $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);  
-                                  alert($getarray.Teach_PPIJ_MA);
+
                                   if($getarray.Teach_PPIJ_MA=="Yes")
                                    $("#PPIJ_Y").prop('checked', true);
                                   else
@@ -52,7 +52,7 @@
                                 alert("Data Deleted");
                                 $("#table_div").html("Loading Data.......");
                                 $.ajax({
-                                     url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
+                                     url: "research_publication/ppij_select_db.php",
                                       type: "post",
                                       data: {},
                                      success: function(msg){
@@ -86,8 +86,7 @@
      mysql_connect('localhost','root','');
      mysql_select_db('pbas_db');
 
-      $username= $_REQUEST['user'];
-      $query= "SELECT * FROM teach_ppij WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ";
+      $query= "SELECT * FROM teach_ppij WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY PPIJ_ID DESC";
 
       $run= mysql_query($query);
       if (!$run) { // add this check.
@@ -113,17 +112,18 @@
     </font>
 
     <tr align="center">
-    <td><?php echo $session; ?></td>
-    <td><?php echo $user_id; ?></td>
-    <td><?php echo $TNO; ?></td>
-    <td><?php echo $Journal; ?></td>
-    <td><?php echo $ISBN; ?></td>
-    <td><?php echo $PR; ?></td>
-    <td><?php echo $NCA; ?></td>
-    <td><?php echo $MA; ?></td>
 
-    <td><button type="submit" id="<?php echo $row["PPIJ_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data ">Delete</button></td>
-    <td><button name="edit" value="Edit" id="<?php echo $row["PPIJ_ID"]; ?>" class="btn btn-info btn-xs edit_data ">Update</button></td>
+        <td><?php echo $session; ?></td>
+        <td><?php echo $user_id; ?></td>
+        <td><?php echo $TNO; ?></td>
+        <td><?php echo $Journal; ?></td>
+        <td><?php echo $ISBN; ?></td>
+        <td><?php echo $PR; ?></td>
+        <td><?php echo $NCA; ?></td>
+        <td><?php echo $MA; ?></td>
+
+        <td><button type="submit" id="<?php echo $row["PPIJ_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data ">Delete</button></td>
+        <td><button name="edit" value="Edit" id="<?php echo $row["PPIJ_ID"]; ?>" class="btn btn-info btn-xs edit_data ">Update</button></td>
     </tr>
     <?php 
     }

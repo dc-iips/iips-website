@@ -1,3 +1,14 @@
+<?php
+    session_start();
+    if(!isset($_SESSION['username']))
+    {
+       echo "<script>window.open('index.php','_self')</script>";     
+    }
+    else
+    {
+      $username= $_SESSION['username'];
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -49,4 +60,8 @@
   </div>
 </div>
 
-<?php include 'footer.php'; ?>
+<?php include 'footer.php'; 
+
+}// else session
+
+?>
