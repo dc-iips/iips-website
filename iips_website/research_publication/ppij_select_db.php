@@ -8,27 +8,20 @@
     {
       $username= $_SESSION['username'];
  ?>
- <style>
+<style>
     .edit_data{
-
       }
-      /*.delete_data{
-
-      }*/
-  </style>
-  <script type="text/javascript">
+</style>
+<script type="text/javascript">
   $(document).on('click', '.edit_data', function(){  
-                  var ppij_id = $(this).attr("id");  
-                  
+                  var ppij_id = $(this).attr("id");
                   $.ajax({  
                             url:"research_publication/fetch.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},  
-                            
+                            data:{ppij_id:ppij_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
-                                 
                                   $('#session').val($getarray.session);  
                                   $('#twno').val($getarray.Teach_PPIJ_TNO);  
                                   $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
@@ -40,25 +33,20 @@
                                    $("#PPIJ_Y").prop('checked', true);
                                   else
                                    $("#PPIJ_N").prop('checked', true);
-
                                  $('#ppij_submit').val("Update");
-                              }  
+                            }  
                               ,error: function (xhr, status) {
                                    alert(status);
                                }
-
                         });
-                        //alert(ppij_id);  
-                    } ); //End ofClick and function
-          //);//end of ready
+                    }); //End ofClick and function
+          //end of ready
   $(document).on('click', '.delete_data', function(){  
                   var ppij_id = $(this).attr("id");  
-                  
                   $.ajax({  
                             url:"research_publication/delete.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},  
-                            
+                            data:{ppij_id:ppij_id},
                             success: function(msg)
                             {                               
                                 alert("Data Deleted");
@@ -67,32 +55,20 @@
                                      url: "research_publication/ppij_select_db.php?user=<?php echo $username ;?>",
                                       type: "post",
                                       data: {},
-                                     success: function(msg)
-                                     {
+                                     success: function(msg){
                                           $("#table_div").html(msg).show(500);    
                                      }
-                                 });//end of ajax
+                                });//end of ajax
                             }  //end of success
                               ,error: function (xhr, status) {
                                    alert(status);
                                }
-
-                        });
-                        //alert(ppij_id);  
-                    } ); //End ofClick and function
-          //);//end of ready
-   
-
-    
-
-
-
-
-
-    
- </script>
-      <center><h1>Your Inserted Data</h1></center>
-      <table class ="table table-striped" id="table_div"  style="border-color:#337ab7;" align="center" border="1px" >
+                        });  
+                  }); //End ofClick and function
+          //end of ready 
+</script>
+  <center style="height: 400px; overflow: scroll;"><h3>Your Inserted Data</h3>
+    <table class ="table table-striped" id="table_div"  style="border-color:#337ab7;" align="center" border="1px" >
       <tr>
         <th>Session Year</th>
         <th>Serial No.</th>
@@ -118,7 +94,7 @@
         die('Invalid query: ' . mysql_error());
       }
 
-      while($row=mysql_fetch_array($run)) {
+      while($row=mysql_fetch_array($run)){
         
         $session= $row['Session'];
         $user_id= $row['User_Id'];
@@ -145,17 +121,15 @@
     <td><?php echo $PR; ?></td>
     <td><?php echo $NCA; ?></td>
     <td><?php echo $MA; ?></td>
-    <!-- <td><a href='research_publication\delete.php?del_ppij_id=<?php //echo $ppij_id; ?> '>Delete</a></td>  -->
 
     <td><button type="submit" id="<?php echo $row["PPIJ_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data ">Delete</button></td>
     <td><button name="edit" value="Edit" id="<?php echo $row["PPIJ_ID"]; ?>" class="btn btn-info btn-xs edit_data ">Update</button></td>
-    <!-- <td><button name="edit" value="Edit" id="<?php //echo $row["PPIJ_ID"]; ?>" onClick="fetchdata(<?//php echo $row["PPIJ_ID"]; ?>)" class="btn btn-info btn-xs ">Update</a></button></td> -->
-    
     </tr>
     <?php 
-    }  //while end
+    }
     ?>
-  </table>
+    </table>
+  </center>
 
 <?php
 
