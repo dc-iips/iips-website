@@ -1,40 +1,40 @@
     <!--Header Open-->
     <!--Hide Navbar Open-->
-    <div>
-      <div id="header-style">
-          <div class="container"><a class='wrapper hidden-lg wrapper hidden-md wrapper hidden-sm ' href="index.php"><br>
-                                    <img src="images/logo_new.png" class="img img-responsive iips-logo-css">
-                                </a>    
-                            <ul class="nav navbar-nav">
-                                <a class='wrapper hidden-xs' href="index.php">
-                                    <img src="images/logo_new.png" class="img img-responsive iips-logo-css col-lg-7">
-                                </a>
-                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
-                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
-                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="under_construction.php">Alumni</a></li>     
-                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="sitemap.php">Sitemap</a></li>
-                                <li class="wrapper visible-lg nav navbar-nav navbar-right"><a href="under_construction.php">Feedback</a></li>
-                                <form class="wrapper hidden-xs navbar-form navbar-right" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">
-                                    <div class="input-group input-group-sm">
-                                        <input type="text" class="form-control" placeholder="Search IIPS Web">
-                                            <div class="input-group-btn">
-                                                <button class="btn btn-default" type="submit">
-                                                    <i class="glyphicon glyphicon-search"></i>
-                                                </button>
-                                            </div>
-                                    </div>
-                                </form>
-                            </ul>
-          </div><!-- container-->
-      </div><!--header-style-->
-    </div>
-    <!--Hide Navbar Close-->
+<div>
+    <div id="header-style">
+        <div class="container">
+            <a class='wrapper hidden-lg wrapper hidden-md wrapper hidden-sm ' href="index.php"><br>
+                <img src="images/logo_new.png" class="img img-responsive iips-logo-css">
+            </a>    
+            <ul class="nav navbar-nav">
+                <a class='wrapper hidden-xs' href="index.php">
+                    <img src="images/logo_new.png" class="img img-responsive iips-logo-css col-lg-7">
+                </a>
+                <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
+                <li class="wrapper visible-lg visible-md visible-sm nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
+                <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="under_construction.php">Alumni</a></li>     
+                <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="sitemap.php">Sitemap</a></li>
+                <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="under_construction.php">Feedback</a></li>
+                    <form class="wrapper hidden-xs navbar-form navbar-right" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">
+                        <div class="input-group input-group-sm">
+                            <input type="text" class="form-control" placeholder="Search IIPS Web">
+                            <div class="input-group-btn">
+                            <button class="btn btn-default" type="submit">
+                                <i class="glyphicon glyphicon-search"></i>
+                            </button>
+                            </div>
+                        </div>
+                    </form>
+            </ul>
+        </div><!-- container-->
+    </div><!--header-style-->
+</div><!--Hide Navbar Close-->
 
-    <!--Main navbar starts-->
-    <div class="container-fluid">
-        <div class="row">
-          <div>
-              <nav class="navbar navbar-default yamm" style="background-color:#10bf7e">
+<!--Main navbar starts-->
+<div class="container-fluid">
+    <div class="row">
+        <div>
+            <nav class="navbar navbar-default yamm" style="background-color:#10bf7e">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="navbar-header" style="background-color:#414141">
@@ -46,7 +46,7 @@
                             </button>
                         </div>
                         <div class="collapse navbar-collapse" id="navbar-main">
-                                <div class="wrapper visible-xs">
+                            <div class="wrapper visible-xs">
                                     <div class="container">
                                         <div class="row">
                                             <form class="navbar-form navbar-left" role="search">
@@ -65,7 +65,7 @@
                                             </div>
                                         </div>
                                     </div>    
-                                </div>
+                            </div>
                             <ul class="nav navbar-nav" id="test">
                                 <!--About-->
                                 <li class="dropdown yamm-fw" id="test_about" style='margin-right:50px'>
@@ -244,74 +244,64 @@
                             <div class="wrapper visible-xs">
                               <h3 id="i38">Information for...</h3>
                               <ul class="nav navbar-nav">
-                                  <li><a href="under_construction.php">Students</a></li>
-                                  <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
-                                  <li><a href="under_construction.php">Alumni</a></li>
+                                <li><a href="under_construction.php">Students</a></li>
+                                <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
+                                <li><a href="under_construction.php">Alumni</a></li>
                               </ul>
                             </div>
                         </div>
                     </div><!--Visible Content-->
                 </div>
-              </nav>
-          </div><!-- container-fluid -->
-          </div><!-- col-md-9 Close-->
-    </div><!-- row end-->
-    </div><!--Container Close--><!--Main navbar close-->
+            </nav>
+        </div><!-- container-fluid -->
+    </div><!-- col-md-9 Close-->
+</div><!-- row end-->
+<!--Container Close--><!--Main navbar close-->
 
-    <!-- modal -->
-    <div class="modal fade" id="FacultyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header text-center">
-                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                             <h4 class="modal-title">Sign-In</h4>
-                        </div>
-                        <div class="modal-body ">
-                            <form class="form-horizontal" role="form" action="<?php echo htmlentities($_SERVER['PHP_SELF']) ?>" method="post" id="signUp">
-                                <div class="form-group">
-                                    <label for="inputEmail1" class="col-lg-3 control-label">User ID</label>
-                                    <div class="col-lg-8">
-                                        <input type="text" required="required" class="form-control" placeholder="User ID" name="username" >
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="inputPassword1" class="col-lg-3 control-label">Password</label>
-                                    <div class="col-lg-8">
-                                        <input type="password" class="form-control" required="required" name="password" placeholder="Password" id="password">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                     <div class="col-lg-offset-4 col-lg-8">
-                                        <button type="submit" name="signIn1" class="btn btn-large btn-primary">OK</button>
-                                        <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">Close</button>
-                                     </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div><!-- /.modal-content -->
-                </div><!-- /.modal-dialog -->
-    </div><!-- /.modal -->
+<!-- modal -->
+<div class="modal fade" id="FacultyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Sign-In</h4>
+            </div>
+            <div class="modal-body ">
+                <form class="form-horizontal" role="form" action="<?php echo htmlentities($_SERVER['PHP_SELF']) ?>" method="post" id="signUp">
+                <div class="form-group">
+                    <label for="inputEmail1" class="col-lg-3 control-label">User ID</label>
+                    <div class="col-lg-8">
+                        <input type="text" required="required" class="form-control" placeholder="User ID" name="username" >
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="inputPassword1" class="col-lg-3 control-label">Password</label>
+                    <div class="col-lg-8">
+                        <input type="password" class="form-control" required="required" name="password" placeholder="Password" id="password">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-lg-offset-4 col-lg-8">
+                        <button type="submit" name="signIn1" class="btn btn-large btn-primary">OK</button>
+                        <button type="button" class="btn btn-large btn-primary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+                </form>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
 
 <?php 
-
 include 'DBConnect.php';
-
-//session_start();
-
-  
+//session_start();  
  if(isset($_POST['signIn1']))
  {
-  $username=mysqli_real_escape_string($conn,$_POST['username']);
-  $password=mysqli_real_escape_string($conn,$_POST['password']);
-
-   $sql = mysqli_query($conn,"SELECT * FROM `userinfo` WHERE User_Id='$username' AND Pwd='$password' ");
-    /* if($sql)
-      echo "success";
-    else
-      echo "fail"; */
-   $result = mysqli_num_rows($sql);
-    
-     if($result > 0)
+    $username=mysqli_real_escape_string($conn,$_POST['username']);
+    $password=mysqli_real_escape_string($conn,$_POST['password']);
+    $sql = mysqli_query($conn,"SELECT * FROM `userinfo` WHERE User_Id='$username' AND Pwd='$password' ");
+    $result = mysqli_num_rows($sql);
+    if($result > 0)
      {
         while($row=mysqli_fetch_assoc($sql))
         {
@@ -323,13 +313,11 @@ include 'DBConnect.php';
          session_start();
          $_SESSION['username'] = $username ;
        
-         header("location:Profiles1.php");
+         header("location:profile.php");
          exit();
         }
      }
-     else
-      echo "<script>alert('Invalid Username/Password') </script>";
-
+    else
+        echo "<script>alert('Invalid Username/Password')</script>";
    }
-
 ?>

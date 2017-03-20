@@ -63,7 +63,9 @@
         <hr>
         <div class="row">
             <div class="col-md-4">
-                &copy; 2017 International Institute of Professional Studies
+                &copy;<?php echo date("Y ");
+                ?> International Institute of Professional Studies
+                <!-- date() function to automatically update the copyright year on your website -->
             </div>
             <div class="col-md-6"></div>
             <div class="col-md-2 col-xs-6">
