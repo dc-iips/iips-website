@@ -33,7 +33,7 @@
 		if($result1){
 			unset($_POST['info_save']);
 			$_SESSION['infoUpdated'] = "<h5 align='center' >Information Updated Successfully ! ";
-			header('location:Profiles1.php');
+			header('location:profile.php');
 		}
 		else{
 			die("error : ".mysqli_error($conn));
@@ -43,7 +43,7 @@
 			$insertQuery = "Insert Into Gen_Info values('$user_id','$Name','$fatherName','$motherName','$department','$designation','$gradePay','$lastPromotion','$addressCorrespondece','$addressPermanant','$telePhone','$email')";
 			$result2 = mysqli_query($conn,$insertQuery);
 			if($result2){
-				header('location:Profiles1.php');
+				header('location:profile.php');
 			}
 			else{
 				die("error : ".mysqli_error($conn));
