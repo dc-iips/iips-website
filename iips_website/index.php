@@ -157,23 +157,28 @@
         </div>
 
         <div class="row">
-          <div class="col-sm-4 col-md-4 col-lg-4 inner-event">
+          <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
               <img src="images/events/xpression.jpg" class="img-responsive"/>
               <h3>Xpression</h3>
               <hr/>
               <p>It is the second biggest cultural event of Indore. It include more than 70 events and sponsored by many famous brands.</p>
           </div>
       
-          <div class="col-sm-4 col-md-4 col-lg-4 inner-event">
+          <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
                 <img src="images/events/synergypic.jpg" class="img-responsive"/>
                 <h3>Synergy</h3>
                 <hr/>
                 <p>Intra College sports event of Institute. It includes all major sports like Crickets, Football, Chess, Volleyball etc.</p>
           </div>
-      
-          <div class="col-sm-4 col-md-4 col-lg-4 inner-event">
+          <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
               <img src="images/events/touristapic.jpg" class="img-responsive"/>
               <h3>Tourista</h3>
+              <hr/>
+              <p>Cultural event initiated by MBA-Tourism for world tourism day. It includes various events like dance, treasure hunt, best of waste etc.</p>
+          </div>
+          <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
+              <img src="images/events/touristapic.jpg" class="img-responsive"/>
+              <h3>Technophilia</h3>
               <hr/>
               <p>Cultural event initiated by MBA-Tourism for world tourism day. It includes various events like dance, treasure hunt, best of waste etc.</p>
           </div>
