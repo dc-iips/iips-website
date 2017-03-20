@@ -1,6 +1,15 @@
+
 <?php
-  session_start();
-  ob_start();
+    session_start();
+    if(!isset($_SESSION['username']))
+    {
+       echo "<script>window.open('index.php','_self')</script>";     
+    }
+    else
+    {
+  $username = $_SESSION['username'];
+  
+  include('header.php');
   include('DBConnect.php');
   include('form_process/genInfoProcess.php');
   
@@ -43,24 +52,66 @@
   </head>
 <body>
 <?php 
-    if(isset($_SESSION['username'])){
-    include('header.php');
-?>
+
+  // $msg="";
+  if(isset($_POST['upload']))
+  {
+      $filename=$_FILES["image"]["name"];
+      $filetmp=$_FILES["image"]["tmp_name"];
+                
+      $db =mysqli_connect("localhost","root","","pbas_db");
+     // echo "connected";
+      $sql="INSERT INTO image (User_Id, image) VALUES ('$username','$filename')";
+      mysqli_query($db,$sql);
+
+      move_uploaded_file($filetmp,"images/faculty_pic/$filename");    
+}
+
+ ?>
 <div class="container">
   <div class="row , minlength">
     <div class="col-md-3" id="sidebar"><br><br> 
       <!-- <ul class="nav nav-stacked" role="tablist">-->
-        col-md-3 space for Profile Pic
-        <form action="" method="post">
-          <div class="large-12 columns">
-               <span style="color:red;">Maximun Image Size 100KB</span><br/><br/>
-               <input type="file" name="image"  required/>
-          </div> 
-          <div class="large-12 columns">
-               <button type="submit" name="upload" class="tiny button radius success">Upload</button>
-          </div> 
-        </form>
-      <!-- </ul> -->
+      <?php  
+                $db =mysqli_connect("localhost","root","","pbas_db");
+
+                $query = "SELECT * FROM image WHERE User_Id='$username'";  
+                $result = mysqli_query($db, $query);  
+                $row = mysqli_fetch_array($result);
+
+                echo '<div><img alt="" height="250px" width="250px" src="images/faculty_pic/'.$row["image"].'"></div>'    
+                
+      ?>  
+
+       <form method="post" enctype="multipart/form-data">  
+                     <input type="file" name="image" id="image" />  
+                     <br />  
+                     <input type="submit" name="upload" id="upload" value="upload" class="btn btn-info" />  
+                </form>
+      </body>  
+ </html>
+ <script>  
+ $(document).ready(function(){  
+      $('#upload').click(function(){  
+           var image_name = $('#image').val();  
+           if(image_name == '')  
+           {  
+                alert("Please Select Image");  
+                return false;  
+           }  
+           else  
+           {  
+                var extension = $('#image').val().split('.').pop().toLowerCase();  
+                if(jQuery.inArray(extension, ['gif','png','jpg','jpeg']) == -1)  
+                {  
+                     alert('Invalid Image File');  
+                     $('#image').val('');  
+                     return false;  
+                }  
+           }  
+      });  
+ });  
+</script>  
     </div>
         <div class="col-md-9">
           <div class="tab-content"><br><br>
@@ -128,6 +179,12 @@
   </div>
 </div>
 
+<?php include("footer.php");
+
+}//else session end
+
+?>
+
 <script>
     $(document).ready(function() {
       $('#genInfo').validate();
@@ -176,13 +233,4 @@
     }
 </script>
 
-<?php
-    }
-    else{
-    header('location: index.php');
-    }
-    ?>
-
-
 </div>
-<?php include("footer.php");?>
