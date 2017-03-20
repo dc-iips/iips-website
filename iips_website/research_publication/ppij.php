@@ -29,8 +29,8 @@
               /* stop form from submitting normally */
                event.preventDefault();
                var values = $(this).serialize();
-               // alert(values);
-              
+               //alert(values);
+               
               if($("#ppij_submit").val()=="Save"){
                
                $.ajax({
@@ -40,7 +40,15 @@
                     success: function()
                     {
                     alert("Data Added Successfully.");
-                    //$("#ppij_save")[0].reset();
+
+                    $("#twno").val("");
+                    $("#PPIJ_Journal").val("");
+                    $("#PPIJ_ISBN").val("");
+                    $("#PPIJ_PR").val("");
+                    $("#PPIJ_NCA").val("");
+                    $("#PPIJ_Y").val("");
+                    $("#ppij_N").val("")
+                    //alert(values);
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
                           url: "research_publication/ppij_select_db.php",
@@ -56,14 +64,23 @@
              }//end of if
         else if($("#ppij_submit").val()=="Update")
         {
+           var session_des = $(this).attr("id");
            $.ajax({
                     url: "research_publication/update.php",
                     type: "post",
                     data: values,
                     success: function()
                     {
-                    alert("Data Updated Successfully.");                    
-                    //$("#ppij_save")[0].reset();
+                    alert("Data Updated Successfully.");  
+                    
+                    $("#session").val("");
+                    $("#twno").val("");
+                    $("#PPIJ_Journal").val("");
+                    $("#PPIJ_ISBN").val("");
+                    $("#PPIJ_PR").val("");
+                    $("#PPIJ_NCA").val("");
+                    $("#PPIJ_Y").val("");
+                    $("#ppij_N").val("")
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
                           url: "research_publication/ppij_select_db.php",
@@ -84,7 +101,7 @@
      </script>
 
 
-    <center><h4><b>Research Publication And Academic Contribution</b></h4></center>
+    <center id="slide_up"><h4><b>Research Publication And Academic Contribution</b></h4></center>
 
      <div class="row-fluid">       
         <div class="col-md-11">
@@ -110,13 +127,16 @@
 
                   ?>
                   
-                  <option name="session" id="session" value="<?php echo $row['session_description']; ?>" ><?php echo $row['session_description']; ?></option>
+                  <option name="session" id="<?php echo $row["session_description"]; ?>" ><?php echo $row['session_description']; ?></option>
                   <?php } ?>
                 </select>
                 </br>
 
                 <div class="form-group">
                   <div id="ppij">
+
+                        <input type="text" class="form-control required" name="PPIJ_ID" id="PPIJ_ID" disabled="disabled" />
+               
 
                        <label>Title With Page Numbers</label> 
                          <input type="text" class="form-control required" name="PPIJ_TNO" id="twno" autofocus required="required"/>
@@ -131,7 +151,7 @@
                          <input type="text" class="form-control required" name="PPIJ_PR" id="PPIJ_PR" required="required"/>
                 
                         <label>No. of Co-authors</label>
-                          <input type="text" class="form-control required" name="PPIJ_NCA" id="PPIJ_NCA" required="required"/>
+                          <input type="number" size="15" class="form-control required" name="PPIJ_NCA" id="PPIJ_NCA" required="required"/>
                        <br/>
 
                        <label>Whether you are the main Author</label>

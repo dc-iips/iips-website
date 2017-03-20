@@ -15,5 +15,6 @@
 
 		$query1 = mysql_query("UPDATE `teach_ppij` SET  Data_Set='deleted' where PPIJ_ID='$delete_ppij_id' ");
 
+
 	} //else session
 ?>

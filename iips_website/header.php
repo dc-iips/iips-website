@@ -227,7 +227,7 @@
                                           <div class="col-md-5 col-sm-3">
                                               <div class="col-md-6">
                                                   <li id="link-style"><a href="over.php">Overview</a></li>
-                                                  <li id="link-style"><a href="Profiles1.php">Profile</a></li>
+                                                  <li id="link-style"><a href="profile.php">Profile</a></li>
                                                   <li id="link-style"><a href="dompdf/pdf1.php">Pdf Report</a></li>
                                                   <li id="link-style"><a href="logout.php">Logout</a></li>
                                               </div>
