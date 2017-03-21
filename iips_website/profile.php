@@ -86,7 +86,7 @@
        <form method="post" enctype="multipart/form-data">  
                      <input type="file" name="image" id="image" />  
                      <br />  
-                     <input type="submit" name="upload" id="upload" value="upload" class="btn btn-info" />  
+                     <input type="submit" name="upload" id="upload" value="Upload" class="btn btn-primary" />  
                 </form>
       </body>  
  </html>
@@ -117,10 +117,10 @@
           <div class="tab-content"><br><br>
             <!-- start -->
             <div class="row"> 
-              <div class="col-sm-12">
+              <div class="col-sm-10">
                 <form id="genInfo" action="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>" method="post" class="panel panel-primary" style="padding:3px 3px 3px 3px; "> 
                   <div id="userInfo">
-                    <h4 align="center" class="text-primary"><b>Welcome <?php  echo $_SESSION['username']."";?></b></h4>
+                    <h4 align="left" class="text-primary"><b  style="color:#2e6da4">Welcome <?php  echo $_SESSION['username']."";?> to your profile.</b></h4>
                     <table border="0" class="table" cellpadding="3" cellspacing="3">
                       <tr>
                         <td>Name</td>
