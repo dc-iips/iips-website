@@ -61,7 +61,88 @@
           <img src="images/slider/slider5.jpg" alt="Image" class="slider_size">
           <div class="carousel-caption">
           </div>
-      </div>      
+      </div>    
+
+      <div class="item">
+          <img src="images/slider/slider6.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider7.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider8.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider9.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider10.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider11.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider12.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider13.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider14.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider15.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider16.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+      <div class="item">
+          <img src="images/slider/slider17.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+
+      <div class="item">
+          <img src="images/slider/slider18.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
+        
     </div>
 
   	<!-- Controls -->
