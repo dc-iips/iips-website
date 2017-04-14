@@ -46,7 +46,7 @@
                     $("#PPIJ_PR").val("");
                     $("#PPIJ_NCA").val("");
                     $("#PPIJ_Y").val("");
-                    $("#ppij_N").val("")
+                    $("#PPIJ_N").val("")
                     //alert(values);
                     $("#table_div").html("Loading Data.......");
                     
@@ -80,7 +80,7 @@
                     $("#PPIJ_PR").val("");
                     $("#PPIJ_NCA").val("");
                     $("#PPIJ_Y").val("");
-                    $("#ppij_N").val("")
+                    $("#PPIJ_N").val("")
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
                           url: "research_publication/ppij_select_db.php",
@@ -157,7 +157,7 @@
                        <br/>
 
                        <label>Whether you are the main Author</label>
-                         <input type="radio" value="Yes" name="PPIJ_YN" id="PPIJ_Y" required="required">Yes <input type="radio" value="No" id="ppij_N" name="PPIJ_YN">NO<br />
+                         <input type="radio" value="Yes" name="PPIJ_YN" id="PPIJ_Y" required="required">Yes <input type="radio" value="No" id="PPIJ_N" name="PPIJ_YN" required="required"/>NO<br />
                   </div> <br>            
                   <input class="btn btn-primary" type="submit" value="Save" id="ppij_submit" name="ppij_submit"/>           
                   <!--  <input type="submit" class="btn btn-primary"  value="Delete" name="ppij_delete" /> -->

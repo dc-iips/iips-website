@@ -18,36 +18,30 @@
         display: inline-block;
         font-size: 12px;
       }
-
 </style>
 <script type="text/javascript">
   $(document).on('click', '.edit_data', function(){  
                   var ppij_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/fetch.php",  
+                            url:"research_publication/update_fetch.php",  
                             method:"POST",  
                             data:{ppij_id:ppij_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
-
-                                  $('#PPIJ_ID').val($getarray.PPIJ_ID); 
-
+                                  $('#PPIJ_ID').val($getarray.PPIJ_ID);
                                   $('#session').val($getarray.Session);  
                                   $('#twno').val($getarray.Teach_PPIJ_TNO);  
                                   $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
                                   $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);  
                                   $('#PPIJ_PR').val($getarray.Teach_PPIJ_PR);  
-                                  $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);  
-
+                                  $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);
                                   if($getarray.Teach_PPIJ_MA=="Yes")
-                                   $("#PPIJ_Y").prop('checked', true);
+                                    $("#PPIJ_Y").prop('checked', true);
                                   else
-                                   $("#PPIJ_N").prop('checked', true);
-                                 $('#ppij_submit').val("Update");
-
-                                 //alert($getarray.PPIJ_ID);
+                                    $("#PPIJ_N").prop('checked', true);
+                                  $('#ppij_submit').val("Update");
                             }  
                               ,error: function (xhr, status) {
                                    alert(status);
