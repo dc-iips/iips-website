@@ -2,7 +2,7 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-       echo "<script>window.open('../index.php','_self')</script>";     
+       echo "<script>window.open('../../index.php','_self')</script>";     
     }
     else
     {
@@ -22,30 +22,27 @@
 </style>
 <script type="text/javascript">
   $(document).on('click', '.edit_data', function(){  
-                  var ppij_id = $(this).attr("id");
+                  var ppc_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/fetch.php",  
+                            url:"research_publication/paperpresented/paperpresented_fetch.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{ppc_id:ppc_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
 
-                                  $('#PPIJ_ID').val($getarray.PPIJ_ID); 
+                                  $('#PPC_ID').val($getarray.PPC_ID); 
 
                                   $('#session').val($getarray.Session);  
-                                  $('#twno').val($getarray.Teach_PPIJ_TNO);  
-                                  $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
-                                  $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#PPIJ_PR').val($getarray.Teach_PPIJ_PR);  
-                                  $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);  
+                                  $('#PPC_TPP').val($getarray.Teach_PPC_TPP);  
+                                  $('#PPC_TCS').val($getarray.Teach_PPC_TCS);  
+                                  $('#PPC_DOE').val($getarray.Teach_PPC_DOE);  
+                                  $('#PPC_ORG').val($getarray.Teach_PPC_Organized);  
+                                  $('#PPC_WINS').val($getarray.Teach_ILC_WINS); 
 
-                                  if($getarray.Teach_PPIJ_MA=="Yes")
-                                   $("#PPIJ_Y").prop('checked', true);
-                                  else
-                                   $("#PPIJ_N").prop('checked', true);
-                                 $('#ppij_submit').val("Update");
+                                 $('#ppc_submit').val("Update");
+
 
                                  //alert($getarray.PPIJ_ID);
                             }  
@@ -56,23 +53,24 @@
                     }); //End ofClick and function
           //end of ready
    $(document).on('click', '.view_data', function(){  
-                  var ppij_id = $(this).attr("id");
+                  var ppc_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/fetch.php",  
+                            url:"research_publication/paperpresented/paperpresented_fetch.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{ppc_id:ppc_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
                                   $('#2').val($getarray.Session);  
-                                  $('#3').val($getarray.Teach_PPIJ_TNO);  
-                                  $('#4').val($getarray.Teach_PPIJ_Journal);  
-                                  $('#5').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#6').val($getarray.Teach_PPIJ_PR);  
-                                  $('#7').val($getarray.Teach_PPIJ_NCA);  
-                                  $('#8').val($getarray.Teach_PPIJ_MA);  
+                                  $('#3').val($getarray.Teach_PPC_TPP);  
+                                  $('#4').val($getarray.Teach_PPC_TCS);  
+                                  $('#5').val($getarray.Teach_PPC_DOE);  
+                                  $('#6').val($getarray.Teach_PPC_Organized);  
+                                  $('#7').val($getarray.Teach_PPC_WINS);  
                                  //alert($getarray.PPIJ_ID);
+
+
                                  $('#ViewModal').modal('show');
                             }  
                               ,error: function (xhr, status) {
@@ -81,17 +79,17 @@
                         });
                     }); //End ofClick and function
   $(document).on('click', '.delete_data', function(){  
-                  var ppij_id = $(this).attr("id");  
+                  var ppc_id = $(this).attr("id");  
                   $.ajax({  
-                            url:"research_publication/delete.php",  
+                            url:"research_publication/paperpresented/paperpresented_delete.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{ppc_id:ppc_id},
                             success: function(msg)
                             {                               
                                 //alert("Data Deleted");
                                 $("#table_div").html("Loading Data.......");
                                 $.ajax({
-                                     url: "research_publication/ppij_select_db.php",
+                                     url: "research_publication/paperpresented/paperpresented_select_db.php",
                                       type: "post",
                                       data: {},
                                      success: function(msg){
@@ -111,7 +109,7 @@
         <th>Serial No.</th>
         <th>Session Year</th>
         <th>Title</th>
-        <th>Journal</th>
+        <th>Conference</th>
         <!-- 
         <th>ISSN</th>
         <th>Peer Reviews</th>
@@ -126,7 +124,7 @@
      mysql_connect('localhost','root','');
      mysql_select_db('pbas_db');
 
-      $query= "SELECT * FROM teach_ppij WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY PPIJ_ID DESC";
+      $query= "SELECT * FROM teach_ppc WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY PPC_ID DESC";
 
       $run= mysql_query($query);
       if (!$run) { // add this check.
@@ -139,14 +137,13 @@
         $session= $row['Session'];
         $serial_no++;
         $user_id= $row['User_Id'];
-        $ppij_id= $row['PPIJ_ID'];
-        $TNO= $row['Teach_PPIJ_TNO'];
-        $Journal= $row['Teach_PPIJ_Journal'];
-        $ISBN= $row['Teach_PPIJ_ISBN'];
-        $PR= $row['Teach_PPIJ_PR'];
-        $NCA= $row['Teach_PPIJ_NCA'];
-        $MA= $row['Teach_PPIJ_MA'];
-      
+        $ppc_id= $row['PPC_ID'];
+        $tpp= $row['Teach_PPC_TPP'];
+        $tcs= $row['Teach_PPC_TCS'];
+        $doe= $row['Teach_PPC_DOE'];
+        $org= $row['Teach_PPC_Organized'];
+        $wins= $row['Teach_PPC_WINS'];
+        
     ?>
 
     <font size="5" color="red">
@@ -157,18 +154,18 @@
 
         <td><?php echo $serial_no; ?></td>
         <td><?php echo $session;  ?></td>
-        <td><?php echo $TNO; ?></td>
-        <td><?php echo $Journal; ?></td>
+        <td><?php echo $tpp; ?></td>
+        <td><?php echo $tcs; ?></td>
         <!-- <td><?php //echo $ISBN; ?></td>
         <td><?php //echo $PR; ?></td>
         <td><?php //echo $NCA; ?></td>
         <td><?php //echo $MA; ?></td>
  -->
-        <td><button type="submit" name="view" id="<?php echo $row["PPIJ_ID"]; ?>"  class="btn btn-success btn-xs view_data button_style" style="">View</button></a></td>
+        <td><button type="submit" name="view" id="<?php echo $row["PPC_ID"]; ?>"  class="btn btn-success btn-xs view_data button_style" style="">View</button></a></td>
 
-        <td><button type="submit" id="<?php echo $row["PPIJ_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data button_style ">Delete</button></td>
+        <td><button type="submit" id="<?php echo $row["PPC_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data button_style ">Delete</button></td>
 
-        <td><a href="#slide_up"><button name="edit" value="Edit" id="<?php echo $row["PPIJ_ID"]; ?>" class="btn btn-info btn-xs edit_data button_style">Update</button></a></td>
+        <td><a href="#slide_up"><button name="edit" value="Edit" id="<?php echo $row["PPC_ID"]; ?>" class="btn btn-info btn-xs edit_data button_style">Update</button></a></td>
     </tr>
     <?php 
     }
@@ -197,46 +194,41 @@
 
 
                                 <div class="col-md-3">
-                                <label>Title With Page Numbers</label></br>
+                                <label>Title of PaperPresented </label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="3" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>Journal</label></br>
+                                <label>Title Of Conference</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="4" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>ISSN / ISBN No.</label></br>
+                                <label>Date of Event</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="5" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>Peer Reviewed</label></br>
+                                <label>Organized At</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="6" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>No. of Co-authors</label></br>
+                                <label>Whether I/N/S</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="7" placeholder="" disabled="disabled" /></br>
                                 </div>
 
-                                <div class="col-md-3">
-                                <label>Whether you are the main Author</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="8" placeholder="" disabled="disabled" /></br>
-                                </div>
+                                
                
                                 <div class="form-group">
                                      <div class="col-lg-offset-6 col-lg-6">

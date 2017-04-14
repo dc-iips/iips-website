@@ -10,13 +10,17 @@
        $connect = mysqli_connect("localhost", "root", "", "pbas_db");  
   
      
-       $query = "SELECT * FROM teach_ppij where PPIJ_ID='".$_POST["ppij_id"]."'";  
+       $query1 = "SELECT * FROM teach_ppij where PPIJ_ID='".$_POST["ppij_id"]."'";  
+       $query2 = "UPDATE teach_ppij SET Data_Set='updated' WHERE PPIJ_ID='".$_POST["ppij_id"]."'";
 
-      $result = mysqli_query($connect, $query);  
-	  if(!$result) 
+
+
+      $result1 = mysqli_query($connect, $query1); 
+      $result2 = mysqli_query($connect, $query2); 
+	  if(!$result1 && !$result2) 
 	      die("Query to show");  
-	  else{ 
- 	       $row = mysqli_fetch_assoc($result);  
+	  else if ($result1 && $result2){ 
+ 	       $row = mysqli_fetch_assoc($result1);  
 	        echo json_encode($row);       
 	  }
      

@@ -2,12 +2,12 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-       echo "<script>window.open('../index.php','_self')</script>";     
+       echo "<script>window.open('../../index.php','_self')</script>";     
     }
     else
     {
       $username= $_SESSION['username'];
-   ?>
+ ?>
      <script language="javascript">    
 
        $(document).ready(function()
@@ -15,7 +15,7 @@
                 $("#table_div").html("loading data");
 
                 $.ajax({
-                  url: "research_publication/ppij_select_db.php",
+                  url: "research_publication/invitedlecture/invitedlecture_select_db.php",
                   type: "post",
                   data: { },
                     success: function(msg)
@@ -23,35 +23,34 @@
                       $("#table_div").html(msg).show(500);    
                     }
                 });//end of ajax
-                }); //end of ready
-        $("#ppij_save").submit(function(event){
+        });// end of ready
+
+        $("#ilc_save").submit(function(event){
               /* stop form from submitting normally */
                event.preventDefault();
                var values = $(this).serialize();
                //alert(values);
                
-              if($("#ppij_submit").val()=="Save"){
+              if($("#ilc_submit").val()=="Save"){
                
                $.ajax({
-                    url: "research_publication/ppij_insert_db.php",
+                    url: "research_publication/invitedlecture/invitedlecture_insert_db.php",
                     type: "post",
                     data: values,
                     success: function()
                     {
                     alert("Data Added Successfully.");
 
-                    $("#twno").val("");
-                    $("#PPIJ_Journal").val("");
-                    $("#PPIJ_ISBN").val("");
-                    $("#PPIJ_PR").val("");
-                    $("#PPIJ_NCA").val("");
-                    $("#PPIJ_Y").val("");
-                    $("#ppij_N").val("")
+                    $("#ILC_TOL").val("");
+                    $("#ILC_TCS").val("");
+                    $("#ILC_DOE").val("");
+                    $("#ILC_ORG").val("");
+                    $("#ILC_WINS").val("");
+                    
                     //alert(values);
                     $("#table_div").html("Loading Data.......");
-                    
                     $.ajax({
-                          url: "research_publication/ppij_select_db.php",
+                          url: "research_publication/invitedlecture/invitedlecture_select_db.php",
                           type: "post",
                           data: {},
                           success: function(msg)
@@ -62,11 +61,11 @@
                     }//end of function
                 }); //End of .ajax
              }//end of if
-        else if($("#ppij_submit").val()=="Update")
+        else if($("#ilc_submit").val()=="Update")
         {
            var session_des = $(this).attr("id");
            $.ajax({
-                    url: "research_publication/update.php",
+                    url: "research_publication/invitedlecture/invitedlecture_update.php",
                     type: "post",
                     data: values,
                     success: function()
@@ -74,16 +73,15 @@
                     alert("Data Updated Successfully.");  
                     
                     $("#session").val("");
-                    $("#twno").val("");
-                    $("#PPIJ_Journal").val("");
-                    $("#PPIJ_ISBN").val("");
-                    $("#PPIJ_PR").val("");
-                    $("#PPIJ_NCA").val("");
-                    $("#PPIJ_Y").val("");
-                    $("#ppij_N").val("")
+                    $("#ILC_TOL").val("");
+                    $("#ILC_TCS").val("");
+                    $("#ILC_DOE").val("");
+                    $("#ILC_ORG").val("");
+                    $("#ILC_WINS").val("");
+                    
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
-                          url: "research_publication/ppij_select_db.php",
+                          url: "research_publication/invitedlecture/invitedlecture_select_db.php",
                           type: "post",
                           data: {},
                           success: function(msg)
@@ -97,8 +95,6 @@
       
         }
         });
-
-       
 
      </script>
 
@@ -114,7 +110,7 @@
               <h3  id="papers" class="panel-title" align="center">Published Papers in Journals</h3>
             </div><!--end of panel heading-->
             <br>
-            <form role="form" id="ppij_save" name="ppij_save" method="post">
+            <form role="form" id="ilc_save" name="ilc_save" method="post">
               
 
               <label>Session</label>
@@ -122,7 +118,7 @@
                 <select id="" style="width: 220px">          
                   
                   <?php 
-                    include('../DBConnect.php');
+                    include('../../DBConnect.php');
                     //$uname=$_SESSION['username'];
                     $query = mysqli_query($conn,"SELECT session_description from session_master");
                     while($row = mysqli_fetch_assoc($query)){
@@ -135,33 +131,30 @@
                 </br>
 
                 <div class="form-group">
-                  <div id="ppij">
+                  <div id="ilc">
 
-                        <input type="text" class="form-control required" name="PPIJ_ID" id="PPIJ_ID" disabled="disabled" />
                
 
-                       <label>Title With Page Numbers</label> 
-                         <input type="text" class="form-control required" name="PPIJ_TNO" id="twno" autofocus required="required"/>
+                       <label>Title OF Lecture</label> 
+                         <input type="text" class="form-control required" name="ILC_TOL" id="ILC_TOL" autofocus required="required"/>
                
-                       <label>Journal</label>
-                         <input type="text" class="form-control required" id="PPIJ_Journal" name="PPIJ_Journal" required="required"/>
+                       <label>Title Of Conference</label>
+                         <input type="text" class="form-control required" id="ILC_TCS" name="ILC_TCS" required="required"/>
                 
-                       <label>ISSN / ISBN No. </label>
-                         <input type="text" class="form-control required" id="PPIJ_ISBN" name="PPIJ_ISBN" required="required"/>
+                       <label>Date of Event </label>
+                         <input type="text" class="form-control required" id="ILC_DOE" name="ILC_DOE" required="required"/>
                 
-                       <label> Whether peer reviewed? Impact factor, if any</label>
-                         <input type="text" class="form-control required" name="PPIJ_PR" id="PPIJ_PR" required="required"/>
+                       <label> Organized At</label>
+                         <input type="text" class="form-control required" name="ILC_ORG" id="ILC_ORG" required="required"/>
                 
-                        <label>No. of Co-authors</label>
-                          <input type="number" size="15" class="form-control required" name="PPIJ_NCA" id="PPIJ_NCA" required="required"/>
+                        <label>Whether International/National/State</label>
+                          <input type="text"  class="form-control required" name="ILC_WINS" id="ILC_WINS" required="required"/>
                        <br/>
 
-                       <label>Whether you are the main Author</label>
-                         <input type="radio" value="Yes" name="PPIJ_YN" id="PPIJ_Y" required="required">Yes <input type="radio" value="No" id="ppij_N" name="PPIJ_YN">NO<br />
                   </div> <br>            
-                  <input class="btn btn-primary" type="submit" value="Save" id="ppij_submit" name="ppij_submit"/>           
+                  <input class="btn btn-primary" type="submit" value="Save" id="ilc_submit" name="ilc_submit"/>           
                   <!--  <input type="submit" class="btn btn-primary"  value="Delete" name="ppij_delete" /> -->
-                  <input type="reset" class="btn btn-primary" value="Reset" name="reset"  onClick="getDataTable('ppij_select_db.php','tab1')" />
+                  <input type="reset" class="btn btn-primary" value="Reset" name="reset"  onClick="getDataTable('invitedlecture_select_db.php','tab1')" />
                 
                 </div>
             </form>
@@ -181,7 +174,7 @@
 <div id="temp">
 
 </div>
-
+<!--  -->
 
 <?php 
    }  //else

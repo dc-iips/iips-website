@@ -2,7 +2,7 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-       echo "<script>window.open('../index.php','_self')</script>";     
+       echo "<script>window.open('../../index.php','_self')</script>";     
     }
     else
     {
@@ -22,30 +22,25 @@
 </style>
 <script type="text/javascript">
   $(document).on('click', '.edit_data', function(){  
-                  var ppij_id = $(this).attr("id");
+                  var rg_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/fetch.php",  
+                            url:"research_publication/researchguidance/researchguidance_fetch.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{rg_id:rg_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
 
-                                  $('#PPIJ_ID').val($getarray.PPIJ_ID); 
+                                  $('#RG_ID').val($getarray.RG_ID); 
 
                                   $('#session').val($getarray.Session);  
-                                  $('#twno').val($getarray.Teach_PPIJ_TNO);  
-                                  $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
-                                  $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#PPIJ_PR').val($getarray.Teach_PPIJ_PR);  
-                                  $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);  
+                                  $('#RG_NE').val($getarray.Teach_RG_NE);  
+                                  $('#RG_TS').val($getarray.Teach_RG_TS);  
+                                  $('#RG_DA').val($getarray.Teach_RG_DA);  
+                                 
+                                 $('#rg_submit').val("Update");
 
-                                  if($getarray.Teach_PPIJ_MA=="Yes")
-                                   $("#PPIJ_Y").prop('checked', true);
-                                  else
-                                   $("#PPIJ_N").prop('checked', true);
-                                 $('#ppij_submit').val("Update");
 
                                  //alert($getarray.PPIJ_ID);
                             }  
@@ -56,23 +51,23 @@
                     }); //End ofClick and function
           //end of ready
    $(document).on('click', '.view_data', function(){  
-                  var ppij_id = $(this).attr("id");
+                  var rg_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/fetch.php",  
+                            url:"research_publication/researchguidance/researchguidance_fetch.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{rg_id:rg_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
                                   $('#2').val($getarray.Session);  
-                                  $('#3').val($getarray.Teach_PPIJ_TNO);  
-                                  $('#4').val($getarray.Teach_PPIJ_Journal);  
-                                  $('#5').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#6').val($getarray.Teach_PPIJ_PR);  
-                                  $('#7').val($getarray.Teach_PPIJ_NCA);  
-                                  $('#8').val($getarray.Teach_PPIJ_MA);  
+                                  $('#3').val($getarray.Teach_RG_NE);  
+                                  $('#4').val($getarray.Teach_RG_TS);  
+                                  $('#5').val($getarray.Teach_RG_DA);  
+                                   
                                  //alert($getarray.PPIJ_ID);
+
+
                                  $('#ViewModal').modal('show');
                             }  
                               ,error: function (xhr, status) {
@@ -81,17 +76,17 @@
                         });
                     }); //End ofClick and function
   $(document).on('click', '.delete_data', function(){  
-                  var ppij_id = $(this).attr("id");  
+                  var rg_id = $(this).attr("id");  
                   $.ajax({  
-                            url:"research_publication/delete.php",  
+                            url:"research_publication/researchguidance/researchguidance_delete.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{rg_id:rg_id},
                             success: function(msg)
                             {                               
                                 //alert("Data Deleted");
                                 $("#table_div").html("Loading Data.......");
                                 $.ajax({
-                                     url: "research_publication/ppij_select_db.php",
+                                     url: "research_publication/researchguidance/researchguidance_select_db.php",
                                       type: "post",
                                       data: {},
                                      success: function(msg){
@@ -110,8 +105,8 @@
       <tr>
         <th>Serial No.</th>
         <th>Session Year</th>
-        <th>Title</th>
-        <th>Journal</th>
+        <th>NumberEnroll</th>
+        <th>Thesis</th>
         <!-- 
         <th>ISSN</th>
         <th>Peer Reviews</th>
@@ -126,7 +121,7 @@
      mysql_connect('localhost','root','');
      mysql_select_db('pbas_db');
 
-      $query= "SELECT * FROM teach_ppij WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY PPIJ_ID DESC";
+      $query= "SELECT * FROM teach_rg WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY RG_ID DESC";
 
       $run= mysql_query($query);
       if (!$run) { // add this check.
@@ -139,14 +134,12 @@
         $session= $row['Session'];
         $serial_no++;
         $user_id= $row['User_Id'];
-        $ppij_id= $row['PPIJ_ID'];
-        $TNO= $row['Teach_PPIJ_TNO'];
-        $Journal= $row['Teach_PPIJ_Journal'];
-        $ISBN= $row['Teach_PPIJ_ISBN'];
-        $PR= $row['Teach_PPIJ_PR'];
-        $NCA= $row['Teach_PPIJ_NCA'];
-        $MA= $row['Teach_PPIJ_MA'];
-      
+        $rg_id= $row['RG_ID'];
+        $numenrolled= $row['Teach_RG_NE'];
+        $thesis= $row['Teach_RG_TS'];
+        $award= $row['Teach_RG_DA'];
+       
+        
     ?>
 
     <font size="5" color="red">
@@ -157,18 +150,18 @@
 
         <td><?php echo $serial_no; ?></td>
         <td><?php echo $session;  ?></td>
-        <td><?php echo $TNO; ?></td>
-        <td><?php echo $Journal; ?></td>
+        <td><?php echo $numenrolled; ?></td>
+        <td><?php echo $thesis; ?></td>
         <!-- <td><?php //echo $ISBN; ?></td>
         <td><?php //echo $PR; ?></td>
         <td><?php //echo $NCA; ?></td>
         <td><?php //echo $MA; ?></td>
  -->
-        <td><button type="submit" name="view" id="<?php echo $row["PPIJ_ID"]; ?>"  class="btn btn-success btn-xs view_data button_style" style="">View</button></a></td>
+        <td><button type="submit" name="view" id="<?php echo $row["RG_ID"]; ?>"  class="btn btn-success btn-xs view_data button_style" style="">View</button></a></td>
 
-        <td><button type="submit" id="<?php echo $row["PPIJ_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data button_style ">Delete</button></td>
+        <td><button type="submit" id="<?php echo $row["RG_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data button_style ">Delete</button></td>
 
-        <td><a href="#slide_up"><button name="edit" value="Edit" id="<?php echo $row["PPIJ_ID"]; ?>" class="btn btn-info btn-xs edit_data button_style">Update</button></a></td>
+        <td><a href="#slide_up"><button name="edit" value="Edit" id="<?php echo $row["RG_ID"]; ?>" class="btn btn-info btn-xs edit_data button_style">Update</button></a></td>
     </tr>
     <?php 
     }
@@ -197,46 +190,27 @@
 
 
                                 <div class="col-md-3">
-                                <label>Title With Page Numbers</label></br>
+                                <label>Number Enrolled </label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="3" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>Journal</label></br>
+                                <label>Thesis Submitted</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="4" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>ISSN / ISBN No.</label></br>
+                                <label>Degree Awarded</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="5" placeholder="" disabled="disabled" /></br>
                                 </div>
 
-                                <div class="col-md-3">
-                                <label>Peer Reviewed</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="6" placeholder="" disabled="disabled" /></br>
-                                </div>
-
-                                <div class="col-md-3">
-                                <label>No. of Co-authors</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="7" placeholder="" disabled="disabled" /></br>
-                                </div>
-
-                                <div class="col-md-3">
-                                <label>Whether you are the main Author</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="8" placeholder="" disabled="disabled" /></br>
-                                </div>
+                                
                
                                 <div class="form-group">
                                      <div class="col-lg-offset-6 col-lg-6">

@@ -157,6 +157,12 @@
           </div>
       </div>
 
+      <div class="item">
+          <img src="images/slider/slider19.jpg" alt="Image" class="slider_size">
+          <div class="carousel-caption">
+          </div>
+      </div>
+
      
 
         
