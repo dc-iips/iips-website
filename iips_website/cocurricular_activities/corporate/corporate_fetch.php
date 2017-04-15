@@ -10,7 +10,7 @@
        $connect = mysqli_connect("localhost", "root", "", "pbas_db");  
   
      
-       $query = "SELECT * FROM teach_ppij where PPIJ_ID='".$_POST["ppij_id"]."'";  
+       $query = "SELECT * FROM teach_clmi where CORPORATE_ID='".$_POST["corporate_id"]."'";  
 
       $result = mysqli_query($connect, $query);  
     if(!$result) 
@@ -20,8 +20,6 @@
           echo json_encode($row);       
     }
      
-
     } //else session
    
-      //mysql_close($connect);
  ?>
