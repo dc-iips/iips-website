@@ -30,12 +30,12 @@
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
-                                  $('#PROFESSINAL_ID').val($getarray.PROFESSIONAL_ID);
+                                  $('#PROFESSIONAL_ID').val($getarray.PROFESSIONAL_ID);
 
                                   $('#session').val($getarray.Session);  
-                                  $('#PROFESSINAL_TOA').val($getarray.Teach_PDA_TOA);  
-                                  $('#PROFESSINAL_YSR').val($getarray.Teach_PDA_YSR);
-                                  $('#corporate_submit').val("Update");
+                                  $('#PROFESSIONAL_TOA').val($getarray.Teach_PDA_TOA);  
+                                  $('#PROFESSIONAL_YSR').val($getarray.Teach_PDA_YSR);
+                                  $('#professional_submit').val("Update");
                             }  
                               ,error: function (xhr, status) {
                                    alert(status);

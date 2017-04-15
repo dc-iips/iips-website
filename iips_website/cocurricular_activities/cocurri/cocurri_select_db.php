@@ -24,22 +24,18 @@
   $(document).on('click', '.edit_data', function(){  
                   var cocurri_id = $(this).attr("id");
                   $.ajax({  
-                            url:"cocurricular_activities/cocurri/cocurri_fetch.php",  
+                            url:"cocurricular_activities/cocurri/cocurri_update_fetch.php",  
                             method:"POST",  
                             data:{cocurri_id:cocurri_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
-
-                                  $('#COCURRI_ID').val($getarray.COCURRI_ID); 
-
+                                  $('#COCURRI_ID').val($getarray.COCURRI_ID);
                                   $('#session').val($getarray.Session);  
-                                  $('#COCURRI_TOA').val($getarray.Teach_COCURRI_TOA);  
+                                  $('#COCURRI_TOA').val($getarray.Teach_COCURRI_TOA);
                                   $('#COCURRI_YSR').val($getarray.Teach_COCURRI_YSR);  
-                                 
                                  $('#cocurri_submit').val("Update");
-
                             }  
                               ,error: function (xhr, status) {
                                    alert(status);
@@ -58,8 +54,8 @@
                                  var $getarray = jQuery.parseJSON(msg);
 
                                   $('#2').val($getarray.Session);  
-                                  $('#3').val($getarray.Teach_CORPORATE_TOA);  
-                                  $('#4').val($getarray.Teach_CORPORATE_YSR); 
+                                  $('#3').val($getarray.Teach_COCURRI_TOA);  
+                                  $('#4').val($getarray.Teach_COCURRI_YSR); 
                                  $('#ViewModal').modal('show');
                             }  
                               ,error: function (xhr, status) {

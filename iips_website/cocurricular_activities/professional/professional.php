@@ -72,7 +72,7 @@
                     $("#session").val("");
                     $("#PROFESSIONAL_TOA").val("");
                     $("#PROFESSIONAL_YSR").val("");
-                   
+                    
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
                           url: "cocurricular_activities/professional/professional_select_db.php",
