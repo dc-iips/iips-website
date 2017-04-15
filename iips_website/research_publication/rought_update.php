@@ -1,1 +1,0 @@
-<a href="research_publication/delete.php?user=<?php echo $username ;?>"

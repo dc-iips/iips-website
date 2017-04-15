@@ -3,15 +3,15 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-       echo "<script>window.open('../index.php','_self')</script>";     
+       echo "<script>window.open('../../index.php','_self')</script>";     
     }
     else
     {
        $connect = mysqli_connect("localhost", "root", "", "pbas_db");  
   
      
-       $query1 = "SELECT * FROM teach_ppij where PPIJ_ID='".$_POST["ppij_id"]."'";  
-       $query2 = "UPDATE teach_ppij SET Data_Set='updated' WHERE PPIJ_ID='".$_POST["ppij_id"]."'";
+       $query1 = "SELECT * FROM teach_cocurri where COCURRI_ID='".$_POST["cocurri_id"]."'";  
+       $query2 = "UPDATE teach_cocurri SET Data_Set='updated' WHERE COCURRI_ID='".$_POST["cocurri_id"]."'";
 
 
 

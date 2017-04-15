@@ -2,7 +2,7 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-       echo "<script>window.open('../index.php','_self')</script>";     
+       echo "<script>window.open('../../index.php','_self')</script>";     
     }
     else
     {
@@ -16,32 +16,30 @@
         padding: 4px 12px;
         text-align: center;
         display: inline-block;
-        font-size: 12px;
+        font-size: 12px
       }
+
 </style>
 <script type="text/javascript">
   $(document).on('click', '.edit_data', function(){  
-                  var ppij_id = $(this).attr("id");
+                  var cocurri_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/update_fetch.php",  
+                            url:"cocurricular_activities/cocurri/cocurri_fetch.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{cocurri_id:cocurri_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
-                                  $('#PPIJ_ID').val($getarray.PPIJ_ID);
+
+                                  $('#COCURRI_ID').val($getarray.COCURRI_ID); 
+
                                   $('#session').val($getarray.Session);  
-                                  $('#twno').val($getarray.Teach_PPIJ_TNO);  
-                                  $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
-                                  $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#PPIJ_PR').val($getarray.Teach_PPIJ_PR);  
-                                  $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);
-                                  if($getarray.Teach_PPIJ_MA=="Yes")
-                                    $("#PPIJ_Y").prop('checked', true);
-                                  else
-                                    $("#PPIJ_N").prop('checked', true);
-                                  $('#ppij_submit').val("Update");
+                                  $('#COCURRI_TOA').val($getarray.Teach_COCURRI_TOA);  
+                                  $('#COCURRI_YSR').val($getarray.Teach_COCURRI_YSR);  
+                                 
+                                 $('#cocurri_submit').val("Update");
+
                             }  
                               ,error: function (xhr, status) {
                                    alert(status);
@@ -49,24 +47,19 @@
                         });
                     }); //End ofClick and function
           //end of ready
-   $(document).on('click', '.view_data', function(){  
-                  var ppij_id = $(this).attr("id");
+    $(document).on('click', '.view_data', function(){  
+                  var cocurri_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/fetch.php",  
+                            url:"cocurricular_activities/cocurri/cocurri_fetch.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{cocurri_id:cocurri_id},
                             success: function(msg)
                             {                               
                                  var $getarray = jQuery.parseJSON(msg);
 
                                   $('#2').val($getarray.Session);  
-                                  $('#3').val($getarray.Teach_PPIJ_TNO);  
-                                  $('#4').val($getarray.Teach_PPIJ_Journal);  
-                                  $('#5').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#6').val($getarray.Teach_PPIJ_PR);  
-                                  $('#7').val($getarray.Teach_PPIJ_NCA);  
-                                  $('#8').val($getarray.Teach_PPIJ_MA);  
-                                 //alert($getarray.PPIJ_ID);
+                                  $('#3').val($getarray.Teach_CORPORATE_TOA);  
+                                  $('#4').val($getarray.Teach_CORPORATE_YSR); 
                                  $('#ViewModal').modal('show');
                             }  
                               ,error: function (xhr, status) {
@@ -74,18 +67,19 @@
                                }
                         });
                     }); //End ofClick and function
+
   $(document).on('click', '.delete_data', function(){  
-                  var ppij_id = $(this).attr("id");  
+                  var cocurri_id = $(this).attr("id");  
                   $.ajax({  
-                            url:"research_publication/delete.php",  
+                            url:"cocurricular_activities/cocurri/cocurri_delete.php",  
                             method:"POST",  
-                            data:{ppij_id:ppij_id},
+                            data:{cocurri_id:cocurri_id},
                             success: function(msg)
                             {                               
                                 //alert("Data Deleted");
                                 $("#table_div").html("Loading Data.......");
                                 $.ajax({
-                                     url: "research_publication/ppij_select_db.php",
+                                     url: "cocurricular_activities/cocurri/cocurri_select_db.php",
                                       type: "post",
                                       data: {},
                                      success: function(msg){
@@ -105,7 +99,7 @@
         <th>Serial No.</th>
         <th>Session Year</th>
         <th>Title</th>
-        <th>Journal</th>
+        <th>Yearly/Semester</th>
         <!-- 
         <th>ISSN</th>
         <th>Peer Reviews</th>
@@ -120,7 +114,7 @@
      mysql_connect('localhost','root','');
      mysql_select_db('pbas_db');
 
-      $query= "SELECT * FROM teach_ppij WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY PPIJ_ID DESC";
+      $query= "SELECT * FROM teach_cocurri WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY COCURRI_ID DESC";
 
       $run= mysql_query($query);
       if (!$run) { // add this check.
@@ -133,13 +127,9 @@
         $session= $row['Session'];
         $serial_no++;
         $user_id= $row['User_Id'];
-        $ppij_id= $row['PPIJ_ID'];
-        $TNO= $row['Teach_PPIJ_TNO'];
-        $Journal= $row['Teach_PPIJ_Journal'];
-        $ISBN= $row['Teach_PPIJ_ISBN'];
-        $PR= $row['Teach_PPIJ_PR'];
-        $NCA= $row['Teach_PPIJ_NCA'];
-        $MA= $row['Teach_PPIJ_MA'];
+        $cocurri_id= $row['COCURRI_ID'];
+        $toa= $row['Teach_COCURRI_TOA'];
+        $Yearly= $row['Teach_COCURRI_YSR'];
       
     ?>
 
@@ -151,18 +141,14 @@
 
         <td><?php echo $serial_no; ?></td>
         <td><?php echo $session;  ?></td>
-        <td><?php echo $TNO; ?></td>
-        <td><?php echo $Journal; ?></td>
-        <!-- <td><?php //echo $ISBN; ?></td>
-        <td><?php //echo $PR; ?></td>
-        <td><?php //echo $NCA; ?></td>
-        <td><?php //echo $MA; ?></td>
- -->
-        <td><button type="submit" name="view" id="<?php echo $row["PPIJ_ID"]; ?>"  class="btn btn-success btn-xs view_data button_style" style="">View</button></a></td>
+        <td><?php echo $toa; ?></td>
+        <td><?php echo $Yearly; ?></td>
+    
+        <td><button type="submit" name="view" id="<?php echo $row["COCURRI_ID"]; ?>"  class="btn btn-success btn-xs view_data button_style" style="">View</button></a></td>
 
-        <td><button type="submit" id="<?php echo $row["PPIJ_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data button_style ">Delete</button></td>
+        <td><button type="submit" id="<?php echo $row["COCURRI_ID"]; ?>" name="infodelete" class="btn btn-warning btn-xs delete_data button_style ">Delete</button></td>
 
-        <td><a href="#slide_up"><button name="edit" value="Edit" id="<?php echo $row["PPIJ_ID"]; ?>" class="btn btn-info btn-xs edit_data button_style">Update</button></a></td>
+        <td><a href="#slide_up"><button name="edit" value="Edit" id="<?php echo $row["COCURRI_ID"]; ?>" class="btn btn-info btn-xs edit_data button_style">Update</button></a></td>
     </tr>
     <?php 
     }
@@ -172,7 +158,7 @@
 
 
 
-    <div class="modal fade" id="ViewModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal fade" id="ViewModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header text-center">
@@ -191,45 +177,17 @@
 
 
                                 <div class="col-md-3">
-                                <label>Title With Page Numbers</label></br>
+                                <label>Type of activity</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="3" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>Journal</label></br>
+                                <label>Yearly/semester CORPORATE</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="4" placeholder="" disabled="disabled" /></br>
-                                </div>
-
-                                <div class="col-md-3">
-                                <label>ISSN / ISBN No.</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="5" placeholder="" disabled="disabled" /></br>
-                                </div>
-
-                                <div class="col-md-3">
-                                <label>Peer Reviewed</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="6" placeholder="" disabled="disabled" /></br>
-                                </div>
-
-                                <div class="col-md-3">
-                                <label>No. of Co-authors</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="7" placeholder="" disabled="disabled" /></br>
-                                </div>
-
-                                <div class="col-md-3">
-                                <label>Whether you are the main Author</label></br>
-                                </div>   
-                                <div class="col-md-9">
-                                <input type="text" class="form-control required" name="" id="8" placeholder="" disabled="disabled" /></br>
                                 </div>
                
                                 <div class="form-group">
