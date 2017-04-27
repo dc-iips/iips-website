@@ -4,7 +4,7 @@
 	if(isset($_SESSION['username']))
 	{	
 		$uname=$_SESSION['username'];
-		$sql= "SELECT * from Gen_Info where user_Id='$uname'";
+		$sql= "SELECT * from Gen_Info where User_Id='$uname'";
 		$result = mysqli_query($conn,$sql);
 		$row = mysqli_fetch_array($result);
 	}
@@ -18,10 +18,10 @@
 		$motherName = $_POST['motherName'];
 		$dob = $_POST['dob'];
 		$adharcard = $_POST['adharcard'];
-		$pancard = $_POST['pancard'];
+		$pancard = $_POST['pan'];
 		$department = $_POST['department'];
 		$qualification = $_POST['qualification'];
-		$address = $_POST['addressPermanant'];
+		$address = $_POST['address'];
 		$mobile = $_POST['contact'];
 		$email = $_POST['email'];
 		//Query for Updating general inforamtion
@@ -40,7 +40,7 @@
 		}
 	    }
 	else{
-			$insertQuery = "Insert Into Gen_Info values('$user_id','$Name','$fatherName','$motherName','$department','$designation','$gradePay','$lastPromotion','$addressCorrespondece','$addressPermanant','$telePhone','$email')";
+			$insertQuery = "Insert Into Gen_Info (User_Id,Gen_Info_Name,Gen_Info_Fname,Gen_Info_Mname,Gen_Info_Department,Gen_Info_Adhar,Gen_Info_Qualification,Gen_Info_PAN,Gen_Info_DOB,Gen_Info_Address,Gen_Info_Mobile,Gen_Info_Email)values('$user_id','$Name','$fatherName','$motherName','$department','$qualification,'$adharcard','$pancard','$dob','$address','$mobile','$email')";
 			$result2 = mysqli_query($conn,$insertQuery);
 			if($result2){
 				header('location:profile.php');

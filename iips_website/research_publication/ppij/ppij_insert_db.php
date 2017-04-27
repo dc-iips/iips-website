@@ -7,7 +7,6 @@
     }
     else
     {
-
       $conn = mysqli_connect('localhost','root','','pbas_db');
       if($conn)  {
 
@@ -19,9 +18,10 @@
               	  $review = $_POST['PPIJ_PR'];
               	  $coauthor = $_POST['PPIJ_NCA'];
               	  $mainauthor = $_POST['PPIJ_YN'];
+                  $factor = $_POST['PPIJ_IF'];
      	  
               
-                 $var = "INSERT INTO `teach_ppij` (Session, User_Id , Teach_PPIJ_TNO, Teach_PPIJ_Journal, Teach_PPIJ_ISBN, Teach_PPIJ_PR,Teach_PPIJ_NCA, Teach_PPIJ_MA, Data_Set) VALUES ('$session','$User_Id', '$title','$journal','$issn','$review','$coauthor','$mainauthor', 'new')";         
+                 $var = "INSERT INTO `teach_ppij` (Session, User_Id , Teach_PPIJ_TNO, Teach_PPIJ_Journal, Teach_PPIJ_ISBN, Teach_PPIJ_PR,Teach_PPIJ_NCA, Teach_PPIJ_MA, Teach_PPIJ_IF, Data_Set) VALUES ('$session','$User_Id', '$title','$journal','$issn','$review','$coauthor','$mainauthor', '$factor', 'new')";         
                
                  if(mysqli_query($conn ,$var)){
                       // exit();
