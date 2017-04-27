@@ -47,14 +47,14 @@
     <div class="col-md-3" id="sidebar">
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b></b> </li>
-        <li role="presentation" id="colm" onClick="getData('cocurricular_activities/cocurri/cocurri.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Co-Curricular, Extension,Professional Development Related Activity</a></li>
+        <li role="presentation" id="colm" onClick="getData('cocurricular_activities/cocurri/cocurri.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Co-Curricular, Extension, Related Activity</a></li>
         <li role="presentation" id="colm" onClick="getData('cocurricular_activities/corporate/corporate.php', 'tab1')"><a href="#tab1" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Contribution to Corporate Life and Management of the Institution</a></li>
         <li role="presentation" id="colm" onClick="getData('cocurricular_activities/professional/professional.php', 'tab1')"><a href="#tab1" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Professional Development Activities</a></li>
       </ul>
     </div>
     <div class="col-md-9">
         <div class="tab-content">
-            <div role="tabpanel" class="tab-pane" id="tab1"></div>
+            <div role="tabpanel" class="tab-pane " id="tab1"></div>
         </div><br><br>
     </div><!--Col-md-9 End> -->
   </div>

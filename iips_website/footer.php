@@ -1,7 +1,7 @@
 <footer id="site-footer">
       <div class="container" id="i13">
         <div class="row">
-          <div class="col-md-5">
+          <div class="col-md-4">
             <a href="index.php"><img src="images/iips_logo2.png" id="logo"></a><br><br><br>
             <a href="https://www.facebook.com/expressions12/?ref=br_rs" target="_blank"><span class="fa fa-facebook fa-15x faa-tada animated-hover faa-fast" id="i14"></span></a>
             <a href="https://twitter.com/iipsdavv" target="_blank"><span class="fa fa-twitter fa-15x faa-tada animated-hover faa-fast icon-color"></span></a>
@@ -11,12 +11,12 @@
             <br><br>
             <p>This is the Beta Version of IIPS Website</p>
           </div>
-          <div class="col-md-7">
+          <div class="col-md-8">
               <div class="row">
                 <div class="col-md-3 col-sm-3 col-xs-6">
                   <ul class="nav">
-                    <h4>Admission</h4>
-                    <li><a href="fee_structure.php" >Fees Structure</a></li>
+                    <h4 style="color: #fff">Admission</h4>
+                    <li><a href="fee_structure.php">Fees Structure</a></li>
                     <li><a href="http://www.davvcet.in/" target="_blank">CET</a></li>
                     <li><a href="http://www.davvcet.in/AdmissionGuidelines.html" target="_blank">Eligibility</a></li>
                     <li><a href="http://www.davvcet.in/Counselling.html" target="_blank" >Counselling</a></li>
@@ -26,8 +26,8 @@
                           
                 <div class="col-md-3 col-sm-3 col-xs-6"> 
                   <ul class="nav">
-                    <h4 class="visible-xs visible-sm">RTI</h4>
-                    <h4 class="visible-md visible-lg" style="padding-left:10%">RTI</h4>
+                    <h4 class="visible-xs visible-sm" style="color: #fff">RTI</h4>
+                    <h4 class="visible-md visible-lg" style="padding-left:10%; color: #fff">RTI</h4>
                     <li><a href="press_release.php" >Press Release</a></li>
                     <li><a href="press_release.php" >Ordinances</a></li>
                     <li><a href="iqac.php" >IQAC</a></li>
@@ -38,7 +38,7 @@
 
                 <div class="col-md-3 col-sm-3 col-xs-6">
                   <ul class="nav">
-                    <h4>Miscellaneous</h4>
+                    <h4 style="color: #fff">Miscellaneous</h4>
                     <li><a href="faculty_profile.php" >Faculty Profile</a></li>
                     <li><a href="staff_profile.php" >Staff Profile</a></li>
                     <li><a href="results.php" >Results </a></li>
@@ -49,7 +49,7 @@
                             
                 <div class="col-md-3 col-sm-3 col-xs-6">
                   <ul class="nav">
-                    <h4>Downloads</h4>
+                    <h4 style="color: #fff">Downloads</h4>
                     <li><a href="academic_calendar.php" >Academic Calendar</a></li>
                     <li><a href="syllabus.php" >Syllabus</a></li>
                     <li><a href="under_construction.php" >Student Verification</a></li>
@@ -67,7 +67,7 @@
                 ?> International Institute of Professional Studies
                 <!-- date() function to automatically update the copyright year on your website -->
             </div>
-            <div class="col-md-6"></div>
+            <div class="col-md-6 "></div>
             <div class="col-md-2 col-xs-6">
                 <a href="about_developers.php" style="color:#AEAEAE;">About Developers</a>
             </div>          

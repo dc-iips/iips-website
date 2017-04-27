@@ -33,10 +33,10 @@
 		<input type="text" class="form-control required" name="motherName" title="Please Enter Your Mother's Name" value="<?php echo $motherName; ?>" required="required"/>
 		<br>
 	<label>Date Of Birth</label>
-		<input type="text" class="form-control required" name="dob" title="Please Enter DOB " value="<?php echo $dob; ?>" required="required"/>
+		<input type="date" class="form-control required" name="dob" title="Please Enter DOB " placeholder="yyyy-mm-dd" value="<?php echo $dob; ?> " required="required"/>
 		<br>
 	<label>Adhar Card Number</label>
-		<input type="text" class="form-control required" name="adharcard" title="Please Enter Your Adharcard Number" value="<?php echo $adharcard; ?>" required="required"/>
+		<input type="Number" class="form-control required" name="adharcard" title="Please Enter Your Adharcard Number" value="<?php echo $adharcard; ?>" required="required"/>
 		<br>
 	<label>PAN Card Number </label>
 		<input type="text" class="form-control required" name="pancard" title="Please Enter Your PAN  Card Number<br>" value="<?php echo $pancard; ?>" required="required"/>
@@ -51,7 +51,7 @@
 		<input type="text" class="form-control required" name="addressPermanant" title="Please Enter Your Address" value="<?php echo $address; ?>" required="required"/>
 		<br>
 	<label>Contact No.</label>
-		<input type="text" class="form-control required" name="contact" title="Please Enter Your Contact No." value="<?php echo $mobile; ?>" required="required"/>
+		<input type="number" class="form-control required" name="contact" title="Please Enter Your Contact No." value="<?php echo $mobile; ?>" required="required"/>
 		<br>
 	<label>Email</label>
 		<input type="email" class="form-control required" name="email" title="Please Enter Your Email" value="<?php echo $email; ?>" required="required"/>

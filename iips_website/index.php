@@ -16,6 +16,26 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   </head>
 <body>
+    <!-- fb login -->
+    <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1674748972821461',
+      xfbml      : true,
+      version    : 'v2.9'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+    <!-- fb login -->
     <?php
      session_start();
     if (isset($_SESSION['username'])) {
@@ -25,51 +45,29 @@
         include('header_without_faculty.php');
     }
 ?>
+    <div
+      class="fb-like"
+      data-share="true"
+      data-width="450"
+      data-show-faces="true">
+    </div>
     <br>
     <!--Slider Start -->
     <div class="container">
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   	<!-- Indicators -->
   	<ol class="carousel-indicators">
-    	<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
     	<li data-target="#carousel-example-generic" data-slide-to="1"></li>
     	<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-      <li data-target="#carousel-example-generic" data-slide-to="3"></li>
-      <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="6"></li>
   	</ol>
 
   	<!-- Wrapper for slides -->
-  	<div class="carousel-inner" role="listbox" >
-    	<div class="item active">
-      		<img src="images/slider/slider1.jpg" alt="Image" class="slider_size">
-      		<div class="carousel-caption">
-      		</div>
-    	</div>   
-
-    	<div class="item">
-      		<img src="images/slider/slider2.jpg" alt="Image" class="slider_size">
-      		<div class="carousel-caption">
-      		</div>
-    	</div>
-
-      <div class="item">
-          <img src="images/slider/slider3.jpg" alt="Image" class="slider_size">
-          <div class="carousel-caption">
-          </div>
-      </div>
-
-      <div class="item">
-          <img src="images/slider/slider4.jpg" alt="Image" class="slider_size">
-          <div class="carousel-caption">
-          </div>
-      </div>   
-
-
-      <div class="item">
-          <img src="images/slider/slider5.jpg" alt="Image" class="slider_size">
-          <div class="carousel-caption">
-          </div>
-      </div>    
+  	<div class="carousel-inner" role="listbox" >   
 
       <div class="item">
           <img src="images/slider/slider6.jpg" alt="Image" class="slider_size">
@@ -114,25 +112,7 @@
       </div>
 
       <div class="item">
-          <img src="images/slider/slider13.jpg" alt="Image" class="slider_size">
-          <div class="carousel-caption">
-          </div>
-      </div>
-
-      <div class="item">
-          <img src="images/slider/slider14.jpg" alt="Image" class="slider_size">
-          <div class="carousel-caption">
-          </div>
-      </div>
-
-      <div class="item">
           <img src="images/slider/slider15.jpg" alt="Image" class="slider_size">
-          <div class="carousel-caption">
-          </div>
-      </div>
-
-      <div class="item">
-          <img src="images/slider/slider16.jpg" alt="Image" class="slider_size">
           <div class="carousel-caption">
           </div>
       </div>
@@ -150,22 +130,12 @@
           </div>
       </div>
 
-      
-      <div class="item">
-          <img src="images/slider/slider18.jpg" alt="Image" class="slider_size">
-          <div class="carousel-caption">
-          </div>
-      </div>
-
-      <div class="item">
+      <div class="item active">
           <img src="images/slider/slider19.jpg" alt="Image" class="slider_size">
           <div class="carousel-caption">
           </div>
       </div>
-
      
-
-        
     </div>
 
   	<!-- Controls -->
@@ -192,7 +162,7 @@
     		  	</div>
     		  	
   		  		<div class="col-md-3 col-sm-6">
-            		<h4 class="heading-color"><br>Vision and Mission</h4>
+            	<h4 class="heading-color"><br>Vision and Mission</h4>
             		<div class="container-fluid">
               			<div class="text-justify"> 
                       Become a globally recognized institute in management, computer science and commerce through creating an environment of excellence<hr>
@@ -262,29 +232,37 @@
 
         <div class="row">
           <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
+            <center style="padding: 5%;"> 
               <img src="images/events/xpression.jpg" class="img-responsive"/>
-              <h3>Xpression</h3>
+              <h3 style="color: #fff">Xpression</h3>
               <hr/>
               <p>It is the second biggest cultural event of Indore. It include more than 70 events and sponsored by many famous brands.</p>
+              </center>
           </div>
       
           <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
+            <center style="padding: 5%;"> 
                 <img src="images/events/synergypic.jpg" class="img-responsive"/>
-                <h3>Synergy</h3>
+                <h3 style="color: #fff">Synergy</h3>
                 <hr/>
                 <p>Intra College sports event of Institute. It includes all major sports like Crickets, Football, Chess, Volleyball etc.</p>
+            </center>
           </div>
           <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
+            <center style="padding: 5%;"> 
               <img src="images/events/touristapic.jpg" class="img-responsive"/>
-              <h3>Tourista</h3>
+              <h3 style="color: #fff">Tourista</h3>
               <hr/>
               <p>Cultural event initiated by MBA-Tourism for world tourism day. It includes various events like dance, treasure hunt, best of waste etc.</p>
+            </center>
           </div>
           <div class="col-sm-4 col-md-3 col-lg-3 inner-event">
-              <img src="images/events/touristapic.jpg" class="img-responsive"/>
-              <h3>Technophilia</h3>
+            <center style="padding: 5%;"> 
+              <img src="images/events/technophilia.jpg" class="img-responsive"/>
+              <h3 style="color: #fff">Technophilia</h3>
               <hr/>
               <p>Cultural event initiated by MBA-Tourism for world tourism day. It includes various events like dance, treasure hunt, best of waste etc.</p>
+            </center>
           </div>
         </div><!--row-->
       </div><!--Container-->

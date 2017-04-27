@@ -21,8 +21,8 @@
 		$pancard = $_POST['pancard'];
 		$department = $_POST['department'];
 		$qualification = $_POST['qualification'];
-		$address = $_POST['address'];
-		$mobile = $_POST['mobile'];
+		$address = $_POST['addressPermanant'];
+		$mobile = $_POST['contact'];
 		$email = $_POST['email'];
 		//Query for Updating general inforamtion
 		if(!empty($row['User_Id']) and !empty($row['Gen_Info_Name']))

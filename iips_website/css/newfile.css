@@ -24,6 +24,11 @@
   text-align: justify;
   font-size: 1.1em;
   font-family: 'Noto Serif', serif;
+
+}
+.setSize{
+  width: 200px;
+  height: 250px;
 }
 #i3{
     height: 400px;
@@ -68,6 +73,7 @@
 #list{
    list-style-type:none;
    border-right:1px solid #CCC;
+   padding-left: 50%; 
 }
 #i10{
   font-size:1.4em;
@@ -197,6 +203,7 @@ a:hover{
 }
 #site-footer h4{
   font-weight: bold;
+  
 }
 .mybutton{
     background-color: #003262;

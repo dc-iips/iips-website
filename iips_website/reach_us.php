@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -45,25 +46,25 @@
                   <div class="col-md-3">
                   </div>
                   <div class="col-md-6">
-                      <form>
+                      <form method="POST">
                           <div class="form-group has-feedback">
-                              <input type="text" class="form-control" id="name" placeholder="Name">
+                              <input type="text" class="form-control" id="name" placeholder="Name" name="name">
                               <span class="glyphicon glyphicon-user form-control-feedback" aria-hidden="true"></span>
                           </div>
                           <div class="form-group has-feedback">
-                              <input type="email" class="form-control" id="email" placeholder="Email">
+                              <input type="email" class="form-control" id="email" placeholder="Email" name="email">
                               <span class="glyphicon glyphicon-envelope form-control-feedback" aria-hidden="true"></span>
                           </div>
                           <div class="form-group has-feedback">
-                              <input type="text" class="form-control" id="phone" placeholder="Phone">
+                              <input type="text" class="form-control" id="phone" placeholder="Phone" name="phone">
                               <span class="glyphicon glyphicon-phone form-control-feedback" aria-hidden="true"></span>
                           </div>
                           <div class="form-group has-feedback">
-                              <textarea class="form-control" rows="5" id="message" placeholder="Message"></textarea>
+                              <textarea class="form-control" rows="5" id="message" placeholder="Message" name="message"></textarea>
                               <span class="glyphicon glyphicon-comment form-control-feedback" aria-hidden="true"></span>
                           </div>
                           <div class="text-center">
-                              <button type="button" class="btn btn-primary btn-lg text-center">Submit Now</button>
+                              <button type="Submit" class="btn btn-primary btn-lg text-center">Submit Now</button>
                           </div>
                       </form>
                   </div>
@@ -77,4 +78,26 @@
   </div>
   <br>
 </div>
+<?php 
+      $conn = mysqli_connect('localhost','root','','iips_db');
+
+      if($conn)  {
+                  $name = isset($_POST['name']) ? $_POST['name'] : '';
+                  $email = isset($_POST['email']) ? $_POST['email'] : '';
+                  $phone = isset($_POST['phone']) ? $_POST['phone'] : '';
+                  $message = isset($_POST['message']) ? $_POST['message'] : '';
+                 $var = "INSERT INTO `reachus` (name, email, phone, message) VALUES ('$name', '$email', '$phone', '$message')";         
+               
+                 if(mysqli_query($conn ,$var)){
+                     
+                      echo "Record Submitted";
+                  }else{
+                      echo "<script>alert('Record not Submitted') </script>";
+                 }            
+        } 
+        else  {
+             echo "not conncted";
+        } 
+?>  
+
 <?php include 'footer.php'; ?>

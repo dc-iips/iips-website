@@ -92,7 +92,7 @@
      </script>
 
 
-    <center id="slide_up"><h4><b>Research Publication And Academic Contribution</b></h4></center>
+    <center id="slide_up"><h4><b>Co-Curricular Related Activities</b></h4></center>
 
      <div class="row-fluid">       
         <div class="col-md-11">
@@ -100,7 +100,7 @@
         <!--Published Papers Panel started -->
         <div class="panel panel-primary" style="padding:3px 3px 3px 3px;">
             <div class="panel-heading">
-              <h3  id="papers" class="panel-title" align="center">Published Papers in Journals</h3>
+              <h3  id="papers" class="panel-title" align="center">Contribution To Cooperate Life and management of the institution</h3>
             </div><!--end of panel heading-->
             <br>
             <form role="form" id="corporate_save" name="corporate_save" method="post">

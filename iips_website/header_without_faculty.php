@@ -11,8 +11,12 @@
                     <img src="images/logo_new.png" class="img img-responsive iips-logo-css col-lg-7">
                 </a>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
-                <li class="wrapper visible-lg visible-md visible-sm nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
-                <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="under_construction.php">Alumni</a></li>     
+                <li class="wrapper visible-lg visible-md visible-sm nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff
+                <img src="images/new1.gif" style="border: 0px;">
+                </a></li>
+                <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="alumni_reg.php">Alumni
+                <img src="images/new1.gif" style="border: 0px;">
+        </a></li>     
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="sitemap.php">Sitemap</a></li>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="under_construction.php">Feedback</a></li>
                     <form class="wrapper hidden-xs navbar-form navbar-right" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">
@@ -67,14 +71,15 @@
                                     </div>    
                             </div>
                             <ul class="nav navbar-nav" id="test">
+                                <ul class="nav navbar-nav" id="test">
                                 <!--About-->
-                                <li class="dropdown yamm-fw" id="test_about" style='margin-right:50px'>
+                                <li class="dropdown yamm-fw" id="test_about" style='margin-right: 110px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline" style="color:#FFF">About<span class="caret"></span></a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-about" role="menu" style="margin:12px">
-                                        <div class="row image2">                
+                                        <div class="image2">                
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/about/image1.png" class="img-responsive" alt="About IIPS image">
+                                                    <img src="images/about/image1.png" class="img-responsive setSize" style="width:250px; height: 215px" alt="About IIPS image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     The International Institute of Professional Studies, a department of Devi Ahilya Vishwavidyalaya established in the year 1992 is an academic mentor of its kind and an eminently practical institute, recognized by AICTE. With the quality in the content, scope and professionalism of its programs.
@@ -97,13 +102,13 @@
                                 </li>
 
                                 <!--Admission-->
-                                <li class="dropdown yamm-fw" id="test_admission" style='margin-right:50px'>
+                                <li class="dropdown yamm-fw" id="test_admission" style='margin-right: 110px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline"style="color:#FFF">Admission<span class="caret"></span></a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-admission" style="margin:12px">
-                                        <div class="row image2">
+                                        <div class="image2">
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/admission/auditorium.jpg" class="img-responsive" alt="Responsive image">
+                                                    <img src="images/admission/auditorium.jpg" class="img-responsive" style="width:250px; height: 215px" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     Every year CET is conducted in the month of JUNE for various courses at Graduate and post graduate level. The students from all over India apply to get admission through this exam. In this written exam the student’s general aptitude, language knowledge and mathematical ability is tested.
@@ -124,14 +129,14 @@
                                 </li>
 
                                 <!--Academics-->
-                                <li class="dropdown yamm-fw" id="test_academics" style='margin-right:50px'>
+                                <li class="dropdown yamm-fw" id="test_academics" style='margin-right: 110px'>
                                     <a href="#" class="dropdown-toggle navbar-underline" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline"style="color:#FFF">Academics<span class="caret"></span>
                                     </a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-academics" style="margin:12px">
-                                        <div class="row image2">
+                                        <div class="image2">
                                             <div class="col-md-7 col-sm-8 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/academics/012.jpg" class="img img-responsive" alt="Responsive image">
+                                                    <img src="images/academics/012.jpg" class="img img-responsive" style="width:250px; height: 215px" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     The institute provides ample opportunities to students with a rigorous and challenging curriculum with flexibility to allow students to tailor their education to meet their professional and personal interests and goals.      
@@ -155,14 +160,14 @@
                                 </li>
 
                                 <!--Research -->
-                                <li class="dropdown yamm-fw" id="test-research" style='margin-right:50px'>
+                                <li class="dropdown yamm-fw" id="test-research" style='margin-right: 110px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline"style="color:#FFF">Research<span class="caret"></span>
                                     </a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-research" style="margin:12px">
-                                        <div class="row image2">      
+                                        <div class="image2">      
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                                 <div class="col-md-6 col-sm-6">
-                                                    <img src="images/research/research_.png" class="img img-responsive" alt="Responsive image">
+                                                    <img src="images/research/research_.png" class="img img-responsive" style="width:250px; height: 215px" alt="Responsive image">
                                                 </div>
                                                 <div class="col-md-6 col-sm-6">
                                                     Research is a process to discover new knowledge. The development and research center allow students to learn standards that are currently adapted by industry. Mentors also guide students to publish new research papers.
@@ -183,14 +188,14 @@
                                 </li>
 
                                 <!--Campus Life-->
-                                <li class="dropdown yamm-fw" id="campus_life" style='margin-right:50px'>
+                                <li class="dropdown yamm-fw" id="campus_life" style='margin-right: 110px'>
                                     <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline"style="color:#FFF">Campus Life<span class="caret"></span>
                                     </a>
                                      <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
-                                      <div class="row image2">
+                                      <div class="image2">
                                           <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
                                               <div class="col-md-6 col-sm-6">
-                                                  <img src="images/campuslife/campus.jpg" class="img-responsive" alt="Responsive image">
+                                                  <img src="images/campuslife/campus.jpg" class="img-responsive" style="width:250px; height: 215px" alt="Responsive image">
                                               </div>
                                               <div class="col-md-6 col-sm-6">
                                                   Other than studies students also enjoy their college life by participating in different events. Every year top IT and management companies like TCS, Infosys, wipro visit campus and offer very good packages to students.                                        </div>
@@ -210,9 +215,7 @@
                                       </div>        
                                     </ul>
                                 </li>
-                                
                             </ul>
-
                             <div class="wrapper visible-xs">
                               <h3 id="i38">Information for...</h3>
                               <ul class="nav navbar-nav">
