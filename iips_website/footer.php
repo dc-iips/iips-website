@@ -54,6 +54,7 @@
                     <li><a href="syllabus.php" >Syllabus</a></li>
                     <li><a href="under_construction.php" >Student Verification</a></li>
                     <li><a href="downloads.php" >Faculty CV</a></li>
+                    <li><a href="reach_us.php" >Navigate and Contacts</a></li>
                   </ul>
                 </div>
                 
