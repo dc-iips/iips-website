@@ -1,5 +1,5 @@
 <?php 
-        $conn = mysqli_connect('localhost','root','','iips_db');
+        $conn = mysqli_connect('localhost','root','','pbas_db');
 
       if($conn)  {
                   $name = isset($_POST['name']) ? $_POST['name'] : '';
