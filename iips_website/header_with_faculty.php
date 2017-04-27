@@ -22,7 +22,7 @@
                 </a>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
                <!--  <li class="wrapper visible-lg visible-md visible-sm nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
-                 --><li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="alumni_reg.php.php">Alumni</a></li>     
+                 --><li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="alumni_reg.php">Alumni</a></li>     
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="sitemap.php">Sitemap</a></li>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="under_construction.php">Feedback</a></li>
                     <form class="wrapper hidden-xs navbar-form navbar-right" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">
@@ -108,7 +108,7 @@
 
                                 <!--Admission-->
                                 <li class="dropdown yamm-fw" id="test_admission" style='margin-right:50px'>
-                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline"style="color:#FFF">Admission<span class="caret"></span></a>
+                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="false" aria-expanded="false" id="no-underline" style="color:#FFF">Admission<span class="caret"></span></a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-admission" style="margin:12px">
                                         <div class="image2">
                                             <div class="col-md-7 col-sm-9 hidden-xs" id="i6">
@@ -135,7 +135,7 @@
 
                                 <!--Academics-->
                                 <li class="dropdown yamm-fw" id="test_academics" style='margin-right:50px'>
-                                    <a href="#" class="dropdown-toggle navbar-underline" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline"style="color:#FFF">Academics<span class="caret"></span>
+                                    <a href="#" class="dropdown-toggle navbar-underline" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline" style="color:#FFF">Academics<span class="caret"></span>
                                     </a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-academics" style="margin:12px">
                                         <div class="image2">
@@ -166,7 +166,7 @@
 
                                 <!--Research -->
                                 <li class="dropdown yamm-fw" id="test-research" style='margin-right:50px'>
-                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline"style="color:#FFF">Research<span class="caret"></span>
+                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline" style="color:#FFF">Research<span class="caret"></span>
                                     </a>
                                     <ul class="dropdown-menu nav-margin" id="yamm-down-research" style="margin:12px">
                                         <div class="image2">      
@@ -194,7 +194,7 @@
 
                                 <!--Campus Life-->
                                 <li class="dropdown yamm-fw" id="campus_life" style='margin-right:50px'>
-                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline"style="color:#FFF">Campus Life<span class="caret"></span>
+                                    <a href="#" class="dropdown-toggle navbar-underline navbar-two" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" id="no-underline" style="color:#FFF">Campus Life<span class="caret"></span>
                                     </a>
                                      <ul class="dropdown-menu nav-margin" id="yamm-down-campus" style="margin:12px">
                                       <div class="image2">
@@ -264,7 +264,7 @@
                               <ul class="nav navbar-nav">
                                 <li><a href="under_construction.php">Students</a></li>
                                 <!-- <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li> -->
-                                <li><a href="under_construction.php">Alumni</a></li>
+                                <li><a href="alumni_reg.php">Alumni</a></li>
                               </ul>
                             </div>
                         </div>

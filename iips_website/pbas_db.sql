@@ -1,13 +1,14 @@
 -- phpMyAdmin SQL Dump
--- version 3.1.3.1
+-- version 3.4.10.1
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Mar 20, 2017 at 03:13 PM
--- Server version: 5.1.33
--- PHP Version: 5.2.9-2
+-- Generation Time: Apr 27, 2017 at 10:55 PM
+-- Server version: 5.5.20
+-- PHP Version: 5.3.10
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
@@ -122,8 +123,12 @@ INSERT INTO `gen_info` (`User_Id`, `Gen_Info_Name`, `Gen_Info_Fname`, `Gen_Info_
 ('a', 'Swety', 'Swetypaapa', 'swetymumma', '1992-05-11', 2147483647, '45454646', 'MCA', 'IIIPS', '', 0, 'hugg@hotmail.com'),
 ('shaligram', 'SHALIGRAM PRAJAPAT', 'Ramkishore Prajapat', 'BrijRani Prajapat', '0000-00-00', 0, '', '', 'International Institute of Pro', 'D-49/A MIG First Floor Shoping', 2147483647, 'shaligram.prajapat@gmail.com'),
 ('s', 'Shivshankar Pindoriya', 'ss', 'ss', '0000-00-00', 0, '', '', 'ss', 'dflfm', 2147483647, 'shiv.dangi71@gmail.com'),
-('rahul', 'bsddjk mmmmmmmm', 'sdjkbf', 'sdf', '0000-00-00', 0, 'p', 'p', 'p', '', 0, 'ss@sdjf'),
-('ritika', 'Ritika', 'Prem', 'Kiran', '0000-00-00', 0, '', '', '', '', 0, 'kk@hh');
+('rahul', 'rahal sisjhffc', 'sdjkbf', 'sdf', '0000-00-00', 0, 'p', 'p', 'p', '', 0, 'ss@sdjf'),
+('ritika', 'Ritika', 'Prem', 'Kiran', '0000-00-00', 0, '', '', '', '', 0, 'kk@hh'),
+('rajkumar', 'a', 'a', 'A', '1999-02-20', 0, '457855', 'phd', 'iips', '4556, pepwpd, indore', 98698598, 'aboutvikaschouhan@hotmail.com'),
+('rajat', 'rajat', 'sanjay', 'xyz', '1994-07-01', 123457689, 'RRRR', '11111111111R', '11111111111R', '11111111111R', 2147483614, 'abc@ff'),
+('shraddha_soni', 'mona', 'jjjjj', 'nnnnn', '0000-00-00', 0, '53345345', 'hfghfg', 'iiips', 'hgfjgh', 675753, 'rrtrtgfdfgdfgfdgdfg@m'),
+('vikas', 'vikas', 'chouhan', 'chouhan', '1993-02-28', 123456799, '789446DFC', 'Int. MCA', 'IIPS-DAVV', '248, pawan nagar, indore 45200', 2147483647, 'aboutvikaschouhan@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -137,22 +142,50 @@ CREATE TABLE IF NOT EXISTS `image` (
   `image` varchar(200) NOT NULL,
   `insert_time` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=10 ;
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=38 ;
 
 --
 -- Dumping data for table `image`
 --
 
 INSERT INTO `image` (`id`, `User_Id`, `image`, `insert_time`) VALUES
-(1, 'ritika', '15-09-06-23-58-40-114_deco.jpg', '2017-03-20 15:31:59'),
-(2, 'ritika', '1454002728820.jpg', '2017-03-20 15:32:13'),
-(3, 'ritika', '', '2017-03-20 15:32:16'),
-(4, 'ritika', '', '2017-03-20 15:32:18'),
-(5, 'ritika', '1.jpg', '2017-03-20 15:32:30'),
-(6, 'ritika', '', '2017-03-20 15:32:31'),
-(7, 'ritika', '', '2017-03-20 15:32:32'),
-(8, 'ritika', '15-10-03-17-58-55-138_deco.jpg', '2017-03-20 15:34:26'),
-(9, 'ritika', '15-10-14-21-16-22-764_deco.jpg', '2017-03-20 15:36:32');
+(1, 'ritika', '15-09-06-23-58-40-114_deco.jpg', '2017-03-20 22:31:59'),
+(2, 'ritika', '1454002728820.jpg', '2017-03-20 22:32:13'),
+(3, 'ritika', '', '2017-03-20 22:32:16'),
+(4, 'ritika', '', '2017-03-20 22:32:18'),
+(5, 'ritika', '1.jpg', '2017-03-20 22:32:30'),
+(6, 'ritika', '', '2017-03-20 22:32:31'),
+(7, 'ritika', '', '2017-03-20 22:32:32'),
+(8, 'ritika', '15-10-03-17-58-55-138_deco.jpg', '2017-03-20 22:34:26'),
+(9, 'ritika', '15-10-14-21-16-22-764_deco.jpg', '2017-03-20 22:36:32'),
+(10, 'rahul', 'IMAG0100.jpg', '2017-03-22 18:21:20'),
+(11, 'rahul', 'ramesh_thakur.jpg', '2017-03-22 18:23:10'),
+(12, 'rahul', 'ramesh_thakur.jpg', '2017-03-22 18:23:18'),
+(13, 'rahul', '', '2017-03-22 18:23:34'),
+(14, 'rahul', 'faculty_pic.jpg', '2017-03-22 18:23:47'),
+(15, 'rahul', '', '2017-03-22 18:23:49'),
+(16, 'rahul', '', '2017-03-22 18:23:50'),
+(17, 'rahul', '', '2017-03-22 18:23:50'),
+(18, 'rahul', '', '2017-03-22 18:23:50'),
+(19, 'rahul', '', '2017-03-22 18:23:51'),
+(20, 'rahul', '', '2017-03-22 18:23:51'),
+(21, 'rahul', '', '2017-03-22 18:23:52'),
+(22, 'rahul', '', '2017-03-22 18:24:21'),
+(23, 'shraddha_soni', '235.jpg', '2017-04-20 21:28:23'),
+(24, 'ramesh_thakur', 'ramesh_thakur.jpg', '2017-04-20 21:29:55'),
+(25, 'kirti_mathur', 'DSCN6256.JPG', '2017-04-20 21:34:05'),
+(26, 'rajkumar', '21537157690_15c64669f6_b.jpg', '2017-04-20 21:35:40'),
+(27, 'rajat', 'technophilia.PNG', '2017-04-20 22:07:58'),
+(28, 'shraddha_soni', '', '2017-04-20 22:20:06'),
+(29, 'rupesh_01', 'ramesh_thakur.jpg', '2017-04-20 22:37:31'),
+(30, 'shraddha_soni', '', '2017-04-21 22:40:36'),
+(31, 'shraddha_soni', '', '2017-04-21 22:40:38'),
+(32, 'shraddha_soni', '1014150_630486336969252_223045885_n.jpg', '2017-04-21 22:40:49'),
+(33, 'shraddha_soni', '', '2017-04-21 22:40:51'),
+(34, 'shraddha_soni', '', '2017-04-21 22:40:52'),
+(35, 'shraddha_soni', '1014150_630486336969252_223045885_n.jpg', '2017-04-21 22:41:02'),
+(36, 'a', '21537157690_15c64669f6_b.jpg', '2017-04-22 23:43:43'),
+(37, 'vikas', 'technophilia.PNG', '2017-04-26 20:28:56');
 
 -- --------------------------------------------------------
 
@@ -206,6 +239,34 @@ INSERT INTO `orie` (`User_Id`, `Year`, `SNo`, `Details`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `register`
+--
+
+CREATE TABLE IF NOT EXISTS `register` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `name` varchar(20) NOT NULL,
+  `email` varchar(30) NOT NULL,
+  `phone` int(13) NOT NULL,
+  `current` varchar(50) NOT NULL,
+  `company_name` varchar(50) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=26 ;
+
+--
+-- Dumping data for table `register`
+--
+
+INSERT INTO `register` (`id`, `name`, `email`, `phone`, `current`, `company_name`) VALUES
+(6, 'vikas', 'a@gmail.com', 8889888, '8adafafafafafaf', ''),
+(10, 'vikas', 'aboutvikaschouhan@gmail.com', 2147483647, 'sdfsefsfsf', ''),
+(11, 'rahul satal', 'rahulsatal92@gmail.com', 2147483647, 'DD submit krna hai aaj 26/04/2017', ''),
+(20, 'rajat garg', 'rg6694@gmail.com', 2147483647, 'reach us rename ke baad ki testing', ''),
+(24, 'v', 'aa@f.c', 111111, '', ''),
+(25, 'zzzzzz', 'xxxx@c.c', 8888, '', '');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `session_master`
 --
 
@@ -232,7 +293,8 @@ INSERT INTO `session_master` (`session_id`, `session_description`, `from_date`, 
 --
 
 CREATE TABLE IF NOT EXISTS `teach_apb` (
-  `User_Id` varchar(30) NOT NULL,
+  `apb_id` int(30) NOT NULL AUTO_INCREMENT,
+  `user_id` int(20) NOT NULL,
   `Year` varchar(10) NOT NULL,
   `Teach_APB_TNO` varchar(50) NOT NULL,
   `Teach_APB_BEP` varchar(50) NOT NULL,
@@ -240,21 +302,16 @@ CREATE TABLE IF NOT EXISTS `teach_apb` (
   `Teach_APB_WPR` varchar(50) NOT NULL,
   `Teach_APB_NOC` int(11) NOT NULL,
   `Teach_APB_MA` varchar(20) NOT NULL,
-  PRIMARY KEY (`User_Id`,`Year`,`Teach_APB_TNO`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  `Data_Set` varchar(20) NOT NULL,
+  PRIMARY KEY (`apb_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
 
 --
 -- Dumping data for table `teach_apb`
 --
 
-INSERT INTO `teach_apb` (`User_Id`, `Year`, `Teach_APB_TNO`, `Teach_APB_BEP`, `Teach_APB_ISSN`, `Teach_APB_WPR`, `Teach_APB_NOC`, `Teach_APB_MA`) VALUES
-('', '', 'eminem ', 'cent', '45', 'uy', 4, 'on'),
-('', '', 'ras', 'sar', '143', 'lala', 3, 'on'),
-('n', '2003', 'b', 'b', 'b', 'b', 0, 'Yes'),
-('n', '2003', 'j', 'j', 'j', 'j', 4, 'No'),
-('n', '2003', 'n', 'n', 'n', 'n', 0, 'No'),
-('n', '2003', 'o', 'o', 'o', 'o', 5, 'No'),
-('n', '2003', 'u', 'u', 'u', 'u', 4, 'No');
+INSERT INTO `teach_apb` (`apb_id`, `user_id`, `Year`, `Teach_APB_TNO`, `Teach_APB_BEP`, `Teach_APB_ISSN`, `Teach_APB_WPR`, `Teach_APB_NOC`, `Teach_APB_MA`, `Data_Set`) VALUES
+(1, 0, '', 'ras', 'sar', '143', 'lala', 3, 'on', '');
 
 -- --------------------------------------------------------
 
@@ -295,33 +352,123 @@ CREATE TABLE IF NOT EXISTS `teach_clmi` (
   `Year` varchar(10) NOT NULL,
   `Teach_CLMI_TOA` varchar(100) NOT NULL,
   `Teach_CLMI_YSR` varchar(30) NOT NULL,
-  `Teach_CLMI_API` int(11) NOT NULL,
-  PRIMARY KEY (`User_Id`,`Year`,`Teach_CLMI_TOA`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  `CORPORATE_ID` int(10) NOT NULL AUTO_INCREMENT,
+  `Data_Set` varchar(7) NOT NULL,
+  `Session` varchar(30) NOT NULL,
+  PRIMARY KEY (`CORPORATE_ID`),
+  KEY `User_Id` (`User_Id`,`Year`,`Teach_CLMI_TOA`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=47 ;
 
 --
 -- Dumping data for table `teach_clmi`
 --
 
-INSERT INTO `teach_clmi` (`User_Id`, `Year`, `Teach_CLMI_TOA`, `Teach_CLMI_YSR`, `Teach_CLMI_API`) VALUES
-('a', '2003', 'a', 'aa', 0),
-('n', '', 'Hawan', 'Karenge', 5),
-('n', '', 'Samvardhan', 'dadsas', 5),
-('v', '2003', 'v', 'v', 5),
-('a', '2003', 'abc', 'abc', 9),
-('a', '1990', 'a', 'a', 8),
-('$user_id', '$year', '$type', '$responsibility', 0),
-('a', '1990', 'q', 'q', 0),
-('a', '1990', 's', 's', 0),
-('a', '1990', 'e`', 'e', 0),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Member in discipline committee of IIPS', 'Semester wise', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Member in anti-ragging committees', 'Semester wise', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Member of ISTE,CSTA, IEEE', 'yearly', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Project In charge for Counseling and co-coordinating Student Projects', 'Semester wise', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Member of Innovative Practices for the preparation of NAAC inspection team visit.', 'Not applicable', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Member of editorial board of Proposed IIPS international journal ', 'yearly', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Member of subject allocation committee of computer course of IIPS', 'Semester wise', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Member of monitoring committee and executing staff of Research and Development Center of IIPS', 'Not applicable', 5);
+INSERT INTO `teach_clmi` (`User_Id`, `Year`, `Teach_CLMI_TOA`, `Teach_CLMI_YSR`, `CORPORATE_ID`, `Data_Set`, `Session`) VALUES
+('a', '2003', 'a', 'aa', 1, '', ''),
+('n', '', 'Hawan', 'Karenge', 2, 'updated', ''),
+('n', '', 'Samvardhan', 'dadsas', 3, '', ''),
+('v', '2003', 'v', 'v', 4, '', ''),
+('a', '2003', 'abc', 'abc', 5, '', ''),
+('a', '1990', 'a', 'a', 6, 'updated', ''),
+('$user_id', '$year', '$type', '$responsibility', 7, 'updated', ''),
+('a', '1990', 'q', 'q', 8, 'updated', ''),
+('a', '1990', 's', 's', 9, 'updated', ''),
+('a', '1990', 'e`', 'e', 10, 'updated', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Member in discipline committee of IIPS', 'Semester wise', 11, 'updated', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Member in anti-ragging committees', 'Semester wise', 12, 'updated', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Member of ISTE,CSTA, IEEE', 'yearly', 13, 'updated', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Project In charge for Counseling and co-coordinating Student Projects', 'Semester wise', 14, '', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Member of Innovative Practices for the preparation of NAAC inspection team visit.', 'Not applicable', 15, '', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Member of editorial board of Proposed IIPS international journal ', 'yearly', 16, '', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Member of subject allocation committee of computer course of IIPS', 'Semester wise', 17, '', ''),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Member of monitoring committee and executing staff of Research and Development Center of IIPS', 'Not applicable', 18, '', ''),
+('a', '', 'saasfa', 'sdvdsvsv', 19, 'updated', ''),
+('a', '', 'sfgsdg', 'fbdfb', 20, 'updated', ''),
+('a', '', 'abcdefg', 'ffbdfbdbbd', 21, 'updated', ''),
+('a', '', 'vikas_testimg', '', 22, 'deleted', ''),
+('a', '', 'ddd', '', 23, 'updated', ''),
+('a', '', 'vikas_testiNG_2', '', 24, 'deleted', ''),
+('a', '', 'FFFF', '', 25, 'deleted', ''),
+('a', '', 'XYZZ', 'AAAA', 26, 'deleted', ''),
+('a', '', 'FINAL_1', 'PLEASE', 27, 'deleted', ''),
+('a', '', 'abcdefg_1', 'ffbdfbdbbd', 28, 'deleted', ''),
+('a', '', 'saasfa_QQ', 'sdvdsvsv', 29, 'updated', ''),
+('a', '', 'AS', 'SDSD', 30, 'updated', ''),
+('a', '', 'XCVXDV', 'DSVDS', 31, 'updated', ''),
+('a', '', 'DVSDF', 'DTDGDRG', 32, 'updated', ''),
+('a', '', 'DVSDF_Q', 'DTDGDRG', 33, 'deleted', ''),
+('a', '', 'FBDFAdf', 'dd', 34, 'updated', ''),
+('a', '', 'AFAW', 'FGSRDGDR', 35, 'updated', ''),
+('a', '', 'DFHBDF', 'THHTH', 36, 'updated', ''),
+('a', '', 'DFHBDFAA', 'THHTH', 37, 'deleted', ''),
+('a', '', 'DFDF', 'DFFBDB', 38, 'updated', ''),
+('a', '', 'AS', 'aa', 39, 'new', ''),
+('a', '', 'vikas_testimg', 'aa', 40, 'new', ''),
+('a', '', 'vikas_testimg', 'aa--', 41, 'updated', ''),
+('a', '', 'vikas_testimg_qq', 'aa--', 42, 'updated', ''),
+('a', '', 'vikas_testimg_qq', 'aa--', 43, 'updated', ''),
+('a', '', 'update it', 'aa--', 44, 'deleted', ''),
+('a', '', 'aaaaaaaaaa', 'aa--', 45, 'deleted', ''),
+('a', '', 'vikas_testimg', 'aa--', 46, 'deleted', '');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `teach_cocurri`
+--
+
+CREATE TABLE IF NOT EXISTS `teach_cocurri` (
+  `COCURRI_ID` int(10) NOT NULL AUTO_INCREMENT,
+  `Session` varchar(30) NOT NULL,
+  `User_Id` varchar(30) NOT NULL,
+  `Year` varchar(11) NOT NULL,
+  `Teach_COCURRI_TOA` varchar(30) NOT NULL,
+  `Teach_COCURRI_YSR` varchar(30) NOT NULL,
+  `Data_Set` varchar(7) NOT NULL,
+  PRIMARY KEY (`COCURRI_ID`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=37 ;
+
+--
+-- Dumping data for table `teach_cocurri`
+--
+
+INSERT INTO `teach_cocurri` (`COCURRI_ID`, `Session`, `User_Id`, `Year`, `Teach_COCURRI_TOA`, `Teach_COCURRI_YSR`, `Data_Set`) VALUES
+(1, '', 'a', '', 'JAI SHREE RAM', '5', 'updated'),
+(2, '', 'a', '', 'SECOND TRIAL', '3', 'deleted'),
+(3, '', 'a', '', 'UPDATE P SECOND TRIAL', '3', 'updated'),
+(4, '', 'a', '', 'LEARNING', '2', 'updated'),
+(5, '', 'a', '', 'LEARNING2', '2', 'deleted'),
+(6, '', 'a', '', 'LEARNING3333', '2222', 'updated'),
+(7, '', 'a', '', 'eeeeeeeee', 'aaa', 'updated'),
+(8, '', 'a', '', 'LEARNING3333_update', '2222', 'updated'),
+(9, '', 'a', '', 'asdas', 'dfbdfb', 'deleted'),
+(10, '', 'a', '', 'LEARNING3333_updateq', '2222', 'updated'),
+(11, '', 'a', '', 'LEARNING3333_updateqaaa', '2222', 'updated'),
+(12, '', 'a', '', 'LEARNING3333_updateqaaa', '2222', 'updated'),
+(13, '', 'a', '', 'LEARNING3333_updateqaaa', '2222', 'updated'),
+(14, '', 'a', '', 'LEARNING3333_updateq2222', '2222', 'updated'),
+(15, '', 'a', '', 'aef', 'dawfqe', 'deleted'),
+(16, '', 'a', '', 'dddd', 'dddddd', 'deleted'),
+(17, '', 'a', '', '2dddd', 'dddddd', 'deleted'),
+(18, '', 'a', '', '2dddd', 'dddddd', 'updated'),
+(19, '', 'a', '', 'AAS', 'SSSS', 'deleted'),
+(20, '', 'a', '', '2dddd_UPDATE', 'dddddd', 'updated'),
+(21, '', 'a', '', 'NEW', 'UUUU', 'updated'),
+(22, '', 'a', '', 'NAYA', 'NEW', 'updated'),
+(23, '', 'a', '', 'NAYA_1', 'NEW', 'updated'),
+(24, '', 'a', '', 'LEARNING3333_updateq2222', '2222', 'deleted'),
+(25, '', 'a', '', 'UPDATE P SECOND TRIAL', '3_3', 'updated'),
+(26, '', 'a', '', 'AAS', 'AA', 'deleted'),
+(27, '', 'a', '', 'BBB', 'BB1', 'updated'),
+(28, '', 'a', '', 'BBB', 'BB1_UPDATE', 'deleted'),
+(29, '', 'a', '', 'ass', 'ddd', 'updated'),
+(30, '', 'a', '', 'new', 'year', 'updated'),
+(31, '', 'a', '', 'new_update', 'year', 'updated'),
+(32, '', 'a', '', 'ass_update', 'ddd', 'updated'),
+(33, '', 'rupesh_01', '', 'visit_indore', 'yearly', 'updated'),
+(34, '', 'rupesh_01', '', 'visit_dewas', 'semester wise', 'deleted'),
+(35, '', 'shraddha_soni', '', 'aaaaaa', 'yearly', 'updated'),
+(36, '', 'shraddha_soni', '', 'aaaaaaolpol', 'yearly', 'new');
 
 -- --------------------------------------------------------
 
@@ -361,7 +508,6 @@ CREATE TABLE IF NOT EXISTS `teach_ecfa` (
   `Year` varchar(10) NOT NULL,
   `Teach_ECFA_TOA` varchar(150) NOT NULL,
   `Teach_ECFA_AH` varchar(30) NOT NULL,
-  `Teach_ECFA_API` int(11) NOT NULL,
   PRIMARY KEY (`User_Id`,`Year`,`Teach_ECFA_TOA`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
@@ -369,22 +515,22 @@ CREATE TABLE IF NOT EXISTS `teach_ecfa` (
 -- Dumping data for table `teach_ecfa`
 --
 
-INSERT INTO `teach_ecfa` (`User_Id`, `Year`, `Teach_ECFA_TOA`, `Teach_ECFA_AH`, `Teach_ECFA_API`) VALUES
-('a', '2003', 'a', 'a', 0),
-('a', '2003', 'aa', 'aa', 8),
-('Faculty', '', 'ggghgh', '4', 6),
-('Faculty', '', 'Workshop', '11', 10),
-('n', '', 'Pycon', '5', 20),
-('n', '', 'TechDays', '3', 7),
-('n', '2003', 'workshop', '5', 65),
-('v', '2003', 'v', '5', 5),
-('$user_id', '$year', '$type', '$averageHrs', 0),
-('a', '1990', 'a', 'a', 0),
-('a', '2003', 'abc', '5', 9),
-('a', '1990', 'q', 'q', 0),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Judged software project competition organized by Nai-Duniya and MPTCTA â€œFonocom â€“2011â€', '8', 10),
-('a', '2013-2014', '"sdff"', 'h', 0),
-('a', '2013-2014', 'â€œGaurav Sirâ€', 'qw', 0);
+INSERT INTO `teach_ecfa` (`User_Id`, `Year`, `Teach_ECFA_TOA`, `Teach_ECFA_AH`) VALUES
+('a', '2003', 'a', 'a'),
+('a', '2003', 'aa', 'aa'),
+('Faculty', '', 'ggghgh', '4'),
+('Faculty', '', 'Workshop', '11'),
+('n', '', 'Pycon', '5'),
+('n', '', 'TechDays', '3'),
+('n', '2003', 'workshop', '5'),
+('v', '2003', 'v', '5'),
+('$user_id', '$year', '$type', '$averageHrs'),
+('a', '1990', 'a', 'a'),
+('a', '2003', 'abc', '5'),
+('a', '1990', 'q', 'q'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Judged software project competition organized by Nai-Duniya and MPTCTA â€œFonocom â€“2011â€', '8'),
+('a', '2013-2014', '"sdff"', 'h'),
+('a', '2013-2014', 'â€œGaurav Sirâ€', 'qw');
 
 -- --------------------------------------------------------
 
@@ -398,7 +544,6 @@ CREATE TABLE IF NOT EXISTS `teach_edap` (
   `Teach_EDAP_TED` varchar(100) NOT NULL,
   `Teach_EDAP_DA` varchar(30) NOT NULL,
   `Teach_EDAP_ECO` varchar(30) NOT NULL,
-  `Teach_EDAP_API` varchar(30) NOT NULL,
   PRIMARY KEY (`User_Id`,`Year`,`Teach_EDAP_TED`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
@@ -406,21 +551,21 @@ CREATE TABLE IF NOT EXISTS `teach_edap` (
 -- Dumping data for table `teach_edap`
 --
 
-INSERT INTO `teach_edap` (`User_Id`, `Year`, `Teach_EDAP_TED`, `Teach_EDAP_DA`, `Teach_EDAP_ECO`, `Teach_EDAP_API`) VALUES
-('a', '2003', 'a', 'a', '12', '5'),
-('n', '', 'b', 'fgf', '50', '15'),
-('n', '', 'board', 'bv', '80', '10'),
-('n', '2003', 'vb', 'bv', '100', '10'),
-('v', '2003', 'm', 'm', '12', '5'),
-('a', '1990', 'ghgf', 'fgh', 'fhg', 'fhhfg'),
-('a', '1990', 'a', 'a', 'a', 'a'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Setting of question paper (University Level)', 'Yes', '100.00%', '5'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Setting of question paper (Departmental Level)', 'Yes', '100.00%', '5'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Invigilation (University Level)', 'Yes', '100.00%', '5'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Invigilation (Departmental Level)', 'Yes', '100.00%', '5'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Evaluation of Answer Scripts (University Level)', 'Yes', '100.00%', '5'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Evaluation of Answer Book (Departmental Level)', 'Yes', '100.00%', '5'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Assistant Superintendent of End semester examination at IIPS(April-May 2012)', 'Yes', '100.00%', '5');
+INSERT INTO `teach_edap` (`User_Id`, `Year`, `Teach_EDAP_TED`, `Teach_EDAP_DA`, `Teach_EDAP_ECO`) VALUES
+('a', '2003', 'a', 'a', '12'),
+('n', '', 'b', 'fgf', '50'),
+('n', '', 'board', 'bv', '80'),
+('n', '2003', 'vb', 'bv', '100'),
+('v', '2003', 'm', 'm', '12'),
+('a', '1990', 'ghgf', 'fgh', 'fhg'),
+('a', '1990', 'a', 'a', 'a'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Setting of question paper (University Level)', 'Yes', '100.00%'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Setting of question paper (Departmental Level)', 'Yes', '100.00%'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Invigilation (University Level)', 'Yes', '100.00%'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Invigilation (Departmental Level)', 'Yes', '100.00%'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Evaluation of Answer Scripts (University Level)', 'Yes', '100.00%'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Evaluation of Answer Book (Departmental Level)', 'Yes', '100.00%'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Assistant Superintendent of End semester examination at IIPS(April-May 2012)', 'Yes', '100.00%');
 
 -- --------------------------------------------------------
 
@@ -429,29 +574,24 @@ INSERT INTO `teach_edap` (`User_Id`, `Year`, `Teach_EDAP_TED`, `Teach_EDAP_DA`, 
 --
 
 CREATE TABLE IF NOT EXISTS `teach_fcp` (
-  `User_Id` varchar(30) NOT NULL,
-  `Year` varchar(10) NOT NULL,
+  `fcp_id` int(11) NOT NULL AUTO_INCREMENT,
+  `User_id` varchar(20) NOT NULL,
+  `Session` varchar(10) NOT NULL,
   `Teach_FCP_TNO` varchar(50) NOT NULL,
   `Teach_FCP_DCP` varchar(50) NOT NULL,
   `Teach_FCP_ISSN` varchar(30) NOT NULL,
   `Teach_FCP_NOC` int(11) NOT NULL,
   `Teach_FCP_MA` text NOT NULL,
-  PRIMARY KEY (`User_Id`,`Year`,`Teach_FCP_TNO`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  `Data_Set` varchar(20) NOT NULL,
+  PRIMARY KEY (`fcp_id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
 
 --
 -- Dumping data for table `teach_fcp`
 --
 
-INSERT INTO `teach_fcp` (`User_Id`, `Year`, `Teach_FCP_TNO`, `Teach_FCP_DCP`, `Teach_FCP_ISSN`, `Teach_FCP_NOC`, `Teach_FCP_MA`) VALUES
-('', '', 'ramesh', ' a', ' a', 0, 'no'),
-('n', '2003', 'bc', ' a', ' a', 0, 'no'),
-('n', '2003', 'm', ' a', ' a', 0, 'no'),
-('n', '2003', 'o', ' a', ' a', 0, 'no'),
-('n', '2003', 'p', ' a', ' a', 0, 'no'),
-('a', '2000', '', ' a', ' a', 0, 'no'),
-('a', '2003', 'a', ' a', ' a', 0, 'no'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'â€œhelloâ€œ', 'â€œhelloâ€œ', 'â€œhelloâ€œ', 0, 'on');
+INSERT INTO `teach_fcp` (`fcp_id`, `User_id`, `Session`, `Teach_FCP_TNO`, `Teach_FCP_DCP`, `Teach_FCP_ISSN`, `Teach_FCP_NOC`, `Teach_FCP_MA`, `Data_Set`) VALUES
+(1, '0', '', 'jayesh', 'kothari', '34', 43, '', 'new');
 
 -- --------------------------------------------------------
 
@@ -489,25 +629,29 @@ INSERT INTO `teach_fdp` (`User_Id`, `Year`, `Teach_FDP_Programme`, `Teach_FDP_mo
 --
 
 CREATE TABLE IF NOT EXISTS `teach_ilc` (
+  `Session` varchar(30) NOT NULL,
   `User_Id` varchar(30) NOT NULL,
   `Year` varchar(10) NOT NULL,
+  `ILC_ID` int(20) NOT NULL AUTO_INCREMENT,
   `Teach_ILC_TOL` varchar(50) NOT NULL,
   `Teach_ILC_TCS` varchar(50) NOT NULL,
   `Teach_ILC_DOE` date NOT NULL,
   `Teach_ILC_Organized` varchar(50) NOT NULL,
   `Teach_ILC_WINS` varchar(15) NOT NULL,
-  PRIMARY KEY (`User_Id`,`Year`,`Teach_ILC_TOL`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  `Data_Set` varchar(10) NOT NULL,
+  PRIMARY KEY (`ILC_ID`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=24 ;
 
 --
 -- Dumping data for table `teach_ilc`
 --
 
-INSERT INTO `teach_ilc` (`User_Id`, `Year`, `Teach_ILC_TOL`, `Teach_ILC_TCS`, `Teach_ILC_DOE`, `Teach_ILC_Organized`, `Teach_ILC_WINS`) VALUES
-('', '', 'i', 'i', '0000-00-00', 's', 'DA'),
-('n', '2003', 'nb', 'n', '2013-01-01', 'n', 'International'),
-('n', '2003', 'nm', 'm', '2013-01-02', 'mn', 'International'),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Shiv & bnbnbn', 'a', '0000-00-00', 'a', 'a');
+INSERT INTO `teach_ilc` (`Session`, `User_Id`, `Year`, `ILC_ID`, `Teach_ILC_TOL`, `Teach_ILC_TCS`, `Teach_ILC_DOE`, `Teach_ILC_Organized`, `Teach_ILC_WINS`, `Data_Set`) VALUES
+('', 'a', '', 23, 'testing', 'test', '2003-03-05', 'iips', 'State', 'new'),
+('', 'a', '', 22, 'test', 'test', '2003-03-05', 'iips', 'State', 'updated'),
+('', 'a', '', 21, 'TestingUpdatetesting', 'Testing', '2001-02-02', 'At IIPS', 'State/National', 'updated'),
+('', 'a', '', 20, 'TestingUpdate', 'Testing', '2001-02-02', 'At IIPS', 'State', 'updated'),
+('', 'a', '', 19, 'Testing', 'Testing', '2013-09-09', 'IIOSS', 'National', 'updated');
 
 -- --------------------------------------------------------
 
@@ -599,24 +743,30 @@ CREATE TABLE IF NOT EXISTS `teach_pda` (
   `User_Id` varchar(30) NOT NULL,
   `Year` varchar(10) NOT NULL,
   `Teach_PDA_TOA` varchar(150) NOT NULL,
-  `Teach_PDA_YWR` varchar(50) NOT NULL,
-  `Teach_PDA_API` int(11) NOT NULL,
-  PRIMARY KEY (`User_Id`,`Year`,`Teach_PDA_TOA`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  `Teach_PDA_YSR` varchar(50) NOT NULL,
+  `PROFESSIONAL_ID` int(9) NOT NULL AUTO_INCREMENT,
+  `Session` varchar(30) NOT NULL,
+  `Data_Set` varchar(7) NOT NULL,
+  PRIMARY KEY (`PROFESSIONAL_ID`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=13 ;
 
 --
 -- Dumping data for table `teach_pda`
 --
 
-INSERT INTO `teach_pda` (`User_Id`, `Year`, `Teach_PDA_TOA`, `Teach_PDA_YWR`, `Teach_PDA_API`) VALUES
-('a', '2003', 'a', 'a', 0),
-('n', '', 'Coaching', 'fgf', 12),
-('n', '', 'OnlineCourse', 'sas', 5),
-('v', '2003', 'n', 'n', 5),
-('a', '1990', 'a', 'a', 0),
-('a', '2003', 'qw', 'qw', 0),
-('a', '2003', 'q', 'q', 0),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Teaching Methodology', '2 days', 10);
+INSERT INTO `teach_pda` (`User_Id`, `Year`, `Teach_PDA_TOA`, `Teach_PDA_YSR`, `PROFESSIONAL_ID`, `Session`, `Data_Set`) VALUES
+('a', '2003', 'a', 'a', 1, '', ''),
+('a', '', 'vikas', 'chouhan', 2, '', 'updated'),
+('a', '', 'activity', 'semester wise', 3, '', 'deleted'),
+('a', '', 'new01', 'yearly', 4, '', 'updated'),
+('a', '', 'a', 's', 5, '', 'deleted'),
+('a', '', 'vikas', 'chouhan', 6, '', 'updated'),
+('a', '', 'juhi', '2017', 7, '', 'updated'),
+('a', '', 'AAA', 'SSSS', 8, '', 'updated'),
+('a', '', 'QQQ', 'AAA', 9, '', 'updated'),
+('a', '', 'AAA', 'AAA', 10, '', 'updated'),
+('a', '', 'ASSSS', 'VIKAS', 11, '', 'updated'),
+('a', '', 'ASSSS__yupdate', 'VIKAS', 12, '', 'new');
 
 -- --------------------------------------------------------
 
@@ -625,24 +775,42 @@ INSERT INTO `teach_pda` (`User_Id`, `Year`, `Teach_PDA_TOA`, `Teach_PDA_YWR`, `T
 --
 
 CREATE TABLE IF NOT EXISTS `teach_ppc` (
+  `Session` varchar(30) NOT NULL,
   `User_Id` varchar(30) NOT NULL,
   `Year` varchar(10) NOT NULL,
+  `PPC_ID` int(10) NOT NULL AUTO_INCREMENT,
   `Teach_PPC_TPP` varchar(50) NOT NULL,
   `Teach_PPC_TCS` varchar(50) NOT NULL,
   `Teach_PPC_DOE` date NOT NULL,
   `Teach_PPC_Organized` varchar(50) NOT NULL,
   `Teach_PPC_WINS` text NOT NULL,
-  PRIMARY KEY (`User_Id`,`Year`,`Teach_PPC_TPP`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  `Data_Set` varchar(30) NOT NULL,
+  PRIMARY KEY (`PPC_ID`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=19 ;
 
 --
 -- Dumping data for table `teach_ppc`
 --
 
-INSERT INTO `teach_ppc` (`User_Id`, `Year`, `Teach_PPC_TPP`, `Teach_PPC_TCS`, `Teach_PPC_DOE`, `Teach_PPC_Organized`, `Teach_PPC_WINS`) VALUES
-('', '', 'Rishte', 'me', '0000-00-00', 'tumhare', 'Baap'),
-('n', '2003', 'm', 'm', '2013-01-07', 'm', 'National'),
-('n', '2003', 'n', 'n', '2013-01-02', 'nf', 'International');
+INSERT INTO `teach_ppc` (`Session`, `User_Id`, `Year`, `PPC_ID`, `Teach_PPC_TPP`, `Teach_PPC_TCS`, `Teach_PPC_DOE`, `Teach_PPC_Organized`, `Teach_PPC_WINS`, `Data_Set`) VALUES
+('', 'a', '', 1, 'TestingManual', 'Selenium', '2001-08-09', 'IIPS', 'National', 'updated'),
+('', 'rahul', '', 2, 'hello', 'hiiiiiii', '0000-00-00', 'IIPS', 'State', 'deleted'),
+('', 'rahul', '', 3, 'hello1', 'hiiiiiii', '0000-00-00', 'IIPS', 'State', 'updated'),
+('', 'rahul', '', 4, 'Automation', 'Testing', '2003-09-01', 'IIPS', 'State', 'updated'),
+('', 'rahul', '', 5, 'Development', 'Developer', '2017-08-05', 'IMS', 'NATIONAL', 'updated'),
+('', 'rahul', '', 6, 'AutomationSelenium', 'Testing', '2003-09-01', 'IIPS', 'State', 'new'),
+('', 'rahul', '', 7, 'AutomationSelenium', 'Testing', '2003-09-01', 'IIPS', 'State', 'deleted'),
+('', 'a', '', 8, 'HEllo', 'hello', '2001-02-02', 'IIPS', 'State', 'updated'),
+('', 'a', '', 9, 'Testing', 'Testing', '2017-04-03', 'IIPS', 'State', 'updated'),
+('', 'a', '', 10, 'Testing2', 'Testing', '2017-04-03', 'IIPS', 'State', 'deleted'),
+('', 'a', '', 11, 'Testing1', 'Testing', '2017-04-03', 'IIPS', 'State', 'new'),
+('', 'a', '', 12, 'HElloUpade', 'hello', '2001-02-02', 'IIPS', 'International', 'updated'),
+('', 'a', '', 13, 'HElloUpadetest', 'hello', '2001-02-02', 'IIPS', 'State', 'new'),
+('', 'a', '', 14, 'HElloUpadetest', 'hello', '2001-02-02', 'IIPS', 'State', 'updated'),
+('', 'a', '', 15, 'HElloUpadetest', 'hello', '2001-02-02', 'IIPS', 'State', 'deleted'),
+('', 'a', '', 16, 'HElloUpadetest', 'hello', '2001-02-02', 'IIPS', 'State', 'deleted'),
+('', 'a', '', 17, 'HElloUpadetest', 'hello', '2001-02-02', 'IIPS', 'State', 'deleted'),
+('', 'a', '', 18, 'Testingupadte', 'hello', '2001-02-02', 'IIPS', 'national', 'new');
 
 -- --------------------------------------------------------
 
@@ -662,55 +830,93 @@ CREATE TABLE IF NOT EXISTS `teach_ppij` (
   `Teach_PPIJ_NCA` int(11) NOT NULL,
   `Teach_PPIJ_MA` varchar(30) NOT NULL,
   `Data_Set` varchar(7) NOT NULL DEFAULT 'valid',
+  `Teach_PPIJ_IF` varchar(20) NOT NULL,
   PRIMARY KEY (`PPIJ_ID`),
   KEY `User_Id` (`User_Id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=133 ;
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=170 ;
 
 --
 -- Dumping data for table `teach_ppij`
 --
 
-INSERT INTO `teach_ppij` (`Session`, `PPIJ_ID`, `User_Id`, `Year`, `Teach_PPIJ_TNO`, `Teach_PPIJ_Journal`, `Teach_PPIJ_ISBN`, `Teach_PPIJ_PR`, `Teach_PPIJ_NCA`, `Teach_PPIJ_MA`, `Data_Set`) VALUES
-('', 27, 'a', '2003', 'ek', 'dlo', 'teen', 'char', 0, 'Yes', 'invalid'),
-('', 9, 'shaligram.prajapat@gmail.com', '2013-2014', '"fdg"', '"sdf"', '"SD"S', '"SDf"', 0, 'Yes', 'valid'),
-('', 0, 'a', '', 'valid1', 'valid1', 'valid1', 'valid1', 11, 'valid1', 'updated'),
-('', 29, 'a', '', 'qwerty', 'qwer', 'qwerty', 'qwerty', 0, 'Yes', 'deleted'),
-('', 25, 'a', '124', 'invalid2', 'invalid2', 'invalid2', 'invalid2', 11, 'invalid2', 'invalid'),
-('', 97, 'a', '', 'mm', 'mmm', 'mmm', 'mmm', 0, 'Yes', 'deleted'),
-('', 96, 'a', '', 'mm', 'm', ',', 'm', 0, 'Yes', 'deleted'),
-('', 70, 'rahul', '', 'keh', 'do', ' na', 'keh', 0, 'No', 'deleted'),
-('', 95, 'a', '', 'pppppppp', 'ppppppppp', 'ppppppppppp', 'ppppppp', 7, 'Yes', 'deleted'),
-('', 120, 'rahul', '', 'llllllllllllllllllllllllllllll', 'kkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkk', 5, '', 'deleted'),
-('', 119, 'rahul', '', 'kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk', 'kkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkk', 5, 'Yes', 'deleted'),
-('', 92, 'rahul', '', 'ioooooooooooo', 'oooooooooooooooo', 'ooooooooooooooo', 'oooooooooooooooooooooo', 1, 'Yes', 'new'),
-('', 91, 'rahul', '', 'lllll', 'llllllllllllllllllllll', 'llllllllllllllllllllll', 'lllllllllllllllllll', 8, 'Yes', 'deleted'),
-('', 90, 'rahul', '', 'ppppppppp', 'ppppppppppp', 'pppppppppp', 'ppppppppppppp', 8, 'Yes', 'new'),
-('', 89, '', '', 'ritika', 'barethia', '99', 'no', 9, 'No', 'new'),
-('January 2017 - March 2017', 88, 'rahul', '', 'ritika', 'barethia', '99', 'no', 9, 'No', 'new'),
-('January 2017 - March 2017', 98, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'new'),
-('', 118, 'a', '', 'page no', 'journal', 'issn', 'peer review', 2, 'Yes', 'deleted'),
-('', 103, 'a', '', 'yyyyyyymmmmm', 'yyyyyyyyy', 'yyyyyyy', 'yyyyyyyy', 0, 'Yes', 'deleted'),
-('', 114, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted'),
-('January 2017 - March 2017', 108, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'new'),
-('', 109, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted'),
-('January 2017 - March 2017', 110, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'new'),
-('', 112, 'a', '', 'tttt', 'tttttt', 'ttttt', 'tttttt', 0, 'Yes', 'deleted'),
-('', 113, 'a', '', 'tttt', 'tttttt', 'ttttt', 'tttttt', 0, 'Yes', 'deleted'),
-('', 115, 'a', '', 'k', 'k', 'k', 'k', 5, 'No', 'deleted'),
-('', 116, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted'),
-('', 117, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted'),
-('', 121, 'a', '', 'fffffffffff', 'ffffffffffffffffffffffffffffff', 'fffffffffffffffffffff', 'ffffffffffffffffffffffffffffff', 55, 'Yes', 'deleted'),
-('', 122, 'a', '', 'qqqqqqqqqqqqqqqqqq', 'qqqqqqqqqqqqqqqqqqq', 'qqqqqqqqqqqqqqqqq', 'qqqqqqqqqqqqqqqqqqqqq', 2, '', 'deleted'),
-('', 123, 'a', '', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeee', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeee', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeee', 'eeeeeeeeeeeeeeeeeeeee', 4, '', 'deleted'),
-('', 124, 'a', '', 'oooooooooooooooooooooooooooooo', 'oooooooooooooooooooooooooooooo', 'oooooooooooooooooooooooooooooo', 'oo', 1, '', 'deleted'),
-('', 125, 'a', '', 'uuuugggggggggggg', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted'),
-('', 126, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted'),
-('', 127, 'a', '', 'wwwwwwwwwwwww', 'wwwwwwwwwwwwww', 'wwwwwwwwwwwwww', 'wwwwwwwwwwwww', 4, 'No', 'new'),
-('', 128, 'a', '', 'wqqqss', 'aasxswx', 'xdascsc', 'czssssssss', 4, '', 'deleted'),
-('', 129, 'a', '', 'wqqqss', 'aasxswx', 'xdascsc', 'czssssssss', 4, '', 'deleted'),
-('', 130, 'rahul', '', 'heloo', 'hiii', 'hiee', 'bbye', 5, 'No', 'deleted'),
-('', 131, 'rahul', '', 'heloo', 'hiii', 'hiee', 'bbye', 56, '', 'deleted'),
-('', 132, 'ritika', '', 'Total Pages', 'Journal', 'ISSN', 'no', 4, 'Yes', 'new');
+INSERT INTO `teach_ppij` (`Session`, `PPIJ_ID`, `User_Id`, `Year`, `Teach_PPIJ_TNO`, `Teach_PPIJ_Journal`, `Teach_PPIJ_ISBN`, `Teach_PPIJ_PR`, `Teach_PPIJ_NCA`, `Teach_PPIJ_MA`, `Data_Set`, `Teach_PPIJ_IF`) VALUES
+('', 27, 'a', '2003', 'ek', 'dlo', 'teen', 'char', 0, 'Yes', 'invalid', ''),
+('', 9, 'shaligram.prajapat@gmail.com', '2013-2014', '"fdg"', '"sdf"', '"SD"S', '"SDf"', 0, 'Yes', 'valid', ''),
+('', 0, 'a', '', 'valid1', 'valid1', 'valid1', 'valid1', 11, 'valid1', 'updated', ''),
+('', 29, 'a', '', 'qwerty', 'qwer', 'qwerty', 'qwerty', 0, 'Yes', 'deleted', ''),
+('', 25, 'a', '124', 'invalid2', 'invalid2', 'invalid2', 'invalid2', 11, 'invalid2', 'invalid', ''),
+('', 97, 'a', '', 'mm', 'mmm', 'mmm', 'mmm', 0, 'Yes', 'deleted', ''),
+('', 96, 'a', '', 'mm', 'm', ',', 'm', 0, 'Yes', 'deleted', ''),
+('', 70, 'rahul', '', 'keh', 'do', ' na', 'keh', 0, 'No', 'deleted', ''),
+('', 95, 'a', '', 'pppppppp', 'ppppppppp', 'ppppppppppp', 'ppppppp', 7, 'Yes', 'deleted', ''),
+('', 120, 'rahul', '', 'llllllllllllllllllllllllllllll', 'kkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkk', 5, '', 'deleted', ''),
+('', 119, 'rahul', '', 'kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk', 'kkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkkkkkkkkkk', 'kkkkkkkkkkkkkkkkkkkk', 5, 'Yes', 'deleted', ''),
+('', 92, 'rahul', '', 'ioooooooooooo', 'oooooooooooooooo', 'ooooooooooooooo', 'oooooooooooooooooooooo', 1, 'Yes', 'new', ''),
+('', 91, 'rahul', '', 'lllll', 'llllllllllllllllllllll', 'llllllllllllllllllllll', 'lllllllllllllllllll', 8, 'Yes', 'deleted', ''),
+('', 90, 'rahul', '', 'ppppppppp', 'ppppppppppp', 'pppppppppp', 'ppppppppppppp', 8, 'Yes', 'new', ''),
+('', 89, '', '', 'ritika', 'barethia', '99', 'no', 9, 'No', 'new', ''),
+('January 2017 - March 2017', 88, 'rahul', '', 'ritika', 'barethia', '99', 'no', 9, 'No', 'new', ''),
+('January 2017 - March 2017', 98, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('', 118, 'a', '', 'page no', 'journal', 'issn', 'peer review', 2, 'Yes', 'deleted', ''),
+('', 103, 'a', '', 'yyyyyyymmmmm', 'yyyyyyyyy', 'yyyyyyy', 'yyyyyyyy', 0, 'Yes', 'deleted', ''),
+('', 114, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('January 2017 - March 2017', 108, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('', 109, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('January 2017 - March 2017', 110, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('', 112, 'a', '', 'tttt', 'tttttt', 'ttttt', 'tttttt', 0, 'Yes', 'deleted', ''),
+('', 113, 'a', '', 'tttt', 'tttttt', 'ttttt', 'tttttt', 0, 'Yes', 'deleted', ''),
+('', 115, 'a', '', 'k', 'k', 'k', 'k', 5, 'No', 'deleted', ''),
+('', 116, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('', 117, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('', 121, 'a', '', 'fffffffffff', 'ffffffffffffffffffffffffffffff', 'fffffffffffffffffffff', 'ffffffffffffffffffffffffffffff', 55, 'Yes', 'deleted', ''),
+('', 122, 'a', '', 'qqqqqqqqqqqqqqqqqq', 'qqqqqqqqqqqqqqqqqqq', 'qqqqqqqqqqqqqqqqq', 'qqqqqqqqqqqqqqqqqqqqq', 2, '', 'deleted', ''),
+('', 123, 'a', '', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeee', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeee', 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeee', 'eeeeeeeeeeeeeeeeeeeee', 4, '', 'deleted', ''),
+('', 124, 'a', '', 'oooooooooooooooooooooooooooooo', 'oooooooooooooooooooooooooooooo', 'oooooooooooooooooooooooooooooo', 'oo', 1, '', 'deleted', ''),
+('', 125, 'a', '', 'uuuugggggggggggg', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('', 126, 'a', '', 'uuuu', 'uuuu', 'uuu', 'uuu', 0, 'Yes', 'deleted', ''),
+('', 127, 'a', '', 'wwwwwwwwwwwww', 'wwwwwwwwwwwwww', 'wwwwwwwwwwwwww', 'wwwwwwwwwwwww', 4, 'No', 'deleted', ''),
+('', 128, 'a', '', 'wqqqss', 'aasxswx', 'xdascsc', 'czssssssss', 4, '', 'deleted', ''),
+('', 129, 'a', '', 'wqqqss', 'aasxswx', 'xdascsc', 'czssssssss', 4, '', 'deleted', ''),
+('', 130, 'rahul', '', 'heloo', 'hiii', 'hiee', 'bbye', 5, 'No', 'deleted', ''),
+('', 131, 'rahul', '', 'heloo', 'hiii', 'hiee', 'bbye', 56, '', 'deleted', ''),
+('', 132, 'ritika', '', 'Total Pages', 'Journal', 'ISSN', 'no', 4, 'Yes', 'new', ''),
+('', 133, 'rahul', '', 'dvdfdf', 'dgdg', '565656', 'gfgfg', 1, 'Yes', 'deleted', ''),
+('', 134, 'a', '', 'dfaf', 'j', 'j', 'j', 4, 'Yes', 'deleted', ''),
+('', 135, 'a', '', 'xxcx', 'xxx', 'xxx', 'xxx', 0, 'Yes', 'updated', ''),
+('', 136, 'a', '', 'cvcv', 'xcv', 'cv', 'zv', 4, 'Yes', 'deleted', ''),
+('', 137, 'a', '', 'aaazzzz', 'dg', 'sdgsdg', 'sdgdg', 1, 'Yes', 'deleted', ''),
+('', 138, 'a', '', 'updatesssss', 'dg', 'sdgsdg', 'sdgdg', 1, '', 'deleted', ''),
+('', 139, 'a', '', 'newa', 'h', 'h', 'h', 8, 'Yes', 'deleted', ''),
+('', 140, 'a', '', 'dd', 'fdsd', 'sfdf', 'ffff', 2, 'Yes', 'deleted', ''),
+('', 141, 'a', '', 'updateaaaaaaaaaa', 'fdsd', 'sfdf', 'ffff', 2, '', 'updated', ''),
+('', 142, 'a', '', 'xxcx_update2', 'xxx', 'xxx', 'xxx', 0, 'Yes', 'updated', ''),
+('', 143, 'a', '', 'abcd', 'aa', 'aa', 'aa', 5, 'Yes', 'updated', ''),
+('', 144, 'a', '', 'abcd_update', 'aa', 'aa', 'aa', 5, '', 'deleted', ''),
+('', 145, 'a', '', 'abcccc', 'dd', 'dd', 'dd', 6, 'No', 'updated', ''),
+('', 146, 'a', '', 'abcccc_update', 'dd', 'dd', 'dd', 6, '', 'deleted', ''),
+('', 147, 'a', '', 'abcccc_updatewww', 'dd', 'dd', 'dd', 6, 'Yes', 'deleted', ''),
+('', 148, 'a', '', 'abcccc_updatewww2', 'dd', 'dd', 'dd', 6, '', 'deleted', ''),
+('', 149, 'a', '', 'abcccc_update_vikas', 'dd', 'dd', 'dd', 6, 'Yes', 'deleted', ''),
+('', 150, 'a', '', 'abcccc_update_vikas', 'dd', 'dd', 'dd', 6, 'Yes', 'deleted', ''),
+('', 151, 'a', '', 'abcd', 'aa', 'aa', 'aa', 5, '', 'deleted', ''),
+('', 152, 'a', '', 'abcd_updateqq', 'q', 'aa', 'aa', 5, 'Yes', 'deleted', ''),
+('', 153, 'a', '', 'update_fetch', 'dd', 'dd', 'dd', 6, 'Yes', 'updated', ''),
+('', 154, 'a', '', 'update_fetch2', 'dd', 'dd', 'dd', 6, '', 'updated', ''),
+('', 155, 'a', '', 'update_Clone', 'dd', 'dd', 'dd', 6, 'Yes', 'updated', ''),
+('', 156, 'a', '', 'abcccc_update_vikas', 'a', 'a', 'a', 4, 'Yes', 'updated', ''),
+('', 157, 'a', '', 'abcccc_update_vikas', 'vd', '22', 'dd', 4, 'No', 'updated', ''),
+('', 158, 'a', '', 'ASSS', 'DCSC', 'DFSF', 'DVD', 6, 'Yes', 'updated', ''),
+('', 159, 'a', '', 'FGR', 'DVD', 'VDV', 'FD', 6, '', 'updated', ''),
+('', 160, 'a', '', 'RGSR', 'SDVDSV', 'DVVDV', 'DVVD', 4, 'No', 'new', ''),
+('', 161, 'a', '', 'AEFSEF', 'DSFSD', 'DVD', 'DVSD', 5, '', 'updated', ''),
+('', 162, 'a', '', 'UPDATE01', 'DCSC', 'DFSF', 'DVD', 6, 'No', 'deleted', ''),
+('', 163, 'a', '', 'AEFSEF_update', 'DSFSD', 'DVD', 'DVSD', 5, 'No', 'new', ''),
+('', 164, 'rupesh_01', '', 'xxcx update', 'xxx', 'xx', 'xxx', 4, 'Yes', 'new', ''),
+('', 165, 'shraddha_soni', '', '11', 'rtyy', '1235', 'yes', 2, 'Yes', 'updated', ''),
+('', 166, 'shraddha_soni', '', '11', 'rtyy', '1235', 'no', 5, '', 'deleted', ''),
+('', 167, 'shraddha_soni', '', 'updateaaaaaaaaaa', 'aa', 'j', 'j', 2, 'Yes', 'new', ''),
+('', 168, 'shraddha_soni', '', 'b', 'b', 'b', 'b', 4, '', 'updated', ''),
+('', 169, 'shraddha_soni', '', 'b_update', 'b', 'b', 'b', 4, '', 'deleted', '');
 
 -- --------------------------------------------------------
 
@@ -719,22 +925,28 @@ INSERT INTO `teach_ppij` (`Session`, `PPIJ_ID`, `User_Id`, `Year`, `Teach_PPIJ_T
 --
 
 CREATE TABLE IF NOT EXISTS `teach_rg` (
+  `Session` varchar(30) NOT NULL,
   `User_Id` varchar(30) NOT NULL,
   `Year` varchar(11) NOT NULL,
+  `RG_ID` int(10) NOT NULL AUTO_INCREMENT,
   `Teach_RG_NE` varchar(30) NOT NULL,
   `Teach_RG_TS` varchar(50) NOT NULL,
   `Teach_RG_DA` varchar(50) NOT NULL,
-  PRIMARY KEY (`User_Id`,`Year`,`Teach_RG_NE`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+  `Data_Set` varchar(30) NOT NULL,
+  PRIMARY KEY (`RG_ID`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=7 ;
 
 --
 -- Dumping data for table `teach_rg`
 --
 
-INSERT INTO `teach_rg` (`User_Id`, `Year`, `Teach_RG_NE`, `Teach_RG_TS`, `Teach_RG_DA`) VALUES
-('', '', 'hello', 'world', 'Programmer'),
-('n', '2003', 'm', 'm', 'm'),
-('n', '2003', 'n', 'n', 'n');
+INSERT INTO `teach_rg` (`Session`, `User_Id`, `Year`, `RG_ID`, `Teach_RG_NE`, `Teach_RG_TS`, `Teach_RG_DA`, `Data_Set`) VALUES
+('', 'a', '', 1, 'Testing', 'TestYes', 'Yes', 'new'),
+('', 'a', '', 2, 'Testing1', 'TestYes11', 'Yes1', 'deleted'),
+('', 'a', '', 3, 'Testingupdate', 'TestYesudate', 'Yesupdate', 'updated'),
+('', 'a', '', 4, 'updatetesting', 'TestYesudated', 'Yesupdated', 'updated'),
+('', 'a', '', 5, '123rr', 'Yes', 'No', 'updated'),
+('', 'a', '', 6, 'Upadted', 'Yes', 'No', 'new');
 
 -- --------------------------------------------------------
 
@@ -783,7 +995,6 @@ CREATE TABLE IF NOT EXISTS `teach_tlm` (
   `User_Id` varchar(30) NOT NULL,
   `Year` varchar(11) NOT NULL,
   `Teach_TLM_SD` varchar(255) NOT NULL,
-  `Teach_TLM_API` int(11) NOT NULL,
   PRIMARY KEY (`User_Id`,`Year`,`Teach_TLM_SD`)
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
@@ -791,24 +1002,24 @@ CREATE TABLE IF NOT EXISTS `teach_tlm` (
 -- Dumping data for table `teach_tlm`
 --
 
-INSERT INTO `teach_tlm` (`User_Id`, `Year`, `Teach_TLM_SD`, `Teach_TLM_API`) VALUES
-('a', '2003', 'a', 5),
-('n', '', 'python is functional programmi', 7),
-('n', '2003', 'cjscg', 2),
-('n', '2003', 'gd', 15),
-('n', '2003', 'nm', 5),
-('v', '2003', 'n', 5),
-('a', '2011', 'dfghdf', 0),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Updated analysis and design of algorithm contents ,notes, assignments For more details ,visit : algorithm-analysis--design-shaligram@googlegroups.com', 2),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Updated computer graphics contents, study materials, notes, manuscript, assignments. For more details, visit: computergraphics_shaligram@googlegroups.com', 2),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Improved Projects planning ,scheduling, submissions alignments with the growth of syllabus and industry requirements for more details visit : information-system-analysis-and-design_shaligram@googlegroups.com', 2),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Small projects, Industry project life cycle and SDLC ,visit: https://sites.google.com/site/shaligramiipsdavvindore/activities/academic-projects', 2),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Conduction of end Semester CV/PV/Lab examination(Assistant superintended of end-semester examination April-May 2012)', 2),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Designed and Updated syllabus for computer graphics, Project management plan for students projects, Visit :https://groups.google.com/forum/hl=enfromgroupsforum/computergraphics_shaligram', 2),
-('shaligram.prajapat@gmail.com', '2013-2014', 'Updated syllabus of Electronic Circuits, syllabus for BCA program of PIMR. This paper is included in BCA- II semester (Syllabus updated on May 28, 2012.)', 2),
-('shaligram.prajapat@gmail.com', '2013-2014', 'pulikt says "hii"', 5),
-('shaligram.prajapat@gmail.com', '2013-2014', 'a', 1),
-('shaligram.prajapat@gmail.com', '2013-2014', 'pulkit says â€œSatal is badâ€œ', 1);
+INSERT INTO `teach_tlm` (`User_Id`, `Year`, `Teach_TLM_SD`) VALUES
+('a', '2003', 'a'),
+('a', '2011', 'dfghdf'),
+('n', '', 'python is functional programmi'),
+('n', '2003', 'cjscg'),
+('n', '2003', 'gd'),
+('n', '2003', 'nm'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'a'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Conduction of end Semester CV/PV/Lab examination(Assistant superintended of end-semester examination April-May 2012)'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Designed and Updated syllabus for computer graphics, Project management plan for students projects, Visit :https://groups.google.com/forum/hl=enfromgroupsforum/computergraphics_shaligram'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Improved Projects planning ,scheduling, submissions alignments with the growth of syllabus and industry requirements for more details visit : information-system-analysis-and-design_shaligram@googlegroups.com'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'pulikt says "hii"'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'pulkit says â€œSatal is badâ€œ'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Small projects, Industry project life cycle and SDLC ,visit: https://sites.google.com/site/shaligramiipsdavvindore/activities/academic-projects'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Updated analysis and design of algorithm contents ,notes, assignments For more details ,visit : algorithm-analysis--design-shaligram@googlegroups.com'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Updated computer graphics contents, study materials, notes, manuscript, assignments. For more details, visit: computergraphics_shaligram@googlegroups.com'),
+('shaligram.prajapat@gmail.com', '2013-2014', 'Updated syllabus of Electronic Circuits, syllabus for BCA program of PIMR. This paper is included in BCA- II semester (Syllabus updated on May 28, 2012.)'),
+('v', '2003', 'n');
 
 -- --------------------------------------------------------
 
@@ -832,4 +1043,40 @@ INSERT INTO `userinfo` (`User_Id`, `Pwd`, `user_level`) VALUES
 ('a', 'a', 0),
 ('rahul', 'rahul', 0),
 ('ritika', 'ritika', 1),
-('vikas', 'vikas', 1);
+('vikas', 'vikas', 1),
+('ramesh_thakur', '942593711', 0),
+('shraddha_soni', '9424474746', 0),
+('kirti_mathur', '9755101873', 0),
+('shaligram_prajapat', '9826037078', 0),
+('rajkumar', '1234', 0),
+('rajat', 'garg', 0),
+('pradeep_jatav', 'jatav_sir', 0),
+('rupesh_01', '9981116176', 0),
+('manju_suchdeo', '1234', 0),
+('rajesh_verma', '9993107224', 0);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `users`
+--
+
+CREATE TABLE IF NOT EXISTS `users` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `oauth_provider` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
+  `oauth_uid` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
+  `first_name` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `last_name` varchar(100) COLLATE utf8_unicode_ci NOT NULL,
+  `email` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
+  `gender` varchar(10) COLLATE utf8_unicode_ci NOT NULL,
+  `locale` varchar(10) COLLATE utf8_unicode_ci NOT NULL,
+  `picture` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
+  `link` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
+  `created` datetime NOT NULL,
+  `modified` datetime NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=1 ;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

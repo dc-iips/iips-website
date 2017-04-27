@@ -221,7 +221,7 @@
                               <ul class="nav navbar-nav">
                                 <li><a href="under_construction.php">Students</a></li>
                                 <li><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
-                                <li><a href="under_construction.php">Alumni</a></li>
+                                <li><a href="alumni_reg.php">Alumni</a></li>
                               </ul>
                             </div>
                         </div>

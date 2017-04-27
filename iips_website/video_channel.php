@@ -24,6 +24,8 @@
         <li class="navbar-brand"> <b>Video Channel</b> </li>
         <li role="presentation" id="colm" class="active"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Faculties Channel</a></li>
         <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Students Channel</a></li><br>
+         <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab3" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Fun at IIPS</a></li><br>
+
       </ul>
     </div>
 
@@ -33,7 +35,6 @@
             <h3 class="text-center"><b>Faculties Channel</b></h3>
             <p class="text-justify">Some of the featured youtube channel from our faculties are as follows:</p>
             <br><br>
-              
               <div >
                   <div class="col-md-6 col-sm-6 magin" >
                     <iframe src="http://www.youtube.com/embed/J5bxDtP8Qhc" ></iframe>
@@ -65,6 +66,30 @@
               </div>
               <div class="col-md-6 col-sm-6 magin">
                 <iframe src="http://www.youtube.com/embed/X7PsajQLcJ4"></iframe>
+            </div>
+              <div class="col-md-6 col-sm-6 magin">
+                <iframe src="http://www.youtube.com/embed/cwCDaq_6fsM"></iframe>
+              </div>
+              <div class="col-md-6 col-sm-6 magin">
+                <iframe src="http://www.youtube.com/embed/2ZBj7EbDU0A"></iframe>
+              </div>
+
+              <div class="col-md-6 col-sm-6 magin">
+                <iframe src="http://www.youtube.com/embed/iD-12Np8fDc"></iframe>
+              </div>
+              <div class="col-md-6 col-sm-6 magin">
+                <iframe src="http://www.youtube.com/embed/NAtf9skZvtU"></iframe>
+              </div>
+        </div>
+
+        <div role="tabpanel" class="tab-pane" id="tab3">
+            <h3 class="text-center"><b>Students Channel</b></h3>
+            <p class="text-justify">Some of the featured youtube channel from our Students are as follows:</p><br><br>
+              <div class="col-md-6 col-sm-6 magin">
+                <iframe src="http://www.youtube.com/embed/LeBCKAoahKA&t"></iframe>
+              </div>
+              <div class="col-md-6 col-sm-6 magin">
+                <iframe src="http://www.youtube.com/embed/v9zfRALynt8"></iframe>
             </div>
               <div class="col-md-6 col-sm-6 magin">
                 <iframe src="http://www.youtube.com/embed/cwCDaq_6fsM"></iframe>
