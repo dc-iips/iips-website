@@ -40,7 +40,7 @@
 		}
 	    }
 	else{
-			$insertQuery = "Insert Into Gen_Info (User_Id,Gen_Info_Name,Gen_Info_Fname,Gen_Info_Mname,Gen_Info_Department,Gen_Info_Adhar,Gen_Info_Qualification,Gen_Info_PAN,Gen_Info_DOB,Gen_Info_Address,Gen_Info_Mobile,Gen_Info_Email)values('$user_id','$Name','$fatherName','$motherName','$department','$qualification,'$adharcard','$pancard','$dob','$address','$mobile','$email')";
+			$insertQuery = "Insert Into Gen_Info values('$user_id','$Name','$fatherName','$motherName','$department','$qualification','$adharcard','$pancard','$dob','$address','$mobile','$email')";
 			$result2 = mysqli_query($conn,$insertQuery);
 			if($result2){
 				header('location:profile.php');

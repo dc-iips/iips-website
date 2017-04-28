@@ -120,6 +120,8 @@
                 <form id="genInfo" action="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>" method="post" class="panel panel-primary" style="padding:3px 3px 3px 3px; "> 
                   <div id="userInfo">
                     <h4 align="left" class="text-primary"><b  style="color:#2e6da4"><center>Welcome <?php  echo $_SESSION['username']."";?></center></b></h4>
+                      <button type="button" class="btn btn-md btn-primary" style="float: right, margin-left:"100px";" name="infoEdit" onClick="showInfo(this.name)" value="show"/>Edit Profile</button>
+                   <br><br>
                     <table border="0" class="table" cellpadding="3" cellspacing="3">
                       <tr>
                         <td>Name</td>
@@ -168,7 +170,7 @@
                         <td><?php echo $email;?></td>
                       </tr>
                     </table>
-                    <button type="button" class="btn btn-md btn-primary" name="infoEdit" onClick="showInfo(this.name)" value="show"/>Edit Profile</button>
+                 
                   </div>
               </div>
             </div>
