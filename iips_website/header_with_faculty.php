@@ -22,7 +22,8 @@
                 </a>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="index.php">Student</a></li>
                <!--  <li class="wrapper visible-lg visible-md visible-sm nav navbar-nav navbar-right"><a href="#FacultyModal" data-toggle="modal">Faculty &amp; Staff</a></li>
-                 --><li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="alumni_reg.php">Alumni</a></li>     
+                 --><li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="alumni_reg.php">Alumni</a><img src="images/new1.gif" style="border: 0px;"></li> 
+                     
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="sitemap.php">Sitemap</a></li>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="under_construction.php">Feedback</a></li>
                     <form class="wrapper hidden-xs navbar-form navbar-right" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">
