@@ -16,6 +16,15 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   </head>
   <body>
-<?php include 'header.php';?>
+
+  <?php
+   // session_start();
+    if (isset($_SESSION['username'])) {
+     include('header_with_faculty.php');
+    }
+    else{
+        include('header_without_faculty.php');
+    }
+?>
     
 <?php include 'footer.php'; ?>

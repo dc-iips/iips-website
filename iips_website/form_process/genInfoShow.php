@@ -5,8 +5,7 @@
 	#Database Connection
 	include('../DBConnect.php');
 	
-	if($name == 'infoEdit')
-	{
+	if($name == 'infoEdit'){
 		$sql="SELECT * FROM gen_info WHERE User_Id = '".$_SESSION['username']."'";
 		$result = mysqli_query($conn,$sql) or die('Error'.mysqli_error($conn));
 		$row = mysqli_fetch_array($result);
@@ -34,7 +33,7 @@
 				<div class="col-sm-6">
 					<br>
 					<label>Date Of Birth</label>
-				    <input type="date" class="form-control" name="dob" style="width:93%" title="Please enter your dob" value="<?php echo $dob; ?>" required="required"/>
+				    <input type="text" class="form-control" name="dob" style="width:93%" title="Please enter your dob" value="<?php echo $dob; ?>" required="required"/>
 				</div>
 		 </div>
  
@@ -60,7 +59,7 @@
 				<div class="col-sm-6">
 					<br>
 					<label>PanCard Number</label>
-				<input type="text" class="form-control" name="pan" maxlength="10" size="10" style="width:93%" title="Please enter your PanCardNumber" value="<?php echo $pancard; ?>" required="required"/>
+				<input type="text" class="form-control" name="pancard" maxlength="10" size="10" style="width:93%" title="Please enter your PanCardNumber" value="<?php echo $pancard; ?>" required="required"/>
 			    </div>
 		</div>
 

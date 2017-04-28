@@ -29,7 +29,6 @@
     </div>
     <div class="col-md-9">
         <div class="tab-content">
-            
 
             <div role="tabpanel" class="tab-pane active" id="tab1">
                 <h3 class="text-center"><b>Alumni Registration</b> </h3>  
@@ -51,7 +50,7 @@
                               <span class="glyphicon glyphicon-envelope form-control-feedback" aria-hidden="true"></span>
                           </div>
                           <div class="form-group has-feedback">
-                              <input type="text" class="form-control" id="phone" placeholder="Phone" name="phone">
+                              <input type="text" class="form-control" maxlength="13" size="13" id="phone" placeholder="Phone" name="phone">
                               <span class="glyphicon glyphicon-phone form-control-feedback" aria-hidden="true"></span>
                           </div>
                           <div class="form-group has-feedback">

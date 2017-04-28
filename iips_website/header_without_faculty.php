@@ -16,7 +16,7 @@
                 </a></li>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="alumni_reg.php">Alumni
                 <img src="images/new1.gif" style="border: 0px;">
-        </a></li>     
+                </a></li>     
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="sitemap.php">Sitemap</a></li>
                 <li class="wrapper visible-lg visible-md nav navbar-nav navbar-right"><a href="under_construction.php">Feedback</a></li>
                     <form class="wrapper hidden-xs navbar-form navbar-right" action="https://www.google.co.in/webhp?hl=en#hl=en&q=iips davv " target="__blank">

@@ -229,7 +229,7 @@
               document.getElementById("userInfo").innerHTML=xmlhttp.responseText; 
           }
         }
-      xmlhttp.open("GET","form_process/genInfoShow.php?name="+name,true);
+      xmlhttp.open("POST","form_process/genInfoShow.php?name="+name,true);
       xmlhttp.send();
     }
 </script>

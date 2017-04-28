@@ -23,29 +23,40 @@
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b>Reach Us</b> </li>
         <li role="presentation" id="colm" class="active" ><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Map</a></li>
-        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Visit &amp; Contact</a></li>
+        <li role="presentation" id="colm"><a href="#tab2" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Visit </a></li>
+        <li role="presentation" id="colm"><a href="#tab3" aria-controls="tab2" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Contact Us</a></li>
       </ul>
     </div>
     <div class="col-md-9">
         <div class="tab-content">
+
             <div role="tabpanel" class="tab-pane active" id="tab1">
                 <h3 class="text-center"><b>Map</b></h3>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1684.529012788025!2d75.87563940172096!3d22.688639624682146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fcc29e3c82ef%3A0x39f47fbb92c83277!2sInternational+Institute+of+Professional+Studies!5e0!3m2!1sen!2sin!4v1459927961611" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             
             <div role="tabpanel" class="tab-pane" id="tab2">
-                <h3 class="text-center"><b>Visit &amp; Contact</b> </h3>  
-                    <address>
-                        <i class="fa fa-university"></i>&nbsp;&nbsp;Devi Ahilya University, Takshashila Campus Khandwa Road , Indore - 452001, INDIA<hr>
-                        <i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;Phone - 91-731-2461888<hr>
-                        <i class="fa fa-envelope"></i>&nbsp;&nbsp;Email- admin@iips.edu.in<hr>
-                        You can leave a message to us. <br>
-                    </address>
-                  <div class="row">
                   <div class="col-md-3">
                   </div>
                   <div class="col-md-6">
-                      <form method="POST">
+                      <h3 class="text-center"><b>Visit</b> </h3>  
+                       <address>
+                           <i class="fa fa-university"></i>&nbsp;&nbsp;Devi Ahilya University, Takshashila Campus Khandwa Road , Indore - 452001, INDIA<hr>
+                           <i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;Phone - 91-731-2461888<hr>
+                           <i class="fa fa-envelope"></i>&nbsp;&nbsp;Email- admin@iips.edu.in<hr>
+                       </address>
+                  </div>
+                  <div class="col-md-3">
+                  </div> 
+            </div>
+            <div role="tabpanel" class="tab-pane active" id="tab3">
+              <div class="row" role="tabpanel" id="tab3">
+                  <div class="col-md-3">
+                  </div>
+                  <div class="col-md-6">
+                      <form method="POST" id="contact_save">
+                          <h3 class="text-center"><b>Contact</b></h3>
+                          You can leave a message to us. <br>
                           <div class="form-group has-feedback">
                               <input type="text" class="form-control" id="name" placeholder="Name" name="name">
                               <span class="glyphicon glyphicon-user form-control-feedback" aria-hidden="true"></span>
@@ -63,40 +74,45 @@
                               <span class="glyphicon glyphicon-comment form-control-feedback" aria-hidden="true"></span>
                           </div>
                           <div class="text-center">
-                              <button type="Submit" class="btn btn-primary btn-lg text-center">Submit Now</button>
+                              <button type="Submit" class="btn btn-primary btn-lg text-center" name="contact_save">Submit Now</button>
                           </div>
                       </form>
                   </div>
                   <div class="col-md-3">
                   </div>
-                  </div>   
+             </div>
             </div>
+
         </div>
     </div>
     <br><br>
   </div>
   <br>
 </div>
-<?php 
-      $conn = mysqli_connect('localhost','root','','iips_db');
 
-      if($conn)  {
-                  $name = isset($_POST['name']) ? $_POST['name'] : '';
-                  $email = isset($_POST['email']) ? $_POST['email'] : '';
-                  $phone = isset($_POST['phone']) ? $_POST['phone'] : '';
-                  $message = isset($_POST['message']) ? $_POST['message'] : '';
-                 $var = "INSERT INTO `reachus` (name, email, phone, message) VALUES ('$name', '$email', '$phone', '$message')";         
-               
-                 if(mysqli_query($conn ,$var)){
-                     
-                      echo "Record Submitted";
-                  }else{
-                      echo "<script>alert('Record not Submitted') </script>";
-                 }            
-        } 
-        else  {
-             echo "not conncted";
-        } 
-?>  
+
+<?php include 'footer.php'; ?>
+<script type="text/javascript">
+  
+  $("#contact_save").submit(function(event){
+              /* stop form from submitting normally */
+               event.preventDefault();
+               var values = $(this).serialize();
+               $.ajax({
+                    url: "insert_contact_info.php",
+                    type: "post",
+                    data: values,
+                    success: function()
+                    {                      
+                    alert("Data Added Successfully.");
+                    $("#name").val("");
+                    $("#email").val("");
+                    $("#phone").val("");
+                    $("#message").val("");                    
+                    }//end of succes function
+                }); //End of .ajax
+            });
+
+</script>
 
 <?php include 'footer.php'; ?>
