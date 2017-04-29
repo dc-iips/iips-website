@@ -34,8 +34,12 @@
                                   $('#session').val($getarray.Session);  
                                   $('#twno').val($getarray.Teach_PPIJ_TNO);  
                                   $('#PPIJ_Journal').val($getarray.Teach_PPIJ_Journal);  
-                                  $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#PPIJ_PR').val($getarray.Teach_PPIJ_PR);  
+                                  $('#PPIJ_ISBN').val($getarray.Teach_PPIJ_ISBN);
+                                  if($getarray.Teach_PPIJ_PR=="Yes")
+                                    $("#PPIJ_PRY").prop('checked', true);
+                                  else
+                                    $("#PPIJ_PRN").prop('checked', true);
+                                  $('#PPIJ_IF').val($getarray.Teach_PPIJ_IF);
                                   $('#PPIJ_NCA').val($getarray.Teach_PPIJ_NCA);
                                   if($getarray.Teach_PPIJ_MA=="Yes")
                                     $("#PPIJ_Y").prop('checked', true);
@@ -63,9 +67,10 @@
                                   $('#3').val($getarray.Teach_PPIJ_TNO);  
                                   $('#4').val($getarray.Teach_PPIJ_Journal);  
                                   $('#5').val($getarray.Teach_PPIJ_ISBN);  
-                                  $('#6').val($getarray.Teach_PPIJ_PR);  
-                                  $('#7').val($getarray.Teach_PPIJ_NCA);  
-                                  $('#8').val($getarray.Teach_PPIJ_MA);  
+                                  $('#6').val($getarray.Teach_PPIJ_PR);
+                                  $('#7').val($getarray.Teach_PPIJ_IF);   
+                                  $('#8').val($getarray.Teach_PPIJ_NCA);  
+                                  $('#9').val($getarray.Teach_PPIJ_MA);  
                                  //alert($getarray.PPIJ_ID);
                                  $('#ViewModal').modal('show');
                             }  
@@ -133,6 +138,7 @@
         $Journal= $row['Teach_PPIJ_Journal'];
         $ISBN= $row['Teach_PPIJ_ISBN'];
         $PR= $row['Teach_PPIJ_PR'];
+        $IF= $row['Teach_PPIJ_IF'];
         $NCA= $row['Teach_PPIJ_NCA'];
         $MA= $row['Teach_PPIJ_MA'];
       
@@ -210,17 +216,24 @@
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>No. of Co-authors</label></br>
+                                <label>Impect Fector</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="7" placeholder="" disabled="disabled" /></br>
                                 </div>
 
                                 <div class="col-md-3">
-                                <label>Whether you are the main Author</label></br>
+                                <label>No. of Co-authors</label></br>
                                 </div>   
                                 <div class="col-md-9">
                                 <input type="text" class="form-control required" name="" id="8" placeholder="" disabled="disabled" /></br>
+                                </div>
+
+                                <div class="col-md-3">
+                                <label>Whether you are the main Author</label></br>
+                                </div>   
+                                <div class="col-md-9">
+                                <input type="text" class="form-control required" name="" id="9" placeholder="" disabled="disabled" /></br>
                                 </div>
                
                                 <div class="form-group">
