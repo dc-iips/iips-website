@@ -83,26 +83,26 @@
         </div>
 
         <div role="tabpanel" class="tab-pane" id="tab3">
-            <h3 class="text-center"><b>Students Channel</b></h3>
+            <h3 class="text-center"><b>Fun at IIPS</b></h3>
             <p class="text-justify">Some of the featured youtube channel from our Students are as follows:</p><br><br>
               <div class="col-md-6 col-sm-6 magin">
-                <iframe src="http://www.youtube.com/embed/LeBCKAoahKA&t"></iframe>
+                <iframe src="http://www.youtube.com/embed/5dlpOoliKrg"></iframe>
               </div>
               <div class="col-md-6 col-sm-6 magin">
                 <iframe src="http://www.youtube.com/embed/v9zfRALynt8"></iframe>
             </div>
               <div class="col-md-6 col-sm-6 magin">
-                <iframe src="http://www.youtube.com/embed/cwCDaq_6fsM"></iframe>
+                <iframe src="http://www.youtube.com/embed/nq3lxWhbwTk"></iframe>
               </div>
               <div class="col-md-6 col-sm-6 magin">
-                <iframe src="http://www.youtube.com/embed/2ZBj7EbDU0A"></iframe>
+                <iframe src="http://www.youtube.com/embed/fuGnuo0OLow"></iframe>
               </div>
 
               <div class="col-md-6 col-sm-6 magin">
-                <iframe src="http://www.youtube.com/embed/iD-12Np8fDc"></iframe>
+                <iframe src="http://www.youtube.com/embed/xumvCl4ZUSc"></iframe>
               </div>
               <div class="col-md-6 col-sm-6 magin">
-                <iframe src="http://www.youtube.com/embed/NAtf9skZvtU"></iframe>
+                <iframe src="http://www.youtube.com/embed/5dlpOoliKrg"></iframe>
               </div>
         </div>
       </div>
