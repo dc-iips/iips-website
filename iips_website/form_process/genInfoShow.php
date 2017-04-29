@@ -59,7 +59,7 @@
 				<div class="col-sm-6">
 					<br>
 					<label>PanCard Number</label>
-				<input type="text" class="form-control" name="pancard" maxlength="10" size="10" style="width:93%" title="Please enter your PanCardNumber" value="<?php echo $pancard; ?>" required="required"/>
+				<input type="text" class="form-control" name="pan" maxlength="11" size="11" style="width:93%" title="Please enter your PanCardNumber" value="<?php echo $pancard; ?>" required="required"/>
 			    </div>
 		</div>
 
@@ -79,7 +79,7 @@
 		 	<div class="col-sm-6">
 			 	<br>
 			 	<label>Email</label>
-				<input type="text" class="form-control" name="email"  style="width:93%" title="Please valid Email" value="<?php echo $email; ?>" required="required"/>
+				<input type="email" class="form-control" name="email"  style="width:93%" title="Please valid Email" value="<?php echo $email; ?>" required="required"/>
 			</div>
 			<div class="col-sm-6">
 				<br><label>Contact Number</label>
