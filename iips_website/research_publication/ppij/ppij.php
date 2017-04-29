@@ -43,7 +43,9 @@
                     $("#twno").val("");
                     $("#PPIJ_Journal").val("");
                     $("#PPIJ_ISBN").val("");
-                    $("#PPIJ_PR").val("");
+                    $("#PPIJ_PRY").val("");
+                    $("#PPIJ_PRN").val("");
+                    $("#PPIJ_IF").val("");
                     $("#PPIJ_NCA").val("");
                     $("#PPIJ_Y").val("");
                     $("#PPIJ_N").val("")
@@ -77,7 +79,9 @@
                     $("#twno").val("");
                     $("#PPIJ_Journal").val("");
                     $("#PPIJ_ISBN").val("");
-                    $("#PPIJ_PR").val("");
+                    $("#PPIJ_PRY").val("");
+                    $("#PPIJ_PRN").val("");
+                    $("#PPIJ_IF").val("");
                     $("#PPIJ_NCA").val("");
                     $("#PPIJ_Y").val("");
                     $("#PPIJ_N").val("")
@@ -136,9 +140,6 @@
                 <div class="form-group">
                   <div id="ppij">
 
-                        <input type="text" class="form-control required" name="PPIJ_ID" id="PPIJ_ID" disabled="disabled" />
-               
-
                        <label>Title With Page Numbers</label> 
                          <input type="text" class="form-control required" name="PPIJ_TNO" id="twno" autofocus required="required"/>
                
@@ -146,16 +147,26 @@
                          <input type="text" class="form-control required" id="PPIJ_Journal" name="PPIJ_Journal" required="required"/>
                 
                        <label>ISSN / ISBN No. </label>
-                         <input type="text" class="form-control required" id="PPIJ_ISBN" name="PPIJ_ISBN" required="required"/>
-                
-                       <label> Whether peer reviewed? Impact factor, if any</label>
-                         <input type="text" class="form-control required" name="PPIJ_PR" id="PPIJ_PR" required="required"/>
-                
-                        <label>No. of Co-authors</label>
-                          <input type="number" size="15" class="form-control required" name="PPIJ_NCA" id="PPIJ_NCA" required="required"/>
-                       <br/>
+                         <input type="text" class="form-control required" id="PPIJ_ISBN" name="PPIJ_ISBN" required="required"/><br>
 
-                       <label>Whether you are the main Author</label>
+                      <div class="row">
+                        <div class="col-md-4">
+                          <label> Whether peer reviewed?</label><br>
+                          <input type="radio" value="Yes" name="PPIJ_PR" id="PPIJ_PRY" required="required">Yes <input type="radio" value="No" id="PPIJ_PRN" name="PPIJ_PR" required="required"/>NO
+                          <br><br>
+                        </div>
+
+                        <div class="col-md-8">
+                          <label>If peer reviewed Write the Impact factor, Else Write NIL</label>  
+                            <input type="text" class="form-control required" name="PPIJ_IF" id="PPIJ_IF" required="required"/>
+                        </div>
+                      </div>
+                       
+                      <label>No. of Co-authors</label>
+                          <input type="number" size="15" class="form-control required" name="PPIJ_NCA" id="PPIJ_NCA" required="required"/>
+                      <br/>
+
+                      <label>Whether you are the main Author</label>
                          <input type="radio" value="Yes" name="PPIJ_YN" id="PPIJ_Y" required="required">Yes <input type="radio" value="No" id="PPIJ_N" name="PPIJ_YN" required="required"/>NO<br />
                   </div> <br>            
                   <input class="btn btn-primary" type="submit" value="Save" id="ppij_submit" name="ppij_submit"/>           
