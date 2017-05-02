@@ -14,7 +14,7 @@
       if($conn)  {
 
                   $User_Id = $_SESSION['username'];
-                  $session = $_POST["session"];
+                  $session = $_POST["select_box"];
                   $numenrolled = $_POST['RG_NE'];
               	  $thesis = $_POST['RG_TS'];
                   $award = $_POST['RG_DA'];

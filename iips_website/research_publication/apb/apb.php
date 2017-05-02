@@ -26,15 +26,14 @@
                     }
                 });//end of ajax
               });//end of ready
-        $("#apb").submit(function(event){
+        $("#apb_save").submit(function(event){
             
               /* stop form from submitting normally */
                event.preventDefault();
                var values = $(this).serialize();
                //alert(values);
                
-              if($("#apb_save").val()=="Save"){
-                
+              if($("#apb_submit").val()=="Save"){               
                
                $.ajax({
                     url: "research_publication/apb/apb_insert_db.php",
@@ -50,8 +49,10 @@
                     $("#APB_ISSN").val("");
                     $("#APB_WPR").val("");
                     $("#APB_NOC").val("");
-                    $("#ACPB_Y").val("");
-                    $("#ACPB_N").val("")
+                    $("#ACPB_Y").attr("checked", false);
+                    //$("#ACPB_Y").val("");
+                    $("#ACPB_N").attr("checked", false);
+                    //$("#ACPB_N").val("")
                     //alert(values);
                     $("#table_div").html("Loading Data.......");
                     $.ajax({
@@ -66,11 +67,11 @@
                     }//end of function
                 }); //End of .ajax
              }//end of if
-        else if($("#apb_save").val()=="Update")
+        else if($("#apb_submit").val()=="Update")
         {
-           var session_des = $(this).attr("id");
+           var session_des = $(this).attr("id"); 
            $.ajax({
-                    url: "research_publication/apb/apb_update.php",
+                    url: "research_publication/apb/apb_update_fetch.php",
                     type: "post",
                     data: values,
                     success: function()
@@ -83,9 +84,14 @@
                     $("#APB_ISSN").val("");
                     $("#APB_WPR").val("");
                     $("#APB_NOC").val("");
-                    $("#ACPB_Y").val("");
-                    $("#ACPB_N").val("")
+                    $("#ACPB_Y").attr("checked", false);
+                    //$("#ACPB_Y").val("");
+                    $("#ACPB_N").attr("checked", false);
+                    //$("#ACPB_N").val("")
+                    $('#apb_submit').val("Save");
+
                     $("#table_div").html("Loading Data.......");
+                    
                     $.ajax({
                           url: "research_publication/apb/apb_select_db.php",
                           type: "post",
@@ -97,18 +103,12 @@
                     });//
                     }//end of function
                 }); //End of .ajax
-          
-      
-        }
+              }
         });
 
      </script>
 
-
-
-
-
-<center><h4><b>Research Publication And Academic Contribution</b></h4></center>
+<center id="slide_up"><h4><b>Research Publication And Academic Contribution</b></h4></center>
     <div class="row-fluid">
         <div class="col-md-11">
 			<!--Articles/Chapters Section Started --> 
@@ -117,23 +117,22 @@
 				  <h4 id="articles" class="panel-title" align="center">Articles / Chapters published in Books</h4>
 				</div><br>
 				
-				  <form role="form" method="post" name="apb" id ="apb" saction="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>">
-						
-						
-                <label>Session</label>
-              
-                <select id="" style="width: 220px">          
+				  <form role="form" method="post" name="apb_save" id ="apb_save" action="">
+			        <label>Session</label>
+                <select id="selectbox" name="selectbox" style="width: 220px">          
                   
                   <?php 
                     include('../../DBConnect.php');
                     //$uname=$_SESSION['username'];
                     $query = mysqli_query($conn,"SELECT session_description from session_master");
-                    while($row = mysqli_fetch_assoc($query)){
+                    while($row = mysqli_fetch_assoc($query))
+                    {
 
-                  ?>
-                  
+                  ?>                  
                   <option name="session" id="<?php echo $row["session_description"]; ?>" ><?php echo $row['session_description']; ?></option>
-                  <?php } ?>
+                  <?php
+                     } 
+                  ?>
                 </select>
                 </br>
 
@@ -153,11 +152,11 @@
   								<label>No. of Co-authors </label>
   								   <input type="text" class="form-control" name="APB_NOC" id="APB_NOC" required="required"/>
   								<label>Whether you are the main Author</label> 
-  								  <input type="radio" value="Yes" name="ACPB_Y" id="ACPB_Y" required="required"/>Yes 
+  								  <input type="radio" value="Yes" name="ACPB_Y" id="ACPB_Y" />Yes 
   								  <input type="radio" value="No" name="ACPB_N" id="ACPB_N"  />No<br />
   							</div>
               </br>
-						<input class="btn btn-md btn-primary" type="submit" value="Save" name="apb_save" id="apb_save" />
+						<input class="btn btn-md btn-primary" type="submit" value="Save" name="apb_submit" id="apb_submit" />
 						
 						
 						<input type="reset" class="btn btn-primary" value="Reset" name="reset" />

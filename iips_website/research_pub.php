@@ -58,7 +58,7 @@
       <ul class="nav nav-stacked" role="tablist">
         <li class="navbar-brand"> <b></b> </li>
         <li role="presentation" id="colm" onClick="getData('research_publication/ppij/ppij.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Published Papers in Journals</a></li>
-        <li role="presentation" id="colm" onClick="getData('research_publication/abp/apb.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Articles / Chapters published in Books</a></li>
+        <li role="presentation" id="colm" onClick="getData('research_publication/apb/apb.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Articles / Chapters published in Books</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/fcp/fcp.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Full Papers in Conference Proceedings</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/bpe/bpe.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Books Published as Single Author or as a Editor</a></li>
         <li role="presentation" id="colm" onClick="getData('research_publication/opc/opc.php', 'tab1')"><a href="#tab1" aria-controls="tab1" role="tab" data-toggle="tab"><span class="fa fa-hand-o-right"></span>&nbsp;Ongoing Projects / Consultancies</a></li>

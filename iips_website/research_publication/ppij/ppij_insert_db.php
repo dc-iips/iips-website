@@ -11,7 +11,7 @@
       if($conn)  {
 
                   $User_Id = $_SESSION['username'];
-                  $session = $_POST["session"];
+                  $session = $_POST["selectbox"];
                   $title = $_POST['PPIJ_TNO'];
               	  $journal = $_POST['PPIJ_Journal'];
                   $issn = $_POST['PPIJ_ISBN'];

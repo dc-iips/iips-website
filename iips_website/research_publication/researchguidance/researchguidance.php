@@ -113,7 +113,7 @@
 
               <label>Session</label>
               
-                <select id="" style="width: 220px">          
+                <select id="select_box" name="select_box" style="width: 220px">          
                   
                   <?php 
                     include('../../DBConnect.php');

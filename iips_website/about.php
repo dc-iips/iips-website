@@ -17,7 +17,17 @@
   </head>
   <body>
 
-<?php include 'header.php';?>
+<?php
+  
+  session_start();
+    if(!isset($_SESSION['username']))
+    {
+       include 'header_without_faculty' ; 
+    }
+    else
+    {
+      
+    include 'header_with_faculty.php';?>
     <div>
         <img src="images/about/about.jpg" class="img-responsive" style="width:100%;height:320px;"/>
     </div>
@@ -91,3 +101,6 @@
     </div>
     <br/>
 <?php include 'footer.php';?>
+<?php  
+}
+?>

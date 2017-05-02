@@ -24,7 +24,7 @@
   $(document).on('click', '.edit_data', function(){  
                   var apb_id = $(this).attr("id");
                   $.ajax({  
-                            url:"research_publication/apb/apb_fetch.php",  
+                            url:"research_publication/apb/apb_update.php",  
                             method:"POST",  
                             data:{apb_id:apb_id},
                             success: function(msg)
@@ -45,7 +45,7 @@
                                    $("#ACPB_Y").prop('checked', true);
                                   else
                                    $("#ACPB_N").prop('checked', true);
-                                 $('#apb_save').val("Update");
+                                 $('#apb_submit').val("Update");
 
                                  //alert($getarray.PPIJ_ID);
                             }  
@@ -74,7 +74,7 @@
                                   $('#8').val($getarray.Teach_APB_MA);  
                                  //alert($getarray.PPIJ_ID);
                                  $('#ViewModal').modal('show');
-                            }  
+                            }    
                               ,error: function (xhr, status) {
                                    alert(status);
                                }
@@ -83,7 +83,7 @@
   $(document).on('click', '.delete_data', function(){  
                   var apb_id = $(this).attr("id");  
                   $.ajax({  
-                            url:"research_publication/apb/delete.php",  
+                            url:"research_publication/apb/apb_delete.php",  
                             method:"POST",  
                             data:{apb_id:apb_id},
                             success: function(msg)
@@ -91,7 +91,7 @@
                                 //alert("Data Deleted");
                                 $("#table_div").html("Loading Data.......");
                                 $.ajax({
-                                     url: "research_publication/apb_select_db.php",
+                                     url: "research_publication/apb/apb_select_db.php",
                                       type: "post",
                                       data: {},
                                      success: function(msg){
@@ -126,7 +126,7 @@
      mysql_connect('localhost','root','');
      mysql_select_db('pbas_db');
 
-      $query= "SELECT * FROM teach_apb WHERE User_Id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY apb_id DESC";
+      $query= "SELECT * FROM teach_apb WHERE user_id = '$username'  AND (Data_Set='new' OR Data_Set='valid') ORDER BY apb_id DESC";
 
       $run= mysql_query($query);
       if (!$run) { // add this check.
@@ -139,10 +139,10 @@
         $session= $row['Session'];
         $serial_no++;
          
-        $ppij_id= $row['apb_ID'];
+        $apb_id= $row['apb_id'];
         $TNO= $row['Teach_APB_TNO'];
         $BEP= $row['Teach_APB_BEP'];
-        $ISBN= $row['Teach_APB_ISBN'];
+        $ISBN= $row['Teach_APB_ISSN'];
         $WPR= $row['Teach_APB_WPR'];
         $NOC= $row['Teach_APB_NOC'];
         $MA= $row['Teach_APB_MA'];

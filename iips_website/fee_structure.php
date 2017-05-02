@@ -16,7 +16,15 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   </head>
   <body>
-<?php include 'header.php';?>
+<?php session_start();
+    if(!isset($_SESSION['username']))
+    {
+       include 'header_without_faculty' ; 
+    }
+    else
+    {
+      
+    include 'header_with_faculty.php';?>
 <!-- Fees Structure-->
 <div class="container">
   <div class="row , minlength">
@@ -479,3 +487,6 @@
   </div>
 </div>
 <?php include 'footer.php'; ?>
+<?php 
+}
+ ?>

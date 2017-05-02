@@ -2,101 +2,197 @@
     session_start();
     if(!isset($_SESSION['username']))
     {
-        header("location:header.php/#FacultyModal");
+       echo "<script>window.open('../../index.php','_self')</script>";     
     }
     else
     {
- ?>
-	<center><h4><b>Research Publication And Academic Contribution</b></h4></center>
+      $username= $_SESSION['username'];
+   ?>
+ 
+   <script language="javascript">    
+
+       $(document).ready(function()
+       {
+                $("#table_div").html("loading data");
+
+                $.ajax({
+                  url: "research_publication/bpe/bpe_select_db.php",
+                  type: "post",
+                  data: { },
+                    success: function(msg)
+                    {
+                      $("#table_div").html(msg).show(500);    
+                    }
+                });//end of ajax
+                }); //end of ready
+        $("#bpe_save").submit(function(event){
+              /* stop form from submitting normally */
+               event.preventDefault();
+               var values = $(this).serialize();
+               //alert(values);
+               
+              if($("#bpe_submit").val()=="Save"){
+               
+               $.ajax({
+                    url: "research_publication/bpe/bpe_insert_db.php",
+                    type: "post",
+                    data: values,
+                    success: function()
+                    {
+                    alert("Data Added Successfully.");
+
+                    $("#BPE_TPN").val("");
+                    $("#BPE_TBA").val("");
+                    $("#BPE_PISSN").val("");
+                    $("#BPE_PRY").val("");
+                    $("#BPE_PRN").val("");
+                    $("#BPE_IF").val("");
+                    $("#BPE_NOC").val("");
+                    $("#BPE_Y").val("");
+                    $("#BPE_N").val("")
+                    //alert(values);
+                    $("#table_div").html("Loading Data.......");
+                    
+                    $.ajax({
+                          url: "research_publication/bpe/bpe_select_db.php",
+                          type: "post",
+                          data: {},
+                          success: function(msg)
+                          {
+                              $("#table_div").html(msg).show(500);    
+                          }
+                    });//
+                    }//end of function
+                }); //End of .ajax
+             }//end of if
+        else if($("#bpe_submit").val()=="Update")
+        {
+           var session_des = $(this).attr("id");
+           $.ajax({
+                    url: "research_publication/bpe/bpe_update.php",
+                    type: "post",
+                    data: values,
+                    success: function()
+                    {
+                    alert("Data Updated Successfully.");  
+                    
+                   // $("#session").val("");
+                    $("#BPE_TPN").val("");
+                    $("#BPE_TBA").val("");
+                    $("#BPE_PISSN").val("");
+                    $("#BPE_PRY").val("");
+                    $("#BPE_PRN").val("");
+                    $("#BPE_IF").val("");
+                    $("#BPE_NOC").val("");
+                    $("#BPE_Y").val("");
+                    $("#BPE_N").val("")
+                    $("#table_div").html("Loading Data.......");
+                    $.ajax({
+                          url: "research_publication/bpe/bpe_select_db.php",
+                          type: "post",
+                          data: {},
+                          success: function(msg)
+                          {
+                              $("#table_div").html(msg).show(500);    
+                          }
+                    });//
+                    }//end of function
+                }); //End of .ajax
+        
+        }
+        });
+
+       
+
+     </script>
+
+
+
+
+
+
+
+
+  <center><h4><b>Research Publication And Academic Contribution</b></h4></center>
   <div class="row-fluid">        
     <div class="col-md-11">
-		<!--"Books Published" Panel started -->		
-			<div class="panel panel-primary" style="padding:3px 3px 3px 3px;">
-				  <div class="panel-heading">
-				      <h4 id="books" class="panel-title" align="center">Books Published as Single Author or as a Editor</h4>
-				  </div><br>
-				
-				  <form id="booksForm" action="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>" method="post">
-					 
-					  <input class="btn btn-md btn-primary" type="submit" value="Save" name="bpe_save" />						
-						<input type="reset" class="btn btn-primary" value="Reset" name="reset" /> <br/><br/>
-					 
-					  <label>Session Start</label>
-					  <input type="date" name="start_date" placeholder="" value=""> 
-					  <label>Session End</label>
-					  <input type="date" name="end_date" placeholder="" value=""> 
-					  
+    <!--"Books Published" Panel started -->   
+      <div class="panel panel-primary" style="padding:3px 3px 3px 3px;">
+          <div class="panel-heading">
+              <h4 id="books" class="panel-title" align="center">Books Published as Single Author or as a Editor</h4>
+          </div><br>
+        
+          <form id="booksForm" name="bpe_save" action="<?php echo htmlentities($_SERVER['PHP_SELF']); ?>" method="post">
+           
+           
+           <label>Session</label>
+                <select id="selectbox" name="selectbox" style="width: 220px">          
+                  
+                  <?php 
+                    include('../../DBConnect.php');
+                    //$uname=$_SESSION['username'];
+                    $query = mysqli_query($conn,"SELECT session_description from session_master");
+                    while($row = mysqli_fetch_assoc($query))
+                    {
 
-				  <div id="bookPublished">
-						
-						  <label>Title With Page Numbers</label>
-						  <input class="form-control" type="text" name="BPE_TPN"> 
-						  
-						  <label>Type of Book And Authorship</label>
-						  <input class="form-control" type="text" name="BPE_TBA"> 
-						  
-						  <label>Publisher And ISSN / ISBN No</label>
-						  <input class="form-control" type="text" name="BPE_PISSN" /> 
-						
-						  <label> Whether Peer Reviewed</label>
-						  <input class="form-control" type="text" name="BPE_WPR" /> 
-						  
-						  <label>No. of Co-authors</label>
-						  <input class="form-control" type="text" name="BPE_NOC" /> <br/>
-					   
-					    <label>Whether you are the main Author</label>
-						  <input type="radio" name="BPE_YN" />Yes <input type="radio" name="BPE_YN"/>No<br /> <br/>
-					  
-					  </div>
-						<input class="btn btn-md btn-primary" type="submit" value="Save" name="bpe_save" />
-						<input class="btn btn-md btn-primary" type="submit" value="Delete" name="bpe_delete" />
-						<input type="reset" class="btn btn-primary" value="Reset" name="reset" />
-				 
-				  </form>
-				</div><!--end of panel-->
+                  ?>                  
+                  <option name="session" id="<?php echo $row["session_description"]; ?>" ><?php echo $row['session_description']; ?></option>
+                  <?php
+                     } 
+                  ?>
+                </select>
+
+          <div id="bookPublished">
+            
+              <label>Title With Page Numbers</label>
+              <input class="form-control" type="text" name="BPE_TPN" id="BPE_TPN"> 
+              
+              <label>Type of Book And Authorship</label>
+              <input class="form-control" type="text" name="BPE_TBA" id="BPE_TBA"> 
+              
+              <label>Publisher And ISSN / ISBN No</label>
+              <input class="form-control" type="text" name="BPE_PISSN" id="BPE_PISSN" /> 
+            
+              <div class="row">
+                        <div class="col-md-4">
+                          <label> Whether peer reviewed?</label><br>
+                          <input type="radio" value="Yes" name="BPE_PR" id="BPE_PRY" required="required">Yes <input type="radio" value="No" id="BPE_PRN" name="PPIJ_PR" required="required"/>NO
+                          <br><br>
+                        </div>
+
+                        <div class="col-md-8">
+                          <label>If peer reviewed Write the Impact factor, Else Write NIL</label>  
+                            <input type="text" class="form-control required" name="BPE_IF" id="BPE_IF" required="required"/>
+                        </div>
+                      </div>
+              
+              <label>No. of Co-authors</label>
+              <input class="form-control" type="text" name="BPE_NOC" id="BPE_NOC"/> <br/>
+             
+              <label>Whether you are the main Author</label>
+              <input type="radio" name="BPE_YN" id="BPE_Y" />Yes <input type="radio" name="BPE_YN" id="BPE_N"/>No<br /> <br/>
+            
+            </div>
+            <input class="btn btn-md btn-primary" type="submit" value="Save" name="bpe_submit" id="bpe_submit" />
+            <input class="btn btn-md btn-primary" type="submit" value="Delete" name="bpe_delete" id="bpe_delete" />
+            
+         
+          </form>
+        </div><!--end of panel-->
     </div><!--End Of col-md-6 --> 
 </div><!--End Of row-fluid Class --> 
 
 
+<div class="view">
+  <div class="full col-sm-12" id="table_div">
+
+  </div>
+</div> 
+<!-- Tabssle End -->
+<div id="temp">
+
+</div>
+
 <?php 
-
-  $conn = mysql_connect('localhost','root','') && mysql_select_db('pbas_db');
-  
-  // Check connection
-  if (!$conn) {
-      die("Connection failed: " . mysqli_connect_error());
-  }
-
-  if(isset($_POST['bpe_save'])) {
-       
-       $start_date = $_POST['start_date'];
-       $end_date = $_POST['end_date'];
-       
-       $BPE_TPN = $_POST['BPE_TPN'];
-       $BPE_TBA = $_POST['BPE_TBA'];
-       $BPE_PISSN = $_POST['BPE_PISSN'];
-       $BPE_WPR = $_POST['BPE_WPR'];
-       $BPE_NOC = $_POST['BPE_NOC'];
-       $BPE_YN = $_POST['BPE_YN'];
-       
-        // $user_id = mysql_query("SELECT user_id from `` where username= $_SESSION['username'] "); 
-         $user_id = $_SESSION['username'];
-         $var = mysql_query("INSERT INTO `teach_bpe` (user_id, s_date, end_date, Teach_BPE_TPN ,Teach_BPE_TBA ,Teach_BPE_PISSN ,Teach_BPE_WPR ,Teach_BPE_NOC ,Teach_BPE_YN ) 
-         	   VALUES ('$user_id','$start_date', '$end_date', '$BPE_TPN ', '$BPE_TBA', '$BPE_PISSN', '$BPE_WPR', '$BPE_NOC', '$BPE_YN',)");
-      
-         if($var > 0){
-            echo " <br/> Data Submitted";
-         }else{
-            echo mysql_error();
-         }
-
-  }  // if close
-  else{
-  	     echo "<script><aleart>Please fill valid values</alert></script>";
-  }
-  mysql_close();
-?>
-
-<?php  //end of else
-  }
+   }  //else
 ?>
