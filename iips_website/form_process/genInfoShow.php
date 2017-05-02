@@ -28,24 +28,24 @@
 			 <div class="col-sm-6">
 			 	<br>
 			 	<label>Name </label>
-				<input type="text" class="form-control" name="name" style="width:93%" title="Please enter your name" value="<?php echo $uname; ?>" required="required"/>
+				<input type="text" class="form-control" name="name" style="width:93%" disabled="disabled" title="Please enter your name" value="<?php echo $_SESSION['username'];?>" >
 		     </div>
 				<div class="col-sm-6">
 					<br>
-					<label>Date Of Birth</label>
-				    <input type="text" class="form-control" name="dob" style="width:93%" title="Please enter your dob" value="<?php echo $dob; ?>" required="required"/>
+					<label>Date Of Birth<b style="color:red">*</b></label>
+				    <input type="date" class="form-control" name="dob" style="width:93%" title="Please enter your dob" value="<?php echo $dob; ?>" required="required"/>
 				</div>
 		 </div>
  
 		<div class="row">
 			<div class="col-sm-6">
 			 	<br>
-			 	<label>Father's Name</label>
+			 	<label>Father's Name<b style="color:red">*</b></label>
 				<input type="text" class="form-control" name="fatherName" style="width:93%" title="Please enter alphabets only" value="<?php echo $fatherName; ?>" required="required"/>
 			</div>
 			<div class="col-sm-6">
 					<br>
-					<label>Mother's Name</label>
+					<label>Mother's Name<b style="color:red">*</b></label>
 				<input type="text" class="form-control" name="motherName"  style="width:93%" title="Please enter alphabets only" value="<?php echo $motherName; ?>" required="required"/>  
 			</div>
 		</div>
@@ -53,12 +53,12 @@
 		<div class="row">
 				<div class="col-sm-6">
 					<br>
-					<label>AdharCard Number</label>
+					<label>AdharCard Number<b style="color:red">*</b></label>
 				<input type="" class="form-control" name="adharcard"  maxlength="12" size="12" style="width:93%" title="Please enter 12 digit Valid AdharCardNumber"  value="<?php echo $adharcard; ?>" required="required"/> 
 				</div>
 				<div class="col-sm-6">
 					<br>
-					<label>PanCard Number</label>
+					<label>PanCard Number<b style="color:red">*</b></label>
 				<input type="text" class="form-control" name="pan" maxlength="11" size="11" style="width:93%" title="Please enter your PanCardNumber" value="<?php echo $pancard; ?>" required="required"/>
 			    </div>
 		</div>
@@ -66,11 +66,11 @@
 		<div class="row">
 			 	<div class="col-sm-6">
 			 		<br>
-			 		<label>Highest Qualification</label>
+			 		<label>Highest Qualification<b style="color:red">*</b></label>
 					<input type="text" class="form-control" name="qualification" style="width:93%" title="Please enter Qualification" value="<?php echo $qualification; ?>" required="required"/>
 			 	</div>
 				<div class="col-sm-6">
-					<br><label>Department Name</label>
+					<br><label>Department Name<b style="color:red">*</b></label>
 				<input type="text" class="form-control" name="department" style="width:93%" title="Please enter your Department" value="<?php echo $department; ?>" required="required"/>	  
 				</div>
 		</div>
@@ -78,17 +78,17 @@
 	 	<div class="row">
 		 	<div class="col-sm-6">
 			 	<br>
-			 	<label>Email</label>
+			 	<label>Email<b style="color:red">*</b></label>
 				<input type="email" class="form-control" name="email"  style="width:93%" title="Please valid Email" value="<?php echo $email; ?>" required="required"/>
 			</div>
 			<div class="col-sm-6">
-				<br><label>Contact Number</label>
+				<br><label>Contact Number<b style="color:red">*</b></label>
 				<input type="text" class="form-control" name="contact" maxlength="10" size="10" style="width:93%"  title="Please enter valid Mobile Number" value="<?php echo $mobile; ?>" required="required"/>	  
 		    </div>
 		</div>
 	</div>
 	<br>
-	<label style="margin-left:20px">Permanent Address</label>
+	<label style="margin-left:20px">Permanent Address<b style="color:red">*</b></label>
 		<input type="text" class="form-control required" style="width:94%;margin-left:20px" name="address" title="Please Enter Your Address" value="<?php echo $address; ?>" required="required"/>
 		<br>
 		<button class="btn btn-md btn-primary" type="submit" name="infoSave">Save</button>
