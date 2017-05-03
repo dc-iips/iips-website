@@ -107,14 +107,14 @@
         <!--Published Papers Panel started -->
         <div class="panel panel-primary" style="padding:3px 3px 3px 3px;">
             <div class="panel-heading">
-              <h3  id="papers" class="panel-title" align="center">Published Papers in Journals</h3>
+              <h3  id="papers" class="panel-title" align="center">Invited Lecture and Chairmanship at National or International Conference/seminar</h3>
             </div><!--end of panel heading-->
             <br>
             <form role="form" id="ilc_save" name="ilc_save" method="post">
               
 
               <label>Session</label>
-              
+            
                 <select id="" style="width: 220px">          
                   
                   <?php 
