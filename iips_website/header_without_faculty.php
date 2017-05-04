@@ -282,13 +282,20 @@ include 'DBConnect.php';
         {
           $dbusername=$row['User_Id'];
           $dbpassword=$row['Pwd'];
+          $level = $row['user_level'];
         }
         if($username==$dbusername && $password==$dbpassword)
         {
          session_start();
-         $_SESSION['username'] = $username ;
-       
-         header("location:profile.php");
+         
+         if ($level == 1) {        
+               $_SESSION['User_Id'] = $username ;     
+               header("location:puser/admin.php");
+         }
+         elseif ($level == 2) {            
+              $_SESSION['username'] = $username ;
+              header("location:profile.php");
+         }
          exit();
         }
      }
