@@ -72,8 +72,6 @@
     ?>
     </table>
   </center>
-
-							<br /><br />
 		  				</div>
 		  			</div>
 		  		</div>	  	
@@ -81,7 +79,7 @@
 		</div>
     </div>
 
-    <footer>
+    <footer style="background:#003262">
          <div class="container">
          
             <div class="copy text-center">
