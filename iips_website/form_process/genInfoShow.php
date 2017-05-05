@@ -33,7 +33,7 @@
 				<div class="col-sm-6">
 					<br>
 					<label>Date Of Birth<b style="color:red">*</b></label>
-				    <input type="date" class="form-control" name="dob" style="width:93%" title="Please enter your dob" value="<?php echo $dob; ?>" required="required"/>
+				    <input type="date" class="form-control" name="dob" style="width:93%" title="Please enter your dob" placeholder="yyyy-mm-dd" value="<?php echo $dob; ?>" required="required"/>
 				</div>
 		 </div>
  

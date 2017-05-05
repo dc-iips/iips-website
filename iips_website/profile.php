@@ -124,10 +124,6 @@
                    <br><br>
                     <table border="0" class="table" cellpadding="3" cellspacing="3">
                       <tr>
-                        <td>Name</td>
-                        <td><?php echo $uname;?></td>
-                      </tr>
-                      <tr>
                         <td>Father's Name</td>
                         <td><?php echo $fatherName;?></td>
                       </tr>
